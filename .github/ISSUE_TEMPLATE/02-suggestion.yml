@@ -1,0 +1,15 @@
+name: Suggest a tool or guide change / 建议改进
+description: Suggest a tool, a new capability or a documentation improvement.
+body:
+  - type: input
+    id: topic
+    attributes:
+      label: Tool or guide / 工具或文档
+      description: Enter the name or paste its link if there is one.
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What would help / 建议内容
+      description: Describe the task you want to finish and the change that would help.
+    validations:
+      required: true

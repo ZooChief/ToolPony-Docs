@@ -1,0 +1,27 @@
+name: Report a problem / 报告问题
+description: Report a tool error, an incorrect result or a problem using the site.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use sample files and data in public issues. For private material, contact [support@zoochief.com](mailto:support@zoochief.com).
+        公开问题请使用示例文件和数据。涉及私有材料时，请通过邮件联系支持。
+  - type: input
+    id: page
+    attributes:
+      label: Tool or page / 工具或页面
+      description: Paste the page URL or enter the tool name.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: What happened / 发生了什么
+      description: Include the steps, the result you saw and the result you expected.
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and device / 浏览器和设备
+      placeholder: Chrome on Windows, Safari on iPhone
