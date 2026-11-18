@@ -8,19 +8,6 @@ Calcular o GPA ponderado pelo curso, incluir créditos anteriores e semestres de
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ GPA 3.5
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/gpa-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

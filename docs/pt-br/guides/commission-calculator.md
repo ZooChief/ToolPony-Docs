@@ -8,19 +8,6 @@ Encontre vendas, taxa, ou comissão, em seguida, calcular um pagamento base mais
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Encontre vendas, taxa, ou comissão, em seguida, calcular um pagamento base mais
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/commission-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

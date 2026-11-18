@@ -8,19 +8,6 @@ Trouver une récupération régulière et actualisée des flux de trésorerie an
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Remboursement de 3,379 ans, actualisé 3,841 ans
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/payback-period-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

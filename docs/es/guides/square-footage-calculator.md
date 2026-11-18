@@ -62,18 +62,6 @@ Costo estimado del área y del material para nueve formas, con mediciones mixtas
 
 
 
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

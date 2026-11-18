@@ -8,19 +8,6 @@ Resolver um termo em falta em uma proporção, simplificar uma proporção, ou e
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ x=15
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/ratio-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

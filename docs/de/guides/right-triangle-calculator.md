@@ -61,18 +61,6 @@ Katheten 3 und 4, Fläche 6, Umfang 12. Beide Katheten können a sein.
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

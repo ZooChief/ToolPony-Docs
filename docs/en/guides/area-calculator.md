@@ -8,19 +8,6 @@ Find the area of plane shapes in eleven modes with mixed input units and a selec
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ A rectangle 4 m by 3 m
 
 
 [Open full tool](<https://toolpony.com/en/tools/area-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

@@ -62,18 +62,6 @@ Calcula cuotas, deduce el plazo a partir del pago mensual o programa pagos extra
 
 
 
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

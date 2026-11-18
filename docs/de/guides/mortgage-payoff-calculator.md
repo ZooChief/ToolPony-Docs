@@ -63,18 +63,6 @@ Ursprünglich 400.000, 30 Jahre, 6 %. Noch 25 Jahre und 500 extra pro Monat.
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

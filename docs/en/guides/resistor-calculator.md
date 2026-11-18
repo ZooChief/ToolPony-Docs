@@ -61,18 +61,6 @@ Decode 3–6 color bands, combine resistors in series or parallel, or calculate 
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

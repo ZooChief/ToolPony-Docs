@@ -62,18 +62,6 @@ Estimar volumen de hormigón, peso y bolsas enteras para losas, pisadas, tubos, 
 
 
 
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

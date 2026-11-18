@@ -8,19 +8,6 @@ Compare uma hipoteca de taxa fixa com entrada de pagamento, custos recorrentes, 
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Casa 400.000; para baixo 20%; 30 anos; 6%
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/mortgage-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

@@ -62,18 +62,6 @@ Resolver porcentaje, parte, entero, aumento, disminución, cambio inverso, difer
 
 
 
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

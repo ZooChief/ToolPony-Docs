@@ -8,19 +8,6 @@ Calculer le GPA pondéré par cours, inclure les crédits antérieurs et les sem
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ GPA 3.5
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/gpa-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

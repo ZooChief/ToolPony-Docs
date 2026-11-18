@@ -61,18 +61,6 @@ Leia de 3 a 6 faixas e calcule resistências em série, em paralelo ou de um fio
 
 
 
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

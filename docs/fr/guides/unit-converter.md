@@ -8,19 +8,6 @@ Convertir longueur, masse, surface, volume, température, vitesse, énergie, don
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Convertir 1 m en ft
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/unit-converter/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

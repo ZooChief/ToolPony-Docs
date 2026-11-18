@@ -8,19 +8,6 @@ Calculez un terme et une somme partielle pour une suite arithmétique, géométr
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Suite arithmétique, premier terme 7, raison −3, indice 8
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/number-sequence-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

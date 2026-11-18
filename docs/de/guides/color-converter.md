@@ -8,19 +8,6 @@ HEX, RGB und HSL umrechnen, Alpha beibehalten und die Farbe als Vorschau anzeige
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ rgb(102, 51, 153)
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/color-converter/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

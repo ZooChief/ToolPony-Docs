@@ -61,18 +61,6 @@ Du 2020-01-01 au 2020-02-01
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

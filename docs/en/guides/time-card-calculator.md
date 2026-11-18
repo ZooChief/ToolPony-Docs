@@ -61,18 +61,6 @@ Record a week of shifts and breaks, with rounding, editable pay rules and CSV ex
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

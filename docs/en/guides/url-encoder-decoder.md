@@ -8,19 +8,6 @@ Encode or decode complete URLs, URI components and form values.
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ a%2Bb%20%26%20c
 
 
 [Open full tool](<https://toolpony.com/en/tools/url-encoder-decoder/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

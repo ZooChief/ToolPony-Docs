@@ -8,19 +8,6 @@ Encontrar a distância entre dois pontos 2D ou 3D, ou estimar a distância de su
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Distância 5
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/distance-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

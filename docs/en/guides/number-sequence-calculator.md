@@ -8,19 +8,6 @@ Find a term, partial sum, and downloadable list for arithmetic, geometric, or Fi
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Arithmetic sequence, first 7, difference −3, index 8
 
 
 [Open full tool](<https://toolpony.com/en/tools/number-sequence-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

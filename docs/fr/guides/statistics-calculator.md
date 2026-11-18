@@ -8,19 +8,6 @@ Résumer un ensemble de données avec la moyenne, la médiane, les modes, les qu
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Moyenne 5, médiane 4
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/statistics-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

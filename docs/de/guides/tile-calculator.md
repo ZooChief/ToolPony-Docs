@@ -62,18 +62,6 @@ Schätzen Sie Fliesen, Boxen und Kosten aus den Fliesenabmessungen, dem Fugenabs
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

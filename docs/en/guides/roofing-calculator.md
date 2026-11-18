@@ -61,18 +61,6 @@ About 2,461 ft², 28 roofing squares with 10% allowance.
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

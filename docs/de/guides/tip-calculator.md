@@ -8,19 +8,6 @@ Teilen Sie eine Rechnung und ein Trinkgeld unter den Menschen, wobei das Trinkge
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ Gesamt 96, pro Person 24
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/tip-calculator/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

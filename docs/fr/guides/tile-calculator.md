@@ -62,18 +62,6 @@ Estimer les tuiles, les boîtes et le coût à partir des dimensions des tuiles,
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

@@ -8,19 +8,6 @@ Adicione, multiplique, transponha, inverta, solucione ou encontre a classificaç
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ A + B = [3, 2; 5, 8]
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/matrix-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

@@ -61,18 +61,6 @@ Environ 2 461 ft², 28 squares avec une marge de 10 %.
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

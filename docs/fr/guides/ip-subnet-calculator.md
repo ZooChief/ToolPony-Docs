@@ -8,19 +8,6 @@ Inspectez les réseaux IPv4 et IPv6, les masques, les gammes et le nombre d'adre
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Réseau 192.0.2.128/27, 30 hôtes utilisables
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/ip-subnet-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

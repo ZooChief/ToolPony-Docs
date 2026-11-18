@@ -8,19 +8,6 @@ Adicione ou remova o imposto de vendas e o IVA usando sua própria taxa.
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Total 120, imposto 20
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/sales-tax-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

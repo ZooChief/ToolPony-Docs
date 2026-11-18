@@ -8,19 +8,6 @@ Ajouter ou supprimer la taxe de vente et la TVA en utilisant votre propre taux.
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Montant brut 120, taxe 20
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/sales-tax-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

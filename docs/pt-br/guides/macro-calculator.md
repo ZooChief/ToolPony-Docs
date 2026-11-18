@@ -8,19 +8,6 @@ Converta uma relação de caloria e nutrientes em gramas, ou calcule energia e p
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Converta uma relação de caloria e nutrientes em gramas, ou calcule energia e p
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/macro-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

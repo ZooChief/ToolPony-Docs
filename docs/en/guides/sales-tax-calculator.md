@@ -8,19 +8,6 @@ Add or remove sales tax and VAT using your own rate.
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Gross 120, tax 20
 
 
 [Open full tool](<https://toolpony.com/en/tools/sales-tax-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

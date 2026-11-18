@@ -8,19 +8,6 @@ Trouvez les ventes, le taux ou la commission, puis calculez un paiement de base 
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Trouvez les ventes, le taux ou la commission, puis calculez un paiement de base 
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/commission-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

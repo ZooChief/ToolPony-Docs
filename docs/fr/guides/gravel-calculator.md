@@ -61,18 +61,6 @@ Estimez le volume, la masse, le nombre de sacs et le coût du gravier ou du sabl
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

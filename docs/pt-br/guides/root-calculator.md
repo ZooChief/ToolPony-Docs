@@ -8,19 +8,6 @@ Calcular o quadrado real principal, cubo, ou raiz nth.
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Raiz quadrada de 144
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/root-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

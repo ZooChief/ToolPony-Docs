@@ -8,19 +8,6 @@ Rechnen Sie Datum und Uhrzeit zwischen IANA-Zonen oder festen UTC-Abständen um.
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ Rechnen Sie Datum und Uhrzeit zwischen IANA-Zonen oder festen UTC-Abständen um.
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/time-zone-converter/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

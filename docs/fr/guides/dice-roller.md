@@ -8,19 +8,6 @@ Rouler un ou plusieurs dés avec les côtés personnalisés, comparer les totaux
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Trois visages et leur somme
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/dice-roller/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

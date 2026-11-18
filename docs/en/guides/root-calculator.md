@@ -8,19 +8,6 @@ Calculate the principal real square, cube, or nth root.
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Square root of 144
 
 
 [Open full tool](<https://toolpony.com/en/tools/root-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

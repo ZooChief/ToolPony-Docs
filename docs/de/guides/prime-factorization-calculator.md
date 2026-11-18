@@ -8,19 +8,6 @@ Finden Sie Primfaktoren, Exponentenform und die Teilerzahl einer positiven Ganzz
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ Finden Sie Primfaktoren, Exponentenform und die Teilerzahl einer positiven Ganzz
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/prime-factorization-calculator/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

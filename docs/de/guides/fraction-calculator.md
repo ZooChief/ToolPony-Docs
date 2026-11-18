@@ -8,19 +8,6 @@ Verwenden Sie genaue Arithmetik, um Brüche und gemischte Zahlen zu addieren, zu
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ Verwenden Sie genaue Arithmetik, um Brüche und gemischte Zahlen zu addieren, zu
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/fraction-calculator/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

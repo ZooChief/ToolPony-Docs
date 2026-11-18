@@ -62,18 +62,6 @@ Calculez des versements, une durée à partir de la mensualité ou des rembourse
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

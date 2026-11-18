@@ -8,19 +8,6 @@ Divida inteiros ou decimais e inspecione o quociente, o restante, o valor decima
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Divida inteiros ou decimais e inspecione o quociente, o restante, o valor decima
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/long-division-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

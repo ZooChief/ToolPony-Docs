@@ -8,19 +8,6 @@ Trouvez les facteurs principaux, la forme de l'exposant et le nombre de diviseur
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Trouvez les facteurs principaux, la forme de l'exposant et le nombre de diviseur
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/prime-factorization-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

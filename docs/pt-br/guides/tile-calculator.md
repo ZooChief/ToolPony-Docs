@@ -62,18 +62,6 @@ Estimar azulejos, caixas e custo de dimensões de azulejo, espaçamento de grout
 
 
 
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

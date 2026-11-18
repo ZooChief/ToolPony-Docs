@@ -8,19 +8,6 @@ Trouver le facteur le plus commun et le moins commun multiple pour une liste de 
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ GCF 6; LCM 72
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/gcf-lcm-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

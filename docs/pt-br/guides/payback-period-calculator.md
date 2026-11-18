@@ -8,19 +8,6 @@ Encontre uma vingança regular e descontada dos fluxos de caixa anuais crescente
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Vingança 3.379 anos, descontado 3.841 anos
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/payback-period-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

@@ -8,19 +8,6 @@ Estimar el gasto energético y energético diario en unidades métricas o estado
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ Ecuación masculina, 30 años, 70 kg, 175 cm, Mifflin-St Jeor
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/bmr-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

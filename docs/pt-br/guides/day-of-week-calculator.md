@@ -8,19 +8,6 @@ Consulte o dia da semana, o dia do ano, a semana ISO e as ocorrências.
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ sábado
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/day-of-week-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

@@ -8,19 +8,6 @@ Finden Sie den Bereich der ebenen Formen in elf Modi mit gemischten Eingabeeinhe
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ Ein Rechteck 4 m mal 3 m
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/area-calculator/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

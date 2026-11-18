@@ -61,18 +61,6 @@ Lee de 3 a 6 bandas y calcula resistencias en serie, en paralelo o de un hilo ci
 
 
 
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

@@ -60,18 +60,6 @@ Berechnen Sie Zeitabstände und Dauern oder verschieben Sie Datum und Uhrzeit.
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

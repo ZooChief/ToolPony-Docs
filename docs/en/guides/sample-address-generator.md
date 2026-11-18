@@ -65,18 +65,6 @@ Deutschland
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

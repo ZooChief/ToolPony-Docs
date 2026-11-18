@@ -8,19 +8,6 @@ Calculer le bénéfice net, le rendement total et le rendement annualisé avec l
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Investir 1 000 et recevoir 1 210 après 2 ans
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/roi-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

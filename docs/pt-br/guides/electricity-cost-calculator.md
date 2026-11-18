@@ -60,18 +60,6 @@ Estime consumo e custo por aparelho, carga e tarifa, em prazo fixo ou do dia ao 
 
 
 
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

@@ -62,18 +62,6 @@ Berechnen Sie Raten, die Laufzeit aus einer Monatsrate oder datierte Sondertilgu
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

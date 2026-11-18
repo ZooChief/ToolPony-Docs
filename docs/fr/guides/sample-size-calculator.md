@@ -8,19 +8,6 @@ Trouver un échantillon d'enquête minimum ou estimer la marge d'erreur avec cor
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ confiance à 95 %, marge de 4 %, proportion de 35 %, N = 1 000
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/sample-size-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

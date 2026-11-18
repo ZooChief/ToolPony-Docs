@@ -60,18 +60,6 @@ b² = 32 − 7 = 25, portanto b = 5.
 
 
 
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

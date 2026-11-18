@@ -61,18 +61,6 @@ Preis 30.000, Anzahlung 5.000, 5 % bei 60 Monaten
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

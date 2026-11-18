@@ -8,19 +8,6 @@ Convertir entre la notation scientifique, l'ingénierie, l'E et la notation déc
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Convertir entre la notation scientifique, l'ingénierie, l'E et la notation déc
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/scientific-notation-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

@@ -8,19 +8,6 @@ Convert Roman numerals and integers in either direction, including dates or deli
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ MCMXCIX
 
 
 [Open full tool](<https://toolpony.com/en/tools/roman-numeral-converter/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

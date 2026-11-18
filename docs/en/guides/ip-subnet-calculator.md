@@ -8,19 +8,6 @@ Inspect IPv4 and IPv6 networks, masks, ranges and address counts, or test whethe
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Network 192.0.2.128/27, 30 usable hosts
 
 
 [Open full tool](<https://toolpony.com/en/tools/ip-subnet-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

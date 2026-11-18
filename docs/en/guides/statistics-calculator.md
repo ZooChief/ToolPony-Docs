@@ -8,19 +8,6 @@ Summarize a dataset with mean, median, modes, quartiles and population and sampl
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Mean 5, median 4
 
 
 [Open full tool](<https://toolpony.com/en/tools/statistics-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

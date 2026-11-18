@@ -8,19 +8,6 @@ Find gross margin and markup from cost and price, or price a product at a target
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Cost 60, price 100
 
 
 [Open full tool](<https://toolpony.com/en/tools/margin-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

@@ -8,19 +8,6 @@ Split a bill and tip among people, with the tip based on the amount before or af
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Split a bill and tip among people, with the tip based on the amount before or af
 
 
 [Open full tool](<https://toolpony.com/en/tools/tip-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

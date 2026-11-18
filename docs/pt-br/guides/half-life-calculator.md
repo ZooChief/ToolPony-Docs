@@ -8,19 +8,6 @@ Resolva o decaimento exponencial de quaisquer três medições, ou converta entr
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Meia-vida □ 15.0515
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/half-life-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

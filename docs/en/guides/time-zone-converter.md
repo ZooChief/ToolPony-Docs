@@ -8,19 +8,6 @@ Convert a date and time between IANA zones or fixed UTC offsets.
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Convert a date and time between IANA zones or fixed UTC offsets.
 
 
 [Open full tool](<https://toolpony.com/en/tools/time-zone-converter/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

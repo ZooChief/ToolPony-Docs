@@ -8,19 +8,6 @@ Calcular el IMC adulto en unidades métricas o estadounidenses, comparar rangos 
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ IMC ♥22,86 kg/m2
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/bmi-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

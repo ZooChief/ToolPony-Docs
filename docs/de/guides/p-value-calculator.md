@@ -8,19 +8,6 @@ Finden Sie links, rechts und zweiseitige normale p-Werte oder invertieren Sie ei
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ Zweiseitig ≈ 0,018275
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/p-value-calculator/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

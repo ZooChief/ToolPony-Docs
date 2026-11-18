@@ -62,18 +62,6 @@ Estimer le volume de béton, le poids et les sacs entiers pour les dalles, les s
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

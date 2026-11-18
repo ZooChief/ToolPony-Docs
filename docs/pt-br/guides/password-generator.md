@@ -8,19 +8,6 @@ Gere senhas localmente com conjuntos de caracteres, exclusões personalizadas e 
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Uma nova senha aleatória
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/password-generator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

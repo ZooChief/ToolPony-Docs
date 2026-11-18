@@ -8,19 +8,6 @@ Berechnen Sie mit genauen großen Ganzzahlen und Dezimalkoeffizienten, mit wähl
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ Berechnen Sie mit genauen großen Ganzzahlen und Dezimalkoeffizienten, mit wähl
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/big-number-calculator/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

@@ -8,19 +8,6 @@ Convert text to Unicode code points, UTF-8 hexadecimal bytes or UTF-16 escapes, 
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ U+1F434 or F0 9F 90 B4
 
 
 [Open full tool](<https://toolpony.com/en/tools/unicode-converter/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

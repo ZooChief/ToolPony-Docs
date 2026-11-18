@@ -8,19 +8,6 @@ Converter unidades de economia de combustível, estimar o custo de combustível 
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Converter unidades de economia de combustível, estimar o custo de combustível 
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/fuel-cost-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

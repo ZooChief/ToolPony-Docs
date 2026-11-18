@@ -8,19 +8,6 @@ Find left, right, and two-sided normal p-values, or invert a selected probabilit
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Two tails ≈ 0.018275
 
 
 [Open full tool](<https://toolpony.com/en/tools/p-value-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

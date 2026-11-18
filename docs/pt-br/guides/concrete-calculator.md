@@ -62,18 +62,6 @@ Estimar volume de concreto, peso e sacos inteiros para lajes, rodapés, tubos, f
 
 
 
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

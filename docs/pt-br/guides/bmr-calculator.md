@@ -8,19 +8,6 @@ Estimar energia de repouso e gasto energético diário em unidades métricas ou 
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Equação masculina, 30 anos, 70 kg, 175 cm, Mifflin–St Jeor
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/bmr-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

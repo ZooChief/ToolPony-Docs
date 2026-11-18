@@ -61,18 +61,6 @@ Catetos 3 y 4, área 6, perímetro 12. Cualquiera puede ser a.
 
 
 
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

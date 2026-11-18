@@ -8,19 +8,6 @@ Finden Sie die Bruttomarge und den Aufschlag aus Kosten und Preis oder bepreisen
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ Kosten 60, Preis 100
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/margin-calculator/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

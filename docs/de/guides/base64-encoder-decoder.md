@@ -8,19 +8,6 @@ Verschlüsseln Sie UTF-8-Text als Standard- oder URL-sichere Base64 und validier
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ aGVsbG8=
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/base64-encoder-decoder/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

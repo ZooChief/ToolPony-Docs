@@ -60,18 +60,6 @@ Estimate electricity use and cost by device, load and tariff for a fixed duratio
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

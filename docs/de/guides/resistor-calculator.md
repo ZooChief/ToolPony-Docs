@@ -61,18 +61,6 @@ Lesen Sie 3–6 Farbringe und berechnen Sie Reihen-, Parallel- oder Drahtwiderst
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

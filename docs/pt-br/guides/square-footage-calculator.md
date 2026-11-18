@@ -62,18 +62,6 @@ Estimativa da área e do custo do material para nove formas, com medições mist
 
 
 
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

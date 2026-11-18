@@ -8,19 +8,6 @@ List every positive divisor, all factor pairs, and the prime factorization.
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ List every positive divisor, all factor pairs, and the prime factorization.
 
 
 [Open full tool](<https://toolpony.com/en/tools/factor-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

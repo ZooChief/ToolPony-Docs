@@ -61,18 +61,6 @@ Zählen Sie Kalender- und Arbeitstage oder verschieben Sie ein Datum um Kalender
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

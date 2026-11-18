@@ -62,18 +62,6 @@ Estimation de la surface et du coût des matériaux pour neuf formes, avec des m
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

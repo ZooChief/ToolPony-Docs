@@ -8,19 +8,6 @@ Schätzung der Ruheenergie und des täglichen Energieverbrauchs in metrischen od
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ Männliche Gleichung, 30 Jahre, 70 kg, 175 cm, Mifflin-St Jeor
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/bmr-calculator/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

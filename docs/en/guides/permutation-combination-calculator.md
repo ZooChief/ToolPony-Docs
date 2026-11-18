@@ -8,19 +8,6 @@ Compute exact ordered and unordered selections with or without repetition.
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ n=10, r=3, without repetition
 
 
 [Open full tool](<https://toolpony.com/en/tools/permutation-combination-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

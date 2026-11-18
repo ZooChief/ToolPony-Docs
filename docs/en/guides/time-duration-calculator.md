@@ -60,18 +60,6 @@ Find intervals, add or subtract durations, and shift a date and time.
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

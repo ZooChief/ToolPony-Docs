@@ -8,19 +8,6 @@ Encontre um termo, soma parcial e uma lista para download para sequências aritm
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Sequência aritmética, primeiro 7, diferença −3, índice 8
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/number-sequence-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

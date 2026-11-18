@@ -8,19 +8,6 @@ Trouvez la marge brute et le balisage à partir du coût et du prix, ou le prix 
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Marge de 40 %; majoration de 66,67 %
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/margin-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

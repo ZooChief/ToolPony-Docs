@@ -8,19 +8,6 @@ Compare a fixed-rate mortgage with down payment, recurring costs, extra payments
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Home 400,000; down 20%; 30 years; 6%
 
 
 [Open full tool](<https://toolpony.com/en/tools/mortgage-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

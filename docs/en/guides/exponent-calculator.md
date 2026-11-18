@@ -8,19 +8,6 @@ Solve for a power, the base, or the exponent from the other two values.
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Base 2, exponent 5
 
 
 [Open full tool](<https://toolpony.com/en/tools/exponent-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

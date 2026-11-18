@@ -8,19 +8,6 @@ Solve ax² + bx + c = 0 with real or complex roots, including fractional coeffic
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ x₁=2, x₂=3
 
 
 [Open full tool](<https://toolpony.com/en/tools/quadratic-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

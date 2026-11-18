@@ -61,18 +61,6 @@ Registre turnos e pausas semanais com arredondamento, regras de pagamento e CSV.
 
 
 
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

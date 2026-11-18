@@ -62,18 +62,6 @@ Löse Prozentsatz, Teil, Ganzes, vermehre, verringere, verändere Veränderung, 
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

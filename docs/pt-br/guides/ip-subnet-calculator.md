@@ -8,19 +8,6 @@ Inspecione redes IPv4 e IPv6, máscaras, intervalos e contagens de endereços, o
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Rede 192.0.2.128/27, 30 hosts utilizáveis
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/ip-subnet-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

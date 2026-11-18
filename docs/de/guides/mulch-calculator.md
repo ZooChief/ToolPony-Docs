@@ -61,18 +61,6 @@ Berechnen Sie Volumen, Sackzahl und Kosten für eine oder mehrere Flächen.
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

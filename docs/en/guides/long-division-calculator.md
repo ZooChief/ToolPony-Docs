@@ -8,19 +8,6 @@ Divide integers or decimals and inspect the quotient, remainder, decimal value, 
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Divide integers or decimals and inspect the quotient, remainder, decimal value, 
 
 
 [Open full tool](<https://toolpony.com/en/tools/long-division-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

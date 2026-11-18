@@ -62,18 +62,6 @@ Estimate tiles, boxes and cost from tile dimensions, grout spacing, and the area
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

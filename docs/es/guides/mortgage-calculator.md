@@ -8,19 +8,6 @@ Compare una hipoteca de tipo fijo con el pago inicial, costos recurrentes, pagos
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ Hogar 400.000; 20%; 30 años; 6%
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/mortgage-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

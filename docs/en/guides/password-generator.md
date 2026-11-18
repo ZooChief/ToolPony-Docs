@@ -8,19 +8,6 @@ Generate passwords locally with character sets, custom exclusions and optional u
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ A fresh random password
 
 
 [Open full tool](<https://toolpony.com/en/tools/password-generator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

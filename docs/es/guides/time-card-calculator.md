@@ -61,18 +61,6 @@ Registra turnos y descansos semanales con redondeo, reglas de pago y CSV.
 
 
 
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

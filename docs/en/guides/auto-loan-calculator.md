@@ -61,18 +61,6 @@ Find a car payment or maximum vehicle price with a trade-in, outstanding debt, r
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

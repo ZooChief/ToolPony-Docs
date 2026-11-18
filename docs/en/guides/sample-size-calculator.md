@@ -8,19 +8,6 @@ Find a minimum survey sample or estimate the margin of error with finite-populat
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Find a minimum survey sample or estimate the margin of error with finite-populat
 
 
 [Open full tool](<https://toolpony.com/en/tools/sample-size-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

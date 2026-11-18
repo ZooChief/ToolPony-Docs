@@ -61,18 +61,6 @@ Unos 2.461 ft², 28 squares con margen del 10 %.
 
 
 
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

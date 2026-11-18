@@ -8,19 +8,6 @@ Estimate a normal mean interval or a Wilson interval for a proportion.
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ n = 36, mean 56, standard deviation 8, 99%
 
 
 [Open full tool](<https://toolpony.com/en/tools/confidence-interval-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

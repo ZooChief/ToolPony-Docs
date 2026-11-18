@@ -8,19 +8,6 @@ Resumir um conjunto de dados com média, mediana, modos, quartis e dispersão po
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Média 5, mediana 4
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/statistics-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

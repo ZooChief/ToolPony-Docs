@@ -8,19 +8,6 @@ Finden Sie regelmäßige und diskontierte Amortisation aus wachsenden oder unreg
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ Amortisation ≈ 3.379 Jahre, diskontiert ≈ 3.841 Jahre
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/payback-period-calculator/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

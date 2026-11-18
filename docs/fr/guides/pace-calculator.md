@@ -8,19 +8,6 @@ Résolvez le rythme, le temps écoulé et la distance. Comparez les rythmes frac
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Résolvez le rythme, le temps écoulé et la distance. Comparez les rythmes frac
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/pace-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

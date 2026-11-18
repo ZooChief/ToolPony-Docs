@@ -8,19 +8,6 @@ Resolver para la masa, el volumen o la densidad al entrar en cualquier dos valor
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ Resolver para la masa, el volumen o la densidad al entrar en cualquier dos valor
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/density-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

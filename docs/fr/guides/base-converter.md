@@ -8,19 +8,6 @@ Convertir des entiers signés entre les bases 2–36 et effectuer des opération
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ FF, base 16 à base 10
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/base-converter/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

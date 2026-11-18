@@ -8,19 +8,6 @@ Calculate event probabilities, recover independent probabilities from two known 
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ At least one: 0.6964
 
 
 [Open full tool](<https://toolpony.com/en/tools/probability-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

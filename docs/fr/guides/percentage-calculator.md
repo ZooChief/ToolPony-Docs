@@ -62,18 +62,6 @@ Résolvez le pourcentage, la partie, l'ensemble, l'augmentation, la diminution, 
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

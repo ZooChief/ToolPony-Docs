@@ -61,18 +61,6 @@ Erfassen Sie eine Woche mit Schichten, Pausen, Rundung, Lohnregeln und CSV.
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

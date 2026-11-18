@@ -8,19 +8,6 @@ Finden Sie eine Steigung und Schnittpunkte von zwei Punkten oder finden Sie beid
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ Steigung 4/3 und Entfernung 5
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/slope-calculator/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

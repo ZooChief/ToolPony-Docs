@@ -61,18 +61,6 @@ Saisissez une semaine de services et de pauses avec arrondi, règles de paie et 
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

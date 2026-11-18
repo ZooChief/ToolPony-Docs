@@ -61,18 +61,6 @@ Legs 3 and 4, area 6, perimeter 12. Either leg can be a.
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

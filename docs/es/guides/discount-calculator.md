@@ -8,19 +8,6 @@ Descuentos en estadio, restar un cupón fijo y aplicar impuestos de ventas al pr
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ Descuentos en estadio, restar un cupón fijo y aplicar impuestos de ventas al pr
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/discount-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

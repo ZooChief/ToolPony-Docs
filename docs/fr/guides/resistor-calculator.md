@@ -61,18 +61,6 @@ Décodez 3 à 6 anneaux et calculez la résistance en série, en parallèle ou d
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

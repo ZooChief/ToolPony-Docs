@@ -62,18 +62,6 @@ Geschätztes Betonvolumen, Gewicht und ganze Säcke für Platten, Fußböden, Ro
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

@@ -8,19 +8,6 @@ Normalizar un valor y convertir entre Z-scores, probabilidades normales y interv
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ z = −1.25
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/z-score-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

@@ -8,19 +8,6 @@ Encuentre el reembolso regular y descontado de los flujos de efectivo anuales cr
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ Regreso ♥ 3.379 años, descuento ♥ 3.841 años
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/payback-period-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

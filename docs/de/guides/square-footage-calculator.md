@@ -62,18 +62,6 @@ Schätzen Sie die Flächen- und Materialkosten für neun Formen mit gemischten M
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

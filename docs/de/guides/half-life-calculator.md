@@ -8,19 +8,6 @@ Lösen Sie den exponentiellen Zerfall aus drei beliebigen Messungen oder konvert
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ Halbwertszeit ≈ 15.0515
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/half-life-calculator/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

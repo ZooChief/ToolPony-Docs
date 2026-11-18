@@ -8,19 +8,6 @@ Estimar um intervalo médio normal ou um intervalo Wilson para uma proporção.
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ n = 36, média 56, desvio padrão 8, 99%
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/confidence-interval-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

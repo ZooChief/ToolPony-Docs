@@ -8,19 +8,6 @@ Trouver une pente et intercepter à partir de deux points, ou trouver les deux p
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Pente 4/3 et distance 5
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/slope-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

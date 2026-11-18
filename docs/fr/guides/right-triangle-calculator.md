@@ -61,18 +61,6 @@ Côtés 3 et 4, aire 6, périmètre 12. Le côté a peut être l’un ou l’aut
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

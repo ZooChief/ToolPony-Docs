@@ -61,18 +61,6 @@ Estima el volumen, peso, número de sacos y coste de grava o arena.
 
 
 
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

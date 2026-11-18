@@ -8,19 +8,6 @@ Calcular com números inteiros grandes e coeficientes decimais exatos, com arred
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Calcular com números inteiros grandes e coeficientes decimais exatos, com arred
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/big-number-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

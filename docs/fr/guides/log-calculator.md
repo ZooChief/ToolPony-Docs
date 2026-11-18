@@ -8,19 +8,6 @@ Trouvez le logarithme, la base ou l'argument. La base peut être un nombre ou e.
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Base 3, argument 81
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/log-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

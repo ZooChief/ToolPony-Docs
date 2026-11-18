@@ -8,19 +8,6 @@ Trouvez le rayon, le diamètre, la circonférence et la surface d'une mesure con
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Circonférence 12,5664; arc 3.1416
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/circle-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

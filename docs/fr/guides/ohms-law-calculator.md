@@ -60,18 +60,6 @@ Calculez tension, courant, résistance et puissance à partir de deux valeurs.
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

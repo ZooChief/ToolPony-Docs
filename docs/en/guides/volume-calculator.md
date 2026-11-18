@@ -8,19 +8,6 @@ Solve spheres, cones, tanks, capsules, caps, ellipsoids, pyramids and hollow tub
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Sphere with radius 2 m
 
 
 [Open full tool](<https://toolpony.com/en/tools/volume-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

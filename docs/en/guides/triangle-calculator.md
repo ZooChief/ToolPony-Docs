@@ -62,18 +62,6 @@ Two solutions, with c about 13.55923 and 3.76127.
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

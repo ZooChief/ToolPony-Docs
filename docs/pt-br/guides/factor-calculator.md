@@ -8,19 +8,6 @@ Liste todos os divisores positivos, todos os pares de fatores, e a fatoração p
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Liste todos os divisores positivos, todos os pares de fatores, e a fatoração p
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/factor-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

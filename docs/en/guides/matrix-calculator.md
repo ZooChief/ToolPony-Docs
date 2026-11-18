@@ -8,19 +8,6 @@ Add, multiply, transpose, invert, solve, or find the rank and determinant. Copy 
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ A + B = [3, 2; 5, 8]
 
 
 [Open full tool](<https://toolpony.com/en/tools/matrix-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

@@ -8,19 +8,6 @@ Busque valores p normales de izquierda, derecha y dos caras, o invierta una prob
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ Probabilidad bilateral ≈ 0,018275
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/p-value-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

@@ -61,18 +61,6 @@ Preço 30.000, entrada 5.000, 5% por 60 meses
 
 
 
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

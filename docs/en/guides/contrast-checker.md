@@ -8,19 +8,6 @@ Compare two opaque colors against WCAG 2.2 contrast thresholds.
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Compare two opaque colors against WCAG 2.2 contrast thresholds.
 
 
 [Open full tool](<https://toolpony.com/en/tools/contrast-checker/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

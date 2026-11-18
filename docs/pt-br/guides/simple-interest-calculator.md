@@ -8,19 +8,6 @@ Calcule juros simples ou resolva para principal, taxa de juros, ou termo a parti
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Calcule juros simples ou resolva para principal, taxa de juros, ou termo a parti
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/simple-interest-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

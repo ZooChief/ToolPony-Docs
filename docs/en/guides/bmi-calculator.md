@@ -8,19 +8,6 @@ Calculate adult BMI in metric or US units, compare reference ranges, and see BMI
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ BMI ≈22.86 kg/m²
 
 
 [Open full tool](<https://toolpony.com/en/tools/bmi-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

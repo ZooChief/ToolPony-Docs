@@ -8,19 +8,6 @@ Encode UTF-8 text as standard or URL-safe Base64 and validate decoded text.
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ aGVsbG8=
 
 
 [Open full tool](<https://toolpony.com/en/tools/base64-encoder-decoder/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

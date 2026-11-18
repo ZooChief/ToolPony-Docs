@@ -8,19 +8,6 @@ Convertir texto en Puntos de código Unicode, UTF-8 bytes hexadecimal o UTF-16 e
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ U+1F434 o F0 9F 90 B4
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/unicode-converter/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

@@ -61,18 +61,6 @@ Chute de 0,37 V, soit 0,30 %
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

@@ -62,18 +62,6 @@ Resolver porcentagem, parte, total, aumento, diminuição, mudança reversa, dif
 
 
 
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

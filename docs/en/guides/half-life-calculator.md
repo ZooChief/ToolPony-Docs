@@ -8,19 +8,6 @@ Solve exponential decay from any three measurements, or convert between half-lif
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Half-life ≈ 15.0515
 
 
 [Open full tool](<https://toolpony.com/en/tools/half-life-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

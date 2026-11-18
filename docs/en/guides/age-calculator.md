@@ -60,18 +60,6 @@ Birth 2000-01-01, reference 2025-02-03
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

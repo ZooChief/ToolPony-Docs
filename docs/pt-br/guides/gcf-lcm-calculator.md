@@ -8,19 +8,6 @@ Encontre o maior fator comum e o menor múltiplo comum para uma lista de inteiro
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ GCF 6; LCM 72
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/gcf-lcm-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

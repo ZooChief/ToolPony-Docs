@@ -60,18 +60,6 @@ Naissance le 2000-01-01, référence le 2025-02-03
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

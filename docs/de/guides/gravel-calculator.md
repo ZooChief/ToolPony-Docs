@@ -61,18 +61,6 @@ Berechnen Sie Volumen, Masse, Sackzahl und Kosten für Kies oder Sand.
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

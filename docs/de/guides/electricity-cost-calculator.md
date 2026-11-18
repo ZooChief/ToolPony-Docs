@@ -60,18 +60,6 @@ Schätzen Sie Verbrauch und Kosten nach Gerät, Auslastung und Tarif für feste 
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

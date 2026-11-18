@@ -8,19 +8,6 @@ Usar aritmética exacta para añadir, restar, multiplicar, dividir o simplificar
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ Usar aritmética exacta para añadir, restar, multiplicar, dividir o simplificar
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/fraction-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

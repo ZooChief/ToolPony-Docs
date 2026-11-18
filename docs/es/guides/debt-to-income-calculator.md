@@ -8,19 +8,6 @@ Compare sus pagos mensuales recurrentes de deuda con ingresos mensuales brutos.
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ Ingresos 5.000, pagos de deuda 1.500
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/debt-to-income-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

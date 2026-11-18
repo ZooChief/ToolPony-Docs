@@ -63,18 +63,6 @@ Compare a mortgage’s remaining payments, extra payments, a lump sum and two bi
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

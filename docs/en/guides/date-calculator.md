@@ -61,18 +61,6 @@ Count calendar days and business days, or shift a date by calendar units or work
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

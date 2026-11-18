@@ -61,18 +61,6 @@ Estimate mulch volume, bag counts and cost for one or several plots.
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

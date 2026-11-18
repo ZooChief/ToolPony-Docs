@@ -8,19 +8,6 @@ Busque una muestra de encuesta m√≠nima o estime el margen de error con correcci√
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ Busque una muestra de encuesta m√≠nima o estime el margen de error con correcci√
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/sample-size-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El c√°lculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

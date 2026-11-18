@@ -8,19 +8,6 @@ Gerar inteiros aleatórios em uma faixa inclusiva, com unicidade opcional e orde
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Cinco inteiros aleatórios de 1 a 10
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/random-number-generator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

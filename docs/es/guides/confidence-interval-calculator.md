@@ -8,19 +8,6 @@ Estimar un intervalo promedio normal o un intervalo de Wilson para una proporci�
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ n = 36, media 56, desviación estándar 8, 99%
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/confidence-interval-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

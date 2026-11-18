@@ -8,19 +8,6 @@ Convertir les chiffres romains et les entiers dans l'une ou l'autre direction, y
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ MCMXCIX
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/roman-numeral-converter/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

@@ -8,19 +8,6 @@ Encuentra una pendiente e intercepta desde dos puntos, o encuentra ambos puntos 
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ Pendiente 4/3 y distancia 5
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/slope-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

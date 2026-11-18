@@ -62,18 +62,6 @@ Estimate concrete volume, weight and whole bags for slabs, footings, tubes, curb
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

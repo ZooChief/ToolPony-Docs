@@ -8,19 +8,6 @@ Calculer avec des nombres entiers et des coefficients décimal exacts, avec des 
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Calculer avec des nombres entiers et des coefficients décimal exacts, avec des 
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/big-number-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

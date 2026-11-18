@@ -8,19 +8,6 @@ Decimales redondos exactos por lugar decimal o una fracción binaria con nueve m
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ Decimales redondos exactos por lugar decimal o una fracción binaria con nueve m
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/rounding-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

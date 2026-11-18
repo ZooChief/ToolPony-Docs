@@ -8,19 +8,6 @@ Convert signed integers between bases 2–36 and perform exact arithmetic, remai
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ FF, base 16 to base 10
 
 
 [Open full tool](<https://toolpony.com/en/tools/base-converter/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

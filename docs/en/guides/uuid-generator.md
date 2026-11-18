@@ -8,19 +8,6 @@ Generate version 4 UUIDs using the browser’s secure random source.
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Example shape: 550e8400-e29b-41d4-a716-446655440000
 
 
 [Open full tool](<https://toolpony.com/en/tools/uuid-generator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

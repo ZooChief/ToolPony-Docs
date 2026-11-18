@@ -8,19 +8,6 @@ Encontre uma inclinação e intercepte a partir de dois pontos, ou encontre ambo
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Deslize 4/3 e distância 5
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/slope-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

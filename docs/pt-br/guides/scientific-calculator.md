@@ -8,19 +8,6 @@ Avaliar expressões matemáticas com poderes, fatorials, trigonometria, raízes 
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ sqrt( 81) + 2^3 × sin( 30), graus
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/scientific-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

@@ -8,19 +8,6 @@ Decimais precisos redondos por decimal ou uma fração binária com nove modos d
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Decimais precisos redondos por decimal ou uma fração binária com nove modos d
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/rounding-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

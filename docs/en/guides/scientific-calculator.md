@@ -8,19 +8,6 @@ Evaluate mathematical expressions with powers, factorials, trigonometry, roots a
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ sqrt(81) + 2^3 × sin(30), degrees
 
 
 [Open full tool](<https://toolpony.com/en/tools/scientific-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

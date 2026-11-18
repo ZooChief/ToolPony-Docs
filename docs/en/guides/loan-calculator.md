@@ -62,18 +62,6 @@ Calculate installment loans, find a term from a monthly payment, or plan dated e
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

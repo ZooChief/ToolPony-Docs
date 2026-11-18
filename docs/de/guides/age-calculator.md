@@ -60,18 +60,6 @@ Geburt 2000-01-01, Stichtag 2025-02-03
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

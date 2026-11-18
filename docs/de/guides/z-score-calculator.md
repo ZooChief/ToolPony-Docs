@@ -8,19 +8,6 @@ Einen Wert standardisieren und zwischen Z-Werten, Normalwahrscheinlichkeiten und
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ z = −1.25
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/z-score-calculator/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

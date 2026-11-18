@@ -8,19 +8,6 @@ Résolvez pour une puissance, la base ou l'exposant des deux autres valeurs.
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Base 2, exposant 5
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/exponent-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

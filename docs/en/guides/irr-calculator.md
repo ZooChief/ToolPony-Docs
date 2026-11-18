@@ -8,19 +8,6 @@ Find the annual effective rate from irregular annual flows or a terminal value a
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ IRR ≈ 15.093%
 
 
 [Open full tool](<https://toolpony.com/en/tools/irr-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

@@ -62,18 +62,6 @@ Estimate area and material cost for nine shapes, with mixed measurements and a w
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

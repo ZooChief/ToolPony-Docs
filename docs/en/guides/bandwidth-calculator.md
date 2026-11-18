@@ -8,19 +8,6 @@ Estimate transfer time from file size, link speed and protocol efficiency.
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Estimate transfer time from file size, link speed and protocol efficiency.
 
 
 [Open full tool](<https://toolpony.com/en/tools/bandwidth-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

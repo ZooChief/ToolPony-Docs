@@ -8,19 +8,6 @@ Resolva esferas, cones, tanques, cápsulas, cápsulas, elipsóides, pirâmides e
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Esfera com raio de 2 m
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/surface-area-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

@@ -8,19 +8,6 @@ Calcular el cuadrado real principal, cubo, o raíz nth.
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ raíz cuadrada de 144
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/root-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

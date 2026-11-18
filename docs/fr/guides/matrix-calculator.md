@@ -8,19 +8,6 @@ Ajoutez, multipliez, transposez, inversez, résolvez ou trouvez le rang et le d�
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ A + B = [3, 2; 5, 8]
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/matrix-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

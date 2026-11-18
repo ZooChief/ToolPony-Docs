@@ -8,19 +8,6 @@ Générer localement des mots de passe avec des jeux de caractères, des exclusi
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Un nouveau mot de passe aléatoire
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/password-generator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

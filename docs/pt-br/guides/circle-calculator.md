@@ -8,19 +8,6 @@ Localizar raio, diâmetro, circunferência e área de qualquer medida conhecida.
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Circunferência *12.5664; arco *3.1416
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/circle-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

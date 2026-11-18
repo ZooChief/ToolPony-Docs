@@ -8,19 +8,6 @@ Genera UUID de versión 4 con el generador seguro del navegador.
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ Ejemplo: 550e8400-e29b-41d4-a716-446655440000
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/uuid-generator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

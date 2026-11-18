@@ -8,19 +8,6 @@ Solve a missing term in a proportion, simplify a ratio, or scale both terms.
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ x=15
 
 
 [Open full tool](<https://toolpony.com/en/tools/ratio-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

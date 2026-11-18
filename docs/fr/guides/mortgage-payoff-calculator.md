@@ -63,18 +63,6 @@ Comparez les versements restants, les suppléments, un remboursement intégral e
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

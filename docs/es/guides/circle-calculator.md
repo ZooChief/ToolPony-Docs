@@ -8,19 +8,6 @@ Encontrar radio, diámetro, circunferencia y área de cualquier medida conocida.
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ Circunferencia ♥12.5664; arc ♥3.1416
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/circle-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

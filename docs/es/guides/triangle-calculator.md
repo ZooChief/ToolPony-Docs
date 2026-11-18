@@ -62,18 +62,6 @@ Dos soluciones con c ≈ 13,55923 y 3,76127.
 
 
 
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

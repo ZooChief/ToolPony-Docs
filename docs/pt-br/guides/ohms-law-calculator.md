@@ -60,18 +60,6 @@ Calcule tensão, corrente, resistência e potência a partir de dois valores.
 
 
 
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

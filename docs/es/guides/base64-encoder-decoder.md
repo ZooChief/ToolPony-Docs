@@ -8,19 +8,6 @@ codificar texto UTF-8 como estándar o seguro de URL Base64 y validar texto deco
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ aGVsbG8=
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/base64-encoder-decoder/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

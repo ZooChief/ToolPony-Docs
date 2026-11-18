@@ -8,19 +8,6 @@ Convertir les unités d'économie de carburant, estimer le coût du carburant d'
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Convertir les unités d'économie de carburant, estimer le coût du carburant d'
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/fuel-cost-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

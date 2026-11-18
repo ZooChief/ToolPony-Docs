@@ -61,18 +61,6 @@ Estime volume, massa, quantidade de sacos e custo de cascalho ou areia.
 
 
 
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

@@ -61,18 +61,6 @@ Estime volume, sacos e custo de cobertura para uma ou mais áreas.
 
 
 
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

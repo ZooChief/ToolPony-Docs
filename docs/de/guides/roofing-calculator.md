@@ -61,18 +61,6 @@ Rund 2.461 ft², 28 Squares mit 10 % Zugabe.
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

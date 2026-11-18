@@ -8,19 +8,6 @@ Konvertieren Sie signierte ganze Zahlen zwischen den Basen 2–36 und führen Si
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ FF, Basis 16 zu Basis 10
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/base-converter/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

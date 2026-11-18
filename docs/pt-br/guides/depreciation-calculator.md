@@ -8,19 +8,6 @@ Construa um calendário anual de dígitos em linha reta, em declínio ou soma de
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Construa um calendário anual de dígitos em linha reta, em declínio ou soma de
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/depreciation-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

@@ -8,19 +8,6 @@ Encontrar margem bruta e marcação a partir de custo e preço, ou preço de um 
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Margem de 40%; 66,67% de marcação
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/margin-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

@@ -60,18 +60,6 @@ Estima el consumo y el coste según aparato, carga y tarifa, para un plazo fijo 
 
 
 
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

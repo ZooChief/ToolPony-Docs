@@ -61,18 +61,6 @@ Estima el volumen, los sacos y el coste del mantillo para una o varias zonas.
 
 
 
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

@@ -8,19 +8,6 @@ Encontre uma amostra mínima do inquérito ou estime a margem de erro com corre�
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Encontre uma amostra mínima do inquérito ou estime a margem de erro com corre�
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/sample-size-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

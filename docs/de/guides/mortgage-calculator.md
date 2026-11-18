@@ -8,19 +8,6 @@ Vergleichen Sie eine Festhypothek mit Anzahlung, wiederkehrenden Kosten, zusätz
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ Home 400.000; minus 20%; 30 Jahre; 6%
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/mortgage-calculator/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

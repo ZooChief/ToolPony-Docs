@@ -8,19 +8,6 @@ Enumerar todos los factores comunes positivos y calcular el mayor factor común 
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ Enumerar todos los factores comunes positivos y calcular el mayor factor común 
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/common-factor-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

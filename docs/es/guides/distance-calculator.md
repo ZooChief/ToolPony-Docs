@@ -8,19 +8,6 @@ Encontrar la distancia entre dos puntos 2D o 3D, o estimar la distancia superfic
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ Distancia 5
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/distance-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

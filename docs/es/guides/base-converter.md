@@ -8,19 +8,6 @@ Convertir números enteros firmados entre las bases 2–36 y realizar operacione
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ FF, base 16 a base 10
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/base-converter/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

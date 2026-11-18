@@ -8,19 +8,6 @@ Encuentra el área de formas de plano en once modos con unidades de entrada mixt
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ Un rectángulo de 4 m por 3 m
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/area-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

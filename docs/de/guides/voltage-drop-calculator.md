@@ -61,18 +61,6 @@ Schätzen Sie den Spannungsfall für Gleichstrom, Einphasenstrom und symmetrisch
 
 
 
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
-
-
-
-
-
-
-
 ## Berechnungsmethode
 
 

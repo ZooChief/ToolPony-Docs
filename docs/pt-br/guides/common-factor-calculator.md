@@ -8,19 +8,6 @@ Listar todos os fatores comuns positivos e calcular o maior fator comum de múlt
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Listar todos os fatores comuns positivos e calcular o maior fator comum de múlt
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/common-factor-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

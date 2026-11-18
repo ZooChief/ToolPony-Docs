@@ -8,19 +8,6 @@ Trouvez la zone des formes planes en onze modes avec des unités d'entrée mixte
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Un rectangle de 4 m sur 3 m
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/area-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

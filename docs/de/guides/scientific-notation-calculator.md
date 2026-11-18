@@ -8,19 +8,6 @@ Konvertieren Sie zwischen wissenschaftlicher, technischer, E- und Dezimalnotatio
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ Konvertieren Sie zwischen wissenschaftlicher, technischer, E- und Dezimalnotatio
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/scientific-notation-calculator/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

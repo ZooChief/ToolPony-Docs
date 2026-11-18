@@ -8,19 +8,6 @@ Projete um equilíbrio com contribuições recorrentes e inflação, ou converte
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Projete um equilíbrio com contribuições recorrentes e inflação, ou converte
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/compound-interest-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

@@ -8,19 +8,6 @@ Glieder, Partialsummen und Listen arithmetischer, geometrischer oder Fibonacci-F
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ Arithmetische Folge, Startwert 7, Differenz −3, Index 8
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/number-sequence-calculator/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

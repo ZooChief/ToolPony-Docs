@@ -61,18 +61,6 @@ Estimate voltage drop in DC, single-phase or balanced three-phase wiring from ca
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

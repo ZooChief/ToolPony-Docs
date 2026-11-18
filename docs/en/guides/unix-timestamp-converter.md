@@ -8,19 +8,6 @@ Convert seconds and milliseconds to UTC, and convert an ISO time with an explici
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Convert seconds and milliseconds to UTC, and convert an ISO time with an explici
 
 
 [Open full tool](<https://toolpony.com/en/tools/unix-timestamp-converter/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

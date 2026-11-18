@@ -8,19 +8,6 @@ Encontrar a taxa efetiva anual de fluxos anuais irregulares ou um valor terminal
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ RRP □ 15,093%
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/irr-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

@@ -60,18 +60,6 @@ Das 22:30 às 06:15 do dia seguinte
 
 
 
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

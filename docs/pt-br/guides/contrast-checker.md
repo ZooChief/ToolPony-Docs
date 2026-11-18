@@ -8,19 +8,6 @@ Compare duas cores opacas com os limites de contraste da WCAG 2.2.
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Compare duas cores opacas com os limites de contraste da WCAG 2.2.
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/contrast-checker/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

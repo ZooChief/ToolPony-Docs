@@ -60,18 +60,6 @@ Nacimiento 2000-01-01, referencia 2025-02-03
 
 
 
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

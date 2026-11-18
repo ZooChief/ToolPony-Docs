@@ -60,18 +60,6 @@ Estimez consommation et coût par appareil, charge et tarif sur une durée fixe 
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

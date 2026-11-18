@@ -8,19 +8,6 @@ Berechnen Sie exakt geordnete und ungeordnete Auswahlen mit oder ohne Wiederholu
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ n = 10, r = 3, ohne Wiederholung
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/permutation-combination-calculator/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

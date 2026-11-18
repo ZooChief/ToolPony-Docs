@@ -8,19 +8,6 @@ Find a slope and intercepts from two points, or find both endpoints at a given d
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Slope 4/3 and distance 5
 
 
 [Open full tool](<https://toolpony.com/en/tools/slope-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

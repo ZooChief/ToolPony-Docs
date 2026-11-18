@@ -62,18 +62,6 @@ Calcule parcelas, obtenha o prazo a partir do pagamento mensal ou programe pagam
 
 
 
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

@@ -8,19 +8,6 @@ Calcular seleções ordenadas e não ordenadas com ou sem repetição.
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ n=10, r=3, sem repetição
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/permutation-combination-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

@@ -8,19 +8,6 @@ Résolvez les sphères, cônes, réservoirs, capsules, capsules, ellipsoïdes, p
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Sphère avec rayon 2 m
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/volume-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

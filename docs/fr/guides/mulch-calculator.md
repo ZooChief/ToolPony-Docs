@@ -61,18 +61,6 @@ Estimez le volume, les sacs et le coût du paillis pour une ou plusieurs parcell
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

@@ -61,18 +61,6 @@ De 2020-01-01 a 2020-02-01
 
 
 
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
-
-
-
-
-
-
-
 ## Método de cálculo
 
 

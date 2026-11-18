@@ -8,19 +8,6 @@ Estimate resting energy and daily energy expenditure in metric or US units with 
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Male equation, 30 years, 70 kg, 175 cm, Mifflin–St Jeor
 
 
 [Open full tool](<https://toolpony.com/en/tools/bmr-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

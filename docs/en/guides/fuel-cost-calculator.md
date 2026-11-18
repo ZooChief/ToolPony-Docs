@@ -8,19 +8,6 @@ Convert fuel economy units, estimate the fuel cost of a trip, or calculate measu
 
 
 
-## Get started
-
-
-
-1. Use the example values or enter your own measurements.
-2. Calculate, then copy the result or download the available details.
-
-
-
-
-
-
-
 ## Example
 
 
@@ -54,18 +41,6 @@ Convert fuel economy units, estimate the fuel cost of a trip, or calculate measu
 
 
 [Open full tool](<https://toolpony.com/en/tools/fuel-cost-calculator/>)
-
-
-
-
-
-
-
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
 
 
 

@@ -8,19 +8,6 @@ Resolva uma potência, a base, ou o expoente dos outros dois valores.
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ Base 2, expoente 5
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/exponent-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

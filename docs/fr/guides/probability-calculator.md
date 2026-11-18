@@ -8,19 +8,6 @@ Calculer les probabilités d'événement, récupérer les probabilités indépen
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ Au moins un événement 0,6964
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/probability-calculator/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

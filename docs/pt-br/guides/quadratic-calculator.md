@@ -8,19 +8,6 @@ Resolver ax2 + bx + c = 0 com raízes reais ou complexas, incluindo coeficientes
 
 
 
-## Primeiros passos
-
-
-
-1. Use o exemplo ou insira seus próprios valores.
-2. Calcule, copie o resultado ou baixe os detalhes disponíveis.
-
-
-
-
-
-
-
 ## Exemplo
 
 
@@ -54,18 +41,6 @@ x₁=2, x₂=3
 
 
 [Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/quadratic-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-O cálculo é feito no seu navegador. Use unidades consistentes.
 
 
 

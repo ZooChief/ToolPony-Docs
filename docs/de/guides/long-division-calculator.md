@@ -8,19 +8,6 @@ Teilen Sie ganze Zahlen oder Dezimalzahlen und prüfen Sie Quotient, Rest, Dezim
 
 
 
-## Erste Schritte
-
-
-
-1. Verwenden Sie das Beispiel oder geben Sie eigene Werte ein.
-2. Berechnen Sie das Ergebnis und kopieren oder laden Sie die Details herunter.
-
-
-
-
-
-
-
 ## Beispiel
 
 
@@ -54,18 +41,6 @@ Teilen Sie ganze Zahlen oder Dezimalzahlen und prüfen Sie Quotient, Rest, Dezim
 
 
 [Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/long-division-calculator/>)
-
-
-
-
-
-
-
-## Hinweise
-
-
-
-Die Verarbeitung erfolgt im Browser. Verwenden Sie einheitliche Einheiten.
 
 
 

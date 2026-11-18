@@ -8,19 +8,6 @@ Encuentre la tasa efectiva anual de flujos anuales irregulares o un valor termin
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ IRR ♥ 15,093%
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/irr-calculator/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 

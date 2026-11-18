@@ -61,18 +61,6 @@ Prix 30 000, apport 5 000, 5 % sur 60 mois
 
 
 
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
-
-
-
-
-
-
-
 ## Méthode de calcul
 
 

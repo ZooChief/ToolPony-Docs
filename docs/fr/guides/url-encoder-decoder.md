@@ -8,19 +8,6 @@ Encoder ou décoder des URL complètes, des composants URI et des valeurs de for
 
 
 
-## Prise en main
-
-
-
-1. Utilisez l’exemple ou saisissez vos propres valeurs.
-2. Calculez, puis copiez le résultat ou téléchargez les détails.
-
-
-
-
-
-
-
 ## Exemple
 
 
@@ -54,18 +41,6 @@ a%2Bb%20%26%20c
 
 
 [Ouvrir l’outil complet](<https://toolpony.com/fr/tools/url-encoder-decoder/>)
-
-
-
-
-
-
-
-## Notes
-
-
-
-Le traitement se fait dans le navigateur. Utilisez des unités cohérentes.
 
 
 

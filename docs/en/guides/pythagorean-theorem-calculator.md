@@ -60,18 +60,6 @@ b² = 32 − 7 = 25, so b = 5.
 
 
 
-## Good to know
-
-
-
-The calculation runs in your browser. Use consistent units in fields with no explicit unit.
-
-
-
-
-
-
-
 ## Calculation method
 
 

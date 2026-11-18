@@ -8,19 +8,6 @@ Convertir segundos y milisegundos en UTC, y convertir un tiempo ISO con un offse
 
 
 
-## Primeros pasos
-
-
-
-1. Usa el ejemplo o introduce tus propios valores.
-2. Calcula, copia el resultado o descarga los detalles disponibles.
-
-
-
-
-
-
-
 ## Ejemplo
 
 
@@ -54,18 +41,6 @@ Convertir segundos y milisegundos en UTC, y convertir un tiempo ISO con un offse
 
 
 [Abrir herramienta completa](<https://toolpony.com/es/tools/unix-timestamp-converter/>)
-
-
-
-
-
-
-
-## Notas de uso
-
-
-
-El cálculo se ejecuta en tu navegador. Usa unidades coherentes.
 
 
 
