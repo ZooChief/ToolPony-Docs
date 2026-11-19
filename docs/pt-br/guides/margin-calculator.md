@@ -38,11 +38,7 @@ Margem de 40%; 66,67% de marcação
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/margin-calculator/>)
-
-
+[Abrir ferramenta completa · Margem de lucro e markup](<https://toolpony.com/pt-br/tools/margin-calculator/>)
 
 
 

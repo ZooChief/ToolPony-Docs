@@ -38,11 +38,7 @@ Convertir unidades de economía de combustible, estimar el costo de combustible 
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/fuel-cost-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de costo y consumo de combustible](<https://toolpony.com/es/tools/fuel-cost-calculator/>)
 
 
 

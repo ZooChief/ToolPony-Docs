@@ -38,11 +38,7 @@ Vingança 3.379 anos, descontado 3.841 anos
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/payback-period-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de prazo de retorno](<https://toolpony.com/pt-br/tools/payback-period-calculator/>)
 
 
 

@@ -52,11 +52,7 @@ Muestra incorporada, X = 32 y Y = 32
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/image-color-picker/>)
-
-
+[Abrir herramienta completa · Selector de colores de imagen](<https://toolpony.com/es/tools/image-color-picker/>)
 
 
 

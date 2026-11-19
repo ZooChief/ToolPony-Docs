@@ -38,11 +38,7 @@ Drei Gesichter und ihre Summe
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/dice-roller/>)
-
-
+[Vollständiges Werkzeug öffnen · Würfelsimulator](<https://toolpony.com/de/tools/dice-roller/>)
 
 
 

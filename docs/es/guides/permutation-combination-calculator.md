@@ -38,11 +38,7 @@ n=10, r=3, sin repetición
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/permutation-combination-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de permutaciones y combinaciones](<https://toolpony.com/es/tools/permutation-combination-calculator/>)
 
 
 

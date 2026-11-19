@@ -38,11 +38,7 @@ Konvertieren Sie Kraftstoffverbrauchseinheiten, schätzen Sie die Kraftstoffkost
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/fuel-cost-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Rechner für Kraftstoffkosten und Verbrauch](<https://toolpony.com/de/tools/fuel-cost-calculator/>)
 
 
 

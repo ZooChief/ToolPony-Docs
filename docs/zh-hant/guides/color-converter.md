@@ -38,11 +38,7 @@ rgb(102, 51, 153)
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/color-converter/>)
-
-
+[打開完整工具 · 顏色轉換器](<https://toolpony.com/zh-hant/tools/color-converter/>)
 
 
 

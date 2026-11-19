@@ -38,11 +38,7 @@ Calculate with exact large integers and decimal coefficients, with selectable ro
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/big-number-calculator/>)
-
-
+[Open full tool · Big number calculator](<https://toolpony.com/en/tools/big-number-calculator/>)
 
 
 

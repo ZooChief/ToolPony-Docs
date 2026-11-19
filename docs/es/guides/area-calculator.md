@@ -38,11 +38,7 @@ Un rectángulo de 4 m por 3 m
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/area-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de áreas](<https://toolpony.com/es/tools/area-calculator/>)
 
 
 

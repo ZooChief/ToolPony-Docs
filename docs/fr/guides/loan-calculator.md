@@ -52,11 +52,7 @@ Calculez des versements, une durée à partir de la mensualité ou des rembourse
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/loan-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculateur de prêt](<https://toolpony.com/fr/tools/loan-calculator/>)
 
 
 

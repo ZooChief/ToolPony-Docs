@@ -38,11 +38,7 @@ Trois visages et leur somme
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/dice-roller/>)
-
-
+[Ouvrir l’outil complet · Lanceur de dés](<https://toolpony.com/fr/tools/dice-roller/>)
 
 
 

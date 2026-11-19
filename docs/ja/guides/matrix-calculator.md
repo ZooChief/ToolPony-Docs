@@ -38,11 +38,7 @@ A + B = [3, 2; 5, 8]
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/matrix-calculator/>)
-
-
+[ツール全体を開く · 行列計算機](<https://toolpony.com/ja/tools/matrix-calculator/>)
 
 
 

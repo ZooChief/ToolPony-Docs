@@ -38,11 +38,7 @@ rgb(102, 51, 153)
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/color-converter/>)
-
-
+[Vollständiges Werkzeug öffnen · Farbkonverter](<https://toolpony.com/de/tools/color-converter/>)
 
 
 

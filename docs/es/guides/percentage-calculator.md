@@ -52,11 +52,7 @@ Resolver porcentaje, parte, entero, aumento, disminución, cambio inverso, difer
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/percentage-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de porcentajes](<https://toolpony.com/es/tools/percentage-calculator/>)
 
 
 

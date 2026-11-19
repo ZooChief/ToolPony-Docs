@@ -38,11 +38,7 @@ Encontrar los factores principales, la forma exponente y el recuento de divisor 
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/prime-factorization-calculator/>)
-
-
+[Abrir herramienta completa · Descomposición en factores primos](<https://toolpony.com/es/tools/prime-factorization-calculator/>)
 
 
 

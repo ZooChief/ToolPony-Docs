@@ -38,11 +38,7 @@ Montant brut 120, taxe 20
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/sales-tax-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de taxe de vente et de TVA](<https://toolpony.com/fr/tools/sales-tax-calculator/>)
 
 
 

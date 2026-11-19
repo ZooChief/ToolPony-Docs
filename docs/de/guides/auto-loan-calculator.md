@@ -51,11 +51,7 @@ Preis 30.000, Anzahlung 5.000, 5 % bei 60 Monaten
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/auto-loan-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Autokreditrechner](<https://toolpony.com/de/tools/auto-loan-calculator/>)
 
 
 

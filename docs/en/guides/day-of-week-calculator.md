@@ -38,11 +38,7 @@ Saturday
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/day-of-week-calculator/>)
-
-
+[Open full tool · Day of the week](<https://toolpony.com/en/tools/day-of-week-calculator/>)
 
 
 

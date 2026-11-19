@@ -52,11 +52,7 @@ Estimation de la surface et du coût des matériaux pour neuf formes, avec des m
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/square-footage-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de surface en pieds carrés](<https://toolpony.com/fr/tools/square-footage-calculator/>)
 
 
 

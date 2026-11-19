@@ -38,11 +38,7 @@ Listen Sie jeden positiven Teiler, alle Faktorpaare und die Primfaktorisierung a
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/factor-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Teilerrechner](<https://toolpony.com/de/tools/factor-calculator/>)
 
 
 

@@ -55,11 +55,7 @@ Pruebe JSON, elija una indentación, y formato o la menifique. Copia el resultad
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/json-formatter/>)
-
-
+[Abrir herramienta completa · Formateador JSON](<https://toolpony.com/es/tools/json-formatter/>)
 
 
 

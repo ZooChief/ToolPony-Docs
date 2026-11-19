@@ -38,11 +38,7 @@ Divida inteiros ou decimais e inspecione o quociente, o restante, o valor decima
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/long-division-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de divisão longa](<https://toolpony.com/pt-br/tools/long-division-calculator/>)
 
 
 

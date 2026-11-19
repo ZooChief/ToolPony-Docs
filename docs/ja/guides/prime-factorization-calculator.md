@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/prime-factorization-calculator/>)
-
-
+[ツール全体を開く · 素因数分解](<https://toolpony.com/ja/tools/prime-factorization-calculator/>)
 
 
 

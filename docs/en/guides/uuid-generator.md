@@ -38,11 +38,7 @@ Example shape: 550e8400-e29b-41d4-a716-446655440000
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/uuid-generator/>)
-
-
+[Open full tool · UUID generator](<https://toolpony.com/en/tools/uuid-generator/>)
 
 
 

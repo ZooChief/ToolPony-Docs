@@ -38,11 +38,7 @@ aGVsbG8=
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/base64-encoder-decoder/>)
-
-
+[전체 도구 열기 · Base64 인코딩 및 디코딩](<https://toolpony.com/ko/tools/base64-encoder-decoder/>)
 
 
 

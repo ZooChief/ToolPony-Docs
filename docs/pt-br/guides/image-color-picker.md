@@ -52,11 +52,7 @@ Amostra incorporada, X = 32 e Y = 32
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/image-color-picker/>)
-
-
+[Abrir ferramenta completa · Seletor de cores da imagem](<https://toolpony.com/pt-br/tools/image-color-picker/>)
 
 
 

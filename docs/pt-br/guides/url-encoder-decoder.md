@@ -38,11 +38,7 @@ a%2Bb%20%26%20c
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/url-encoder-decoder/>)
-
-
+[Abrir ferramenta completa · Codificar e decodificar URL](<https://toolpony.com/pt-br/tools/url-encoder-decoder/>)
 
 
 

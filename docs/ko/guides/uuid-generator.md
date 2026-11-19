@@ -38,11 +38,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/uuid-generator/>)
-
-
+[전체 도구 열기 · UUID 생성기](<https://toolpony.com/ko/tools/uuid-generator/>)
 
 
 

@@ -51,11 +51,7 @@ Del 2020-01-01 al 2020-02-01
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/date-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de fechas](<https://toolpony.com/es/tools/date-calculator/>)
 
 
 

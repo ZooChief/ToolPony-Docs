@@ -59,11 +59,7 @@ Added 1 · Removed 1 · Changed 1
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/csv-compare/>)
-
-
+[Open full tool · CSV compare](<https://toolpony.com/en/tools/csv-compare/>)
 
 
 
@@ -74,5 +70,9 @@ Added 1 · Removed 1 · Changed 1
 
 
 Up to 1 MiB of UTF-8 text, 5,000 data rows and 80 columns per table. Matches use exact text, including leading zeros. Duplicate and empty keys are reported separately. Row numbers count records, including the header.
+
+
+
+For an inventory, use a stable SKU as the key. If the old export says 0012 and the new one says 12, the comparison reports one removal and one addition. To compare the quantity as a change, preserve the leading zeros in both exports.
 
 [Documentation](https://docs.toolpony.com/en/guides/csv-compare/)

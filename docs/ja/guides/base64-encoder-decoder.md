@@ -38,11 +38,7 @@ aGVsbG8=
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/base64-encoder-decoder/>)
-
-
+[ツール全体を開く · Base64 のエンコード・デコード](<https://toolpony.com/ja/tools/base64-encoder-decoder/>)
 
 
 

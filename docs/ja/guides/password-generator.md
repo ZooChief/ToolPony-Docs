@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/password-generator/>)
-
-
+[ツール全体を開く · パスワード生成](<https://toolpony.com/ja/tools/password-generator/>)
 
 
 

@@ -38,11 +38,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/dice-roller/>)
-
-
+[전체 도구 열기 · 주사위 굴리기](<https://toolpony.com/ko/tools/dice-roller/>)
 
 
 

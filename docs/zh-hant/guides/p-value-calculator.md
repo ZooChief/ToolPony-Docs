@@ -38,11 +38,7 @@ z = 2.36
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/p-value-calculator/>)
-
-
+[打開完整工具 · 正態分佈 P 值計算器](<https://toolpony.com/zh-hant/tools/p-value-calculator/>)
 
 
 

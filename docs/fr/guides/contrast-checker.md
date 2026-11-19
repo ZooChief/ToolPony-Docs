@@ -38,11 +38,7 @@ Comparez deux couleurs opaques aux seuils de contraste WCAG 2.2.
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/contrast-checker/>)
-
-
+[Ouvrir l’outil complet · Vérificateur de contraste](<https://toolpony.com/fr/tools/contrast-checker/>)
 
 
 

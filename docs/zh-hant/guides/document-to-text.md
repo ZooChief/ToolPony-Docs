@@ -52,11 +52,7 @@ ABC	123
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/document-to-text/>)
-
-
+[打開完整工具 · 文檔轉純文本](<https://toolpony.com/zh-hant/tools/document-to-text/>)
 
 
 

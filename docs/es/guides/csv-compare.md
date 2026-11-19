@@ -59,11 +59,7 @@ Añadidas 1 · Eliminadas 1 · Modificadas 1
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/csv-compare/>)
-
-
+[Abrir herramienta completa · Comparador CSV](<https://toolpony.com/es/tools/csv-compare/>)
 
 
 
@@ -74,5 +70,9 @@ Añadidas 1 · Eliminadas 1 · Modificadas 1
 
 
 Hasta 1 MiB UTF-8, 5.000 filas y 80 columnas por tabla. La comparación conserva los ceros iniciales. Las claves vacías y duplicadas se muestran por separado. Los números cuentan registros desde el encabezado.
+
+
+
+Para comparar inventarios, usa una referencia estable como clave. Si 0012 pasa a 12 en el nuevo archivo, verás una baja y un alta. Conserva los ceros iniciales en ambos archivos para comparar las cantidades del mismo artículo.
 
 [Documentación](https://docs.toolpony.com/es/guides/csv-compare/)

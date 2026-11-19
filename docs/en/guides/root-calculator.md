@@ -38,11 +38,7 @@ Square root of 144
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/root-calculator/>)
-
-
+[Open full tool · Root calculator](<https://toolpony.com/en/tools/root-calculator/>)
 
 
 

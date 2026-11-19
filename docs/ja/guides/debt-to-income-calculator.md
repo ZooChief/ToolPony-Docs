@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/debt-to-income-calculator/>)
-
-
+[ツール全体を開く · 返済負担率計算機](<https://toolpony.com/ja/tools/debt-to-income-calculator/>)
 
 
 

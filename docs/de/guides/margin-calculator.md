@@ -38,11 +38,7 @@ Kosten 60, Preis 100
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/margin-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Gewinnmarge und Aufschlag](<https://toolpony.com/de/tools/margin-calculator/>)
 
 
 

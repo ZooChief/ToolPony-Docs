@@ -21,13 +21,37 @@
 
 
 
+## 例
+
+
+
+### 入力
+
+
+
+```
+PNG · 64 × 32 px (四隅が透明) → JPEG · 白い背景
+```
+
+[例 · PNG](<https://toolpony.com/samples/toolpony-64x32.png>)
+
+### 期待される結果
+
+
+
+```
+JPEG · 64 × 32 px (四隅が白)
+```
+
+
+
+
+
+
+
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/image-converter/>)
-
-
+[ツール全体を開く · 画像形式変換](<https://toolpony.com/ja/tools/image-converter/>)
 
 
 

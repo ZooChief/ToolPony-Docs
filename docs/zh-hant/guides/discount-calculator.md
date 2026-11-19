@@ -38,11 +38,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/discount-calculator/>)
-
-
+[打開完整工具 · 折扣計算器](<https://toolpony.com/zh-hant/tools/discount-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ sqrt(81) + 2^3 × sin(30), Grad
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/scientific-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Wissenschaftlicher Taschenrechner](<https://toolpony.com/de/tools/scientific-calculator/>)
 
 
 

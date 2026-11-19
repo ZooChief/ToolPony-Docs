@@ -51,11 +51,7 @@ Estimez le volume, la masse, le nombre de sacs et le coût du gravier ou du sabl
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/gravel-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculateur de gravier](<https://toolpony.com/fr/tools/gravel-calculator/>)
 
 
 

@@ -52,11 +52,7 @@ Estimate area and material cost for nine shapes, with mixed measurements and a w
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/square-footage-calculator/>)
-
-
+[Open full tool · Square footage calculator](<https://toolpony.com/en/tools/square-footage-calculator/>)
 
 
 

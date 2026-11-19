@@ -38,11 +38,7 @@ Ingresos 5.000, pagos de deuda 1.500
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/debt-to-income-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de relación deuda-ingresos](<https://toolpony.com/es/tools/debt-to-income-calculator/>)
 
 
 

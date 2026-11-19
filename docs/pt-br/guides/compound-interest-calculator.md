@@ -38,11 +38,7 @@ Projete um equilíbrio com contribuições recorrentes e inflação, ou converte
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/compound-interest-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de juros compostos](<https://toolpony.com/pt-br/tools/compound-interest-calculator/>)
 
 
 

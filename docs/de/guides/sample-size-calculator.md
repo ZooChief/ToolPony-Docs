@@ -38,11 +38,7 @@ Finden Sie eine minimale Umfragestichprobe oder schätzen Sie die Fehlerspanne m
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/sample-size-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Stichprobenumfang-Rechner](<https://toolpony.com/de/tools/sample-size-calculator/>)
 
 
 

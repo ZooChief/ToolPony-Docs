@@ -38,11 +38,7 @@ Konvertieren Sie zwischen wissenschaftlicher, technischer, E- und Dezimalnotatio
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/scientific-notation-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Rechner für wissenschaftliche Schreibweise](<https://toolpony.com/de/tools/scientific-notation-calculator/>)
 
 
 

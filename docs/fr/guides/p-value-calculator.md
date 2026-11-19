@@ -38,11 +38,7 @@ Probabilité bilatérale ≈ 0,018275
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/p-value-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculateur de p-valeur de la loi normale](<https://toolpony.com/fr/tools/p-value-calculator/>)
 
 
 

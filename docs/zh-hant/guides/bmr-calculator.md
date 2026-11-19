@@ -38,11 +38,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/bmr-calculator/>)
-
-
+[打開完整工具 · 基礎代謝與熱量計算器](<https://toolpony.com/zh-hant/tools/bmr-calculator/>)
 
 
 

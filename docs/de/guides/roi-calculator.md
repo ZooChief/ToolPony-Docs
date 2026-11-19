@@ -38,11 +38,7 @@ Berechnen Sie den Nettogewinn, die Gesamtrendite und die annualisierte Rendite m
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/roi-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · ROI-Rechner](<https://toolpony.com/de/tools/roi-calculator/>)
 
 
 

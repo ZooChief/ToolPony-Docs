@@ -38,11 +38,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/bandwidth-calculator/>)
-
-
+[打开完整工具 · 带宽与下载时间计算器](<https://toolpony.com/zh-hans/tools/bandwidth-calculator/>)
 
 
 

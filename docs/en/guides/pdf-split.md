@@ -34,7 +34,7 @@ Choose pages visually or enter ranges such as 1-3, 5. Save one PDF or group by r
 A 5-page PDF; selection: 5, 1-3
 ```
 
-
+[Example · PDF](<https://toolpony.com/samples/toolpony-pages.pdf>)
 
 ### Expected result
 
@@ -52,11 +52,7 @@ One PDF containing pages 5, 1, 2, 3 in that order.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/pdf-split/>)
-
-
+[Open full tool · Split PDF](<https://toolpony.com/en/tools/pdf-split/>)
 
 
 

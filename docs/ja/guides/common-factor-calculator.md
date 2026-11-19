@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/common-factor-calculator/>)
-
-
+[ツール全体を開く · 公約数計算機](<https://toolpony.com/ja/tools/common-factor-calculator/>)
 
 
 

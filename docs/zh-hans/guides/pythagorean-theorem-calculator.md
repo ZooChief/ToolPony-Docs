@@ -50,11 +50,7 @@ b² = 32 − 7 = 25，因此 b = 5。
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/pythagorean-theorem-calculator/>)
-
-
+[打开完整工具 · 勾股定理计算器](<https://toolpony.com/zh-hans/tools/pythagorean-theorem-calculator/>)
 
 
 

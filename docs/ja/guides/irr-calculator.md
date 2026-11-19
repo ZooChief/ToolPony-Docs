@@ -38,11 +38,7 @@ IRR ≈ 15.093%
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/irr-calculator/>)
-
-
+[ツール全体を開く · 内部収益率（IRR）計算機](<https://toolpony.com/ja/tools/irr-calculator/>)
 
 
 

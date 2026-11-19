@@ -38,11 +38,7 @@ Listen Sie alle positiven gemeinsamen Faktoren auf und berechnen Sie den größt
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/common-factor-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Rechner für gemeinsame Teiler](<https://toolpony.com/de/tools/common-factor-calculator/>)
 
 
 

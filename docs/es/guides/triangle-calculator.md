@@ -52,11 +52,7 @@ Dos soluciones con c ≈ 13,55923 y 3,76127.
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/triangle-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de triángulos](<https://toolpony.com/es/tools/triangle-calculator/>)
 
 
 

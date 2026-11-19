@@ -38,11 +38,7 @@ Solve for mass, volume or density by entering any two values.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/density-calculator/>)
-
-
+[Open full tool · Density calculator](<https://toolpony.com/en/tools/density-calculator/>)
 
 
 

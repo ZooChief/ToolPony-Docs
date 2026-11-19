@@ -53,11 +53,7 @@ Céu azul céu azul
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/word-counter/>)
-
-
+[Abrir ferramenta completa · Contador de palavras e caracteres](<https://toolpony.com/pt-br/tools/word-counter/>)
 
 
 

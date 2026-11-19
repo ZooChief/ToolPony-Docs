@@ -52,11 +52,7 @@ ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/file-hash-calculator/>)
-
-
+[전체 도구 열기 · 파일 및 텍스트 해시 계산기](<https://toolpony.com/ko/tools/file-hash-calculator/>)
 
 
 

@@ -50,11 +50,7 @@ Birth 2000-01-01, reference 2025-02-03
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/age-calculator/>)
-
-
+[Open full tool · Age calculator](<https://toolpony.com/en/tools/age-calculator/>)
 
 
 

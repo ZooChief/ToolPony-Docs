@@ -38,11 +38,7 @@ Utilisez l'arithmétique exacte pour ajouter, soustraire, multiplier, diviser ou
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/fraction-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de fractions](<https://toolpony.com/fr/tools/fraction-calculator/>)
 
 
 

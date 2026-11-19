@@ -52,11 +52,7 @@ Erreichbare Ergebnisse sind WebP-Dateien mit je höchstens 100.000 Byte im ZIP.
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/image-compressor/>)
-
-
+[Vollständiges Werkzeug öffnen · Bilder komprimieren](<https://toolpony.com/de/tools/image-compressor/>)
 
 
 

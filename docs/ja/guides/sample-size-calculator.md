@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/sample-size-calculator/>)
-
-
+[ツール全体を開く · サンプルサイズ計算機](<https://toolpony.com/ja/tools/sample-size-calculator/>)
 
 
 

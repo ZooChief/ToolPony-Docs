@@ -65,11 +65,7 @@ Overlap 50 ms
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/subtitle-converter/>)
-
-
+[ツール全体を開く · 字幕変換と時間調整](<https://toolpony.com/ja/tools/subtitle-converter/>)
 
 
 

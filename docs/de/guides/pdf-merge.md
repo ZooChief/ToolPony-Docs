@@ -51,11 +51,7 @@ Eine PDF mit A1, A2, B1, B2, B3 in dieser Reihenfolge
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/pdf-merge/>)
-
-
+[Vollständiges Werkzeug öffnen · PDFs zusammenführen](<https://toolpony.com/de/tools/pdf-merge/>)
 
 
 

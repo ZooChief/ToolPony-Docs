@@ -51,11 +51,7 @@ Lesen Sie 3–6 Farbringe und berechnen Sie Reihen-, Parallel- oder Drahtwiderst
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/resistor-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Widerstands- und Farbcode-Rechner](<https://toolpony.com/de/tools/resistor-calculator/>)
 
 
 

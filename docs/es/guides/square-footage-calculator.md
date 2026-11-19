@@ -52,11 +52,7 @@ Costo estimado del área y del material para nueve formas, con mediciones mixtas
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/square-footage-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de superficie en pies cuadrados](<https://toolpony.com/es/tools/square-footage-calculator/>)
 
 
 

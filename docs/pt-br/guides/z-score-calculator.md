@@ -38,11 +38,7 @@ z = −1.25
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/z-score-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de escore Z](<https://toolpony.com/pt-br/tools/z-score-calculator/>)
 
 
 

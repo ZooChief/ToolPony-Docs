@@ -38,11 +38,7 @@ A fresh random password
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/password-generator/>)
-
-
+[Open full tool · Password generator](<https://toolpony.com/en/tools/password-generator/>)
 
 
 

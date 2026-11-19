@@ -38,11 +38,7 @@ Trouvez les facteurs principaux, la forme de l'exposant et le nombre de diviseur
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/prime-factorization-calculator/>)
-
-
+[Ouvrir l’outil complet · Décomposition en facteurs premiers](<https://toolpony.com/fr/tools/prime-factorization-calculator/>)
 
 
 

@@ -52,11 +52,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/image-resizer/>)
-
-
+[打開完整工具 · 圖片尺寸調整](<https://toolpony.com/zh-hant/tools/image-resizer/>)
 
 
 

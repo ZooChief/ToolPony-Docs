@@ -38,11 +38,7 @@ Steigung 4/3 und Entfernung 5
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/slope-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Steigungsrechner](<https://toolpony.com/de/tools/slope-calculator/>)
 
 
 

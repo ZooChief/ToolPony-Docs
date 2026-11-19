@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/pace-calculator/>)
-
-
+[ツール全体を開く · ランニングペース計算機](<https://toolpony.com/ja/tools/pace-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ Convert a calorie target and nutrient ratios into grams, or calculate energy and
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/macro-calculator/>)
-
-
+[Open full tool · Macronutrient calculator](<https://toolpony.com/en/tools/macro-calculator/>)
 
 
 

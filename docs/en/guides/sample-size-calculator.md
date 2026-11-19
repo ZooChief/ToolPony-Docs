@@ -38,11 +38,7 @@ Find a minimum survey sample or estimate the margin of error with finite-populat
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/sample-size-calculator/>)
-
-
+[Open full tool · Sample size calculator](<https://toolpony.com/en/tools/sample-size-calculator/>)
 
 
 

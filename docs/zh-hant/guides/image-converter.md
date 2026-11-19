@@ -22,13 +22,37 @@
 
 
 
+## 示例
+
+
+
+### 輸入
+
+
+
+```
+PNG · 64 × 32 px (四角透明) → JPEG · 白色背景
+```
+
+[示例 · PNG](<https://toolpony.com/samples/toolpony-64x32.png>)
+
+### 預期結果
+
+
+
+```
+JPEG · 64 × 32 px (四角爲白色)
+```
+
+
+
+
+
+
+
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/image-converter/>)
-
-
+[打開完整工具 · 圖片格式轉換](<https://toolpony.com/zh-hant/tools/image-converter/>)
 
 
 

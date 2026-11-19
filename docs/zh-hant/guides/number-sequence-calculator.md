@@ -38,11 +38,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/number-sequence-calculator/>)
-
-
+[打開完整工具 · 數列計算器](<https://toolpony.com/zh-hant/tools/number-sequence-calculator/>)
 
 
 

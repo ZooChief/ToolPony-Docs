@@ -35,7 +35,7 @@
 5 ページの PDF、選択 5, 1-3
 ```
 
-
+[例 · PDF](<https://toolpony.com/samples/toolpony-pages.pdf>)
 
 ### 期待される結果
 
@@ -53,11 +53,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/pdf-split/>)
-
-
+[ツール全体を開く · PDF を分割](<https://toolpony.com/ja/tools/pdf-split/>)
 
 
 

@@ -38,11 +38,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/margin-calculator/>)
-
-
+[전체 도구 열기 · 이익률과 원가 가산율](<https://toolpony.com/ko/tools/margin-calculator/>)
 
 
 

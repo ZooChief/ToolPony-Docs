@@ -38,11 +38,7 @@ x=15
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/ratio-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de rapports](<https://toolpony.com/fr/tools/ratio-calculator/>)
 
 
 

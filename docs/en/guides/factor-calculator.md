@@ -38,11 +38,7 @@ List every positive divisor, all factor pairs, and the prime factorization.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/factor-calculator/>)
-
-
+[Open full tool · Factor calculator](<https://toolpony.com/en/tools/factor-calculator/>)
 
 
 

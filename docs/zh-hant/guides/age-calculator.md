@@ -50,11 +50,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/age-calculator/>)
-
-
+[打開完整工具 · 年齡計算器](<https://toolpony.com/zh-hant/tools/age-calculator/>)
 
 
 

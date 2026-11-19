@@ -38,11 +38,7 @@ Sphere with radius 2 m
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/volume-calculator/>)
-
-
+[Open full tool · Volume calculator](<https://toolpony.com/en/tools/volume-calculator/>)
 
 
 

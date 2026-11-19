@@ -52,11 +52,7 @@ a = 7, b = 10, A = 30°
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/triangle-calculator/>)
-
-
+[전체 도구 열기 · 삼각형 계산기](<https://toolpony.com/ko/tools/triangle-calculator/>)
 
 
 

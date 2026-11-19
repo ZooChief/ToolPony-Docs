@@ -51,11 +51,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/resistor-calculator/>)
-
-
+[ツール全体を開く · 抵抗値・カラーコード計算機](<https://toolpony.com/ja/tools/resistor-calculator/>)
 
 
 

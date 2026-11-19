@@ -52,11 +52,7 @@ ABC	123
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/document-to-text/>)
-
-
+[Abrir herramienta completa · Documento a texto](<https://toolpony.com/es/tools/document-to-text/>)
 
 
 

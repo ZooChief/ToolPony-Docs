@@ -38,11 +38,7 @@ Encontre vendas, taxa, ou comissão, em seguida, calcular um pagamento base mais
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/commission-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de comissões](<https://toolpony.com/pt-br/tools/commission-calculator/>)
 
 
 

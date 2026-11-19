@@ -38,11 +38,7 @@ n=10, r=3, 반복 없이
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/permutation-combination-calculator/>)
-
-
+[전체 도구 열기 · 순열과 조합 계산기](<https://toolpony.com/ko/tools/permutation-combination-calculator/>)
 
 
 

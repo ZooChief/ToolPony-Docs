@@ -51,11 +51,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/roofing-calculator/>)
-
-
+[ツール全体を開く · 屋根材計算機](<https://toolpony.com/ja/tools/roofing-calculator/>)
 
 
 

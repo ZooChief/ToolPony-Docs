@@ -38,11 +38,7 @@ Calculate simple interest or solve for principal, interest rate, or term from th
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/simple-interest-calculator/>)
-
-
+[Open full tool · Simple interest calculator](<https://toolpony.com/en/tools/simple-interest-calculator/>)
 
 
 

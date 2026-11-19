@@ -51,11 +51,7 @@ https://example.com/qr-sample
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/qr-code-reader/>)
-
-
+[Open full tool · QR code reader](<https://toolpony.com/en/tools/qr-code-reader/>)
 
 
 

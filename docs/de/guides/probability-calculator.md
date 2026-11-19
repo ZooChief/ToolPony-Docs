@@ -38,11 +38,7 @@ Mindestens ein Ereignis 0,6964
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/probability-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Wahrscheinlichkeitsrechner](<https://toolpony.com/de/tools/probability-calculator/>)
 
 
 

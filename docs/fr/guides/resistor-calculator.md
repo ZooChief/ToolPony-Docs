@@ -51,11 +51,7 @@ Décodez 3 à 6 anneaux et calculez la résistance en série, en parallèle ou d
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/resistor-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculateur de résistances et de codes couleur](<https://toolpony.com/fr/tools/resistor-calculator/>)
 
 
 

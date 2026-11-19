@@ -38,11 +38,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/probability-calculator/>)
-
-
+[전체 도구 열기 · 확률 계산기](<https://toolpony.com/ko/tools/probability-calculator/>)
 
 
 

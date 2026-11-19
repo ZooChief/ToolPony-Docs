@@ -38,11 +38,7 @@ Ecuación masculina, 30 años, 70 kg, 175 cm, Mifflin-St Jeor
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/bmr-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de metabolismo basal y calorías](<https://toolpony.com/es/tools/bmr-calculator/>)
 
 
 

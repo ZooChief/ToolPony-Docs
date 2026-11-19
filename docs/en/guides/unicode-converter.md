@@ -38,11 +38,7 @@ U+1F434 or F0 9F 90 B4
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/unicode-converter/>)
-
-
+[Open full tool · Unicode converter](<https://toolpony.com/en/tools/unicode-converter/>)
 
 
 

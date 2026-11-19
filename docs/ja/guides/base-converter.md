@@ -38,11 +38,7 @@ FF、ベース16からベース10
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/base-converter/>)
-
-
+[ツール全体を開く · 進数変換・計算機](<https://toolpony.com/ja/tools/base-converter/>)
 
 
 

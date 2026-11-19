@@ -38,11 +38,7 @@ z = 2.36
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/p-value-calculator/>)
-
-
+[ツール全体を開く · 正規分布の p 値計算機](<https://toolpony.com/ja/tools/p-value-calculator/>)
 
 
 

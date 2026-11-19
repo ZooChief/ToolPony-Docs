@@ -21,13 +21,37 @@ Füge Bilder in verschiedenen Formaten hinzu. Das Eingabeformat wird am Dateiinh
 
 
 
+## Beispiel
+
+
+
+### Eingabe
+
+
+
+```
+PNG · 64 × 32 px (transparente Ecken) → JPEG · weißer Hintergrund
+```
+
+[Beispiel · PNG](<https://toolpony.com/samples/toolpony-64x32.png>)
+
+### Erwartetes Ergebnis
+
+
+
+```
+JPEG · 64 × 32 px (weiße Ecken)
+```
+
+
+
+
+
+
+
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/image-converter/>)
-
-
+[Vollständiges Werkzeug öffnen · Bildformat konvertieren](<https://toolpony.com/de/tools/image-converter/>)
 
 
 

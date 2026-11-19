@@ -51,11 +51,7 @@ Rund 2.461 ft², 28 Squares mit 10 % Zugabe.
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/roofing-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Dachflächenrechner](<https://toolpony.com/de/tools/roofing-calculator/>)
 
 
 

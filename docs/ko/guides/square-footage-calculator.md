@@ -52,11 +52,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/square-footage-calculator/>)
-
-
+[전체 도구 열기 · 면적·제곱피트 계산기](<https://toolpony.com/ko/tools/square-footage-calculator/>)
 
 
 

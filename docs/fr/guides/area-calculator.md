@@ -38,11 +38,7 @@ Un rectangle de 4 m sur 3 m
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/area-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice d’aire](<https://toolpony.com/fr/tools/area-calculator/>)
 
 
 

@@ -55,11 +55,7 @@ Deutschland
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/sample-address-generator/>)
-
-
+[ツール全体を開く · サンプル住所生成](<https://toolpony.com/ja/tools/sample-address-generator/>)
 
 
 

@@ -38,11 +38,7 @@ IANA 시간대 또는 고정 UTC 오프셋으로 날짜와 시각을 변환합�
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/time-zone-converter/>)
-
-
+[전체 도구 열기 · 시간대 변환기](<https://toolpony.com/ko/tools/time-zone-converter/>)
 
 
 

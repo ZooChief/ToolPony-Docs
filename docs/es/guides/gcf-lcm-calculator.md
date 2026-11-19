@@ -38,11 +38,7 @@ GCF 6; LCM 72
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/gcf-lcm-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de MCD y mcm](<https://toolpony.com/es/tools/gcf-lcm-calculator/>)
 
 
 

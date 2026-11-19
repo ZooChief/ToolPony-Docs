@@ -52,11 +52,7 @@ Blue sky blue sky
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/word-counter/>)
-
-
+[Open full tool · Word counter](<https://toolpony.com/en/tools/word-counter/>)
 
 
 

@@ -22,13 +22,37 @@ Desenhe na tela com um pincel ou borracha. Defina a cor e o tamanho, desfaça ou
 
 
 
+## Exemplo
+
+
+
+### Entrada
+
+
+
+```
+Desenhe dois traços, desfaça uma vez e baixe o PNG.
+```
+
+
+
+### Resultado esperado
+
+
+
+```
+Apenas o primeiro traço permanece. Os pixels sem pintura ficam transparentes e o desenho pode ser sobreposto a outra imagem.
+```
+
+
+
+
+
+
+
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/drawing-board/>)
-
-
+[Abrir ferramenta completa · Quadro de desenho](<https://toolpony.com/pt-br/tools/drawing-board/>)
 
 
 

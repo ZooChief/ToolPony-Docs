@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/roi-calculator/>)
-
-
+[ツール全体を開く · 投資収益率（ROI）計算機](<https://toolpony.com/ja/tools/roi-calculator/>)
 
 
 

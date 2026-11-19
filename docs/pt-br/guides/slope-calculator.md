@@ -38,11 +38,7 @@ Deslize 4/3 e distância 5
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/slope-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de inclinação](<https://toolpony.com/pt-br/tools/slope-calculator/>)
 
 
 

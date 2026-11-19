@@ -51,11 +51,7 @@ Leia de 3 a 6 faixas e calcule resistências em série, em paralelo ou de um fio
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/resistor-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de resistores e código de cores](<https://toolpony.com/pt-br/tools/resistor-calculator/>)
 
 
 

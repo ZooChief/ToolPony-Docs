@@ -52,11 +52,7 @@ Estimer les tuiles, les boîtes et le coût à partir des dimensions des tuiles,
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/tile-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de quantité de carreaux](<https://toolpony.com/fr/tools/tile-calculator/>)
 
 
 

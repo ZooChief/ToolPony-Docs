@@ -2,7 +2,7 @@
 
 
 
-Explore a tool, try an example, and get your own result.
+Work through examples for ToolPony calculators, image converters and PDF tools. Check the expected result and try the same inputs in the guide.
 
 
 

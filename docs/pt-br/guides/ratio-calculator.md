@@ -38,11 +38,7 @@ x=15
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/ratio-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de razões](<https://toolpony.com/pt-br/tools/ratio-calculator/>)
 
 
 

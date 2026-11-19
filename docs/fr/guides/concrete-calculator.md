@@ -52,11 +52,7 @@ Estimer le volume de béton, le poids et les sacs entiers pour les dalles, les s
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/concrete-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de quantité de béton](<https://toolpony.com/fr/tools/concrete-calculator/>)
 
 
 

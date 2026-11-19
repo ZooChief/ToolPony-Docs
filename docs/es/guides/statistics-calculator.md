@@ -38,11 +38,7 @@ Resumir un conjunto de datos con mediana, modos, cuartiles y dispersión de la p
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/statistics-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora estadística](<https://toolpony.com/es/tools/statistics-calculator/>)
 
 
 

@@ -51,11 +51,7 @@ Berechnen Sie Volumen, Sackzahl und Kosten für eine oder mehrere Flächen.
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/mulch-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Mulchrechner](<https://toolpony.com/de/tools/mulch-calculator/>)
 
 
 

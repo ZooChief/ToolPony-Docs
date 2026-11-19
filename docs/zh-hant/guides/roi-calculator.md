@@ -38,11 +38,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/roi-calculator/>)
-
-
+[打開完整工具 · 投資回報率計算器](<https://toolpony.com/zh-hant/tools/roi-calculator/>)
 
 
 

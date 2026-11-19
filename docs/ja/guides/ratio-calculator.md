@@ -38,11 +38,7 @@ x=15
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/ratio-calculator/>)
-
-
+[ツール全体を開く · 比の計算機](<https://toolpony.com/ja/tools/ratio-calculator/>)
 
 
 

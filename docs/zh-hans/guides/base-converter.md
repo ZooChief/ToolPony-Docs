@@ -38,11 +38,7 @@ FF，从十六进制转十进制
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/base-converter/>)
-
-
+[打开完整工具 · 进制转换与计算器](<https://toolpony.com/zh-hans/tools/base-converter/>)
 
 
 

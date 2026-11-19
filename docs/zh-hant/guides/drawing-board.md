@@ -22,13 +22,37 @@
 
 
 
+## 示例
+
+
+
+### 輸入
+
+
+
+```
+畫兩筆，撤銷一次，然後下載 PNG。
+```
+
+
+
+### 預期結果
+
+
+
+```
+只留下第一筆，未繪製區域透明，可以疊放在另一張圖片上。
+```
+
+
+
+
+
+
+
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/drawing-board/>)
-
-
+[打開完整工具 · 在線畫板](<https://toolpony.com/zh-hant/tools/drawing-board/>)
 
 
 

@@ -38,11 +38,7 @@ Raiz quadrada de 144
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/root-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de raízes](<https://toolpony.com/pt-br/tools/root-calculator/>)
 
 
 

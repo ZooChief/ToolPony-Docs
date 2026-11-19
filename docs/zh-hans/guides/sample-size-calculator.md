@@ -38,11 +38,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/sample-size-calculator/>)
-
-
+[打开完整工具 · 样本量计算器](<https://toolpony.com/zh-hans/tools/sample-size-calculator/>)
 
 
 

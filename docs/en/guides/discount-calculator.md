@@ -38,11 +38,7 @@ Stack discounts, subtract a fixed coupon and apply sales tax to the discounted p
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/discount-calculator/>)
-
-
+[Open full tool · Discount calculator](<https://toolpony.com/en/tools/discount-calculator/>)
 
 
 

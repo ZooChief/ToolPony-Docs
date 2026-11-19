@@ -38,11 +38,7 @@ Base 3, 인수 81
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/log-calculator/>)
-
-
+[전체 도구 열기 · 로그 계산기](<https://toolpony.com/ko/tools/log-calculator/>)
 
 
 

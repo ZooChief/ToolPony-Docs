@@ -38,11 +38,7 @@ Remboursement de 3,379 ans, actualisé 3,841 ans
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/payback-period-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de délai de récupération](<https://toolpony.com/fr/tools/payback-period-calculator/>)
 
 
 

@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/day-of-week-calculator/>)
-
-
+[ツール全体を開く · 曜日計算機](<https://toolpony.com/ja/tools/day-of-week-calculator/>)
 
 
 

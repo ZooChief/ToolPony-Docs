@@ -38,11 +38,7 @@ U+1F434またはF0 9F 90 B4
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/unicode-converter/>)
-
-
+[ツール全体を開く · Unicode 変換](<https://toolpony.com/ja/tools/unicode-converter/>)
 
 
 

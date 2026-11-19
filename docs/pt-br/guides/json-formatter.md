@@ -55,11 +55,7 @@ Colar JSON, escolher uma indentação, e formatar ou minimizá-lo. Copie o resul
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/json-formatter/>)
-
-
+[Abrir ferramenta completa · Formatador JSON](<https://toolpony.com/pt-br/tools/json-formatter/>)
 
 
 

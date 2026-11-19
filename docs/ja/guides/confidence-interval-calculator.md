@@ -38,11 +38,7 @@ n = 36、平均56、標準偏差8、99%
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/confidence-interval-calculator/>)
-
-
+[ツール全体を開く · 信頼区間計算機](<https://toolpony.com/ja/tools/confidence-interval-calculator/>)
 
 
 

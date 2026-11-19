@@ -38,11 +38,7 @@ IPv4 및 IPv6 네트워크, 마스크, 범위 및 주소 수를 검사하거나 
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/ip-subnet-calculator/>)
-
-
+[전체 도구 열기 · IP 서브넷 계산기](<https://toolpony.com/ko/tools/ip-subnet-calculator/>)
 
 
 

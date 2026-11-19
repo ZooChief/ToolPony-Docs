@@ -52,11 +52,7 @@ Os resultados que atingirem o limite são WebP com até 100.000 bytes em um ZIP.
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/image-compressor/>)
-
-
+[Abrir ferramenta completa · Comprimir imagens](<https://toolpony.com/pt-br/tools/image-compressor/>)
 
 
 

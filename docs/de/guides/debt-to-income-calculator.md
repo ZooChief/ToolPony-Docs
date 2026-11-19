@@ -38,11 +38,7 @@ Einkommen 5.000, Schuldenzahlungen 1.500
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/debt-to-income-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Rechner für das Schulden-Einkommens-Verhältnis](<https://toolpony.com/de/tools/debt-to-income-calculator/>)
 
 
 

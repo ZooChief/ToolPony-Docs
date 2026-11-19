@@ -55,11 +55,7 @@ JSONを貼り付け、インデントを選択してフォーマットするか�
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/json-formatter/>)
-
-
+[ツール全体を開く · JSON 整形](<https://toolpony.com/ja/tools/json-formatter/>)
 
 
 

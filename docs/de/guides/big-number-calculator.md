@@ -38,11 +38,7 @@ Berechnen Sie mit genauen großen Ganzzahlen und Dezimalkoeffizienten, mit wähl
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/big-number-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Rechner für große Zahlen](<https://toolpony.com/de/tools/big-number-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ x=15
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/ratio-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Verhältnisrechner](<https://toolpony.com/de/tools/ratio-calculator/>)
 
 
 

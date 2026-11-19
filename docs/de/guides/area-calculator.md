@@ -38,11 +38,7 @@ Ein Rechteck 4 m mal 3 m
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/area-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Flächenrechner](<https://toolpony.com/de/tools/area-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ n = 36, moyenne 56, écart type 8, 99%
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/confidence-interval-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice d’intervalle de confiance](<https://toolpony.com/fr/tools/confidence-interval-calculator/>)
 
 
 

@@ -51,11 +51,7 @@ Estima el volumen, los sacos y el coste del mantillo para una o varias zonas.
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/mulch-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de mantillo](<https://toolpony.com/es/tools/mulch-calculator/>)
 
 
 

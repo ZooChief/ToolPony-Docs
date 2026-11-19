@@ -38,11 +38,7 @@ GPA 3.5
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/gpa-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · GPA-Rechner](<https://toolpony.com/de/tools/gpa-calculator/>)
 
 
 

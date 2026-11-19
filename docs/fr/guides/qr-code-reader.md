@@ -51,11 +51,7 @@ https://example.com/qr-sample
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/qr-code-reader/>)
-
-
+[Ouvrir l’outil complet · Lecteur de code QR](<https://toolpony.com/fr/tools/qr-code-reader/>)
 
 
 

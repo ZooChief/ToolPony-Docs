@@ -38,11 +38,7 @@ BMI ≈22.86 kg/m2
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/bmi-calculator/>)
-
-
+[전체 도구 열기 · 성인 BMI 계산기](<https://toolpony.com/ko/tools/bmi-calculator/>)
 
 
 

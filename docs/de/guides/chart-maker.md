@@ -54,11 +54,7 @@ Zwei Werte bei Jan und Feb, von links nach rechts aufgetragen.
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/chart-maker/>)
-
-
+[Vollständiges Werkzeug öffnen · Diagramme erstellen](<https://toolpony.com/de/tools/chart-maker/>)
 
 
 

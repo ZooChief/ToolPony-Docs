@@ -38,11 +38,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/number-sequence-calculator/>)
-
-
+[전체 도구 열기 · 수열 계산기](<https://toolpony.com/ko/tools/number-sequence-calculator/>)
 
 
 

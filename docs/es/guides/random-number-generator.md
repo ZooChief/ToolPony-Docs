@@ -38,11 +38,7 @@ Cinco enteros aleatorios del 1 al 10
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/random-number-generator/>)
-
-
+[Abrir herramienta completa · Generador de números aleatorios](<https://toolpony.com/es/tools/random-number-generator/>)
 
 
 

@@ -38,11 +38,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/dice-roller/>)
-
-
+[打開完整工具 · 擲骰子](<https://toolpony.com/zh-hant/tools/dice-roller/>)
 
 
 

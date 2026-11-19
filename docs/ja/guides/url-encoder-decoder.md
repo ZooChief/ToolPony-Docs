@@ -38,11 +38,7 @@ a%2Bb%20%26%20c
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/url-encoder-decoder/>)
-
-
+[ツール全体を開く · URL のエンコード・デコード](<https://toolpony.com/ja/tools/url-encoder-decoder/>)
 
 
 

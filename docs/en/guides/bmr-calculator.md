@@ -38,11 +38,7 @@ Male equation, 30 years, 70 kg, 175 cm, Mifflin–St Jeor
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/bmr-calculator/>)
-
-
+[Open full tool · BMR and calorie calculator](<https://toolpony.com/en/tools/bmr-calculator/>)
 
 
 

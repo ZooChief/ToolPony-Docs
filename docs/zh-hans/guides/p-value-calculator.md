@@ -38,11 +38,7 @@ z = 2.36
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/p-value-calculator/>)
-
-
+[打开完整工具 · 正态分布 P 值计算器](<https://toolpony.com/zh-hans/tools/p-value-calculator/>)
 
 
 

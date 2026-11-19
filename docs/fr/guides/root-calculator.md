@@ -38,11 +38,7 @@ Racine carrée de 144
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/root-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de racines](<https://toolpony.com/fr/tools/root-calculator/>)
 
 
 

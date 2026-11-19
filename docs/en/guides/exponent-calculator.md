@@ -38,11 +38,7 @@ Base 2, exponent 5
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/exponent-calculator/>)
-
-
+[Open full tool · Exponent calculator](<https://toolpony.com/en/tools/exponent-calculator/>)
 
 
 

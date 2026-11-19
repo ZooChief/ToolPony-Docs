@@ -38,11 +38,7 @@ Divide números enteros o decimales e inspeccione el cociente, el resto, el valo
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/long-division-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de división larga](<https://toolpony.com/es/tools/long-division-calculator/>)
 
 
 

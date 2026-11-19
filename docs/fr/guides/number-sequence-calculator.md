@@ -38,11 +38,7 @@ Suite arithmétique, premier terme 7, raison −3, indice 8
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/number-sequence-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculateur de suites](<https://toolpony.com/fr/tools/number-sequence-calculator/>)
 
 
 

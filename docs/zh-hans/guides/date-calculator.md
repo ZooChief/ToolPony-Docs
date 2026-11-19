@@ -51,11 +51,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/date-calculator/>)
-
-
+[打开完整工具 · 日期计算器](<https://toolpony.com/zh-hans/tools/date-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ x₁=2, x₂=3
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/quadratic-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de equações quadráticas](<https://toolpony.com/pt-br/tools/quadratic-calculator/>)
 
 
 

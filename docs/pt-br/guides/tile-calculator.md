@@ -52,11 +52,7 @@ Estimar azulejos, caixas e custo de dimensões de azulejo, espaçamento de grout
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/tile-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de quantidade de pisos](<https://toolpony.com/pt-br/tools/tile-calculator/>)
 
 
 

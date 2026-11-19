@@ -51,11 +51,7 @@ Saisissez une semaine de services et de pauses avec arrondi, règles de paie et 
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/time-card-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculateur de feuille d’heures](<https://toolpony.com/fr/tools/time-card-calculator/>)
 
 
 

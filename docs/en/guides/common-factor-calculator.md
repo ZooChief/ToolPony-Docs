@@ -38,11 +38,7 @@ List all positive common factors and calculate the greatest common factor of mul
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/common-factor-calculator/>)
-
-
+[Open full tool · Common factor calculator](<https://toolpony.com/en/tools/common-factor-calculator/>)
 
 
 

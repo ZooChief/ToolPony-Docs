@@ -50,11 +50,7 @@ Das 22:30 às 06:15 do dia seguinte
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/time-duration-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de duração](<https://toolpony.com/pt-br/tools/time-duration-calculator/>)
 
 
 

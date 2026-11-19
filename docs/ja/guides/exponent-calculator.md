@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/exponent-calculator/>)
-
-
+[ツール全体を開く · べき乗計算機](<https://toolpony.com/ja/tools/exponent-calculator/>)
 
 
 

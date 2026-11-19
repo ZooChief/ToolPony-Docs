@@ -38,11 +38,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/simple-interest-calculator/>)
-
-
+[打开完整工具 · 单利计算器](<https://toolpony.com/zh-hans/tools/simple-interest-calculator/>)
 
 
 

@@ -52,11 +52,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/image-color-picker/>)
-
-
+[ツール全体を開く · 画像から色を抽出](<https://toolpony.com/ja/tools/image-color-picker/>)
 
 
 

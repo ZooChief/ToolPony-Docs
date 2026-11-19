@@ -52,11 +52,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/image-color-picker/>)
-
-
+[打開完整工具 · 圖片取色器](<https://toolpony.com/zh-hant/tools/image-color-picker/>)
 
 
 

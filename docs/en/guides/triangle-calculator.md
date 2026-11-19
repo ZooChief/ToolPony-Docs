@@ -52,11 +52,7 @@ Two solutions, with c about 13.55923 and 3.76127.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/triangle-calculator/>)
-
-
+[Open full tool · Triangle calculator](<https://toolpony.com/en/tools/triangle-calculator/>)
 
 
 

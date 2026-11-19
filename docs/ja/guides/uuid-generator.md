@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/uuid-generator/>)
-
-
+[ツール全体を開く · UUID 生成](<https://toolpony.com/ja/tools/uuid-generator/>)
 
 
 

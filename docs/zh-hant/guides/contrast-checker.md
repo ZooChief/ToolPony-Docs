@@ -38,11 +38,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/contrast-checker/>)
-
-
+[打開完整工具 · 顏色對比度檢查](<https://toolpony.com/zh-hant/tools/contrast-checker/>)
 
 
 

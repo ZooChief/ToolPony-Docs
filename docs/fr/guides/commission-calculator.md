@@ -38,11 +38,7 @@ Trouvez les ventes, le taux ou la commission, puis calculez un paiement de base 
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/commission-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de commissions](<https://toolpony.com/fr/tools/commission-calculator/>)
 
 
 

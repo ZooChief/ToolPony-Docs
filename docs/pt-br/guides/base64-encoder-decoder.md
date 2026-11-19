@@ -38,11 +38,7 @@ aGVsbG8=
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/base64-encoder-decoder/>)
-
-
+[Abrir ferramenta completa · Codificar e decodificar Base64](<https://toolpony.com/pt-br/tools/base64-encoder-decoder/>)
 
 
 

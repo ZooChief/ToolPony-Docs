@@ -38,11 +38,7 @@ GCF 6; LCM 72
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/gcf-lcm-calculator/>)
-
-
+[전체 도구 열기 · 최대공약수·최소공배수 계산기](<https://toolpony.com/ko/tools/gcf-lcm-calculator/>)
 
 
 

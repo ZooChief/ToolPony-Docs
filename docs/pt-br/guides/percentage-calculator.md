@@ -52,11 +52,7 @@ Resolver porcentagem, parte, total, aumento, diminuição, mudança reversa, dif
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/percentage-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de porcentagem](<https://toolpony.com/pt-br/tools/percentage-calculator/>)
 
 
 

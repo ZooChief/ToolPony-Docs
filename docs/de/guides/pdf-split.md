@@ -35,7 +35,7 @@ Wählen Sie Seiten und speichern Sie sie als PDF oder ZIP.
 PDF mit 5 Seiten, Auswahl 5, 1-3
 ```
 
-
+[Beispiel · PDF](<https://toolpony.com/samples/toolpony-pages.pdf>)
 
 ### Erwartetes Ergebnis
 
@@ -53,11 +53,7 @@ Eine PDF mit Seiten 5, 1, 2 und 3 in dieser Reihenfolge
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/pdf-split/>)
-
-
+[Vollständiges Werkzeug öffnen · PDF aufteilen](<https://toolpony.com/de/tools/pdf-split/>)
 
 
 

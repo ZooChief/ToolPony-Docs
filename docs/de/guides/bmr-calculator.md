@@ -38,11 +38,7 @@ Männliche Gleichung, 30 Jahre, 70 kg, 175 cm, Mifflin-St Jeor
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/bmr-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Grundumsatz- und Kalorienrechner](<https://toolpony.com/de/tools/bmr-calculator/>)
 
 
 

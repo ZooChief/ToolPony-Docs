@@ -52,11 +52,7 @@ https://example.com/
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/qr-code-generator/>)
-
-
+[打开完整工具 · 二维码生成器](<https://toolpony.com/zh-hans/tools/qr-code-generator/>)
 
 
 

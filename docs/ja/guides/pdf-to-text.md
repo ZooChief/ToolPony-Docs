@@ -33,7 +33,7 @@
 最初の 2 ページが「One」「Two」の PDF、選択 2, 1
 ```
 
-
+[例 · PDF](<https://toolpony.com/samples/toolpony-pages.pdf>)
 
 ### 期待される結果
 
@@ -51,11 +51,7 @@ JSON：2 ページ目が Two、次に 1 ページ目が One
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/pdf-to-text/>)
-
-
+[ツール全体を開く · PDF からテキストへ](<https://toolpony.com/ja/tools/pdf-to-text/>)
 
 
 
@@ -66,5 +62,9 @@ JSON：2 ページ目が Two、次に 1 ページ目が One
 
 
 最大 30 MB、300 ページ、200 万文字、20 万テキスト要素。PDF 内部のテキスト順を使用します。スキャン文書には OCR が必要です。暗号化 PDF は対象外です。
+
+
+
+スキャンが読めるのに抽出できない場合は、PDF ビューアーで単語を選択してみてください。写真だけのページには OCR でテキスト層を追加します。文字と画像が混在する文書では、JSON の空の text 欄と元のページ番号から対象ページを特定できます。
 
 [ドキュメント](https://docs.toolpony.com/ja/guides/pdf-to-text/)

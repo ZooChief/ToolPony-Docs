@@ -38,11 +38,7 @@ Project a balance with recurring contributions and inflation, or convert between
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/compound-interest-calculator/>)
-
-
+[Open full tool · Compound interest calculator](<https://toolpony.com/en/tools/compound-interest-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ Resolver el ritmo, el tiempo transcurrido y la distancia. Compare los ritmos de 
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/pace-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de ritmo de carrera](<https://toolpony.com/es/tools/pace-calculator/>)
 
 
 

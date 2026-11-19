@@ -51,11 +51,7 @@ Legs 3 and 4, area 6, perimeter 12. Either leg can be a.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/right-triangle-calculator/>)
-
-
+[Open full tool · Right triangle calculator](<https://toolpony.com/en/tools/right-triangle-calculator/>)
 
 
 

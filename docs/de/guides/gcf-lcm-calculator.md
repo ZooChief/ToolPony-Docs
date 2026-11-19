@@ -38,11 +38,7 @@ GCF 6; LCM 72
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/gcf-lcm-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · ggT- und kgV-Rechner](<https://toolpony.com/de/tools/gcf-lcm-calculator/>)
 
 
 

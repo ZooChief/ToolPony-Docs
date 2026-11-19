@@ -38,11 +38,7 @@ Slope 4/3 and distance 5
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/slope-calculator/>)
-
-
+[Open full tool · Slope calculator](<https://toolpony.com/en/tools/slope-calculator/>)
 
 
 

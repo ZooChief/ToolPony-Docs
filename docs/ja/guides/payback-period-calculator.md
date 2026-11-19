@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/payback-period-calculator/>)
-
-
+[ツール全体を開く · 投資回収期間計算機](<https://toolpony.com/ja/tools/payback-period-calculator/>)
 
 
 

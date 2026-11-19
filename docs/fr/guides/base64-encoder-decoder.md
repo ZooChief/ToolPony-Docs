@@ -38,11 +38,7 @@ aGVsbG8=
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/base64-encoder-decoder/>)
-
-
+[Ouvrir l’outil complet · Encoder et décoder en Base64](<https://toolpony.com/fr/tools/base64-encoder-decoder/>)
 
 
 

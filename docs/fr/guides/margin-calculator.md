@@ -38,11 +38,7 @@ Marge de 40 %; majoration de 66,67 %
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/margin-calculator/>)
-
-
+[Ouvrir l’outil complet · Marge bénéficiaire et majoration](<https://toolpony.com/fr/tools/margin-calculator/>)
 
 
 

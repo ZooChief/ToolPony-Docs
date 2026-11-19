@@ -38,11 +38,7 @@ Converter unidades de economia de combustível, estimar o custo de combustível 
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/fuel-cost-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de custo e consumo de combustível](<https://toolpony.com/pt-br/tools/fuel-cost-calculator/>)
 
 
 

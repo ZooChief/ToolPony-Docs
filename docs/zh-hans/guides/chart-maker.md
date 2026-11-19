@@ -54,11 +54,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/chart-maker/>)
-
-
+[打开完整工具 · 图表生成器](<https://toolpony.com/zh-hans/tools/chart-maker/>)
 
 
 

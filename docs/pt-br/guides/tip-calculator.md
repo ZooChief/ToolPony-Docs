@@ -38,11 +38,7 @@ Dividir uma conta e gorjeta entre as pessoas, com a dica com base no valor antes
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/tip-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de gorjetas](<https://toolpony.com/pt-br/tools/tip-calculator/>)
 
 
 

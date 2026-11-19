@@ -51,11 +51,7 @@ Unos 2.461 ft², 28 squares con margen del 10 %.
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/roofing-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de tejados](<https://toolpony.com/es/tools/roofing-calculator/>)
 
 
 

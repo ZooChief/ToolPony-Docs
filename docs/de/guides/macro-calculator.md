@@ -38,11 +38,7 @@ Konvertieren Sie ein Kalorienziel und Nährstoffverhältnisse in Gramm oder bere
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/macro-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Makronährstoffrechner](<https://toolpony.com/de/tools/macro-calculator/>)
 
 
 

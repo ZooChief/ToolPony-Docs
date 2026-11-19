@@ -38,11 +38,7 @@ sqrt(81) + 2^3 × sin(30)，角度制
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/scientific-calculator/>)
-
-
+[打开完整工具 · 科学计算器](<https://toolpony.com/zh-hans/tools/scientific-calculator/>)
 
 
 

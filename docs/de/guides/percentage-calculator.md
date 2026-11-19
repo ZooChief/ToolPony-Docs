@@ -52,11 +52,7 @@ Löse Prozentsatz, Teil, Ganzes, vermehre, verringere, verändere Veränderung, 
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/percentage-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Prozentrechner](<https://toolpony.com/de/tools/percentage-calculator/>)
 
 
 

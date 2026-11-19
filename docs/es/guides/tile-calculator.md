@@ -52,11 +52,7 @@ Estimar fichas, cajas y costo de las dimensiones de la baldosa, espaciamiento de
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/tile-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de azulejos](<https://toolpony.com/es/tools/tile-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ Base 3, argumento 81
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/log-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de logaritmos](<https://toolpony.com/es/tools/log-calculator/>)
 
 
 

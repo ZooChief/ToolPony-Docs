@@ -52,11 +52,7 @@ Schätzen Sie Fliesen, Boxen und Kosten aus den Fliesenabmessungen, dem Fugenabs
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/tile-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Fliesenrechner](<https://toolpony.com/de/tools/tile-calculator/>)
 
 
 

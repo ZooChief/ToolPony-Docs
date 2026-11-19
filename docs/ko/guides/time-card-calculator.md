@@ -51,11 +51,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/time-card-calculator/>)
-
-
+[전체 도구 열기 · 근무시간표 계산기](<https://toolpony.com/ko/tools/time-card-calculator/>)
 
 
 

@@ -38,11 +38,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/margin-calculator/>)
-
-
+[打開完整工具 · 利潤率與加價率](<https://toolpony.com/zh-hant/tools/margin-calculator/>)
 
 
 

@@ -51,11 +51,7 @@ Un PDF dans l’ordre A1, A2, B1, B2, B3
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/pdf-merge/>)
-
-
+[Ouvrir l’outil complet · Fusionner des PDF](<https://toolpony.com/fr/tools/pdf-merge/>)
 
 
 

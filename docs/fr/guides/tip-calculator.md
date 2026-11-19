@@ -38,11 +38,7 @@ Total de 96, soit 24 par personne
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/tip-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de pourboire](<https://toolpony.com/fr/tools/tip-calculator/>)
 
 
 

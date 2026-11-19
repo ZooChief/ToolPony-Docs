@@ -38,11 +38,7 @@ IMC 22,86 kg/m2
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/bmi-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice d’IMC pour adultes](<https://toolpony.com/fr/tools/bmi-calculator/>)
 
 
 

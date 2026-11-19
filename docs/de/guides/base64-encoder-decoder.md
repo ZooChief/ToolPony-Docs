@@ -38,11 +38,7 @@ aGVsbG8=
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/base64-encoder-decoder/>)
-
-
+[Vollständiges Werkzeug öffnen · Base64 kodieren und dekodieren](<https://toolpony.com/de/tools/base64-encoder-decoder/>)
 
 
 

@@ -38,11 +38,7 @@ Convertissez date et heure entre fuseaux IANA ou décalages UTC fixes.
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/time-zone-converter/>)
-
-
+[Ouvrir l’outil complet · Convertisseur de fuseaux horaires](<https://toolpony.com/fr/tools/time-zone-converter/>)
 
 
 

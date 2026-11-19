@@ -38,11 +38,7 @@ Halbwertszeit ≈ 15.0515
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/half-life-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Halbwertszeit-Rechner](<https://toolpony.com/de/tools/half-life-calculator/>)
 
 
 

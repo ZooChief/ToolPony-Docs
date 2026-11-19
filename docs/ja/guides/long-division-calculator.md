@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/long-division-calculator/>)
-
-
+[ツール全体を開く · 割り算の筆算](<https://toolpony.com/ja/tools/long-division-calculator/>)
 
 
 

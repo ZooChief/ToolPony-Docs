@@ -55,11 +55,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/json-formatter/>)
-
-
+[打開完整工具 · JSON 格式化](<https://toolpony.com/zh-hant/tools/json-formatter/>)
 
 
 

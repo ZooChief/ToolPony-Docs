@@ -52,11 +52,7 @@ https://example.com/
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/qr-code-generator/>)
-
-
+[打開完整工具 · 二維碼生成器](<https://toolpony.com/zh-hant/tools/qr-code-generator/>)
 
 
 

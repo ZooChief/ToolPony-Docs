@@ -51,11 +51,7 @@ Cerca de 2.461 ft², 28 squares com margem de 10%.
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/roofing-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de telhado](<https://toolpony.com/pt-br/tools/roofing-calculator/>)
 
 
 

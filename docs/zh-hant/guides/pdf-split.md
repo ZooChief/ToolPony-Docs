@@ -34,7 +34,7 @@
 一份 5 頁 PDF；輸入：5, 1-3
 ```
 
-
+[示例 · PDF](<https://toolpony.com/samples/toolpony-pages.pdf>)
 
 ### 預期結果
 
@@ -52,11 +52,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/pdf-split/>)
-
-
+[打開完整工具 · PDF 拆分](<https://toolpony.com/zh-hant/tools/pdf-split/>)
 
 
 

@@ -38,11 +38,7 @@ secuencia Aritmética, primera 7, diferencia −3, índice 8
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/number-sequence-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de sucesiones](<https://toolpony.com/es/tools/number-sequence-calculator/>)
 
 
 

@@ -59,11 +59,7 @@ Qty,ID,Name
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/csv-compare/>)
-
-
+[打开完整工具 · CSV 对账](<https://toolpony.com/zh-hans/tools/csv-compare/>)
 
 
 
@@ -74,5 +70,9 @@ Qty,ID,Name
 
 
 每张表最多 1 MiB UTF-8 文本、5,000 行数据和 80 列。按原文匹配并保留前导零，重复键与空键单列。记录编号从表头开始。
+
+
+
+比对库存时可以用稳定的 SKU 作键。如果旧表写作 0012、新表写作 12，会得到一条删除和一条新增。要把数量差异识别为同一商品的变更，请在两次导出时都保留前导零。
 
 [文档站](https://docs.toolpony.com/zh-hans/guides/csv-compare/)

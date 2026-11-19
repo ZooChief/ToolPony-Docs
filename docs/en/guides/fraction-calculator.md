@@ -38,11 +38,7 @@ Use exact arithmetic to add, subtract, multiply, divide or simplify fractions an
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/fraction-calculator/>)
-
-
+[Open full tool · Fraction calculator](<https://toolpony.com/en/tools/fraction-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ n = 36, Mittelwert 56, Standardabweichung 8, 99%
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/confidence-interval-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Konfidenzintervall-Rechner](<https://toolpony.com/de/tools/confidence-interval-calculator/>)
 
 
 

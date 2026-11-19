@@ -38,11 +38,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/statistics-calculator/>)
-
-
+[전체 도구 열기 · 통계 계산기](<https://toolpony.com/ko/tools/statistics-calculator/>)
 
 
 

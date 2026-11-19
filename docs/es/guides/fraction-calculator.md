@@ -38,11 +38,7 @@ Usar aritmética exacta para añadir, restar, multiplicar, dividir o simplificar
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/fraction-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de fracciones](<https://toolpony.com/es/tools/fraction-calculator/>)
 
 
 

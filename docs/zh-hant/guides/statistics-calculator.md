@@ -38,11 +38,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/statistics-calculator/>)
-
-
+[打開完整工具 · 統計計算器](<https://toolpony.com/zh-hant/tools/statistics-calculator/>)
 
 
 

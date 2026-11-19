@@ -38,11 +38,7 @@ samedi
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/day-of-week-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculateur du jour de la semaine](<https://toolpony.com/fr/tools/day-of-week-calculator/>)
 
 
 

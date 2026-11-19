@@ -33,7 +33,7 @@ Extrahieren Sie auswählbaren Text lokal aus PDFs und speichern Sie ihn als TXT 
 PDF mit „One“ und „Two“ auf den ersten zwei Seiten, Auswahl 2, 1
 ```
 
-
+[Beispiel · PDF](<https://toolpony.com/samples/toolpony-pages.pdf>)
 
 ### Erwartetes Ergebnis
 
@@ -51,11 +51,7 @@ JSON mit Seite 2 „Two“, gefolgt von Seite 1 „One“
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/pdf-to-text/>)
-
-
+[Vollständiges Werkzeug öffnen · PDF in Text umwandeln](<https://toolpony.com/de/tools/pdf-to-text/>)
 
 
 
@@ -66,5 +62,9 @@ JSON mit Seite 2 „Two“, gefolgt von Seite 1 „One“
 
 
 Maximal 30 MB, 300 Seiten, zwei Millionen Zeichen und 200.000 Textabschnitte. Die Textreihenfolge folgt der PDF-Datei. Gescannte Seiten erfordern OCR. Verschlüsselte PDFs werden abgelehnt.
+
+
+
+Wenn ein lesbarer Scan keinen Text liefert, markieren Sie ein Wort im PDF-Reader. Fotografierte Seiten benötigen zunächst eine OCR-Textebene. Bei gemischten Dokumenten zeigen ein leeres text-Feld im JSON und die ursprüngliche Seitennummer, welche Seiten eine Texterkennung benötigen.
 
 [Dokumentation](https://docs.toolpony.com/de/guides/pdf-to-text/)

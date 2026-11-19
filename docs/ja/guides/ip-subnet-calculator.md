@@ -38,11 +38,7 @@ IPv4およびIPv6ネットワーク、マスク、範囲、アドレス数を検
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/ip-subnet-calculator/>)
-
-
+[ツール全体を開く · IP サブネット計算機](<https://toolpony.com/ja/tools/ip-subnet-calculator/>)
 
 
 

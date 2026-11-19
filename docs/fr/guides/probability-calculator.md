@@ -38,11 +38,7 @@ Au moins un événement 0,6964
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/probability-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de probabilités](<https://toolpony.com/fr/tools/probability-calculator/>)
 
 
 

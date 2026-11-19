@@ -38,11 +38,7 @@ Estimar o tempo de transferência do tamanho do arquivo, velocidade da ligação
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/bandwidth-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de largura de banda](<https://toolpony.com/pt-br/tools/bandwidth-calculator/>)
 
 
 

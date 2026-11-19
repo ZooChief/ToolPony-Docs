@@ -38,11 +38,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/tip-calculator/>)
-
-
+[打開完整工具 · 小費計算器](<https://toolpony.com/zh-hant/tools/tip-calculator/>)
 
 
 

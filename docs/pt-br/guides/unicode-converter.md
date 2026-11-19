@@ -38,11 +38,7 @@ U+1F434 ou F0 9F 90 B4
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/unicode-converter/>)
-
-
+[Abrir ferramenta completa · Conversor Unicode](<https://toolpony.com/pt-br/tools/unicode-converter/>)
 
 
 

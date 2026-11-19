@@ -51,11 +51,7 @@ Côtés 3 et 4, aire 6, périmètre 12. Le côté a peut être l’un ou l’aut
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/right-triangle-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculateur de triangle rectangle](<https://toolpony.com/fr/tools/right-triangle-calculator/>)
 
 
 

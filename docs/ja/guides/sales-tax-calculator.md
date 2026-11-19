@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/sales-tax-calculator/>)
-
-
+[ツール全体を開く · 売上税・付加価値税計算機](<https://toolpony.com/ja/tools/sales-tax-calculator/>)
 
 
 

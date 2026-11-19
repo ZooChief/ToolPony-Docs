@@ -38,11 +38,7 @@ Construya una línea recta anual, balance decreciente, o un calendario de dígit
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/depreciation-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de depreciación](<https://toolpony.com/es/tools/depreciation-calculator/>)
 
 
 

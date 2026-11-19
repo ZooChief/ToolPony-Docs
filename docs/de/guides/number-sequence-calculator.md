@@ -38,11 +38,7 @@ Arithmetische Folge, Startwert 7, Differenz −3, Index 8
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/number-sequence-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Folgenrechner](<https://toolpony.com/de/tools/number-sequence-calculator/>)
 
 
 

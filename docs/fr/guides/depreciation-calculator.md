@@ -38,11 +38,7 @@ Construisez un calendrier annuel de chiffres linéaires, de solde décroissant o
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/depreciation-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice d’amortissement comptable](<https://toolpony.com/fr/tools/depreciation-calculator/>)
 
 
 

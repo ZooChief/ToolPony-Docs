@@ -22,13 +22,37 @@ Add mixed image formats in one batch. ToolPony detects each input and lets you c
 
 
 
+## Example
+
+
+
+### Input
+
+
+
+```
+PNG · 64 × 32 px (transparent corners) → JPEG · white background
+```
+
+[Example · PNG](<https://toolpony.com/samples/toolpony-64x32.png>)
+
+### Expected result
+
+
+
+```
+JPEG · 64 × 32 px (white corners)
+```
+
+
+
+
+
+
+
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/image-converter/>)
-
-
+[Open full tool · Image converter](<https://toolpony.com/en/tools/image-converter/>)
 
 
 

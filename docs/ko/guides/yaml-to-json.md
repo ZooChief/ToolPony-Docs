@@ -56,11 +56,7 @@ ready: true
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/yaml-to-json/>)
-
-
+[전체 도구 열기 · YAML을 JSON으로](<https://toolpony.com/ko/tools/yaml-to-json/>)
 
 
 

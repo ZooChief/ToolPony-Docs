@@ -38,11 +38,7 @@ Quadratwurzel von 144
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/root-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Wurzelrechner](<https://toolpony.com/de/tools/root-calculator/>)
 
 
 

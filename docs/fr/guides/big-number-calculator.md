@@ -38,11 +38,7 @@ Calculer avec des nombres entiers et des coefficients décimal exacts, avec des 
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/big-number-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de grands nombres](<https://toolpony.com/fr/tools/big-number-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ aGVsbG8=
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/base64-encoder-decoder/>)
-
-
+[打開完整工具 · Base64 編碼與解碼](<https://toolpony.com/zh-hant/tools/base64-encoder-decoder/>)
 
 
 

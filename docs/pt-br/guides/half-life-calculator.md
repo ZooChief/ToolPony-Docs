@@ -38,11 +38,7 @@ Meia-vida □ 15.0515
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/half-life-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de meia-vida](<https://toolpony.com/pt-br/tools/half-life-calculator/>)
 
 
 

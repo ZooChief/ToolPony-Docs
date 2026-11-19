@@ -38,11 +38,7 @@ Home 400.000; minus 20%; 30 Jahre; 6%
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/mortgage-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Hypothekenrechner](<https://toolpony.com/de/tools/mortgage-calculator/>)
 
 
 

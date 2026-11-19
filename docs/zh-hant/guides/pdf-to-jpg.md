@@ -52,11 +52,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/pdf-to-jpg/>)
-
-
+[打開完整工具 · PDF 轉 JPG 或 PNG](<https://toolpony.com/zh-hant/tools/pdf-to-jpg/>)
 
 
 

@@ -38,11 +38,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/long-division-calculator/>)
-
-
+[전체 도구 열기 · 나눗셈 세로셈 계산기](<https://toolpony.com/ko/tools/long-division-calculator/>)
 
 
 

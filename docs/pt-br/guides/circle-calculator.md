@@ -38,11 +38,7 @@ Circunferência *12.5664; arco *3.1416
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/circle-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de círculos](<https://toolpony.com/pt-br/tools/circle-calculator/>)
 
 
 

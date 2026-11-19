@@ -21,13 +21,37 @@ Adicione imagens de diferentes formatos. O formato é detectado pelo conteúdo d
 
 
 
+## Exemplo
+
+
+
+### Entrada
+
+
+
+```
+PNG · 64 × 32 px (cantos transparentes) → JPEG · fundo branco
+```
+
+[Exemplo · PNG](<https://toolpony.com/samples/toolpony-64x32.png>)
+
+### Resultado esperado
+
+
+
+```
+JPEG · 64 × 32 px (cantos brancos)
+```
+
+
+
+
+
+
+
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/image-converter/>)
-
-
+[Abrir ferramenta completa · Converter imagens](<https://toolpony.com/pt-br/tools/image-converter/>)
 
 
 

@@ -38,11 +38,7 @@ Invertir 1.000 y recibir 1.210 al cabo de 2 años
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/roi-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de retorno de inversión](<https://toolpony.com/es/tools/roi-calculator/>)
 
 
 

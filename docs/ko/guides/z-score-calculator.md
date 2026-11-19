@@ -38,11 +38,7 @@ z = −1.25
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/z-score-calculator/>)
-
-
+[전체 도구 열기 · Z 점수 계산기](<https://toolpony.com/ko/tools/z-score-calculator/>)
 
 
 

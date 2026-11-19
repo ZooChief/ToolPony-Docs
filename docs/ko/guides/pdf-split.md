@@ -35,7 +35,7 @@
 5페이지 PDF, 선택 5, 1-3
 ```
 
-
+[예시 · PDF](<https://toolpony.com/samples/toolpony-pages.pdf>)
 
 ### 예상 결과
 
@@ -53,11 +53,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/pdf-split/>)
-
-
+[전체 도구 열기 · PDF 분할](<https://toolpony.com/ko/tools/pdf-split/>)
 
 
 

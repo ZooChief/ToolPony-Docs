@@ -22,13 +22,37 @@ Dibuja sobre el lienzo con un cepillo o borrador. Establece el color y el tamañ
 
 
 
+## Ejemplo
+
+
+
+### Entrada
+
+
+
+```
+Dibuja dos trazos, deshaz el último y descarga el PNG.
+```
+
+
+
+### Resultado esperado
+
+
+
+```
+Solo queda el primer trazo. Los píxeles sin pintar son transparentes y puedes superponer el dibujo a otra imagen.
+```
+
+
+
+
+
+
+
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/drawing-board/>)
-
-
+[Abrir herramienta completa · Pizarra de dibujo](<https://toolpony.com/es/tools/drawing-board/>)
 
 
 

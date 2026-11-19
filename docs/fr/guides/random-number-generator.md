@@ -38,11 +38,7 @@ Cinq entiers aléatoires de 1 à 10
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/random-number-generator/>)
-
-
+[Ouvrir l’outil complet · Générateur de nombres aléatoires](<https://toolpony.com/fr/tools/random-number-generator/>)
 
 
 

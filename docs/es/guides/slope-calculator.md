@@ -38,11 +38,7 @@ Pendiente 4/3 y distancia 5
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/slope-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de pendiente](<https://toolpony.com/es/tools/slope-calculator/>)
 
 
 

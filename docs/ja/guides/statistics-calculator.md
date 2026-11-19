@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/statistics-calculator/>)
-
-
+[ツール全体を開く · 統計計算機](<https://toolpony.com/ja/tools/statistics-calculator/>)
 
 
 

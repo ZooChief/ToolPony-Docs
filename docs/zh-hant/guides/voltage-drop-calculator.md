@@ -51,11 +51,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/voltage-drop-calculator/>)
-
-
+[打開完整工具 · 電壓降計算器](<https://toolpony.com/zh-hant/tools/voltage-drop-calculator/>)
 
 
 

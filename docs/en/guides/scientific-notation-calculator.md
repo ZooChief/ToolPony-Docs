@@ -38,11 +38,7 @@ Convert between scientific, engineering, E and decimal notation, or calculate wi
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/scientific-notation-calculator/>)
-
-
+[Open full tool · Scientific notation calculator](<https://toolpony.com/en/tools/scientific-notation-calculator/>)
 
 
 

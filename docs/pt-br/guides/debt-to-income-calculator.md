@@ -38,11 +38,7 @@ Rendimento 5.000, pagamentos da dívida 1.500
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/debt-to-income-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora da relação dívida-renda](<https://toolpony.com/pt-br/tools/debt-to-income-calculator/>)
 
 
 

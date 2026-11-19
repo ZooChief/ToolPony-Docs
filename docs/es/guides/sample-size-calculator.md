@@ -38,11 +38,7 @@ Busque una muestra de encuesta mínima o estime el margen de error con correcci�
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/sample-size-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora del tamaño de muestra](<https://toolpony.com/es/tools/sample-size-calculator/>)
 
 
 

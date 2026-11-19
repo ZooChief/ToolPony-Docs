@@ -38,11 +38,7 @@ x=15
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/ratio-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de razones](<https://toolpony.com/es/tools/ratio-calculator/>)
 
 
 

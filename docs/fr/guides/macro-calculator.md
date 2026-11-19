@@ -38,11 +38,7 @@ Conversion d'une cible calorifique et des rapports nutriments en grammes, ou cal
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/macro-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de macronutriments](<https://toolpony.com/fr/tools/macro-calculator/>)
 
 
 

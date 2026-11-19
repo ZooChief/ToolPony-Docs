@@ -38,11 +38,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/bmr-calculator/>)
-
-
+[打开完整工具 · 基础代谢与热量计算器](<https://toolpony.com/zh-hans/tools/bmr-calculator/>)
 
 
 

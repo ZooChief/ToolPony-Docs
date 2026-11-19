@@ -52,11 +52,7 @@ ABC	123
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/document-to-text/>)
-
-
+[Open full tool · Document to text](<https://toolpony.com/en/tools/document-to-text/>)
 
 
 

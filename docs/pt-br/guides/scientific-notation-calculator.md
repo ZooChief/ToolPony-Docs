@@ -38,11 +38,7 @@ Converter entre notação científica, engenharia, E e decimal, ou calcular com 
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/scientific-notation-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de notação científica](<https://toolpony.com/pt-br/tools/scientific-notation-calculator/>)
 
 
 

@@ -51,11 +51,7 @@ Decode 3–6 color bands, combine resistors in series or parallel, or calculate 
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/resistor-calculator/>)
-
-
+[Open full tool · Resistor calculator](<https://toolpony.com/en/tools/resistor-calculator/>)
 
 
 

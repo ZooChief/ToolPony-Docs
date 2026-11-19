@@ -50,11 +50,7 @@ Find voltage, current, resistance and power from any two quantities.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/ohms-law-calculator/>)
-
-
+[Open full tool · Ohm’s law calculator](<https://toolpony.com/en/tools/ohms-law-calculator/>)
 
 
 

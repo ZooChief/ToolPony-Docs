@@ -65,11 +65,7 @@ Overlap 50 ms
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/subtitle-converter/>)
-
-
+[Vollständiges Werkzeug öffnen · Untertitel-Konverter](<https://toolpony.com/de/tools/subtitle-converter/>)
 
 
 

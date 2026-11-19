@@ -38,11 +38,7 @@ Cinco inteiros aleatórios de 1 a 10
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/random-number-generator/>)
-
-
+[Abrir ferramenta completa · Gerador de números aleatórios](<https://toolpony.com/pt-br/tools/random-number-generator/>)
 
 
 

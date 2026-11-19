@@ -50,11 +50,7 @@ b² = 32 − 7 = 25, so b = 5.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/pythagorean-theorem-calculator/>)
-
-
+[Open full tool · Pythagorean theorem calculator](<https://toolpony.com/en/tools/pythagorean-theorem-calculator/>)
 
 
 

@@ -51,11 +51,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/pdf-to-jpg/>)
-
-
+[전체 도구 열기 · PDF를 JPG·PNG로 변환](<https://toolpony.com/ko/tools/pdf-to-jpg/>)
 
 
 

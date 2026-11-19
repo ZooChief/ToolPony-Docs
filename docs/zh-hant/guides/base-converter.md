@@ -38,11 +38,7 @@ FF，從十六進制轉十進制
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/base-converter/>)
-
-
+[打開完整工具 · 進制轉換與計算器](<https://toolpony.com/zh-hant/tools/base-converter/>)
 
 
 

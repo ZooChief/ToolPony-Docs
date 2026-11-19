@@ -51,11 +51,7 @@ Registra turnos y descansos semanales con redondeo, reglas de pago y CSV.
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/time-card-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de hoja de horas](<https://toolpony.com/es/tools/time-card-calculator/>)
 
 
 

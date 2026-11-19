@@ -53,11 +53,7 @@ Compara las cuotas restantes, pagos extra, liquidación inmediata y dos calendar
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/mortgage-payoff-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de liquidación hipotecaria](<https://toolpony.com/es/tools/mortgage-payoff-calculator/>)
 
 
 

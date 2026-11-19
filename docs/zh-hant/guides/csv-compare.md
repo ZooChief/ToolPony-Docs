@@ -59,11 +59,7 @@ Qty,ID,Name
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/csv-compare/>)
-
-
+[打開完整工具 · CSV 對賬](<https://toolpony.com/zh-hant/tools/csv-compare/>)
 
 
 
@@ -74,5 +70,9 @@ Qty,ID,Name
 
 
 每張表最多 1 MiB UTF-8 文本、5,000 行數據和 80 列。按原文匹配並保留前導零，重複鍵與空鍵單列。記錄編號從表頭開始。
+
+
+
+比對庫存時可以用穩定的 SKU 作鍵。如果舊錶寫作 0012、新表寫作 12，會得到一條刪除和一條新增。要把數量差異識別爲同一商品的變更，請在兩次導出時都保留前導零。
 
 [文檔站](https://docs.toolpony.com/zh-hant/guides/csv-compare/)

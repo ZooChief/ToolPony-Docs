@@ -38,11 +38,7 @@ Resolver para la masa, el volumen o la densidad al entrar en cualquier dos valor
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/density-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de densidad](<https://toolpony.com/es/tools/density-calculator/>)
 
 
 

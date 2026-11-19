@@ -38,11 +38,7 @@ Kugel mit Radius von 2 m
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/surface-area-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Oberflächenrechner](<https://toolpony.com/de/tools/surface-area-calculator/>)
 
 
 

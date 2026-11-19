@@ -22,13 +22,37 @@ Zeichnen Sie mit einem Pinsel oder Radiergummi auf die Leinwand. Legen Sie die F
 
 
 
+## Beispiel
+
+
+
+### Eingabe
+
+
+
+```
+Zeichnen Sie zwei Striche, nehmen Sie den letzten zurück und speichern Sie das PNG.
+```
+
+
+
+### Erwartetes Ergebnis
+
+
+
+```
+Nur der erste Strich bleibt. Unbemalte Pixel sind transparent, sodass sich das Bild über ein anderes legen lässt.
+```
+
+
+
+
+
+
+
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/drawing-board/>)
-
-
+[Vollständiges Werkzeug öffnen · Zeichenfläche](<https://toolpony.com/de/tools/drawing-board/>)
 
 
 

@@ -38,11 +38,7 @@ Stack-Rabatte, subtrahieren einen festen Coupon und wenden die Umsatzsteuer auf 
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/discount-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Rabattrechner](<https://toolpony.com/de/tools/discount-calculator/>)
 
 
 

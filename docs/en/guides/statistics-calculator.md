@@ -38,11 +38,7 @@ Mean 5, median 4
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/statistics-calculator/>)
-
-
+[Open full tool · Statistics calculator](<https://toolpony.com/en/tools/statistics-calculator/>)
 
 
 

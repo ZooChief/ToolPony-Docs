@@ -38,11 +38,7 @@ Gross 120, tax 20
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/sales-tax-calculator/>)
-
-
+[Open full tool · Sales tax and VAT calculator](<https://toolpony.com/en/tools/sales-tax-calculator/>)
 
 
 

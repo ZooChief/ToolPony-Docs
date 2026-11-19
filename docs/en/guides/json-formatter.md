@@ -55,11 +55,7 @@ Paste JSON, choose an indentation, and format or minify it. Copy the result or d
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/json-formatter/>)
-
-
+[Open full tool · JSON formatter](<https://toolpony.com/en/tools/json-formatter/>)
 
 
 

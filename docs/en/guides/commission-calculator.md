@@ -38,11 +38,7 @@ Find sales, rate, or commission, then calculate a base payment plus progressive 
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/commission-calculator/>)
-
-
+[Open full tool · Commission calculator](<https://toolpony.com/en/tools/commission-calculator/>)
 
 
 

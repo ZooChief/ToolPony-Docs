@@ -50,11 +50,7 @@ Nacimiento 2000-01-01, referencia 2025-02-03
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/age-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de edad](<https://toolpony.com/es/tools/age-calculator/>)
 
 
 

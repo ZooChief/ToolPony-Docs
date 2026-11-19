@@ -38,11 +38,7 @@ Esfera com raio de 2 m
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/surface-area-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de área superficial](<https://toolpony.com/pt-br/tools/surface-area-calculator/>)
 
 
 

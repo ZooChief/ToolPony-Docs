@@ -38,11 +38,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/commission-calculator/>)
-
-
+[打开完整工具 · 佣金计算器](<https://toolpony.com/zh-hans/tools/commission-calculator/>)
 
 
 

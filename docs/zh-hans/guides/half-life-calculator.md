@@ -38,11 +38,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/half-life-calculator/>)
-
-
+[打开完整工具 · 半衰期计算器](<https://toolpony.com/zh-hans/tools/half-life-calculator/>)
 
 
 

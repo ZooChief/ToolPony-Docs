@@ -38,11 +38,7 @@ n = 36, 평균 56, 표준 편차 8, 99%
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/confidence-interval-calculator/>)
-
-
+[전체 도구 열기 · 신뢰구간 계산기](<https://toolpony.com/ko/tools/confidence-interval-calculator/>)
 
 
 

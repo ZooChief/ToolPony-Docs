@@ -38,11 +38,7 @@ Netzwerk 192.0.2.128/27, 30 nutzbare Hosts
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/ip-subnet-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · IP-Subnetzrechner](<https://toolpony.com/de/tools/ip-subnet-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ Converta data e horário entre fusos IANA ou deslocamentos UTC fixos.
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/time-zone-converter/>)
-
-
+[Abrir ferramenta completa · Conversor de fusos horários](<https://toolpony.com/pt-br/tools/time-zone-converter/>)
 
 
 

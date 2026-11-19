@@ -50,11 +50,7 @@ De 22:30 a 06:15 del día siguiente
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/time-duration-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de duración](<https://toolpony.com/es/tools/time-duration-calculator/>)
 
 
 

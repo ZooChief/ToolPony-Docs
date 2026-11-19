@@ -52,11 +52,7 @@ Berechnen Sie Raten, die Laufzeit aus einer Monatsrate oder datierte Sondertilgu
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/loan-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Kreditrechner](<https://toolpony.com/de/tools/loan-calculator/>)
 
 
 

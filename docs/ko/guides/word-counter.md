@@ -53,11 +53,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/word-counter/>)
-
-
+[전체 도구 열기 · 글자 수 및 단어 수 세기](<https://toolpony.com/ko/tools/word-counter/>)
 
 
 

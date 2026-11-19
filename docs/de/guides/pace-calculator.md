@@ -38,11 +38,7 @@ Lösen Sie Tempo, verstrichene Zeit und Entfernung, vergleichen Sie geteilte Tem
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/pace-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Lauftempo-Rechner](<https://toolpony.com/de/tools/pace-calculator/>)
 
 
 

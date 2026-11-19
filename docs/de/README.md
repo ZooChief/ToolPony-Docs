@@ -2,7 +2,7 @@
 
 
 
-Wählen Sie ein Werkzeug und probieren Sie ein Beispiel aus.
+Lernen Sie die Rechner, Bildkonverter und PDF-Werkzeuge von ToolPony anhand von Beispielen kennen. Testen Sie die Eingaben und vergleichen Sie Ihr Ergebnis direkt in der Anleitung.
 
 
 

@@ -52,11 +52,7 @@ Two PDF pages in that order; the first landscape, the second portrait.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/jpg-to-pdf/>)
-
-
+[Open full tool · JPG to PDF](<https://toolpony.com/en/tools/jpg-to-pdf/>)
 
 
 

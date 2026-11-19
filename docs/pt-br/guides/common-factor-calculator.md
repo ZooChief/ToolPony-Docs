@@ -38,11 +38,7 @@ Listar todos os fatores comuns positivos e calcular o maior fator comum de múlt
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/common-factor-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de divisores comuns](<https://toolpony.com/pt-br/tools/common-factor-calculator/>)
 
 
 

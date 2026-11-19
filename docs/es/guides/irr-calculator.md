@@ -38,11 +38,7 @@ IRR ♥ 15,093%
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/irr-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de tasa interna de retorno](<https://toolpony.com/es/tools/irr-calculator/>)
 
 
 

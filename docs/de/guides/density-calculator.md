@@ -38,11 +38,7 @@ Lösen Sie Masse, Volumen oder Dichte, indem Sie zwei beliebige Werte eingeben.
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/density-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Dichterechner](<https://toolpony.com/de/tools/density-calculator/>)
 
 
 

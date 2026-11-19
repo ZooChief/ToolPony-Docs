@@ -51,11 +51,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/time-card-calculator/>)
-
-
+[打開完整工具 · 工時卡計算器](<https://toolpony.com/zh-hant/tools/time-card-calculator/>)
 
 
 

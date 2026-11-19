@@ -51,11 +51,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/resistor-calculator/>)
-
-
+[打开完整工具 · 电阻色环与串并联计算器](<https://toolpony.com/zh-hans/tools/resistor-calculator/>)
 
 
 

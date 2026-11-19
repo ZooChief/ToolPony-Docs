@@ -38,11 +38,7 @@ Verwenden Sie genaue Arithmetik, um Brüche und gemischte Zahlen zu addieren, zu
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/fraction-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Bruchrechner](<https://toolpony.com/de/tools/fraction-calculator/>)
 
 
 

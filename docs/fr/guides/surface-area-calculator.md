@@ -38,11 +38,7 @@ Sphère avec rayon 2 m
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/surface-area-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice d’aire de surface](<https://toolpony.com/fr/tools/surface-area-calculator/>)
 
 
 

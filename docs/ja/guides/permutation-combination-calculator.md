@@ -38,11 +38,7 @@ n=10、r=3、繰り返しなし
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/permutation-combination-calculator/>)
-
-
+[ツール全体を開く · 順列・組み合わせ計算機](<https://toolpony.com/ja/tools/permutation-combination-calculator/>)
 
 
 

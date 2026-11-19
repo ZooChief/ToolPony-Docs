@@ -38,11 +38,7 @@ Cost 60, price 100
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/margin-calculator/>)
-
-
+[Open full tool · Profit margin and markup](<https://toolpony.com/en/tools/margin-calculator/>)
 
 
 

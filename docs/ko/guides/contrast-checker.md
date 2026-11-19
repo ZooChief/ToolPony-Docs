@@ -38,11 +38,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/contrast-checker/>)
-
-
+[전체 도구 열기 · 색상 대비 검사기](<https://toolpony.com/ko/tools/contrast-checker/>)
 
 
 

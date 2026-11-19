@@ -38,11 +38,7 @@ A + B = [3, 2; 5, 8]
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/matrix-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice matricielle](<https://toolpony.com/fr/tools/matrix-calculator/>)
 
 
 

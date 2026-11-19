@@ -38,11 +38,7 @@ GPA 3.5
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/gpa-calculator/>)
-
-
+[打开完整工具 · GPA 绩点计算器](<https://toolpony.com/zh-hans/tools/gpa-calculator/>)
 
 
 

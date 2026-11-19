@@ -38,11 +38,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/time-zone-converter/>)
-
-
+[打开完整工具 · 时区转换器](<https://toolpony.com/zh-hans/tools/time-zone-converter/>)
 
 
 

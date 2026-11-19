@@ -38,11 +38,7 @@ Regreso ♥ 3.379 años, descuento ♥ 3.841 años
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/payback-period-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora del período de recuperación](<https://toolpony.com/es/tools/payback-period-calculator/>)
 
 
 

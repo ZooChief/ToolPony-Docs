@@ -38,11 +38,7 @@ n = 36, média 56, desvio padrão 8, 99%
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/confidence-interval-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de intervalo de confiança](<https://toolpony.com/pt-br/tools/confidence-interval-calculator/>)
 
 
 

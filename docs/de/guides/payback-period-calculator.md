@@ -38,11 +38,7 @@ Amortisation ≈ 3.379 Jahre, diskontiert ≈ 3.841 Jahre
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/payback-period-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Amortisationsdauer-Rechner](<https://toolpony.com/de/tools/payback-period-calculator/>)
 
 
 

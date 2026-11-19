@@ -52,11 +52,7 @@ Solve percentage, part, whole, increase, decrease, reverse change, difference an
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/percentage-calculator/>)
-
-
+[Open full tool · Percentage calculator](<https://toolpony.com/en/tools/percentage-calculator/>)
 
 
 

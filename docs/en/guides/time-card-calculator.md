@@ -51,11 +51,7 @@ Record a week of shifts and breaks, with rounding, editable pay rules and CSV ex
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/time-card-calculator/>)
-
-
+[Open full tool · Time card calculator](<https://toolpony.com/en/tools/time-card-calculator/>)
 
 
 

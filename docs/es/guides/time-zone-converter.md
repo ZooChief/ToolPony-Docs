@@ -38,11 +38,7 @@ Convierte fecha y hora entre zonas IANA o desfases UTC fijos.
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/time-zone-converter/>)
-
-
+[Abrir herramienta completa · Conversor de zonas horarias](<https://toolpony.com/es/tools/time-zone-converter/>)
 
 
 

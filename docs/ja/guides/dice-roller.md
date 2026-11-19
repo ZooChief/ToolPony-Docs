@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/dice-roller/>)
-
-
+[ツール全体を開く · サイコロ](<https://toolpony.com/ja/tools/dice-roller/>)
 
 
 

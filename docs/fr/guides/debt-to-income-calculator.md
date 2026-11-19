@@ -38,11 +38,7 @@ Recettes 5 000, paiements de la dette 1 500
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/debt-to-income-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de ratio d’endettement](<https://toolpony.com/fr/tools/debt-to-income-calculator/>)
 
 
 

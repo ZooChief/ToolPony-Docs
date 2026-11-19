@@ -38,11 +38,7 @@ Liste cada divisor positivo, todos los pares de factor, y la factorización prin
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/factor-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de divisores](<https://toolpony.com/es/tools/factor-calculator/>)
 
 
 

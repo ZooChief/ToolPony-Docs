@@ -56,11 +56,7 @@ ready: true
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/yaml-to-json/>)
-
-
+[ツール全体を開く · YAML から JSON へ](<https://toolpony.com/ja/tools/yaml-to-json/>)
 
 
 

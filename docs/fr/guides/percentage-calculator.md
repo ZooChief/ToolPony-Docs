@@ -52,11 +52,7 @@ Résolvez le pourcentage, la partie, l'ensemble, l'augmentation, la diminution, 
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/percentage-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de pourcentage](<https://toolpony.com/fr/tools/percentage-calculator/>)
 
 
 

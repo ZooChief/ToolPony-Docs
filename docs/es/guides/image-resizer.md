@@ -52,11 +52,7 @@ PNG de 800 × 600
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/image-resizer/>)
-
-
+[Abrir herramienta completa · Redimensionar imágenes](<https://toolpony.com/es/tools/image-resizer/>)
 
 
 

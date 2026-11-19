@@ -38,11 +38,7 @@ n = 36, mean 56, standard deviation 8, 99%
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/confidence-interval-calculator/>)
-
-
+[Open full tool · Confidence interval calculator](<https://toolpony.com/en/tools/confidence-interval-calculator/>)
 
 
 

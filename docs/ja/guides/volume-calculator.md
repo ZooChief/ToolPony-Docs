@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/volume-calculator/>)
-
-
+[ツール全体を開く · 体積計算機](<https://toolpony.com/ja/tools/volume-calculator/>)
 
 
 

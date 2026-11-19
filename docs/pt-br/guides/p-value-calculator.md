@@ -38,11 +38,7 @@ Probabilidade bilateral ≈ 0,018275
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/p-value-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de valor-p da normal](<https://toolpony.com/pt-br/tools/p-value-calculator/>)
 
 
 

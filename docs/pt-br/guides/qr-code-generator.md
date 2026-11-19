@@ -52,11 +52,7 @@ https://example.com/
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/qr-code-generator/>)
-
-
+[Abrir ferramenta completa · Gerador de QR Code](<https://toolpony.com/pt-br/tools/qr-code-generator/>)
 
 
 

@@ -38,11 +38,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/debt-to-income-calculator/>)
-
-
+[打開完整工具 · 債務收入比計算器](<https://toolpony.com/zh-hant/tools/debt-to-income-calculator/>)
 
 
 

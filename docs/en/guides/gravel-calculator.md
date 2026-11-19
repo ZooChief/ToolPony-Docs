@@ -51,11 +51,7 @@ Estimate gravel or sand by volume, weight, bags and cost.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/gravel-calculator/>)
-
-
+[Open full tool · Gravel calculator](<https://toolpony.com/en/tools/gravel-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ Gesamt 96, pro Person 24
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/tip-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Trinkgeldrechner](<https://toolpony.com/de/tools/tip-calculator/>)
 
 
 

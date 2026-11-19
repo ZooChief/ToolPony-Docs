@@ -65,11 +65,7 @@ Overlap 50 ms
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/subtitle-converter/>)
-
-
+[Open full tool · Subtitle converter](<https://toolpony.com/en/tools/subtitle-converter/>)
 
 
 

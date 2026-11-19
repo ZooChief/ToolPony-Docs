@@ -38,11 +38,7 @@ Um retângulo de 4 m por 3 m
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/area-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de áreas](<https://toolpony.com/pt-br/tools/area-calculator/>)
 
 
 

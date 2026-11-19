@@ -52,11 +52,7 @@ Estimar volume de concreto, peso e sacos inteiros para lajes, rodapés, tubos, f
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/concrete-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de quantidade de concreto](<https://toolpony.com/pt-br/tools/concrete-calculator/>)
 
 
 

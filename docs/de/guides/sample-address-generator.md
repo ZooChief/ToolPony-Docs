@@ -55,11 +55,7 @@ Deutschland
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/sample-address-generator/>)
-
-
+[Vollständiges Werkzeug öffnen · Generator für Beispieladressen](<https://toolpony.com/de/tools/sample-address-generator/>)
 
 
 

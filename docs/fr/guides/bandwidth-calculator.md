@@ -38,11 +38,7 @@ Estimer le temps de transfert à partir de la taille du fichier, la vitesse du l
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/bandwidth-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de bande passante](<https://toolpony.com/fr/tools/bandwidth-calculator/>)
 
 
 

@@ -52,11 +52,7 @@ ABC	123
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/document-to-text/>)
-
-
+[Abrir ferramenta completa · Documento para texto](<https://toolpony.com/pt-br/tools/document-to-text/>)
 
 
 

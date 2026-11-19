@@ -38,11 +38,7 @@ Descontos stack, subtrair um cupom fixo e aplicar imposto de vendas ao preço de
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/discount-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de descontos](<https://toolpony.com/pt-br/tools/discount-calculator/>)
 
 
 

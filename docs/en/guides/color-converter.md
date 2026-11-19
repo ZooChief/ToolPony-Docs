@@ -38,11 +38,7 @@ rgb(102, 51, 153)
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/color-converter/>)
-
-
+[Open full tool · Color converter](<https://toolpony.com/en/tools/color-converter/>)
 
 
 

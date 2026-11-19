@@ -52,11 +52,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/tile-calculator/>)
-
-
+[打开完整工具 · 瓷砖用量计算器](<https://toolpony.com/zh-hans/tools/tile-calculator/>)
 
 
 

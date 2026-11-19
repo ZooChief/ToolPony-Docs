@@ -51,11 +51,7 @@ Dos páginas A4 en horizontal
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/jpg-to-pdf/>)
-
-
+[Abrir herramienta completa · Convertir imágenes a PDF](<https://toolpony.com/es/tools/jpg-to-pdf/>)
 
 
 

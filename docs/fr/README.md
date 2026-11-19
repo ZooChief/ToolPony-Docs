@@ -2,7 +2,7 @@
 
 
 
-Choisissez un outil et essayez un exemple.
+Découvrez les calculateurs et les outils image et PDF de ToolPony à travers des exemples. Essayez les valeurs proposées et comparez votre résultat à celui du guide.
 
 
 

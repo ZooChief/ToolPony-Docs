@@ -53,11 +53,7 @@ Blauer Himmel blauer Himmel
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/word-counter/>)
-
-
+[Vollständiges Werkzeug öffnen · Wort- und Zeichenzähler](<https://toolpony.com/de/tools/word-counter/>)
 
 
 

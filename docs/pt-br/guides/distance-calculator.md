@@ -38,11 +38,7 @@ Distância 5
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/distance-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de distâncias](<https://toolpony.com/pt-br/tools/distance-calculator/>)
 
 
 

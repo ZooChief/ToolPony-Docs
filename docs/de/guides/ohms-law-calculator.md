@@ -50,11 +50,7 @@ Berechnen Sie Spannung, Stromstärke, Widerstand und Leistung aus zwei Werten.
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/ohms-law-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Ohmsches Gesetz Rechner](<https://toolpony.com/de/tools/ohms-law-calculator/>)
 
 
 

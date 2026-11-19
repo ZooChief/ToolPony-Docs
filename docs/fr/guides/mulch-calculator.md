@@ -51,11 +51,7 @@ Estimez le volume, les sacs et le coût du paillis pour une ou plusieurs parcell
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/mulch-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculateur de paillis](<https://toolpony.com/fr/tools/mulch-calculator/>)
 
 
 

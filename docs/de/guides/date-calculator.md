@@ -51,11 +51,7 @@ Zählen Sie Kalender- und Arbeitstage oder verschieben Sie ein Datum um Kalender
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/date-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Datumsrechner](<https://toolpony.com/de/tools/date-calculator/>)
 
 
 

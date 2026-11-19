@@ -38,11 +38,7 @@ x=15
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/ratio-calculator/>)
-
-
+[打开完整工具 · 比例计算器](<https://toolpony.com/zh-hans/tools/ratio-calculator/>)
 
 
 

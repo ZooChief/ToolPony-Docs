@@ -52,11 +52,7 @@ A single PDF with 5 pages: A1, A2, B1, B2, B3
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/pdf-merge/>)
-
-
+[Open full tool · Merge PDF](<https://toolpony.com/en/tools/pdf-merge/>)
 
 
 

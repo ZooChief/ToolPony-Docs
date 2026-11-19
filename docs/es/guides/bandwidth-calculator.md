@@ -38,11 +38,7 @@ Tiempo estimado de transferencia del tamaño del archivo, velocidad de enlace y 
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/bandwidth-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de ancho de banda](<https://toolpony.com/es/tools/bandwidth-calculator/>)
 
 
 

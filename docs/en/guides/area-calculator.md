@@ -38,11 +38,7 @@ A rectangle 4 m by 3 m
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/area-calculator/>)
-
-
+[Open full tool · Area calculator](<https://toolpony.com/en/tools/area-calculator/>)
 
 
 

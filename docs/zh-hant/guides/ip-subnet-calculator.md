@@ -38,11 +38,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/ip-subnet-calculator/>)
-
-
+[打開完整工具 · IP 子網計算器](<https://toolpony.com/zh-hant/tools/ip-subnet-calculator/>)
 
 
 

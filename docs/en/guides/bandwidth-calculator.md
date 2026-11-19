@@ -38,11 +38,7 @@ Estimate transfer time from file size, link speed and protocol efficiency.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/bandwidth-calculator/>)
-
-
+[Open full tool · Bandwidth calculator](<https://toolpony.com/en/tools/bandwidth-calculator/>)
 
 
 

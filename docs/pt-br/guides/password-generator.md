@@ -38,11 +38,7 @@ Uma nova senha aleatória
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/password-generator/>)
-
-
+[Abrir ferramenta completa · Gerador de senhas](<https://toolpony.com/pt-br/tools/password-generator/>)
 
 
 

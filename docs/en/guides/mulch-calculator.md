@@ -51,11 +51,7 @@ Estimate mulch volume, bag counts and cost for one or several plots.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/mulch-calculator/>)
-
-
+[Open full tool · Mulch calculator](<https://toolpony.com/en/tools/mulch-calculator/>)
 
 
 

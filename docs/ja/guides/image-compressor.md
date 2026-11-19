@@ -52,11 +52,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/image-compressor/>)
-
-
+[ツール全体を開く · 画像圧縮](<https://toolpony.com/ja/tools/image-compressor/>)
 
 
 

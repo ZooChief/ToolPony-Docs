@@ -38,11 +38,7 @@ x=15
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/ratio-calculator/>)
-
-
+[Open full tool · Ratio calculator](<https://toolpony.com/en/tools/ratio-calculator/>)
 
 
 

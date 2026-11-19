@@ -38,11 +38,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/sales-tax-calculator/>)
-
-
+[전체 도구 열기 · 판매세·부가가치세 계산기](<https://toolpony.com/ko/tools/sales-tax-calculator/>)
 
 
 

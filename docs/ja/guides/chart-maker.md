@@ -54,11 +54,7 @@ Feb,38
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/chart-maker/>)
-
-
+[ツール全体を開く · グラフ作成](<https://toolpony.com/ja/tools/chart-maker/>)
 
 
 

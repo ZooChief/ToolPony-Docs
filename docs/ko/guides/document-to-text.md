@@ -52,11 +52,7 @@ ABC	123
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/document-to-text/>)
-
-
+[전체 도구 열기 · 문서 텍스트 추출](<https://toolpony.com/ko/tools/document-to-text/>)
 
 
 

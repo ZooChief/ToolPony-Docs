@@ -52,11 +52,7 @@ ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/file-hash-calculator/>)
-
-
+[ツール全体を開く · ファイル・テキストのハッシュ計算](<https://toolpony.com/ja/tools/file-hash-calculator/>)
 
 
 

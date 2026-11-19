@@ -38,11 +38,7 @@ Hogar 400.000; 20%; 30 años; 6%
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/mortgage-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora hipotecaria](<https://toolpony.com/es/tools/mortgage-calculator/>)
 
 
 

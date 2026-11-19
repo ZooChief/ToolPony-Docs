@@ -56,11 +56,7 @@ ready: true
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/yaml-to-json/>)
-
-
+[打開完整工具 · YAML 轉 JSON](<https://toolpony.com/zh-hant/tools/yaml-to-json/>)
 
 
 

@@ -38,11 +38,7 @@ Projizieren Sie ein Gleichgewicht mit wiederkehrenden Beiträgen und Inflation o
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/compound-interest-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Zinseszinsrechner](<https://toolpony.com/de/tools/compound-interest-calculator/>)
 
 
 

@@ -50,11 +50,7 @@ Calcule tensão, corrente, resistência e potência a partir de dois valores.
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/ohms-law-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora da lei de Ohm](<https://toolpony.com/pt-br/tools/ohms-law-calculator/>)
 
 
 

@@ -51,11 +51,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/resistor-calculator/>)
-
-
+[전체 도구 열기 · 저항 색띠 및 합성 저항 계산기](<https://toolpony.com/ko/tools/resistor-calculator/>)
 
 
 

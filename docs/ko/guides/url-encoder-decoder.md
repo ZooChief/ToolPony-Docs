@@ -38,11 +38,7 @@ a%2Bb%20%26%20c
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/url-encoder-decoder/>)
-
-
+[전체 도구 열기 · URL 인코딩 및 디코딩](<https://toolpony.com/ko/tools/url-encoder-decoder/>)
 
 
 

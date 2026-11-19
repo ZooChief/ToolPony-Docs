@@ -51,11 +51,7 @@ Duas páginas A4 em paisagem
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/jpg-to-pdf/>)
-
-
+[Abrir ferramenta completa · Converter imagens em PDF](<https://toolpony.com/pt-br/tools/jpg-to-pdf/>)
 
 
 

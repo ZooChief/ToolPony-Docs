@@ -38,11 +38,7 @@ GCF 6;LCM 72
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/gcf-lcm-calculator/>)
-
-
+[ツール全体を開く · 最大公約数・最小公倍数の計算](<https://toolpony.com/ja/tools/gcf-lcm-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ z = −1.25
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/z-score-calculator/>)
-
-
+[ツール全体を開く · Z スコア計算機](<https://toolpony.com/ja/tools/z-score-calculator/>)
 
 
 

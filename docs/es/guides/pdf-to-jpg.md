@@ -51,11 +51,7 @@ Un PNG de 1224 × 1584 píxeles
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/pdf-to-jpg/>)
-
-
+[Abrir herramienta completa · Convertir PDF a JPG o PNG](<https://toolpony.com/es/tools/pdf-to-jpg/>)
 
 
 

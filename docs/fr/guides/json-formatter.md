@@ -55,11 +55,7 @@ Collez JSON, choisissez une indentation, et formatez ou minifiez-la. Copiez le r
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/json-formatter/>)
-
-
+[Ouvrir l’outil complet · Formateur JSON](<https://toolpony.com/fr/tools/json-formatter/>)
 
 
 

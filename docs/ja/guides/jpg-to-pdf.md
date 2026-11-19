@@ -51,11 +51,7 @@ JPG、PNG、WebP などの画像を 1 件の PDF にまとめます。
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/jpg-to-pdf/>)
-
-
+[ツール全体を開く · 画像を PDF に変換](<https://toolpony.com/ja/tools/jpg-to-pdf/>)
 
 
 

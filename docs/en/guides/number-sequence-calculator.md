@@ -38,11 +38,7 @@ Arithmetic sequence, first 7, difference −3, index 8
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/number-sequence-calculator/>)
-
-
+[Open full tool · Number sequence calculator](<https://toolpony.com/en/tools/number-sequence-calculator/>)
 
 
 

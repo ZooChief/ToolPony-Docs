@@ -52,11 +52,7 @@ Schätzen Sie die Flächen- und Materialkosten für neun Formen mit gemischten M
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/square-footage-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Flächenrechner in Quadratfuß](<https://toolpony.com/de/tools/square-footage-calculator/>)
 
 
 

@@ -53,11 +53,7 @@ Compare as parcelas restantes, pagamentos extras, quitação imediata e dois pla
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/mortgage-payoff-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de quitação imobiliária](<https://toolpony.com/pt-br/tools/mortgage-payoff-calculator/>)
 
 
 

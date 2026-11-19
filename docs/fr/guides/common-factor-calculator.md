@@ -38,11 +38,7 @@
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/common-factor-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de diviseurs communs](<https://toolpony.com/fr/tools/common-factor-calculator/>)
 
 
 

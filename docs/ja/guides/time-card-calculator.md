@@ -51,11 +51,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/time-card-calculator/>)
-
-
+[ツール全体を開く · タイムカード計算機](<https://toolpony.com/ja/tools/time-card-calculator/>)
 
 
 

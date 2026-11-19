@@ -2,7 +2,7 @@
 
 
 
-Explore as ferramentas, teste um exemplo e obtenha seus próprios resultados.
+Aprenda a usar as calculadoras e ferramentas de imagem e PDF do ToolPony com exemplos. Teste os dados no próprio guia e compare o resultado com o esperado.
 
 
 

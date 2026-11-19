@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/half-life-calculator/>)
-
-
+[ツール全体を開く · 半減期計算機](<https://toolpony.com/ja/tools/half-life-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ Diviser les entiers ou les décimales et inspecter le quotient, le reste, la val
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/long-division-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de division posée](<https://toolpony.com/fr/tools/long-division-calculator/>)
 
 
 

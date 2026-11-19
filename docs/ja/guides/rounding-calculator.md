@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/rounding-calculator/>)
-
-
+[ツール全体を開く · 数値の丸め計算機](<https://toolpony.com/ja/tools/rounding-calculator/>)
 
 
 

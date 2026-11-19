@@ -38,11 +38,7 @@ Proyecte un equilibrio con las contribuciones recurrentes y la inflación, o con
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/compound-interest-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de interés compuesto](<https://toolpony.com/es/tools/compound-interest-calculator/>)
 
 
 

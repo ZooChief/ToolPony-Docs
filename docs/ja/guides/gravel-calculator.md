@@ -51,11 +51,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/gravel-calculator/>)
-
-
+[ツール全体を開く · 砂利計算機](<https://toolpony.com/ja/tools/gravel-calculator/>)
 
 
 

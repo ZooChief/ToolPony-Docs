@@ -50,11 +50,7 @@ Berechnen Sie Zeitabstände und Dauern oder verschieben Sie Datum und Uhrzeit.
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/time-duration-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Zeitdauerrechner](<https://toolpony.com/de/tools/time-duration-calculator/>)
 
 
 

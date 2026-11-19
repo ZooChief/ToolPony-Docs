@@ -38,11 +38,7 @@ Decimales redondos exactos por lugar decimal o una fracción binaria con nueve m
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/rounding-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de redondeo](<https://toolpony.com/es/tools/rounding-calculator/>)
 
 
 

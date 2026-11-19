@@ -53,11 +53,7 @@ Ursprünglich 400.000, 30 Jahre, 6 %. Noch 25 Jahre und 500 extra pro Monat.
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/mortgage-payoff-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Hypotheken-Tilgungsrechner](<https://toolpony.com/de/tools/mortgage-payoff-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ Ein neues Zufallspasswort
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/password-generator/>)
-
-
+[Vollständiges Werkzeug öffnen · Passwortgenerator](<https://toolpony.com/de/tools/password-generator/>)
 
 
 

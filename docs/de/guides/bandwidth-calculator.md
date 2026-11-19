@@ -38,11 +38,7 @@ Schätzen Sie die Übertragungszeit von der Dateigröße, der Verbindungsgeschwi
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/bandwidth-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Bandbreitenrechner](<https://toolpony.com/de/tools/bandwidth-calculator/>)
 
 
 

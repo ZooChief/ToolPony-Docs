@@ -52,11 +52,7 @@ ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/file-hash-calculator/>)
-
-
+[Ouvrir l’outil complet · Calcul de hachage de fichiers et de texte](<https://toolpony.com/fr/tools/file-hash-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ Compare two opaque colors against WCAG 2.2 contrast thresholds.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/contrast-checker/>)
-
-
+[Open full tool · Contrast checker](<https://toolpony.com/en/tools/contrast-checker/>)
 
 
 

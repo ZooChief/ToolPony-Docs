@@ -38,11 +38,7 @@ Base 2, expoente 5
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/exponent-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de potências](<https://toolpony.com/pt-br/tools/exponent-calculator/>)
 
 
 

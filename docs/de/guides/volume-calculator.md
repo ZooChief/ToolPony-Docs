@@ -38,11 +38,7 @@ Kugel mit Radius von 2 m
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/volume-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Volumenrechner](<https://toolpony.com/de/tools/volume-calculator/>)
 
 
 

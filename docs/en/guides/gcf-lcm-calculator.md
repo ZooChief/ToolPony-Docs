@@ -38,11 +38,7 @@ GCF 6; LCM 72
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/gcf-lcm-calculator/>)
-
-
+[Open full tool · GCF and LCM calculator](<https://toolpony.com/en/tools/gcf-lcm-calculator/>)
 
 
 

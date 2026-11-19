@@ -35,7 +35,7 @@ Selecciona páginas y guárdalas en un PDF o ZIP nuevo.
 PDF de 5 páginas, selección 5, 1-3
 ```
 
-
+[Ejemplo · PDF](<https://toolpony.com/samples/toolpony-pages.pdf>)
 
 ### Resultado esperado
 
@@ -53,11 +53,7 @@ Un PDF con las páginas 5, 1, 2 y 3 en ese orden
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/pdf-split/>)
-
-
+[Abrir herramienta completa · Dividir PDF](<https://toolpony.com/es/tools/pdf-split/>)
 
 
 

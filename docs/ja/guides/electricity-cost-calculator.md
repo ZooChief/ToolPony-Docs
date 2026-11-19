@@ -50,11 +50,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/electricity-cost-calculator/>)
-
-
+[ツール全体を開く · 電気料金計算機](<https://toolpony.com/ja/tools/electricity-cost-calculator/>)
 
 
 

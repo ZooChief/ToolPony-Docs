@@ -50,11 +50,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/time-duration-calculator/>)
-
-
+[ツール全体を開く · 時間間隔計算機](<https://toolpony.com/ja/tools/time-duration-calculator/>)
 
 
 

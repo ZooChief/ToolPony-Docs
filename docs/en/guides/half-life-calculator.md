@@ -38,11 +38,7 @@ Half-life ≈ 15.0515
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/half-life-calculator/>)
-
-
+[Open full tool · Half-life calculator](<https://toolpony.com/en/tools/half-life-calculator/>)
 
 
 

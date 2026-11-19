@@ -50,11 +50,7 @@ Geburt 2000-01-01, Stichtag 2025-02-03
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/age-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Altersrechner](<https://toolpony.com/de/tools/age-calculator/>)
 
 
 

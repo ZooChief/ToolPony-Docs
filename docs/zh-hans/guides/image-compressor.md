@@ -52,11 +52,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/image-compressor/>)
-
-
+[打开完整工具 · 图片压缩](<https://toolpony.com/zh-hans/tools/image-compressor/>)
 
 
 

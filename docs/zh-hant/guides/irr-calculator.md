@@ -38,11 +38,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/irr-calculator/>)
-
-
+[打開完整工具 · 內部收益率計算器](<https://toolpony.com/zh-hant/tools/irr-calculator/>)
 
 
 

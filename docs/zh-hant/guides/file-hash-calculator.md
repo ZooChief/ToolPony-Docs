@@ -52,11 +52,7 @@ ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/file-hash-calculator/>)
-
-
+[打開完整工具 · 文件與文本哈希](<https://toolpony.com/zh-hant/tools/file-hash-calculator/>)
 
 
 

@@ -59,11 +59,7 @@ Hinzugefügt 1 · Entfernt 1 · Geändert 1
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/csv-compare/>)
-
-
+[Vollständiges Werkzeug öffnen · CSV-Vergleich](<https://toolpony.com/de/tools/csv-compare/>)
 
 
 
@@ -74,5 +70,9 @@ Hinzugefügt 1 · Entfernt 1 · Geändert 1
 
 
 Je Tabelle bis 1 MiB UTF-8, 5.000 Datenzeilen und 80 Spalten. Text wird exakt verglichen, auch führende Nullen. Doppelte und leere Schlüssel erscheinen getrennt. Datensatznummern beginnen bei der Kopfzeile.
+
+
+
+Nutzen Sie bei Inventarlisten eine stabile Artikelnummer als Schlüssel. Steht im alten Export 0012 und im neuen 12, erscheint je ein entfernter und ein neuer Datensatz. Behalten Sie in beiden Exporten die führenden Nullen bei, um Mengenänderungen demselben Artikel zuzuordnen.
 
 [Dokumentation](https://docs.toolpony.com/de/guides/csv-compare/)

@@ -38,11 +38,7 @@ Convertir 1 m a ft
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/unit-converter/>)
-
-
+[Abrir herramienta completa · Conversor de unidades](<https://toolpony.com/es/tools/unit-converter/>)
 
 
 

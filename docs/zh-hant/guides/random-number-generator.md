@@ -38,11 +38,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/random-number-generator/>)
-
-
+[打開完整工具 · 隨機數生成器](<https://toolpony.com/zh-hant/tools/random-number-generator/>)
 
 
 

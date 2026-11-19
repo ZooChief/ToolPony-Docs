@@ -52,11 +52,7 @@ A.pdf（2 頁）+ B.pdf（3 頁）
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/pdf-merge/>)
-
-
+[打開完整工具 · PDF 合併](<https://toolpony.com/zh-hant/tools/pdf-merge/>)
 
 
 

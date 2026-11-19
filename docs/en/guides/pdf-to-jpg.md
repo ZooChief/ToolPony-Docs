@@ -52,11 +52,7 @@ A 1224 × 1584 pixel PNG
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/pdf-to-jpg/>)
-
-
+[Open full tool · PDF to JPG or PNG](<https://toolpony.com/en/tools/pdf-to-jpg/>)
 
 
 

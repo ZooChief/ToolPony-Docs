@@ -52,11 +52,7 @@ Set the output width or height. Keep aspect ratio enabled to preserve the origin
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/image-resizer/>)
-
-
+[Open full tool · Image resizer](<https://toolpony.com/en/tools/image-resizer/>)
 
 
 

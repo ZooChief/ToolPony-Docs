@@ -38,11 +38,7 @@ Network 192.0.2.128/27, 30 usable hosts
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/ip-subnet-calculator/>)
-
-
+[Open full tool · IP subnet calculator](<https://toolpony.com/en/tools/ip-subnet-calculator/>)
 
 
 

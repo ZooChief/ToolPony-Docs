@@ -38,11 +38,7 @@ Costo 60, precio 100
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/margin-calculator/>)
-
-
+[Abrir herramienta completa · Margen de beneficio y recargo](<https://toolpony.com/es/tools/margin-calculator/>)
 
 
 

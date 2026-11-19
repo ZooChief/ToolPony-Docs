@@ -38,11 +38,7 @@ Calcular con enteros muy grandes y coeficientes decimales, con redondeo seleccio
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/big-number-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de números grandes](<https://toolpony.com/es/tools/big-number-calculator/>)
 
 
 

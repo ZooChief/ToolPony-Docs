@@ -38,11 +38,7 @@ FF, 기초 16에 기초 10
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/base-converter/>)
-
-
+[전체 도구 열기 · 진법 변환 및 계산기](<https://toolpony.com/ko/tools/base-converter/>)
 
 
 

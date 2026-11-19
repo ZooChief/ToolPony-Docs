@@ -51,11 +51,7 @@ Environ 2 461 ft², 28 squares avec une marge de 10 %.
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/roofing-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculateur de toiture](<https://toolpony.com/fr/tools/roofing-calculator/>)
 
 
 

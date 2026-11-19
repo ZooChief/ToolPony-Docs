@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/scientific-notation-calculator/>)
-
-
+[ツール全体を開く · 科学的記数法の計算機](<https://toolpony.com/ja/tools/scientific-notation-calculator/>)
 
 
 

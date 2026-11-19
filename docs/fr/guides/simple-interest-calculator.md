@@ -38,11 +38,7 @@ Calculer l'intérêt simple ou résoudre pour le principal, le taux d'intérêt 
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/simple-interest-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice d’intérêts simples](<https://toolpony.com/fr/tools/simple-interest-calculator/>)
 
 
 

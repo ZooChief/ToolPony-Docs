@@ -53,11 +53,7 @@ Compare a mortgage’s remaining payments, extra payments, a lump sum and two bi
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/mortgage-payoff-calculator/>)
-
-
+[Open full tool · Mortgage payoff calculator](<https://toolpony.com/en/tools/mortgage-payoff-calculator/>)
 
 
 

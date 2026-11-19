@@ -38,11 +38,7 @@ z = 2.36
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/p-value-calculator/>)
-
-
+[전체 도구 열기 · 정규분포 p값 계산기](<https://toolpony.com/ko/tools/p-value-calculator/>)
 
 
 

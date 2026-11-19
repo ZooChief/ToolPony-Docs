@@ -52,11 +52,7 @@ Cliquez sur l'exemple ou choisissez une image. Cliquez sur un point ou entrez se
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/image-color-picker/>)
-
-
+[Ouvrir l’outil complet · Pipette de couleurs d’image](<https://toolpony.com/fr/tools/image-color-picker/>)
 
 
 

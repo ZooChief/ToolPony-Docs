@@ -51,11 +51,7 @@ A1, A2, B1, B2, B3 순서의 PDF 한 개
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/pdf-merge/>)
-
-
+[전체 도구 열기 · PDF 병합](<https://toolpony.com/ko/tools/pdf-merge/>)
 
 
 

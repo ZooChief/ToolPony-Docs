@@ -38,11 +38,7 @@ x₁=2, x₂=3
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/quadratic-calculator/>)
-
-
+[ツール全体を開く · 二次方程式の解の公式](<https://toolpony.com/ja/tools/quadratic-calculator/>)
 
 
 

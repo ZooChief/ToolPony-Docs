@@ -38,11 +38,7 @@ IRR ≈ 15.093%
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/irr-calculator/>)
-
-
+[Open full tool · Internal rate of return calculator](<https://toolpony.com/en/tools/irr-calculator/>)
 
 
 

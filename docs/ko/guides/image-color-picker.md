@@ -52,11 +52,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/image-color-picker/>)
-
-
+[전체 도구 열기 · 이미지 색상 추출](<https://toolpony.com/ko/tools/image-color-picker/>)
 
 
 

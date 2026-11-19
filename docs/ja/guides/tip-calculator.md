@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/tip-calculator/>)
-
-
+[ツール全体を開く · チップ計算機](<https://toolpony.com/ja/tools/tip-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ Income 5,000, debt payments 1,500
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/debt-to-income-calculator/>)
-
-
+[Open full tool · Debt-to-income calculator](<https://toolpony.com/en/tools/debt-to-income-calculator/>)
 
 
 

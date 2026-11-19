@@ -38,11 +38,7 @@ Encontre uma amostra mínima do inquérito ou estime a margem de erro com corre�
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/sample-size-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora do tamanho da amostra](<https://toolpony.com/pt-br/tools/sample-size-calculator/>)
 
 
 

@@ -52,11 +52,7 @@ ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/file-hash-calculator/>)
-
-
+[Open full tool · File and text hash calculator](<https://toolpony.com/en/tools/file-hash-calculator/>)
 
 
 

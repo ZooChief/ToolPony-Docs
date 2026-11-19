@@ -52,11 +52,7 @@ ABC	123
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/document-to-text/>)
-
-
+[Vollständiges Werkzeug öffnen · Dokument in Text umwandeln](<https://toolpony.com/de/tools/document-to-text/>)
 
 
 

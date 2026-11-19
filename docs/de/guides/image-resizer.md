@@ -52,11 +52,7 @@ Wählen Sie ein Bild. Geben Sie Breite oder Höhe ein. Behalten Sie bei Bedarf d
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/image-resizer/>)
-
-
+[Vollständiges Werkzeug öffnen · Bildgröße ändern](<https://toolpony.com/de/tools/image-resizer/>)
 
 
 

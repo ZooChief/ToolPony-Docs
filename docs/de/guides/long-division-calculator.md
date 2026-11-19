@@ -38,11 +38,7 @@ Teilen Sie ganze Zahlen oder Dezimalzahlen und prüfen Sie Quotient, Rest, Dezim
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/long-division-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Schriftliche Division](<https://toolpony.com/de/tools/long-division-calculator/>)
 
 
 

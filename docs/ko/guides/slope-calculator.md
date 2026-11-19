@@ -38,11 +38,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/slope-calculator/>)
-
-
+[전체 도구 열기 · 기울기 계산기](<https://toolpony.com/ko/tools/slope-calculator/>)
 
 
 

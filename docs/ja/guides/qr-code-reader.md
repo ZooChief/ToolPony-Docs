@@ -51,11 +51,7 @@ https://example.com/qr-sample
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/qr-code-reader/>)
-
-
+[ツール全体を開く · QRコード読み取り](<https://toolpony.com/ja/tools/qr-code-reader/>)
 
 
 

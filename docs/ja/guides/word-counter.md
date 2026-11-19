@@ -53,11 +53,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/word-counter/>)
-
-
+[ツール全体を開く · 文字数・単語数カウンター](<https://toolpony.com/ja/tools/word-counter/>)
 
 
 

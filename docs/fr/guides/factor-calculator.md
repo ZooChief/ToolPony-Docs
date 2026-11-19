@@ -38,11 +38,7 @@
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/factor-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de diviseurs](<https://toolpony.com/fr/tools/factor-calculator/>)
 
 
 

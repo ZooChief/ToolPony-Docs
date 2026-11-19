@@ -51,11 +51,7 @@ Queda de 0,37 V, 0,30%
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/voltage-drop-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de queda de tensão](<https://toolpony.com/pt-br/tools/voltage-drop-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ A + B = [3, 2; 5, 8]
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/matrix-calculator/>)
-
-
+[전체 도구 열기 · 행렬 계산기](<https://toolpony.com/ko/tools/matrix-calculator/>)
 
 
 

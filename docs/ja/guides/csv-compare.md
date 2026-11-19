@@ -59,11 +59,7 @@ Qty,ID,Name
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/csv-compare/>)
-
-
+[ツール全体を開く · CSV 比較](<https://toolpony.com/ja/tools/csv-compare/>)
 
 
 
@@ -74,5 +70,9 @@ Qty,ID,Name
 
 
 各表はUTF-8で1 MiB、データ5,000行、80列までです。先頭の0を含めて文字列を完全一致で比較し、重複キーと空キーを分けて表示します。番号はヘッダーから数えたレコード順です。
+
+
+
+在庫表では変わらない SKU をキーにします。旧ファイルの 0012 が新ファイルで 12 になると、削除と追加が各 1 件になります。数量の差を同じ商品の変更として比較するには、両方のファイルで先頭のゼロを保持してください。
 
 [ドキュメント](https://docs.toolpony.com/ja/guides/csv-compare/)

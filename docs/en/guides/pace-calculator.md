@@ -38,11 +38,7 @@ Solve pace, elapsed time and distance. Compare split paces, convert units, and e
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/pace-calculator/>)
-
-
+[Open full tool · Pace calculator](<https://toolpony.com/en/tools/pace-calculator/>)
 
 
 

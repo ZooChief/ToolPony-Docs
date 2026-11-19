@@ -52,11 +52,7 @@ Built-in sample, X = 32 and Y = 32
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/image-color-picker/>)
-
-
+[Open full tool · Image color picker](<https://toolpony.com/en/tools/image-color-picker/>)
 
 
 

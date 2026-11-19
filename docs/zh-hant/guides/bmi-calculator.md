@@ -38,11 +38,7 @@ BMI 約 22.86 kg/m²
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/bmi-calculator/>)
-
-
+[打開完整工具 · 成人 BMI 計算器](<https://toolpony.com/zh-hant/tools/bmi-calculator/>)
 
 
 

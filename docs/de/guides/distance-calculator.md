@@ -38,11 +38,7 @@ Abstand 5
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/distance-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Abstandsrechner](<https://toolpony.com/de/tools/distance-calculator/>)
 
 
 

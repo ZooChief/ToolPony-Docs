@@ -38,11 +38,7 @@ Two tails ≈ 0.018275
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/p-value-calculator/>)
-
-
+[Open full tool · Normal p-value calculator](<https://toolpony.com/en/tools/p-value-calculator/>)
 
 
 

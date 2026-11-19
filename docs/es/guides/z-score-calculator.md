@@ -38,11 +38,7 @@ z = −1.25
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/z-score-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de puntuación Z](<https://toolpony.com/es/tools/z-score-calculator/>)
 
 
 

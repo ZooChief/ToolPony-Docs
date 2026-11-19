@@ -51,11 +51,7 @@ https://example.com/qr-sample
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/qr-code-reader/>)
-
-
+[打开完整工具 · 二维码识别](<https://toolpony.com/zh-hans/tools/qr-code-reader/>)
 
 
 

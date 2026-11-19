@@ -38,11 +38,7 @@ Liste todos os divisores positivos, todos os pares de fatores, e a fatoração p
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/factor-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de divisores](<https://toolpony.com/pt-br/tools/factor-calculator/>)
 
 
 

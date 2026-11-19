@@ -34,7 +34,7 @@
 PDF 的前兩頁分別寫着 One 和 Two。選頁 2, 1，格式爲 JSON。
 ```
 
-
+[示例 · PDF](<https://toolpony.com/samples/toolpony-pages.pdf>)
 
 ### 預期結果
 
@@ -52,11 +52,7 @@ PDF 的前兩頁分別寫着 One 和 Two。選頁 2, 1，格式爲 JSON。
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/pdf-to-text/>)
-
-
+[打開完整工具 · PDF 轉文字](<https://toolpony.com/zh-hant/tools/pdf-to-text/>)
 
 
 
@@ -79,5 +75,9 @@ TXT 用換頁符分隔頁面。提取按 PDF 內部文字順序進行，多欄�
 
 
 最大 30 MB、300 頁、200 萬字符及 20 萬段文字。輸出遵循 PDF 內部文字順序。掃描件需要 OCR，不支持加密文件。
+
+
+
+掃描件看得清卻提取不到文字時，先在 PDF 閱讀器裏試着選中一個詞。拍成圖片的頁面需要先用 OCR 建立文字層。如果文檔既有文字頁也有掃描頁，可導出 JSON，根據空 text 字段和原始頁碼找到需要識別的頁面。
 
 [文檔站](https://docs.toolpony.com/zh-hant/guides/pdf-to-text/)

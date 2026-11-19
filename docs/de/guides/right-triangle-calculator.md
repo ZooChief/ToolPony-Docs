@@ -51,11 +51,7 @@ Katheten 3 und 4, Fläche 6, Umfang 12. Beide Katheten können a sein.
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/right-triangle-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Rechner für rechtwinklige Dreiecke](<https://toolpony.com/de/tools/right-triangle-calculator/>)
 
 
 

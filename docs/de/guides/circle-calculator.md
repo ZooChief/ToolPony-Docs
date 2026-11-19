@@ -38,11 +38,7 @@ Umfang ≈ 12,5664; Bogen ≈ 3,1416
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/circle-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Kreisrechner](<https://toolpony.com/de/tools/circle-calculator/>)
 
 
 

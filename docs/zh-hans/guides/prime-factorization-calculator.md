@@ -38,11 +38,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/prime-factorization-calculator/>)
-
-
+[打开完整工具 · 质因数分解计算器](<https://toolpony.com/zh-hans/tools/prime-factorization-calculator/>)
 
 
 

@@ -51,11 +51,7 @@ Berechnen Sie Volumen, Masse, Sackzahl und Kosten für Kies oder Sand.
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/gravel-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Kiesrechner](<https://toolpony.com/de/tools/gravel-calculator/>)
 
 
 

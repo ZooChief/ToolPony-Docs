@@ -54,11 +54,7 @@ Two values at Jan and Feb, plotted from left to right.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/chart-maker/>)
-
-
+[Open full tool · Chart maker](<https://toolpony.com/en/tools/chart-maker/>)
 
 
 

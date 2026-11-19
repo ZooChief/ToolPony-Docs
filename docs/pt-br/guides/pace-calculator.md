@@ -38,11 +38,7 @@ Resolva o ritmo, o tempo e a distância decorridos. Compare os ritmos divididos,
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/pace-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de ritmo de corrida](<https://toolpony.com/pt-br/tools/pace-calculator/>)
 
 
 

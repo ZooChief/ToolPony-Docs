@@ -38,11 +38,7 @@ Ejemplo: 550e8400-e29b-41d4-a716-446655440000
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/uuid-generator/>)
-
-
+[Abrir herramienta completa · Generador de UUID](<https://toolpony.com/es/tools/uuid-generator/>)
 
 
 

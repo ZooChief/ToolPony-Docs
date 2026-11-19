@@ -38,11 +38,7 @@ Rondes décimales exactes par décimale ou fraction binaire avec neuf modes d'ar
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/rounding-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice d’arrondis](<https://toolpony.com/fr/tools/rounding-calculator/>)
 
 
 

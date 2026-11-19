@@ -52,11 +52,7 @@ Einbauprobe, X = 32 und Y = 32
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/image-color-picker/>)
-
-
+[Vollständiges Werkzeug öffnen · Farbpipette für Bilder](<https://toolpony.com/de/tools/image-color-picker/>)
 
 
 

@@ -52,11 +52,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/loan-calculator/>)
-
-
+[打开完整工具 · 贷款计算器](<https://toolpony.com/zh-hans/tools/loan-calculator/>)
 
 
 

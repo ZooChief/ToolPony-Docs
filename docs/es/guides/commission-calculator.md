@@ -38,11 +38,7 @@ Encuentra ventas, tarifas o comisión, luego calcula un pago base más fichas pr
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/commission-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de comisiones](<https://toolpony.com/es/tools/commission-calculator/>)
 
 
 

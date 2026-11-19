@@ -65,11 +65,7 @@ Overlap 50 ms
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/subtitle-converter/>)
-
-
+[Abrir ferramenta completa · Conversor de legendas](<https://toolpony.com/pt-br/tools/subtitle-converter/>)
 
 
 

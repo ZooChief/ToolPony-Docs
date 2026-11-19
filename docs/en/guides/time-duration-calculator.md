@@ -50,11 +50,7 @@ Find intervals, add or subtract durations, and shift a date and time.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/time-duration-calculator/>)
-
-
+[Open full tool · Time duration calculator](<https://toolpony.com/en/tools/time-duration-calculator/>)
 
 
 

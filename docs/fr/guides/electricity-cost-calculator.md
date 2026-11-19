@@ -50,11 +50,7 @@ Estimez consommation et coût par appareil, charge et tarif sur une durée fixe 
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/electricity-cost-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculateur du coût de l’électricité](<https://toolpony.com/fr/tools/electricity-cost-calculator/>)
 
 
 

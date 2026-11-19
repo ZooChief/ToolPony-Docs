@@ -38,11 +38,7 @@ Descuentos en estadio, restar un cupón fijo y aplicar impuestos de ventas al pr
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/discount-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de descuentos](<https://toolpony.com/es/tools/discount-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ Five random integers from 1 through 10
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/random-number-generator/>)
-
-
+[Open full tool · Random number generator](<https://toolpony.com/en/tools/random-number-generator/>)
 
 
 

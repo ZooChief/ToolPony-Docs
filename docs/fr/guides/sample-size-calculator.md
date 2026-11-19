@@ -38,11 +38,7 @@ confiance à 95 %, marge de 4 %, proportion de 35 %, N = 1 000
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/sample-size-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de taille d’échantillon](<https://toolpony.com/fr/tools/sample-size-calculator/>)
 
 
 

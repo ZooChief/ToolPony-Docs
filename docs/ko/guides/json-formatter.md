@@ -55,11 +55,7 @@ JSON을 붙여넣고, 들여쓰기를 선택하고, 포맷하거나 축소하십
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/json-formatter/>)
-
-
+[전체 도구 열기 · JSON 포매터](<https://toolpony.com/ko/tools/json-formatter/>)
 
 
 

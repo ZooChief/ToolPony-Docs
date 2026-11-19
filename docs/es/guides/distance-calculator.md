@@ -38,11 +38,7 @@ Distancia 5
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/distance-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de distancias](<https://toolpony.com/es/tools/distance-calculator/>)
 
 
 

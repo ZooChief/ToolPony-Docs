@@ -38,11 +38,7 @@ Bauen Sie einen jährlichen linearen, rückläufigen Gleichgewichts- oder Jahres
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/depreciation-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Abschreibungsrechner](<https://toolpony.com/de/tools/depreciation-calculator/>)
 
 
 

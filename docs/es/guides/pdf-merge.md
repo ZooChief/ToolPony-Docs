@@ -51,11 +51,7 @@ Un PDF con A1, A2, B1, B2, B3 en ese orden
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/pdf-merge/>)
-
-
+[Abrir herramienta completa · Unir PDF](<https://toolpony.com/es/tools/pdf-merge/>)
 
 
 

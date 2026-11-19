@@ -38,11 +38,7 @@ Berechnen Sie einfache Zinsen oder lösen Sie nach Kapital, Zinssatz oder Begrif
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/simple-interest-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Rechner für einfache Zinsen](<https://toolpony.com/de/tools/simple-interest-calculator/>)
 
 
 

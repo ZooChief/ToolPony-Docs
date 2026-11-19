@@ -38,11 +38,7 @@ Finden Sie Verkäufe, Raten oder Provisionen und berechnen Sie dann eine Basisza
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/commission-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Provisionsrechner](<https://toolpony.com/de/tools/commission-calculator/>)
 
 
 

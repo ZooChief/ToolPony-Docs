@@ -51,11 +51,7 @@ Count calendar days and business days, or shift a date by calendar units or work
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/date-calculator/>)
-
-
+[Open full tool · Date calculator](<https://toolpony.com/en/tools/date-calculator/>)
 
 
 

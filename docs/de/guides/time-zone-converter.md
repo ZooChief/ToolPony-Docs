@@ -38,11 +38,7 @@ Rechnen Sie Datum und Uhrzeit zwischen IANA-Zonen oder festen UTC-Abständen um.
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/time-zone-converter/>)
-
-
+[Vollständiges Werkzeug öffnen · Zeitzonenumrechner](<https://toolpony.com/de/tools/time-zone-converter/>)
 
 
 

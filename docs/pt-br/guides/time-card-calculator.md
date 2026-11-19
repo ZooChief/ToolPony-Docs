@@ -51,11 +51,7 @@ Registre turnos e pausas semanais com arredondamento, regras de pagamento e CSV.
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/time-card-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de folha de horas](<https://toolpony.com/pt-br/tools/time-card-calculator/>)
 
 
 

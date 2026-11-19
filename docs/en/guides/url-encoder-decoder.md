@@ -38,11 +38,7 @@ a%2Bb%20%26%20c
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/url-encoder-decoder/>)
-
-
+[Open full tool · URL encode and decode](<https://toolpony.com/en/tools/url-encoder-decoder/>)
 
 
 

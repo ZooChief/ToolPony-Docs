@@ -38,11 +38,7 @@ Un nouveau mot de passe aléatoire
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/password-generator/>)
-
-
+[Ouvrir l’outil complet · Générateur de mots de passe](<https://toolpony.com/fr/tools/password-generator/>)
 
 
 

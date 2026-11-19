@@ -52,11 +52,7 @@ ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/file-hash-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de hash de arquivos e texto](<https://toolpony.com/pt-br/tools/file-hash-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ Demi-vie 15.0515
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/half-life-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de demi-vie](<https://toolpony.com/fr/tools/half-life-calculator/>)
 
 
 

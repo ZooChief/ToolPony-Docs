@@ -38,11 +38,7 @@ Média 5, mediana 4
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/statistics-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora estatística](<https://toolpony.com/pt-br/tools/statistics-calculator/>)
 
 
 

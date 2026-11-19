@@ -38,11 +38,7 @@ GCF 6; LCM 72
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/gcf-lcm-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de PGCD et PPCM](<https://toolpony.com/fr/tools/gcf-lcm-calculator/>)
 
 
 

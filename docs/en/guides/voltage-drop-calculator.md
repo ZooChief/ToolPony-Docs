@@ -51,11 +51,7 @@ Estimate voltage drop in DC, single-phase or balanced three-phase wiring from ca
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/voltage-drop-calculator/>)
-
-
+[Open full tool · Voltage drop calculator](<https://toolpony.com/en/tools/voltage-drop-calculator/>)
 
 
 

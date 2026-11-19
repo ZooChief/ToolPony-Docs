@@ -50,11 +50,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/ohms-law-calculator/>)
-
-
+[打开完整工具 · 欧姆定律计算器](<https://toolpony.com/zh-hans/tools/ohms-law-calculator/>)
 
 
 

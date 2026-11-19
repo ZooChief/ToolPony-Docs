@@ -38,11 +38,7 @@ Compare duas cores opacas com os limites de contraste da WCAG 2.2.
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/contrast-checker/>)
-
-
+[Abrir ferramenta completa · Verificador de contraste](<https://toolpony.com/pt-br/tools/contrast-checker/>)
 
 
 

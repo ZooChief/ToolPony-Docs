@@ -52,11 +52,7 @@ Estimar volumen de hormigón, peso y bolsas enteras para losas, pisadas, tubos, 
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/concrete-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de cantidad de concreto](<https://toolpony.com/es/tools/concrete-calculator/>)
 
 
 

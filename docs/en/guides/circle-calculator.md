@@ -38,11 +38,7 @@ Circumference ≈12.5664; arc ≈3.1416
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/circle-calculator/>)
-
-
+[Open full tool · Circle calculator](<https://toolpony.com/en/tools/circle-calculator/>)
 
 
 

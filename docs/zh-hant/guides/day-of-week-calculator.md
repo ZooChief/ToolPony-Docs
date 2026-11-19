@@ -38,11 +38,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/day-of-week-calculator/>)
-
-
+[打開完整工具 · 星期幾計算器](<https://toolpony.com/zh-hant/tools/day-of-week-calculator/>)
 
 
 

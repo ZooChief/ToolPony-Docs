@@ -51,11 +51,7 @@ Precio 30.000, entrada 5.000, 5 % a 60 meses
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/auto-loan-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de préstamo de auto](<https://toolpony.com/es/tools/auto-loan-calculator/>)
 
 
 

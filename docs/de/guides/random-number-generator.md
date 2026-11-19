@@ -38,11 +38,7 @@ Fünf zufällige Ganzzahlen von 1 bis 10
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/random-number-generator/>)
-
-
+[Vollständiges Werkzeug öffnen · Zufallszahlengenerator](<https://toolpony.com/de/tools/random-number-generator/>)
 
 
 

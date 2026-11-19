@@ -38,11 +38,7 @@ Divide integers or decimals and inspect the quotient, remainder, decimal value, 
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/long-division-calculator/>)
-
-
+[Open full tool · Long division calculator](<https://toolpony.com/en/tools/long-division-calculator/>)
 
 
 

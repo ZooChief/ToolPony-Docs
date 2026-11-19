@@ -52,11 +52,7 @@ https://example.com/
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/qr-code-generator/>)
-
-
+[Open full tool · QR code generator](<https://toolpony.com/en/tools/qr-code-generator/>)
 
 
 

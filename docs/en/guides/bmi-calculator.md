@@ -38,11 +38,7 @@ BMI ≈22.86 kg/m²
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/bmi-calculator/>)
-
-
+[Open full tool · Adult BMI calculator](<https://toolpony.com/en/tools/bmi-calculator/>)
 
 
 

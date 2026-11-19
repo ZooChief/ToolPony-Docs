@@ -50,11 +50,7 @@ Schätzen Sie Verbrauch und Kosten nach Gerät, Auslastung und Tarif für feste 
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/electricity-cost-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Stromkostenrechner](<https://toolpony.com/de/tools/electricity-cost-calculator/>)
 
 
 

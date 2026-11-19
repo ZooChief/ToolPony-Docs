@@ -38,11 +38,7 @@ Compara dos colores opacos con los umbrales de contraste de WCAG 2.2.
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/contrast-checker/>)
-
-
+[Abrir herramienta completa · Comprobador de contraste](<https://toolpony.com/es/tools/contrast-checker/>)
 
 
 

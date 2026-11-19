@@ -38,11 +38,7 @@ sqrt(81)+ 2^3 × 罪(30)、学位
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/scientific-calculator/>)
-
-
+[ツール全体を開く · 関数電卓](<https://toolpony.com/ja/tools/scientific-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ IANA タイムゾーンまたは固定 UTC オフセット間で日時を変換�
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/time-zone-converter/>)
-
-
+[ツール全体を開く · タイムゾーン変換](<https://toolpony.com/ja/tools/time-zone-converter/>)
 
 
 

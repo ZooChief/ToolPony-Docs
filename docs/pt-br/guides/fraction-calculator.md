@@ -38,11 +38,7 @@ Use aritmética exata para adicionar, subtrair, multiplicar, dividir ou simplifi
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/fraction-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de frações](<https://toolpony.com/pt-br/tools/fraction-calculator/>)
 
 
 

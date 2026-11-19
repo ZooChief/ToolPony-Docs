@@ -38,11 +38,7 @@ Construa um calendário anual de dígitos em linha reta, em declínio ou soma de
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/depreciation-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de depreciação](<https://toolpony.com/pt-br/tools/depreciation-calculator/>)
 
 
 

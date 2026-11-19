@@ -38,11 +38,7 @@ Convertir un objetivo de calorías y ratios de nutrientes en gramos, o calcular 
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/macro-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de macronutrientes](<https://toolpony.com/es/tools/macro-calculator/>)
 
 
 

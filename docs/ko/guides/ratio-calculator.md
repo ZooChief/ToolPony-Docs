@@ -38,11 +38,7 @@ x=15
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/ratio-calculator/>)
-
-
+[전체 도구 열기 · 비율 계산기](<https://toolpony.com/ko/tools/ratio-calculator/>)
 
 
 

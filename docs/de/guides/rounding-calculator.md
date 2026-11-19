@@ -38,11 +38,7 @@ Runde exakte Dezimalstellen nach Dezimalstellen oder einen Binärbruch mit neun 
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/rounding-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Rundungsrechner](<https://toolpony.com/de/tools/rounding-calculator/>)
 
 
 

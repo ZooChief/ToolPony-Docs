@@ -38,11 +38,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/simple-interest-calculator/>)
-
-
+[전체 도구 열기 · 단리 계산기](<https://toolpony.com/ko/tools/simple-interest-calculator/>)
 
 
 

@@ -38,11 +38,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/gcf-lcm-calculator/>)
-
-
+[打開完整工具 · 最大公因數與最小公倍數](<https://toolpony.com/zh-hant/tools/gcf-lcm-calculator/>)
 
 
 

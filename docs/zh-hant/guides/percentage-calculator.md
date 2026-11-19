@@ -52,11 +52,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/percentage-calculator/>)
-
-
+[打開完整工具 · 百分比計算器](<https://toolpony.com/zh-hant/tools/percentage-calculator/>)
 
 
 

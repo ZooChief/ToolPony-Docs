@@ -38,11 +38,7 @@ Calcular com números inteiros grandes e coeficientes decimais exatos, com arred
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/big-number-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de números grandes](<https://toolpony.com/pt-br/tools/big-number-calculator/>)
 
 
 

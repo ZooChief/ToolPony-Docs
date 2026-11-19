@@ -38,11 +38,7 @@ a%2Bb%20%26%20c
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/url-encoder-decoder/>)
-
-
+[Vollständiges Werkzeug öffnen · URL kodieren und dekodieren](<https://toolpony.com/de/tools/url-encoder-decoder/>)
 
 
 

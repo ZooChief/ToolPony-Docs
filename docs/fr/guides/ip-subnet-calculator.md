@@ -38,11 +38,7 @@ Réseau 192.0.2.128/27, 30 hôtes utilisables
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/ip-subnet-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculateur de sous-réseau IP](<https://toolpony.com/fr/tools/ip-subnet-calculator/>)
 
 
 

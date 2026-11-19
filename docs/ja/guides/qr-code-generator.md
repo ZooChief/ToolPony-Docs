@@ -52,11 +52,7 @@ https://example.com/
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/qr-code-generator/>)
-
-
+[ツール全体を開く · QR コード生成](<https://toolpony.com/ja/tools/qr-code-generator/>)
 
 
 

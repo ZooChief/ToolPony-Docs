@@ -38,11 +38,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/password-generator/>)
-
-
+[打開完整工具 · 密碼生成器](<https://toolpony.com/zh-hant/tools/password-generator/>)
 
 
 

@@ -38,11 +38,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/random-number-generator/>)
-
-
+[전체 도구 열기 · 난수 생성기](<https://toolpony.com/ko/tools/random-number-generator/>)
 
 
 

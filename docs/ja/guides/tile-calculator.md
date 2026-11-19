@@ -52,11 +52,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/tile-calculator/>)
-
-
+[ツール全体を開く · タイル枚数計算機](<https://toolpony.com/ja/tools/tile-calculator/>)
 
 
 

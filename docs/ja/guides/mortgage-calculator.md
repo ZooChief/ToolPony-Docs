@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/mortgage-calculator/>)
-
-
+[ツール全体を開く · 住宅ローン計算機](<https://toolpony.com/ja/tools/mortgage-calculator/>)
 
 
 

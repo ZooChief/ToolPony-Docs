@@ -38,11 +38,7 @@ Tres caras y su suma
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/dice-roller/>)
-
-
+[Abrir herramienta completa · Lanzador de dados](<https://toolpony.com/es/tools/dice-roller/>)
 
 
 

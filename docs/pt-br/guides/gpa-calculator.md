@@ -38,11 +38,7 @@ GPA 3.5
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/gpa-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de média GPA](<https://toolpony.com/pt-br/tools/gpa-calculator/>)
 
 
 

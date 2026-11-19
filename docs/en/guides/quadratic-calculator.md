@@ -38,11 +38,7 @@ x₁=2, x₂=3
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/quadratic-calculator/>)
-
-
+[Open full tool · Quadratic formula calculator](<https://toolpony.com/en/tools/quadratic-calculator/>)
 
 
 

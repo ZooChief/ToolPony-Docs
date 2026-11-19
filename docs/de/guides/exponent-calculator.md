@@ -38,11 +38,7 @@ Basis 2, Exponent 5
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/exponent-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Potenzrechner](<https://toolpony.com/de/tools/exponent-calculator/>)
 
 
 

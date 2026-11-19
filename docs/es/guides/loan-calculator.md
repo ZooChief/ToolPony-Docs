@@ -52,11 +52,7 @@ Calcula cuotas, deduce el plazo a partir del pago mensual o programa pagos extra
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/loan-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de préstamos](<https://toolpony.com/es/tools/loan-calculator/>)
 
 
 

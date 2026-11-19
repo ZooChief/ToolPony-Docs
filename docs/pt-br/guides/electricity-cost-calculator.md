@@ -50,11 +50,7 @@ Estime consumo e custo por aparelho, carga e tarifa, em prazo fixo ou do dia ao 
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/electricity-cost-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de custo de eletricidade](<https://toolpony.com/pt-br/tools/electricity-cost-calculator/>)
 
 
 

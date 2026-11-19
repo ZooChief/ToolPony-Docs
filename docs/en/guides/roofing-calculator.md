@@ -51,11 +51,7 @@ About 2,461 ft², 28 roofing squares with 10% allowance.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/roofing-calculator/>)
-
-
+[Open full tool · Roofing calculator](<https://toolpony.com/en/tools/roofing-calculator/>)
 
 
 

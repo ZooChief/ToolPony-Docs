@@ -38,11 +38,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/debt-to-income-calculator/>)
-
-
+[전체 도구 열기 · 총부채상환비율 계산기](<https://toolpony.com/ko/tools/debt-to-income-calculator/>)
 
 
 

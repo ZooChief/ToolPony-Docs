@@ -38,11 +38,7 @@ U+1F434 或 F0 9F 90 B4
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/unicode-converter/>)
-
-
+[打開完整工具 · Unicode 編碼轉換](<https://toolpony.com/zh-hant/tools/unicode-converter/>)
 
 
 

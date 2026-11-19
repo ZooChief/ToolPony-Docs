@@ -52,11 +52,7 @@ Geschätztes Betonvolumen, Gewicht und ganze Säcke für Platten, Fußböden, Ro
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/concrete-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Betonmengenrechner](<https://toolpony.com/de/tools/concrete-calculator/>)
 
 
 

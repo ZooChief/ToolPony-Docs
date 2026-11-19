@@ -38,11 +38,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/sales-tax-calculator/>)
-
-
+[打开完整工具 · 销售税与增值税计算器](<https://toolpony.com/zh-hans/tools/sales-tax-calculator/>)
 
 
 

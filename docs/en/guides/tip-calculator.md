@@ -38,11 +38,7 @@ Split a bill and tip among people, with the tip based on the amount before or af
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/tip-calculator/>)
-
-
+[Open full tool · Tip calculator](<https://toolpony.com/en/tools/tip-calculator/>)
 
 
 

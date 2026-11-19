@@ -50,11 +50,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/time-duration-calculator/>)
-
-
+[전체 도구 열기 · 시간 간격 계산기](<https://toolpony.com/ko/tools/time-duration-calculator/>)
 
 
 

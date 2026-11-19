@@ -38,11 +38,7 @@ Una contraseña aleatoria fresca
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/password-generator/>)
-
-
+[Abrir herramienta completa · Generador de contraseñas](<https://toolpony.com/es/tools/password-generator/>)
 
 
 

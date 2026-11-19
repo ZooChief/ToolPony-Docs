@@ -38,11 +38,7 @@ U+1F434 또는 F0 9F 90 B4
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/unicode-converter/>)
-
-
+[전체 도구 열기 · 유니코드 변환기](<https://toolpony.com/ko/tools/unicode-converter/>)
 
 
 

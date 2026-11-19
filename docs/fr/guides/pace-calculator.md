@@ -38,11 +38,7 @@ Résolvez le rythme, le temps écoulé et la distance. Comparez les rythmes frac
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/pace-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice d’allure de course](<https://toolpony.com/fr/tools/pace-calculator/>)
 
 
 

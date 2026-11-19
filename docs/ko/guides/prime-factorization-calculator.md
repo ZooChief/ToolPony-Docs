@@ -38,11 +38,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/prime-factorization-calculator/>)
-
-
+[전체 도구 열기 · 소인수분해 계산기](<https://toolpony.com/ko/tools/prime-factorization-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ Zweiseitig ≈ 0,018275
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/p-value-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · p-Wert-Rechner für die Normalverteilung](<https://toolpony.com/de/tools/p-value-calculator/>)
 
 
 

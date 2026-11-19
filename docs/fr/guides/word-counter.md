@@ -53,11 +53,7 @@ Ciel bleu ciel bleu
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/word-counter/>)
-
-
+[Ouvrir l’outil complet · Compteur de mots et de caractères](<https://toolpony.com/fr/tools/word-counter/>)
 
 
 

@@ -38,11 +38,7 @@ Incluez les rabais, soustrayez un coupon fixe et appliquez la taxe de vente au p
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/discount-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de remises](<https://toolpony.com/fr/tools/discount-calculator/>)
 
 
 

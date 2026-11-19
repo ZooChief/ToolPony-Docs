@@ -38,11 +38,7 @@ Pente 4/3 et distance 5
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/slope-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de pente](<https://toolpony.com/fr/tools/slope-calculator/>)
 
 
 

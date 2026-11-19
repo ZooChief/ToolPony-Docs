@@ -51,11 +51,7 @@ c = 5，h = 2.4
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/right-triangle-calculator/>)
-
-
+[打開完整工具 · 直角三角形計算器](<https://toolpony.com/zh-hant/tools/right-triangle-calculator/>)
 
 
 

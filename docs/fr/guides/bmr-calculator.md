@@ -38,11 +38,7 @@ Estimer les dépenses d'énergie au repos et les dépenses quotidiennes d'énerg
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/bmr-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice du métabolisme de base et des calories](<https://toolpony.com/fr/tools/bmr-calculator/>)
 
 
 

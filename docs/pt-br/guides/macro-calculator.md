@@ -38,11 +38,7 @@ Converta uma relação de caloria e nutrientes em gramas, ou calcule energia e p
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/macro-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de macronutrientes](<https://toolpony.com/pt-br/tools/macro-calculator/>)
 
 
 

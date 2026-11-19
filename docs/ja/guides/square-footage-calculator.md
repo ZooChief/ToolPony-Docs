@@ -52,11 +52,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/square-footage-calculator/>)
-
-
+[ツール全体を開く · 面積・平方フィート計算機](<https://toolpony.com/ja/tools/square-footage-calculator/>)
 
 
 

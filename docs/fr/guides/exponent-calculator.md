@@ -38,11 +38,7 @@ Base 2, exposant 5
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/exponent-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de puissances](<https://toolpony.com/fr/tools/exponent-calculator/>)
 
 
 

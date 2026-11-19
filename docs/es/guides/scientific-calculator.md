@@ -38,11 +38,7 @@ sqrt(81) + 2^3 × sin(30), grados
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/scientific-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora científica](<https://toolpony.com/es/tools/scientific-calculator/>)
 
 
 

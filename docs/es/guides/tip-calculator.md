@@ -38,11 +38,7 @@ Dividir una factura y una propina entre las personas, con la propina basada en l
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/tip-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de propinas](<https://toolpony.com/es/tools/tip-calculator/>)
 
 
 

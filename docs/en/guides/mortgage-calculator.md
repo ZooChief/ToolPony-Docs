@@ -38,11 +38,7 @@ Home 400,000; down 20%; 30 years; 6%
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/mortgage-calculator/>)
-
-
+[Open full tool · Mortgage calculator](<https://toolpony.com/en/tools/mortgage-calculator/>)
 
 
 

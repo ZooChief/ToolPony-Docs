@@ -52,11 +52,7 @@ A ZIP of the WebP images that reach the target, each up to 100,000 bytes.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/image-compressor/>)
-
-
+[Open full tool · Image compressor](<https://toolpony.com/en/tools/image-compressor/>)
 
 
 

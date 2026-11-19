@@ -22,13 +22,37 @@ Draw on the canvas with a brush or eraser. Set the color and size, undo or redo 
 
 
 
+## Example
+
+
+
+### Input
+
+
+
+```
+Draw two strokes, undo once, then download the PNG.
+```
+
+
+
+### Expected result
+
+
+
+```
+Only the first stroke remains. Unpainted pixels are transparent, so the drawing can be placed over another image.
+```
+
+
+
+
+
+
+
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/drawing-board/>)
-
-
+[Open full tool · Drawing board](<https://toolpony.com/en/tools/drawing-board/>)
 
 
 

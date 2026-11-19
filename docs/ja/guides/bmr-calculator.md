@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/bmr-calculator/>)
-
-
+[ツール全体を開く · 基礎代謝量・消費カロリー計算機](<https://toolpony.com/ja/tools/bmr-calculator/>)
 
 
 

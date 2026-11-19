@@ -52,11 +52,7 @@ a = 7、b = 10、A = 30°
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/triangle-calculator/>)
-
-
+[ツール全体を開く · 三角形計算機](<https://toolpony.com/ja/tools/triangle-calculator/>)
 
 
 

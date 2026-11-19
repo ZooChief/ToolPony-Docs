@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/macro-calculator/>)
-
-
+[ツール全体を開く · 三大栄養素計算機](<https://toolpony.com/ja/tools/macro-calculator/>)
 
 
 

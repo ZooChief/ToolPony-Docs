@@ -38,11 +38,7 @@ FF, base 16 à base 10
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/base-converter/>)
-
-
+[Ouvrir l’outil complet · Convertisseur et calculatrice de bases](<https://toolpony.com/fr/tools/base-converter/>)
 
 
 

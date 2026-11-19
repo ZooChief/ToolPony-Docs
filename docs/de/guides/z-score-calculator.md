@@ -38,11 +38,7 @@ z = −1.25
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/z-score-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Z-Wert-Rechner](<https://toolpony.com/de/tools/z-score-calculator/>)
 
 
 

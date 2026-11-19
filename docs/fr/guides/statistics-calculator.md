@@ -38,11 +38,7 @@ Moyenne 5, médiane 4
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/statistics-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice statistique](<https://toolpony.com/fr/tools/statistics-calculator/>)
 
 
 

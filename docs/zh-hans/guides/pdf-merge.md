@@ -52,11 +52,7 @@ A.pdf（2 页）+ B.pdf（3 页）
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/pdf-merge/>)
-
-
+[打开完整工具 · PDF 合并](<https://toolpony.com/zh-hans/tools/pdf-merge/>)
 
 
 

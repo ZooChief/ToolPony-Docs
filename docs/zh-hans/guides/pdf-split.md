@@ -34,7 +34,7 @@
 一份 5 页 PDF；输入：5, 1-3
 ```
 
-
+[示例 · PDF](<https://toolpony.com/samples/toolpony-pages.pdf>)
 
 ### 预期结果
 
@@ -52,11 +52,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/pdf-split/>)
-
-
+[打开完整工具 · PDF 拆分](<https://toolpony.com/zh-hans/tools/pdf-split/>)
 
 
 

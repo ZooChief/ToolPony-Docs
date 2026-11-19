@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/random-number-generator/>)
-
-
+[ツール全体を開く · 乱数生成](<https://toolpony.com/ja/tools/random-number-generator/>)
 
 
 

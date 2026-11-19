@@ -38,11 +38,7 @@ x₁=2, x₂=3
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/quadratic-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice d’équations du second degré](<https://toolpony.com/fr/tools/quadratic-calculator/>)
 
 
 

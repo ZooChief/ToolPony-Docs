@@ -59,11 +59,7 @@ Qty,ID,Name
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/csv-compare/>)
-
-
+[전체 도구 열기 · CSV 비교](<https://toolpony.com/ko/tools/csv-compare/>)
 
 
 
@@ -74,5 +70,9 @@ Qty,ID,Name
 
 
 표당 UTF-8 1 MiB, 데이터 행 5,000개 및 열 80개까지 지원합니다. 앞자리 0을 포함해 텍스트를 그대로 비교합니다. 중복 키와 빈 키는 따로 표시하며 머리글부터 레코드 번호를 셉니다.
+
+
+
+재고를 비교할 때는 고정된 SKU를 키로 쓰세요. 이전 파일의 0012가 새 파일에서 12로 바뀌면 삭제 1건과 추가 1건으로 표시됩니다. 같은 상품의 수량 변경을 비교하려면 두 파일 모두 앞자리 0을 유지하세요.
 
 [문서](https://docs.toolpony.com/ko/guides/csv-compare/)

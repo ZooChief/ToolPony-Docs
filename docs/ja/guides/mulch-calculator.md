@@ -51,11 +51,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/mulch-calculator/>)
-
-
+[ツール全体を開く · マルチ材計算機](<https://toolpony.com/ja/tools/mulch-calculator/>)
 
 
 

@@ -52,11 +52,7 @@ Calculate installment loans, find a term from a monthly payment, or plan dated e
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/loan-calculator/>)
-
-
+[Open full tool · Loan calculator](<https://toolpony.com/en/tools/loan-calculator/>)
 
 
 

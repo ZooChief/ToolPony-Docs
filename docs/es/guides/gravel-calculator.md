@@ -51,11 +51,7 @@ Estima el volumen, peso, número de sacos y coste de grava o arena.
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/gravel-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de grava](<https://toolpony.com/es/tools/gravel-calculator/>)
 
 
 

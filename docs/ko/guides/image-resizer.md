@@ -52,11 +52,7 @@
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/image-resizer/>)
-
-
+[전체 도구 열기 · 이미지 크기 변경](<https://toolpony.com/ko/tools/image-resizer/>)
 
 
 

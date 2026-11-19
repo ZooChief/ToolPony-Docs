@@ -51,11 +51,7 @@ Lee de 3 a 6 bandas y calcula resistencias en serie, en paralelo o de un hilo ci
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/resistor-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de resistencias y códigos de color](<https://toolpony.com/es/tools/resistor-calculator/>)
 
 
 

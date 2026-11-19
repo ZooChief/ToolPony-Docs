@@ -38,11 +38,7 @@ Convert seconds and milliseconds to UTC, and convert an ISO time with an explici
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/unix-timestamp-converter/>)
-
-
+[Open full tool · Unix timestamp converter](<https://toolpony.com/en/tools/unix-timestamp-converter/>)
 
 
 

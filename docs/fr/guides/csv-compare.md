@@ -59,11 +59,7 @@ Ajoutés 1 · Supprimés 1 · Modifiés 1
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/csv-compare/>)
-
-
+[Ouvrir l’outil complet · Comparateur CSV](<https://toolpony.com/fr/tools/csv-compare/>)
 
 
 
@@ -74,5 +70,9 @@ Ajoutés 1 · Supprimés 1 · Modifiés 1
 
 
 Jusqu’à 1 Mio UTF-8, 5 000 lignes et 80 colonnes par tableau. La comparaison conserve les zéros initiaux. Les clés vides et en double sont signalées à part. Les numéros comptent les enregistrements à partir de l’en-tête.
+
+
+
+Pour un inventaire, utilisez une référence stable comme clé. Si 0012 devient 12 dans le nouvel export, la comparaison signale une suppression et un ajout. Gardez les zéros initiaux dans les deux fichiers pour comparer les quantités du même article.
 
 [Documentation](https://docs.toolpony.com/fr/guides/csv-compare/)

@@ -52,11 +52,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/square-footage-calculator/>)
-
-
+[打開完整工具 · 平方英尺計算器](<https://toolpony.com/zh-hant/tools/square-footage-calculator/>)
 
 
 

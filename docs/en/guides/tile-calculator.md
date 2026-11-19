@@ -52,11 +52,7 @@ Estimate tiles, boxes and cost from tile dimensions, grout spacing, and the area
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/tile-calculator/>)
-
-
+[Open full tool · Tile calculator](<https://toolpony.com/en/tools/tile-calculator/>)
 
 
 

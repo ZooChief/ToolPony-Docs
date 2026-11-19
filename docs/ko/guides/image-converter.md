@@ -21,13 +21,37 @@
 
 
 
+## 예시
+
+
+
+### 입력
+
+
+
+```
+PNG · 64 × 32 px (투명한 모서리) → JPEG · 흰색 배경
+```
+
+[예시 · PNG](<https://toolpony.com/samples/toolpony-64x32.png>)
+
+### 예상 결과
+
+
+
+```
+JPEG · 64 × 32 px (흰색 모서리)
+```
+
+
+
+
+
+
+
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/image-converter/>)
-
-
+[전체 도구 열기 · 이미지 형식 변환](<https://toolpony.com/ko/tools/image-converter/>)
 
 
 

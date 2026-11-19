@@ -50,11 +50,7 @@ Estimate electricity use and cost by device, load and tariff for a fixed duratio
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/electricity-cost-calculator/>)
-
-
+[Open full tool · Electricity cost calculator](<https://toolpony.com/en/tools/electricity-cost-calculator/>)
 
 
 

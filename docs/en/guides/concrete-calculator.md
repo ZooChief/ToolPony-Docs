@@ -52,11 +52,7 @@ Estimate concrete volume, weight and whole bags for slabs, footings, tubes, curb
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/concrete-calculator/>)
-
-
+[Open full tool · Concrete calculator](<https://toolpony.com/en/tools/concrete-calculator/>)
 
 
 

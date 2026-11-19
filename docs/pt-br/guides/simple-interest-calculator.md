@@ -38,11 +38,7 @@ Calcule juros simples ou resolva para principal, taxa de juros, ou termo a parti
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/simple-interest-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de juros simples](<https://toolpony.com/pt-br/tools/simple-interest-calculator/>)
 
 
 

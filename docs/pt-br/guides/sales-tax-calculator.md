@@ -38,11 +38,7 @@ Total 120, imposto 20
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/sales-tax-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de imposto sobre vendas e IVA](<https://toolpony.com/pt-br/tools/sales-tax-calculator/>)
 
 
 

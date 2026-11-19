@@ -51,11 +51,7 @@ Erfassen Sie eine Woche mit Schichten, Pausen, Rundung, Lohnregeln und CSV.
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/time-card-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Stundenzettel-Rechner](<https://toolpony.com/de/tools/time-card-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ Esfera con radio 2 m
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/surface-area-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de área superficial](<https://toolpony.com/es/tools/surface-area-calculator/>)
 
 
 

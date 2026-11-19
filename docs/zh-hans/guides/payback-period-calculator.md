@@ -38,11 +38,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/payback-period-calculator/>)
-
-
+[打开完整工具 · 投资回收期计算器](<https://toolpony.com/zh-hans/tools/payback-period-calculator/>)
 
 
 

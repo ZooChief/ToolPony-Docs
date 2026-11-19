@@ -56,11 +56,7 @@ ready: true
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/yaml-to-json/>)
-
-
+[Ouvrir l’outil complet · YAML en JSON](<https://toolpony.com/fr/tools/yaml-to-json/>)
 
 
 

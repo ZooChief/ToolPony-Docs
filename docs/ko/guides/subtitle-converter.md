@@ -65,11 +65,7 @@ Overlap 50 ms
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/subtitle-converter/>)
-
-
+[전체 도구 열기 · 자막 변환 및 시간 조정](<https://toolpony.com/ko/tools/subtitle-converter/>)
 
 
 

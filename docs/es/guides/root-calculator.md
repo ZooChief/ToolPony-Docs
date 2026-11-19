@@ -38,11 +38,7 @@ raíz cuadrada de 144
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/root-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de raíces](<https://toolpony.com/es/tools/root-calculator/>)
 
 
 

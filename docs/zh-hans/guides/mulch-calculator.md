@@ -51,11 +51,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/mulch-calculator/>)
-
-
+[打开完整工具 · 覆盖料用量计算器](<https://toolpony.com/zh-hans/tools/mulch-calculator/>)
 
 
 

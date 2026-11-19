@@ -38,11 +38,7 @@ Find prime factors, exponent form and the divisor count of a positive integer.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/prime-factorization-calculator/>)
-
-
+[Open full tool · Prime factorization calculator](<https://toolpony.com/en/tools/prime-factorization-calculator/>)
 
 
 

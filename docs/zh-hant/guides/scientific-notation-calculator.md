@@ -38,11 +38,7 @@
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/scientific-notation-calculator/>)
-
-
+[打開完整工具 · 科學記數法計算器](<https://toolpony.com/zh-hant/tools/scientific-notation-calculator/>)
 
 
 

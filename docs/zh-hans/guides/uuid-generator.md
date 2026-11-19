@@ -38,11 +38,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/uuid-generator/>)
-
-
+[打开完整工具 · UUID 生成器](<https://toolpony.com/zh-hans/tools/uuid-generator/>)
 
 
 

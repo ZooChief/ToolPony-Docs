@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/surface-area-calculator/>)
-
-
+[ツール全体を開く · 表面積計算機](<https://toolpony.com/ja/tools/surface-area-calculator/>)
 
 
 

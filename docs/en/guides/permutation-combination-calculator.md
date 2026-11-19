@@ -38,11 +38,7 @@ n=10, r=3, without repetition
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/permutation-combination-calculator/>)
-
-
+[Open full tool · Permutation and combination calculator](<https://toolpony.com/en/tools/permutation-combination-calculator/>)
 
 
 

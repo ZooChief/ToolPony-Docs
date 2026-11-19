@@ -38,11 +38,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/slope-calculator/>)
-
-
+[打开完整工具 · 斜率计算器](<https://toolpony.com/zh-hans/tools/slope-calculator/>)
 
 
 

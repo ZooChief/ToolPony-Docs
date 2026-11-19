@@ -22,13 +22,37 @@ Dessinez sur la toile avec une brosse ou une gomme. Définissez la couleur et la
 
 
 
+## Exemple
+
+
+
+### Entrée
+
+
+
+```
+Dessinez deux traits, annulez une fois, puis téléchargez le PNG.
+```
+
+
+
+### Résultat attendu
+
+
+
+```
+Seul le premier trait reste. Les pixels non peints sont transparents, ce qui permet de superposer le dessin à une autre image.
+```
+
+
+
+
+
+
+
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/drawing-board/>)
-
-
+[Ouvrir l’outil complet · Tableau de dessin](<https://toolpony.com/fr/tools/drawing-board/>)
 
 
 

@@ -38,11 +38,7 @@ Sphere with radius 2 m
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/surface-area-calculator/>)
-
-
+[Open full tool · Surface area calculator](<https://toolpony.com/en/tools/surface-area-calculator/>)
 
 
 

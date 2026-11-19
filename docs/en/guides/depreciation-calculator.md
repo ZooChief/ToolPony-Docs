@@ -38,11 +38,7 @@ Build an annual straight-line, declining-balance, or sum-of-years’ digits sche
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/depreciation-calculator/>)
-
-
+[Open full tool · Depreciation calculator](<https://toolpony.com/en/tools/depreciation-calculator/>)
 
 
 

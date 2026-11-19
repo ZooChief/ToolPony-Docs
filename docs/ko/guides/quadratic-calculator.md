@@ -38,11 +38,7 @@ x₁=2, x₂=3
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/quadratic-calculator/>)
-
-
+[전체 도구 열기 · 이차방정식 근의 공식 계산기](<https://toolpony.com/ko/tools/quadratic-calculator/>)
 
 
 

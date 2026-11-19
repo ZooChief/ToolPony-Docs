@@ -38,11 +38,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/common-factor-calculator/>)
-
-
+[打开完整工具 · 公因数计算器](<https://toolpony.com/zh-hans/tools/common-factor-calculator/>)
 
 
 

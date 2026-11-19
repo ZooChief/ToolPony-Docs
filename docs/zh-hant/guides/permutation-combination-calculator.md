@@ -38,11 +38,7 @@ n=10，r=3，不重複
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/permutation-combination-calculator/>)
-
-
+[打開完整工具 · 排列組合計算器](<https://toolpony.com/zh-hant/tools/permutation-combination-calculator/>)
 
 
 

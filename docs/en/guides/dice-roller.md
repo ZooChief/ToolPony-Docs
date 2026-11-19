@@ -38,11 +38,7 @@ Three faces and their sum
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/dice-roller/>)
-
-
+[Open full tool · Dice roller](<https://toolpony.com/en/tools/dice-roller/>)
 
 
 

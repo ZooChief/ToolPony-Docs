@@ -52,11 +52,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/word-counter/>)
-
-
+[打开完整工具 · 字数统计](<https://toolpony.com/zh-hans/tools/word-counter/>)
 
 
 

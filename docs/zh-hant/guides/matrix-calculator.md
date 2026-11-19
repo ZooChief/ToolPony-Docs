@@ -38,11 +38,7 @@ A + B = [3, 2; 5, 8]
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/matrix-calculator/>)
-
-
+[打開完整工具 · 矩陣計算器](<https://toolpony.com/zh-hant/tools/matrix-calculator/>)
 
 
 

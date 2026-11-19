@@ -38,11 +38,7 @@ Invest 1,000, receive 1,210 after 2 years
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/roi-calculator/>)
-
-
+[Open full tool · ROI calculator](<https://toolpony.com/en/tools/roi-calculator/>)
 
 
 

@@ -38,11 +38,7 @@ a%2Bb%20%26%20c
 
 ## 試一試
 
-
-
-[打開完整工具](<https://toolpony.com/zh-hant/tools/url-encoder-decoder/>)
-
-
+[打開完整工具 · URL 編碼與解碼](<https://toolpony.com/zh-hant/tools/url-encoder-decoder/>)
 
 
 

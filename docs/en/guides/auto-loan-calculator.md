@@ -51,11 +51,7 @@ Find a car payment or maximum vehicle price with a trade-in, outstanding debt, r
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/auto-loan-calculator/>)
-
-
+[Open full tool · Auto loan calculator](<https://toolpony.com/en/tools/auto-loan-calculator/>)
 
 
 

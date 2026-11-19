@@ -38,11 +38,7 @@ Três rostos e sua soma
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/dice-roller/>)
-
-
+[Abrir ferramenta completa · Rolador de dados](<https://toolpony.com/pt-br/tools/dice-roller/>)
 
 
 

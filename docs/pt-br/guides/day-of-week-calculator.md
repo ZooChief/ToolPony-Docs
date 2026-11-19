@@ -38,11 +38,7 @@ sábado
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/day-of-week-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora do dia da semana](<https://toolpony.com/pt-br/tools/day-of-week-calculator/>)
 
 
 

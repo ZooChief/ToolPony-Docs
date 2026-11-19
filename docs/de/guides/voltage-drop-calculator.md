@@ -51,11 +51,7 @@ Schätzen Sie den Spannungsfall für Gleichstrom, Einphasenstrom und symmetrisch
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/voltage-drop-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Spannungsfallrechner](<https://toolpony.com/de/tools/voltage-drop-calculator/>)
 
 
 

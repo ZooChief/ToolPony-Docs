@@ -55,11 +55,7 @@ Fügen Sie JSON ein, wählen Sie eine Einrückung und formatieren oder verkleine
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/json-formatter/>)
-
-
+[Vollständiges Werkzeug öffnen · JSON-Formatierer](<https://toolpony.com/de/tools/json-formatter/>)
 
 
 

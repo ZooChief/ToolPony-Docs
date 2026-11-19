@@ -38,11 +38,7 @@ IRR ≈ 15,093%
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/irr-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Rechner für den internen Zinsfuß](<https://toolpony.com/de/tools/irr-calculator/>)
 
 
 

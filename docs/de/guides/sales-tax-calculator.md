@@ -38,11 +38,7 @@ Brutto 120, Steuer 20
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/sales-tax-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Umsatz- und Mehrwertsteuerrechner](<https://toolpony.com/de/tools/sales-tax-calculator/>)
 
 
 

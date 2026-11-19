@@ -52,11 +52,7 @@ Los resultados que alcanzan el objetivo son WebP de hasta 100.000 bytes dentro d
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/image-compressor/>)
-
-
+[Abrir herramienta completa · Comprimir imágenes](<https://toolpony.com/es/tools/image-compressor/>)
 
 
 

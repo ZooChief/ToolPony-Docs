@@ -52,11 +52,7 @@ Estimativa da área e do custo do material para nove formas, com medições mist
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/square-footage-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de área em pés quadrados](<https://toolpony.com/pt-br/tools/square-footage-calculator/>)
 
 
 

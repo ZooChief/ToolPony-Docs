@@ -59,11 +59,7 @@ Adicionadas 1 · Removidas 1 · Alteradas 1
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/csv-compare/>)
-
-
+[Abrir ferramenta completa · Comparador de CSV](<https://toolpony.com/pt-br/tools/csv-compare/>)
 
 
 
@@ -74,5 +70,9 @@ Adicionadas 1 · Removidas 1 · Alteradas 1
 
 
 Até 1 MiB em UTF-8, 5.000 linhas e 80 colunas por tabela. A comparação preserva zeros à esquerda. Chaves vazias ou repetidas são listadas separadamente. Os números contam registros a partir do cabeçalho.
+
+
+
+Ao comparar estoques, use um SKU estável como chave. Se 0012 virar 12 na nova exportação, aparecerão uma remoção e uma inclusão. Preserve os zeros à esquerda nos dois arquivos para comparar as quantidades do mesmo item.
 
 [Documentação](https://docs.toolpony.com/pt-br/guides/csv-compare/)

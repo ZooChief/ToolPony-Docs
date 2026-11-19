@@ -38,11 +38,7 @@ GCF 6; LCM 72
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/gcf-lcm-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de MDC e MMC](<https://toolpony.com/pt-br/tools/gcf-lcm-calculator/>)
 
 
 

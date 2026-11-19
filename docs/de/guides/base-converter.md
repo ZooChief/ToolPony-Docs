@@ -38,11 +38,7 @@ FF, Basis 16 zu Basis 10
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/base-converter/>)
-
-
+[Vollständiges Werkzeug öffnen · Zahlensystem-Umrechner und Rechner](<https://toolpony.com/de/tools/base-converter/>)
 
 
 

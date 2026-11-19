@@ -38,11 +38,7 @@ Round exact decimals by decimal place or a binary fraction with nine rounding mo
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/rounding-calculator/>)
-
-
+[Open full tool · Rounding calculator](<https://toolpony.com/en/tools/rounding-calculator/>)
 
 
 

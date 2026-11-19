@@ -50,11 +50,7 @@ Estima el consumo y el coste según aparato, carga y tarifa, para un plazo fijo 
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/electricity-cost-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora del coste de electricidad](<https://toolpony.com/es/tools/electricity-cost-calculator/>)
 
 
 

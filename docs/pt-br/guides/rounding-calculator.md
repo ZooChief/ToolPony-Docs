@@ -38,11 +38,7 @@ Decimais precisos redondos por decimal ou uma fração binária com nove modos d
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/rounding-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de arredondamento](<https://toolpony.com/pt-br/tools/rounding-calculator/>)
 
 
 

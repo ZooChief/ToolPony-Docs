@@ -51,11 +51,7 @@ https://example.com/qr-sample
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/qr-code-reader/>)
-
-
+[전체 도구 열기 · QR 코드 리더](<https://toolpony.com/ko/tools/qr-code-reader/>)
 
 
 

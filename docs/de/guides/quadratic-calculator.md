@@ -38,11 +38,7 @@ x₁=2, x₂=3
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/quadratic-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Rechner für quadratische Gleichungen](<https://toolpony.com/de/tools/quadratic-calculator/>)
 
 
 

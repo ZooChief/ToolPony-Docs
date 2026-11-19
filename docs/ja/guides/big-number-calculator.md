@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/big-number-calculator/>)
-
-
+[ツール全体を開く · 任意精度計算機](<https://toolpony.com/ja/tools/big-number-calculator/>)
 
 
 

@@ -50,11 +50,7 @@
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/time-duration-calculator/>)
-
-
+[打开完整工具 · 时长计算器](<https://toolpony.com/zh-hans/tools/time-duration-calculator/>)
 
 
 

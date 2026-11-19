@@ -38,11 +38,7 @@ Base 3, argument 81
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/log-calculator/>)
-
-
+[Open full tool · Logarithm calculator](<https://toolpony.com/en/tools/log-calculator/>)
 
 
 

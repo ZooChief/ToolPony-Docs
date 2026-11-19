@@ -38,11 +38,7 @@ Bruto 120, impuesto 20
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/sales-tax-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de impuesto sobre ventas e IVA](<https://toolpony.com/es/tools/sales-tax-calculator/>)
 
 
 

@@ -51,11 +51,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/date-calculator/>)
-
-
+[ツール全体を開く · 日付計算機](<https://toolpony.com/ja/tools/date-calculator/>)
 
 
 

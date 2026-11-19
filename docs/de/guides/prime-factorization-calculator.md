@@ -38,11 +38,7 @@ Finden Sie Primfaktoren, Exponentenform und die Teilerzahl einer positiven Ganzz
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/prime-factorization-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Primfaktorzerlegung](<https://toolpony.com/de/tools/prime-factorization-calculator/>)
 
 
 

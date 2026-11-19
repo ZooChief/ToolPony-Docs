@@ -51,11 +51,7 @@ c = 5, h = 2.4
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/right-triangle-calculator/>)
-
-
+[전체 도구 열기 · 직각삼각형 계산기](<https://toolpony.com/ko/tools/right-triangle-calculator/>)
 
 
 

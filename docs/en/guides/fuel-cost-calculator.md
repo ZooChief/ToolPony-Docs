@@ -38,11 +38,7 @@ Convert fuel economy units, estimate the fuel cost of a trip, or calculate measu
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/fuel-cost-calculator/>)
-
-
+[Open full tool · Fuel cost and mileage calculator](<https://toolpony.com/en/tools/fuel-cost-calculator/>)
 
 
 

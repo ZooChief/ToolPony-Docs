@@ -38,11 +38,7 @@ Circonférence 12,5664; arc 3.1416
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/circle-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculatrice de cercle](<https://toolpony.com/fr/tools/circle-calculator/>)
 
 
 

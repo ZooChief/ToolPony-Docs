@@ -38,11 +38,7 @@ x₁=2，x₂=3
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/quadratic-calculator/>)
-
-
+[打开完整工具 · 二次方程计算器](<https://toolpony.com/zh-hans/tools/quadratic-calculator/>)
 
 
 

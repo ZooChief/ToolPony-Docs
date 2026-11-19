@@ -52,11 +52,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/loan-calculator/>)
-
-
+[ツール全体を開く · ローン計算機](<https://toolpony.com/ja/tools/loan-calculator/>)
 
 
 

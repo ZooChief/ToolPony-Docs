@@ -38,11 +38,7 @@ Vida media ♥ 15.0515
 
 ## Pruébalo
 
-
-
-[Abrir herramienta completa](<https://toolpony.com/es/tools/half-life-calculator/>)
-
-
+[Abrir herramienta completa · Calculadora de semivida](<https://toolpony.com/es/tools/half-life-calculator/>)
 
 
 

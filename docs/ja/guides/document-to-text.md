@@ -52,11 +52,7 @@ ABC	123
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/document-to-text/>)
-
-
+[ツール全体を開く · 文書をテキストに変換](<https://toolpony.com/ja/tools/document-to-text/>)
 
 
 

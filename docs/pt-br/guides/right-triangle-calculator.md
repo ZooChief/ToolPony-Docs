@@ -51,11 +51,7 @@ Catetos 3 e 4, área 6, perímetro 12. Qualquer cateto pode ser a.
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/right-triangle-calculator/>)
-
-
+[Abrir ferramenta completa · Calculadora de triângulos retângulos](<https://toolpony.com/pt-br/tools/right-triangle-calculator/>)
 
 
 

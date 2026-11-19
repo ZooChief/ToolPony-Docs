@@ -55,11 +55,7 @@ Deutschland
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/sample-address-generator/>)
-
-
+[Open full tool · Sample address generator](<https://toolpony.com/en/tools/sample-address-generator/>)
 
 
 

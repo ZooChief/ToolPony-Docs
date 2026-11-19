@@ -52,11 +52,7 @@ Les résultats qui atteignent la cible sont des WebP de 100 000 octets au maximu
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/image-compressor/>)
-
-
+[Ouvrir l’outil complet · Compresser des images](<https://toolpony.com/fr/tools/image-compressor/>)
 
 
 

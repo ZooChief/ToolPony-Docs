@@ -38,11 +38,7 @@ Payback ≈ 3.379 years, discounted ≈ 3.841 years
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/payback-period-calculator/>)
-
-
+[Open full tool · Payback period calculator](<https://toolpony.com/en/tools/payback-period-calculator/>)
 
 
 

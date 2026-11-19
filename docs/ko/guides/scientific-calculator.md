@@ -38,11 +38,7 @@ sqrt(81) + 2^3 × sin(30), 도
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/scientific-calculator/>)
-
-
+[전체 도구 열기 · 공학용 계산기](<https://toolpony.com/ko/tools/scientific-calculator/>)
 
 
 

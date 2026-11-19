@@ -38,11 +38,7 @@ Zwei deckende Farben anhand der Kontrastgrenzen von WCAG 2.2 prüfen.
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/contrast-checker/>)
-
-
+[Vollständiges Werkzeug öffnen · Kontrastprüfer](<https://toolpony.com/de/tools/contrast-checker/>)
 
 
 

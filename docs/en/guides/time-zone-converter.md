@@ -38,11 +38,7 @@ Convert a date and time between IANA zones or fixed UTC offsets.
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/time-zone-converter/>)
-
-
+[Open full tool · Time zone converter](<https://toolpony.com/en/tools/time-zone-converter/>)
 
 
 

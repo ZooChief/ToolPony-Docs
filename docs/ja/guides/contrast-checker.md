@@ -38,11 +38,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/contrast-checker/>)
-
-
+[ツール全体を開く · コントラストチェッカー](<https://toolpony.com/ja/tools/contrast-checker/>)
 
 
 

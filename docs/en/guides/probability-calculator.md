@@ -38,11 +38,7 @@ At least one: 0.6964
 
 ## Try it
 
-
-
-[Open full tool](<https://toolpony.com/en/tools/probability-calculator/>)
-
-
+[Open full tool · Probability calculator](<https://toolpony.com/en/tools/probability-calculator/>)
 
 
 

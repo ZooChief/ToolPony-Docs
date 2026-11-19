@@ -50,11 +50,7 @@ b² = 32 − 7 = 25이므로 b = 5입니다.
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/pythagorean-theorem-calculator/>)
-
-
+[전체 도구 열기 · 피타고라스 정리 계산기](<https://toolpony.com/ko/tools/pythagorean-theorem-calculator/>)
 
 
 

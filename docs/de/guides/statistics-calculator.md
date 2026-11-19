@@ -38,11 +38,7 @@ Mittelwert 5, Median 4
 
 ## Ausprobieren
 
-
-
-[Vollständiges Werkzeug öffnen](<https://toolpony.com/de/tools/statistics-calculator/>)
-
-
+[Vollständiges Werkzeug öffnen · Statistikrechner](<https://toolpony.com/de/tools/statistics-calculator/>)
 
 
 

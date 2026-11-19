@@ -38,11 +38,7 @@ Encontre fatores primos, forma expoente e a contagem divisora de um inteiro posi
 
 ## Experimente
 
-
-
-[Abrir ferramenta completa](<https://toolpony.com/pt-br/tools/prime-factorization-calculator/>)
-
-
+[Abrir ferramenta completa · Fatoração em números primos](<https://toolpony.com/pt-br/tools/prime-factorization-calculator/>)
 
 
 

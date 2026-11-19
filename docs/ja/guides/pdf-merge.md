@@ -51,11 +51,7 @@ A1、A2、B1、B2、B3 の順で 1 件の PDF
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/pdf-merge/>)
-
-
+[ツール全体を開く · PDF を結合](<https://toolpony.com/ja/tools/pdf-merge/>)
 
 
 

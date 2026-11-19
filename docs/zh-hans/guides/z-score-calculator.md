@@ -38,11 +38,7 @@ z = −1.25
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/z-score-calculator/>)
-
-
+[打开完整工具 · Z 分数计算器](<https://toolpony.com/zh-hans/tools/z-score-calculator/>)
 
 
 

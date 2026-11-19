@@ -52,11 +52,7 @@
 
 ## 試してみる
 
-
-
-[ツール全体を開く](<https://toolpony.com/ja/tools/image-resizer/>)
-
-
+[ツール全体を開く · 画像のサイズ変更](<https://toolpony.com/ja/tools/image-resizer/>)
 
 
 

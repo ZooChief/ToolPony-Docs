@@ -54,11 +54,7 @@ Feb,38
 
 ## 직접 사용해 보기
 
-
-
-[전체 도구 열기](<https://toolpony.com/ko/tools/chart-maker/>)
-
-
+[전체 도구 열기 · 차트 만들기](<https://toolpony.com/ko/tools/chart-maker/>)
 
 
 

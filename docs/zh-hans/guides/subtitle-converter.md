@@ -65,11 +65,7 @@ Overlap 50 ms
 
 ## 试一试
 
-
-
-[打开完整工具](<https://toolpony.com/zh-hans/tools/subtitle-converter/>)
-
-
+[打开完整工具 · 字幕转换与时轴](<https://toolpony.com/zh-hans/tools/subtitle-converter/>)
 
 
 

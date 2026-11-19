@@ -51,11 +51,7 @@ Chute de 0,37 V, soit 0,30 %
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/voltage-drop-calculator/>)
-
-
+[Ouvrir l’outil complet · Calculateur de chute de tension](<https://toolpony.com/fr/tools/voltage-drop-calculator/>)
 
 
 

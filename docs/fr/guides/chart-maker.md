@@ -54,11 +54,7 @@ Deux valeurs à Jan et Fév, tracées de gauche à droite.
 
 ## Essayer
 
-
-
-[Ouvrir l’outil complet](<https://toolpony.com/fr/tools/chart-maker/>)
-
-
+[Ouvrir l’outil complet · Créateur de graphiques](<https://toolpony.com/fr/tools/chart-maker/>)
 
 
 
