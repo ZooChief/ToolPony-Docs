@@ -2,7 +2,7 @@
 
 
 
-Resolva esferas, cones, tanques, cápsulas, cápsulas, elipsóides, pirâmides e tubos ocos com dimensões mistas.
+Calcule a área total da superfície de um sólido, incluindo as bases. Em formas como o cilindro, consulte separadamente a área lateral e a área das bases.
 
 
 

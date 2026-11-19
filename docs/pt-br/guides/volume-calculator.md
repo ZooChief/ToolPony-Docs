@@ -2,7 +2,7 @@
 
 
 
-Resolva esferas, cones, tanques, cápsulas, cápsulas, elipsóides, pirâmides e tubos ocos com dimensões mistas.
+Calcule a capacidade de um tanque ou o volume de um sólido. Para um tubo oco, informe os raios interno e externo para obter o volume do material. Escolha litros ou unidades cúbicas.
 
 
 

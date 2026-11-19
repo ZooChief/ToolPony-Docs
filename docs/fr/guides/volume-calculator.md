@@ -2,7 +2,7 @@
 
 
 
-Résolvez les sphères, cônes, réservoirs, capsules, capsules, ellipsoïdes, pyramides et tubes creux aux dimensions mélangées.
+Calculez la capacité d’un réservoir ou le volume d’un solide. Pour un tube creux, les rayons intérieur et extérieur donnent le volume de matière. Choisissez des litres ou une unité cubique.
 
 
 

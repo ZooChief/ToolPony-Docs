@@ -2,7 +2,7 @@
 
 
 
-Lösekugeln, Kegel, Behälter, Kapseln, Kappen, Ellipsoide, Pyramiden und Hohlrohre mit gemischten Abmessungen.
+Berechnen Sie die gesamte Oberfläche eines Körpers einschließlich der Stirnflächen. Bei Zylindern können Sie Mantel- und Stirnflächen getrennt ablesen.
 
 
 

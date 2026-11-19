@@ -2,7 +2,7 @@
 
 
 
-Lösekugeln, Kegel, Behälter, Kapseln, Kappen, Ellipsoide, Pyramiden und Hohlrohre mit gemischten Abmessungen.
+Berechnen Sie Tankinhalt und Körpervolumen aus den Abmessungen. Bei Hohlrohren liefern Innen- und Außenradius das Materialvolumen. Ausgabe in Litern oder Kubikeinheiten.
 
 
 

@@ -2,7 +2,7 @@
 
 
 
-Résolvez les sphères, cônes, réservoirs, capsules, capsules, ellipsoïdes, pyramides et tubes creux aux dimensions mélangées.
+Calculez la surface totale d’un solide, faces d’extrémité comprises. Pour un cylindre, consultez séparément la surface latérale et celle des bases.
 
 
 

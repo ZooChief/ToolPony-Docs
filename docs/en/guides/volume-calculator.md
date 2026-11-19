@@ -2,7 +2,7 @@
 
 
 
-Solve spheres, cones, tanks, capsules, caps, ellipsoids, pyramids and hollow tubes with mixed dimensions.
+Calculate tank capacity and solid volume from dimensions. For a hollow tube, enter both radii to find the material volume. Choose liters or cubic units.
 
 
 

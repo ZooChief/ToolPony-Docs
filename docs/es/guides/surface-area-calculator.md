@@ -2,7 +2,7 @@
 
 
 
-Resolver esferas, conos, tanques, cápsulas, caps, ellipsoides, pirámides y tubos huecos con dimensiones mixtas.
+Calcula el área total de un sólido, incluidas sus bases. En figuras como el cilindro puedes consultar por separado el área lateral y el área de las bases.
 
 
 

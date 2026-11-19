@@ -2,7 +2,7 @@
 
 
 
-Resolver esferas, conos, tanques, cápsulas, caps, ellipsoides, pirámides y tubos huecos con dimensiones mixtas.
+Calcula la capacidad de un depósito o el volumen de un sólido. En un tubo hueco, introduce ambos radios para obtener el volumen del material. Elige litros o unidades cúbicas.
 
 
 

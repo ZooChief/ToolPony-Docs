@@ -2,7 +2,7 @@
 
 
 
-Solve spheres, cones, tanks, capsules, caps, ellipsoids, pyramids and hollow tubes with mixed dimensions.
+Calculate the total surface area of a solid, including its end faces. Compare lateral and end-face areas for shapes such as cylinders.
 
 
 
