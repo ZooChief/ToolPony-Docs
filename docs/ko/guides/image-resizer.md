@@ -64,4 +64,14 @@
 
 최대 20 MB, 2,400만 화소, 한 변 8,192픽셀입니다. 이미지를 확대해도 원본에 없는 세부 정보를 복원할 수 없습니다.
 
+
+
+
+
+**계산 및 처리 방식의 출처** [W3C · PNG](<https://www.w3.org/TR/png-3/>) · [WHATWG · HTML Canvas](<https://html.spec.whatwg.org/multipage/canvas.html#dom-canvas-toblob-dev>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fimage-resizer%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/image-resizer/)

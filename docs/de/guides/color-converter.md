@@ -50,4 +50,14 @@ rgb(102, 51, 153)
 
 HEX stellt Kanäle mit 8 Bit dar. RGB akzeptiert Zahlen und Prozentwerte. HSL verwendet Grad für den Farbton und Prozentwerte für Sättigung und Helligkeit. HEX rundet jeden Kanal auf den nächsten Bytewert.
 
+
+
+
+
+**Quellen zur Methode** [W3C · CSS Color 4](<https://www.w3.org/TR/css-color-4/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fcolor-converter%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/color-converter/)

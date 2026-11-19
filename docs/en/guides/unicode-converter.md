@@ -74,4 +74,12 @@ Code-point mode treats a supplementary character as one scalar. UTF-16 uses two 
 - Input
 - Encoding · Unicode code points / UTF-8 hexadecimal bytes / JavaScript UTF-16 escapes
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Funicode-converter%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/unicode-converter/)

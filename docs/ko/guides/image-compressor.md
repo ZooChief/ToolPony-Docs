@@ -64,4 +64,14 @@
 
 이미지당 최대 20 MB, 2,400만 화소입니다. 묶음 입력과 출력은 각각 64 MiB까지입니다. 긴 변 제한은 이미지를 확대하지 않습니다. JPEG와 WebP는 손실 압축이며 애니메이션은 정지 이미지로 변환되고 원본 메타데이터는 제거됩니다.
 
+
+
+
+
+**계산 및 처리 방식의 출처** [WHATWG · HTML Canvas](<https://html.spec.whatwg.org/multipage/canvas.html#dom-canvas-toblob-dev>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fimage-compressor%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/image-compressor/)

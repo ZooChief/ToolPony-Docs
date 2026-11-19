@@ -100,4 +100,12 @@ $$
 - Tipo de base · Montante fixo / Percentagem de vendas
 - Limite superior de nível, taxa (% ou montante fixo). Use \* para nenhum limite.
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fcommission-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/commission-calculator/)

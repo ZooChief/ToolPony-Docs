@@ -50,4 +50,10 @@ a%2Bb%20%26%20c
 
 A codificação de componentes escapa aos separadores reservados. A codificação de URL completa preserva os separadores. A codificação de formulários usa mais para espaços.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Furl-encoder-decoder%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/url-encoder-decoder/)

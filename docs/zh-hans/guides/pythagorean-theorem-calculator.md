@@ -68,4 +68,10 @@ $$
 c=\sqrt{a^2+b^2},\quad a=\sqrt{c^2-b^2},\quad b=\sqrt{c^2-a^2}
 $$
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fpythagorean-theorem-calculator%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/pythagorean-theorem-calculator/)

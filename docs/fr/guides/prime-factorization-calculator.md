@@ -50,4 +50,10 @@ Trouvez les facteurs principaux, la forme de l'exposant et le nombre de diviseur
 
 La division d'essai élimine les facteurs jusqu'à la racine carrée de l'entier restant. Plage d'entrée: 2 à 1 billion.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fprime-factorization-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/prime-factorization-calculator/)

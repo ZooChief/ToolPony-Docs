@@ -103,4 +103,12 @@ $$
 - 使用時長單位 · 分鐘/天 / 每天運行小時 / 小時/周 / 小時/月 / 天/周 / 天/月 / 天/年 / 月/年
 - 每度電單價
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Felectricity-cost-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/electricity-cost-calculator/)

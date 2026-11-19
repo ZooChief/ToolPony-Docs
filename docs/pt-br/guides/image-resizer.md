@@ -64,4 +64,14 @@ PNG de 800 × 600
 
 Até 20 MB, 24 megapixels e 8.192 pixels por lado. Ampliar a imagem não recupera detalhes ausentes.
 
+
+
+
+
+**Referências do método** [W3C · PNG](<https://www.w3.org/TR/png-3/>) · [WHATWG · HTML Canvas](<https://html.spec.whatwg.org/multipage/canvas.html#dom-canvas-toblob-dev>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fimage-resizer%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/image-resizer/)

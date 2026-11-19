@@ -79,4 +79,14 @@ JSON을 붙여넣고, 들여쓰기를 선택하고, 포맷하거나 축소하십
 
 최대 1 MB. 유효하지 않은 JSON 및 안전하지 않은 숫자 정밀도는 거부됩니다. 포맷은 애플리케이션 스키마에 대해 유효성을 검사하지 않습니다.
 
+
+
+
+
+**계산 및 처리 방식의 출처** [IETF · RFC 8259 (JSON)](<https://www.rfc-editor.org/rfc/rfc8259>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fjson-formatter%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/json-formatter/)

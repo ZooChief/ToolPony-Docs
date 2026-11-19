@@ -87,4 +87,12 @@ $$
 - 存取時點 · 期末 / 期初
 - 期初模式包含終點存取
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Firr-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/irr-calculator/)

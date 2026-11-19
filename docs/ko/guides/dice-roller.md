@@ -50,4 +50,10 @@
 
 각 다이는 독립적 인 균일 한 웹 암호화 추첨을 사용합니다. 최대 100 개의 주사위를 굴리고 각각 2 ~ 1,000 개의 측면이 있습니다.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fdice-roller%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/dice-roller/)

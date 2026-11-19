@@ -74,4 +74,12 @@ O modo de ponto de código trata um caractere suplementar como um escalar. O UTF
 - Entrada
 - Codificação · Pontos de código Unicode / Bytes hexadecimais UTF-8 / Escapes UTF-16 do JavaScript
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Funicode-converter%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/unicode-converter/)

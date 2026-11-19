@@ -6,6 +6,26 @@ ToolPony の計算、画像変換、PDF ツールを例題で学べます。ガ�
 
 
 
+
+
+## 実践例
+
+
+
+- [透明 PNG を JPEG で送る前に背景を確かめる](<guides/image-converter.md#case-study>)
+- [文字と画像が混在する PDF で抽出できないページを見つける](<guides/pdf-to-text.md#case-study>)
+- [列の順序が変わった 2 つの在庫表を照合する](<guides/csv-compare.md#case-study>)
+- [水位線までの円筒タンクの容量を見積もる](<guides/volume-calculator.md#case-study>)
+- [白背景の本文で AA を満たすグレーを選ぶ](<guides/contrast-checker.md#case-study>)
+
+
+
+
+
+## ツールガイド
+
+
+
 [QR コード生成](<guides/qr-code-generator.md>)
 
 

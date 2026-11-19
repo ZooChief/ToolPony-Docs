@@ -64,4 +64,10 @@ A place of 2 rounds to hundredths, 0 rounds to units, and −2 rounds to hundred
 
 Half-to-even chooses the even multiple only at an exact tie. For example, −2.5 goes to −2 and −3.5 goes to −4. Ceiling always moves toward positive infinity.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Frounding-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/rounding-calculator/)

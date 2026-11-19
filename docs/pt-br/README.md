@@ -6,6 +6,26 @@ Aprenda a usar as calculadoras e ferramentas de imagem e PDF do ToolPony com exe
 
 
 
+
+
+## Casos práticos
+
+
+
+- [Conferir o fundo de um PNG transparente antes de enviar em JPEG](<guides/image-converter.md#case-study>)
+- [Localizar a página sem texto em um PDF misto](<guides/pdf-to-text.md#case-study>)
+- [Conciliar estoques depois de mudar a ordem das colunas](<guides/csv-compare.md#case-study>)
+- [Estimar o volume de água até a marca de um tanque](<guides/volume-calculator.md#case-study>)
+- [Escolher um cinza que atinja AA para texto normal sobre branco](<guides/contrast-checker.md#case-study>)
+
+
+
+
+
+## Guias das ferramentas
+
+
+
 [Gerador de QR Code](<guides/qr-code-generator.md>)
 
 

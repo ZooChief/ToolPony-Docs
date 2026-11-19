@@ -89,4 +89,12 @@ $$
 - Fracção ou número misto
 - Lugares decimais
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Ffraction-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/fraction-calculator/)

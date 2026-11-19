@@ -78,4 +78,10 @@ Quote labels containing commas. Use a period as the decimal separator. Negative 
 
 Up to 120 rows and six numeric series. A quoted cell may contain a comma. Each row stays on one line. Values are plotted in the order entered.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fchart-maker%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/chart-maker/)

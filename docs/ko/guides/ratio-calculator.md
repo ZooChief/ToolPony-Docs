@@ -88,4 +88,12 @@ A:B = C:D는 A×D = B×C를, nonzero 분모와 함께 의미합니다. 단순화
 - 방향 · 줄이기 / 확장
 - 인수
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fratio-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/ratio-calculator/)

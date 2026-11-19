@@ -74,4 +74,12 @@ Der Code-Point-Modus behandelt ein Zusatzzeichen als einen Skalar. UTF-16 verwen
 - Eingabe
 - Kodierung · Unicode-Codepunkte / UTF-8-Bytes in Hexadezimal / JavaScript-UTF-16-Escapes
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Funicode-converter%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/unicode-converter/)

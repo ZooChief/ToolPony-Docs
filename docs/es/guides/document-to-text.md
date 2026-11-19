@@ -64,4 +64,10 @@ ABC	123
 
 En DOCX y ODT se lee el cuerpo, con hasta 20 MiB por archivo y 1 MiB de texto UTF-8 extraído. El PDF necesita texto seleccionable. Se excluyen las imágenes, la maquetación y los archivos con contraseña.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fdocument-to-text%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/document-to-text/)

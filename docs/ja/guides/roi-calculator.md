@@ -50,4 +50,10 @@
 
 総リターンは(純収益−総コスト)です。÷ 総コスト。 年換算されたリターン化合物は、指定された年数における同倍率である。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Froi-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/roi-calculator/)

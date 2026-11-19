@@ -50,4 +50,10 @@
 
 ヒント = 選択された請求額 × チップパーセンテージ。 一人当たりの合計は、請求額、税金、およびチップを人数で割る。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Ftip-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/tip-calculator/)

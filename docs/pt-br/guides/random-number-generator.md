@@ -50,4 +50,10 @@ Cinco inteiros aleatórios de 1 a 10
 
 Valores aleatórios vêm da Web Crypto. Amostragem de rejeição evita viés modulo. Gerar até 1.000 valores na faixa -1.000.000.000 a 1.000.000.000.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Frandom-number-generator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/random-number-generator/)

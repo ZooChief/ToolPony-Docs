@@ -76,4 +76,10 @@ Clearing the canvas can be undone within the available history. Export the PNG b
 
 The canvas is 1080 × 640 pixels. The drawing stays in this tab. Undo and redo use Ctrl/Cmd+Z and Ctrl/Cmd+Shift+Z.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fdrawing-board%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/drawing-board/)

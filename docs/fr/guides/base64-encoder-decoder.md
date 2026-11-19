@@ -50,4 +50,14 @@ aGVsbG8=
 
 Le texte est converti en UTF-8. Le mode URL-safe utilise "-" et "\_" et omet le rembourrage en sortie. Jusqu'à 500 000 caractères d'entrée.
 
+
+
+
+
+**Références de la méthode** [IETF · RFC 4648 (Base64)](<https://www.rfc-editor.org/rfc/rfc4648>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fbase64-encoder-decoder%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/base64-encoder-decoder/)

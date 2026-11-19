@@ -176,4 +176,12 @@ Para un valor medido de 90 y referencia de 96, el error absoluto por ciento es d
 - Valor de referencia
 - Convención de error · Absoluto / Con signo relativo a la referencia
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fpercentage-calculator%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/percentage-calculator/)

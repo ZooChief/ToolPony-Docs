@@ -64,4 +64,10 @@ $$
 
 半数取偶只在正好一半时选择偶数倍。例如 −2.5 得 −2，−3.5 得 −4。向上取整始终朝正无穷方向。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Frounding-calculator%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/rounding-calculator/)

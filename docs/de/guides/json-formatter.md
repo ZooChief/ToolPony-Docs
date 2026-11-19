@@ -79,4 +79,14 @@ Anmerkungen und Nachkommas sind nicht JSON. Zahlen, die außerhalb der sicheren 
 
 Bis zu 1 MB. Ungültiges JSON und Zahlen außerhalb der sicheren Genauigkeit werden abgewiesen. Das Formatieren prüft kein Anwendungsschema.
 
+
+
+
+
+**Quellen zur Methode** [IETF · RFC 8259 (JSON)](<https://www.rfc-editor.org/rfc/rfc8259>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fjson-formatter%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/json-formatter/)

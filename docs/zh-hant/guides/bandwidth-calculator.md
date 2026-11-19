@@ -50,4 +50,10 @@
 
 秒數 = 文件字節數 × 8 ÷ 有效每秒比特數。帶寬單位用十進制前綴，文件大小支持十進制和二進制。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fbandwidth-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/bandwidth-calculator/)

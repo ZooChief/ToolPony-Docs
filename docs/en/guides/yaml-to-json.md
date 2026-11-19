@@ -80,4 +80,14 @@ Multiple documents, custom tags, cyclic aliases and values that JSON cannot repr
 
 Up to 1 MB. Custom tags, multiple documents, non-string keys, excessive aliases, cyclic structures, and values that JSON cannot preserve are rejected.
 
+
+
+
+
+**Method references** [YAML 1.2.2](<https://yaml.org/spec/1.2.2/>) · [IETF · RFC 8259 (JSON)](<https://www.rfc-editor.org/rfc/rfc8259>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fyaml-to-json%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/yaml-to-json/)

@@ -50,4 +50,14 @@ aGVsbG8=
 
 Text is converted as UTF-8. URL-safe mode uses "-" and "\_" and omits padding in output. Up to 500,000 input characters.
 
+
+
+
+
+**Method references** [IETF · RFC 4648 (Base64)](<https://www.rfc-editor.org/rfc/rfc4648>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fbase64-encoder-decoder%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/base64-encoder-decoder/)

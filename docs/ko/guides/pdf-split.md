@@ -65,4 +65,14 @@
 
 최대 30 MB, 300페이지입니다. 페이지는 중복할 수 없습니다. ZIP에 담는 PDF는 총 64 MB까지입니다. 양식, 북마크, 전자 서명이 유지되지 않을 수 있습니다.
 
+
+
+
+
+**계산 및 처리 방식의 출처** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fpdf-split%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/pdf-split/)

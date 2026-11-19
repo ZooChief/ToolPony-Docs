@@ -79,4 +79,12 @@ $$
 - Wahrscheinlichkeitsbereich · Linke Randwahrscheinlichkeit / Rechte Randwahrscheinlichkeit / Von der Mitte bis |z| / Zwischen −|z| und |z| / Zweiseitige Wahrscheinlichkeit
 - Wahrscheinlichkeit
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fp-value-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/p-value-calculator/)

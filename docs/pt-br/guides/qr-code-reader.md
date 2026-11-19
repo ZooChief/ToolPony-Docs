@@ -63,4 +63,10 @@ https://example.com/qr-sample
 
 Um QR Code por leitura. Imagens de até 20 MiB e 24 megapixels, incluindo PNG, JPEG, WebP e SVG compatíveis. A câmera requer permissão e para após ler. As imagens ficam no seu dispositivo.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fqr-code-reader%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/qr-code-reader/)

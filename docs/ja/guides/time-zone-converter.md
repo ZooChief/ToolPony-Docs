@@ -85,4 +85,16 @@ $$
 - 元の UTC オフセット
 - 変換先の UTC オフセット
 
+
+
+
+
+
+
+**計算・処理の参考資料** [IANA · Time Zone Database](<https://www.iana.org/time-zones>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Ftime-zone-converter%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/time-zone-converter/)

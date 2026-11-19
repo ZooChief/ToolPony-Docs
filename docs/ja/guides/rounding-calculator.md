@@ -64,4 +64,10 @@ $$
 
 ハーフ・トゥ・イブンは、まったく同じタイでのみ複数選択する。 たとえば、−2.5は−2に、−3.5は−4に進む。 天井は常に正の無限へと向かう。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Frounding-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/rounding-calculator/)

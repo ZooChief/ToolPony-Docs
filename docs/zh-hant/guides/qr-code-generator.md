@@ -64,4 +64,10 @@ https://example.com/
 
 靜態碼直接編碼所填內容。最多 2,048 個 UTF-8 字節，糾錯級別較高時容量更小。白邊保留四個模塊寬的識讀留白。Wi-Fi 二維碼包含填寫的密碼。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fqr-code-generator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/qr-code-generator/)

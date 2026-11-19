@@ -78,4 +78,10 @@ Les étiquettes de citation contenant des virgules. Utilisez une période comme 
 
 Jusqu'à 120 lignes et six séries numériques. Une cellule citée peut contenir une virgule. Chaque ligne reste sur une ligne. Les valeurs sont tracées dans l'ordre entré.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fchart-maker%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/chart-maker/)

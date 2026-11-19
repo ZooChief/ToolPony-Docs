@@ -116,4 +116,12 @@ $$
 - 配速單位 · km / mi / 100 m / 100 yd
 - 各行採用累計里程和時間
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fpace-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/pace-calculator/)

@@ -67,4 +67,10 @@ Deutschland
 
 Até 100 exemplos por lote. Cidade e CEP ilustram o formato. Logradouro e destinatário são sintéticos. O telefone usa números reservados ou máscaras. Para testar formulários e software.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fsample-address-generator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/sample-address-generator/)

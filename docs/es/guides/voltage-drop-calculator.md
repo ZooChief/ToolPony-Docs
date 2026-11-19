@@ -147,4 +147,12 @@ $$
 - Corriente · A
 - Límite de caída para estimar la distancia · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fvoltage-drop-calculator%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/voltage-drop-calculator/)

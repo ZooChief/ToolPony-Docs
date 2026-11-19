@@ -93,4 +93,12 @@ $$
 - 方向の指定方法 · 傾き / 度数の角度
 - 方向値
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fslope-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/slope-calculator/)

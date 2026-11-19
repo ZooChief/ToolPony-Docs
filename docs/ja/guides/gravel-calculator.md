@@ -134,4 +134,12 @@ $$
 - 袋容量の単位 · ft³ / yd³ / m³ / L / ポンド / 私たちのトン / キログラム / t
 - 予備率 · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fgravel-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/gravel-calculator/)

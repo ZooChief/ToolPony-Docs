@@ -50,4 +50,10 @@ Tres caras y su suma
 
 Cada die utiliza un uniforme independiente Web Crypto. Roll hasta 100 dados, con 2 a 1.000 lados cada uno.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fdice-roller%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/dice-roller/)

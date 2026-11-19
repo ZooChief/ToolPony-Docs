@@ -78,4 +78,10 @@
 
 最多 120 行数据和六列数值。双引号内可包含逗号，单元格不跨行。按输入顺序绘制。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fchart-maker%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/chart-maker/)

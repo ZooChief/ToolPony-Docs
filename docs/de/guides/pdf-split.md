@@ -65,4 +65,14 @@ Eine PDF mit Seiten 5, 1, 2 und 3 in dieser Reihenfolge
 
 Bis zu 30 MB und 300 Seiten. Jede Seite darf nur einmal vorkommen. Die PDF-Dateien im ZIP dürfen zusammen 64 MB nicht überschreiten. Formulare, Lesezeichen und Signaturen können verloren gehen.
 
+
+
+
+
+**Quellen zur Methode** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fpdf-split%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/pdf-split/)

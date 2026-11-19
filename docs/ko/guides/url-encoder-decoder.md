@@ -50,4 +50,10 @@ a%2Bb%20%26%20c
 
 구성 요소 인코딩은 예약된 구분 기호를 탈출합니다. 전체 URL 인코딩은 구분 기호를 보존합니다. 양식 인코딩 사용 및 공백에 대한.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Furl-encoder-decoder%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/url-encoder-decoder/)

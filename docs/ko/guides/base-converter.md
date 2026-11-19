@@ -80,4 +80,12 @@ BigInt는 정수 정밀도를 유지합니다. 나눗셈은 0 방향으로 버�
 - 최소 출력 자릿수
 - 연산 · 추가 / 뺄셈 / Multiply / Divide는 / 나머지 / AND / OR / XOR
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fbase-converter%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/base-converter/)

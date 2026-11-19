@@ -78,4 +78,10 @@ Rótulos de citações contendo vírgulas. Use um período como separador decima
 
 Até 120 linhas e seis séries numéricas. Uma célula citada pode conter uma vírgula. Cada linha permanece numa linha. Os valores são plotados na ordem indicada.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fchart-maker%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/chart-maker/)

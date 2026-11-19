@@ -80,4 +80,12 @@ FF，從十六進制轉十進制
 - 最少輸出位數
 - 運算 · 加 / 減 / 乘 / 除 / 餘數 / 按位與 / 按位或 / 按位異或
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fbase-converter%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/base-converter/)

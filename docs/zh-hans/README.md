@@ -6,6 +6,26 @@
 
 
 
+
+
+## 实操案例
+
+
+
+- [把透明 PNG 发成 JPEG 前，怎样核对底色](<guides/image-converter.md#case-study>)
+- [找出图文混合 PDF 中没有提取出文字的那一页](<guides/pdf-to-text.md#case-study>)
+- [两份库存表的列顺序变了，怎样核对数量](<guides/csv-compare.md#case-study>)
+- [按水位线估算圆柱水箱能装多少水](<guides/volume-calculator.md#case-study>)
+- [白底正文选哪种灰色能达到 AA](<guides/contrast-checker.md#case-study>)
+
+
+
+
+
+## 工具指南
+
+
+
 [二维码生成器](<guides/qr-code-generator.md>)
 
 

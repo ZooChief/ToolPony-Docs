@@ -50,4 +50,10 @@
 
 총 수익은 (순 수익 - 총 비용) ÷ 총 비용입니다. 연간 반환 화합물 지정된 년 동안 동일한 비율.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Froi-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/roi-calculator/)

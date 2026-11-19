@@ -76,4 +76,10 @@
 
 支持 JPG、PNG、WebP、AVIF 或 GIF，上限 20 MB 與 2400 萬像素。讀取瀏覽器解碼後的像素。左上角座標爲 (0, 0)，最多記錄 16 個採樣點。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fimage-color-picker%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/image-color-picker/)

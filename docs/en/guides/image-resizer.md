@@ -76,4 +76,14 @@ Changing pixel dimensions is different from lossless compression. Enlarging the 
 
 Up to 20 MB input, 24 megapixels, and 8,192 pixels per output dimension. Enlarging an image does not restore missing detail.
 
+
+
+
+
+**Method references** [W3C · PNG](<https://www.w3.org/TR/png-3/>) · [WHATWG · HTML Canvas](<https://html.spec.whatwg.org/multipage/canvas.html#dom-canvas-toblob-dev>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fimage-resizer%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/image-resizer/)

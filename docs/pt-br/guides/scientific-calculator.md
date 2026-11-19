@@ -50,4 +50,10 @@ sqrt( 81) + 2^3 × sin( 30), graus
 
 Os operadores seguem parênteses, pós-fixação, expoente, multiplicação e precedência de adição. Os poderes associam-se à direita. A percentagem divide- se por 100. Os resultados usam aritmética de ponto flutuante.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fscientific-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/scientific-calculator/)

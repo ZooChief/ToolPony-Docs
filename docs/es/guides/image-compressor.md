@@ -64,4 +64,14 @@ Los resultados que alcanzan el objetivo son WebP de hasta 100.000 bytes dentro d
 
 Hasta 20 MB y 24 megapíxeles por imagen, 64 MiB por lote de entrada y salida. El lado máximo no amplía imágenes. JPEG y WebP tienen pérdida. Las animaciones se convierten en imágenes fijas y se eliminan los metadatos originales.
 
+
+
+
+
+**Fuentes del método** [WHATWG · HTML Canvas](<https://html.spec.whatwg.org/multipage/canvas.html#dom-canvas-toblob-dev>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fimage-compressor%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/image-compressor/)

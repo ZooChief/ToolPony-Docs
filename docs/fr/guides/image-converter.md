@@ -47,6 +47,25 @@ JPEG · 64 × 32 px (coins blancs)
 
 
 
+<a id="case-study"></a>
+
+
+
+## Vérifier le fond d’un PNG transparent avant un envoi en JPEG
+
+
+
+1. Dans le convertisseur vide, choisissez « Essayer les fichiers exemples ». Un PNG transparent et un JPEG opaque de 64 × 32 px sont chargés. Les sorties sont réglées respectivement sur JPEG et PNG.
+2. Après conversion, cliquez sur chaque miniature pour voir la sortie. Le JPEG a des coins blancs. Le PNG issu du JPEG conserve aussi des coins opaques car les pixels blancs figuraient dans la source. Pour garder la transparence du premier fichier, exportez-le en PNG avec un fond transparent.
+3. Pour une bannière, vérifiez les dimensions de sortie sur la ligne du fichier. Une image de 10 000 × 100 px passe proportionnellement à 8 192 × 82 px. Le réglage de qualité agit uniquement sur l’encodage.
+4. Pour vérifier le pixel, ouvrez le JPEG d’exemple dans la pipette à la position (0, 0). Dans Chromium, la valeur décodée était RGBA (255, 255, 243, 255). Le PNG issu du même JPEG conserve ces valeurs, dont l’alpha de 255 pour une opacité totale.
+
+
+
+[Pipette de couleurs d’image](<https://toolpony.com/fr/tools/image-color-picker/>)
+
+
+
 
 
 ## Essayer
@@ -70,5 +89,15 @@ Choisissez le PNG pour conserver la transparence et le JPEG pour les photos et l
 
 
 Un logo WebP transparent peut devenir un PNG transparent. Pour un formulaire exigeant du JPEG, choisissez un fond blanc. Un JPEG converti en PNG conserve les détails visibles de l’image.
+
+
+
+
+
+**Références de la méthode** [W3C · PNG](<https://www.w3.org/TR/png-3/>) · [WHATWG · HTML Canvas](<https://html.spec.whatwg.org/multipage/canvas.html#dom-canvas-toblob-dev>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fimage-converter%2F>)
 
 [Documentation](https://docs.toolpony.com/fr/guides/image-converter/)

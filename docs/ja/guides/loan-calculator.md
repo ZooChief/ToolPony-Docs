@@ -161,4 +161,12 @@ P は元金、r は1回分の利率、M は予定返済額、n は返済回数�
 - 年利 · %
 - 複利頻度
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Floan-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/loan-calculator/)

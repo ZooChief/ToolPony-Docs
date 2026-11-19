@@ -124,4 +124,12 @@ The coverage model uses an effective length and width for each tile. Allowance c
 - Price per
 - Waste allowance · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Ftile-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/tile-calculator/)

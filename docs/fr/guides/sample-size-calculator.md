@@ -84,4 +84,12 @@ $$
 - Proportion de la population · %
 - Taille de la population (0 pour une durée illimitée)
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fsample-size-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/sample-size-calculator/)

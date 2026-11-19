@@ -76,4 +76,14 @@ KB means 1,000 bytes here. Target size is an upper bound, not an exact byte coun
 
 20 MB and 24 megapixels per image. Up to 64 MiB input and output per batch. The maximum side only shrinks larger images. JPEG and WebP use lossy encoding. Animations become still images and original metadata is removed.
 
+
+
+
+
+**Method references** [WHATWG · HTML Canvas](<https://html.spec.whatwg.org/multipage/canvas.html#dom-canvas-toblob-dev>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fimage-compressor%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/image-compressor/)

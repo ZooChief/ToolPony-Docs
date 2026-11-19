@@ -79,4 +79,14 @@
 
 最大 1 MB。拒絕無效 JSON 和超出安全精度的數字；不執行應用級 schema 校驗。
 
+
+
+
+
+**方法來源** [IETF · RFC 8259 (JSON)](<https://www.rfc-editor.org/rfc/rfc8259>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fjson-formatter%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/json-formatter/)

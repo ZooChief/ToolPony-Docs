@@ -80,4 +80,14 @@ JSON이 나타낼 수 없는 여러 문서, 사용자 지정 태그, 주기적�
 
 최대 1 MB. 사용자 지정 태그, 여러 문서, 문자열이 아닌 키, 과도한 별칭, 주기적 구조 및 JSON이 보존할 수 없는 값은 거부됩니다.
 
+
+
+
+
+**계산 및 처리 방식의 출처** [YAML 1.2.2](<https://yaml.org/spec/1.2.2/>) · [IETF · RFC 8259 (JSON)](<https://www.rfc-editor.org/rfc/rfc8259>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fyaml-to-json%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/yaml-to-json/)

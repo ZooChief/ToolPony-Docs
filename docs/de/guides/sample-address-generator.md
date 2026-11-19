@@ -67,4 +67,10 @@ Deutschland
 
 Bis zu 100 Beispiele pro Lauf. Ort und Postleitzahl dienen als Formatbeispiele, Straße und Empfänger sind synthetisch. Telefonbeispiele verwenden reservierte Nummern oder Platzhalter. Geeignet für Formular- und Softwaretests.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fsample-address-generator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/sample-address-generator/)

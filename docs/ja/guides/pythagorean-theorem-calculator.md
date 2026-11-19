@@ -68,4 +68,10 @@ $$
 c=\sqrt{a^2+b^2},\quad a=\sqrt{c^2-b^2},\quad b=\sqrt{c^2-a^2}
 $$
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fpythagorean-theorem-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/pythagorean-theorem-calculator/)

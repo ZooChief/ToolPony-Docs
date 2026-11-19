@@ -74,4 +74,12 @@ U+1F434またはF0 9F 90 B4
 - 入力
 - エンコーディング · Unicodeコードポイント / UTF-8 の16進バイト列 / JavaScript の UTF-16 エスケープ
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Funicode-converter%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/unicode-converter/)

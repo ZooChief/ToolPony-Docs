@@ -76,4 +76,10 @@ A remoção da área de desenho pode ser desfeita dentro do histórico disponív
 
 A tela é de 1080 × 640 pixels. O desenho permanece nesta aba. Desfazer e refazer usar Ctrl/Cmd+Z e Ctrl/Cmd+Shift+Z.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fdrawing-board%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/drawing-board/)

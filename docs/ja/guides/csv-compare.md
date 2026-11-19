@@ -55,6 +55,20 @@ Qty,ID,Name
 
 
 
+<a id="case-study"></a>
+
+
+
+## 列の順序が変わった 2 つの在庫表を照合する
+
+
+
+1. 在庫の例を読み込み、ID をキーに選びます。旧ファイルは ID、Name、Qty の順、新ファイルは Qty が先頭です。2 つを比較します。
+2. ID 001（Oak）の数量は 2 から 4 に変わり、002 は削除、003 は追加、004 は同じです。列の順序が違っても変更・削除・追加が各 1 件になります。
+3. 新ファイルの 001 だけを 1 に変えると、追加 2 件、削除 2 件、変更 0 件になります。同じ商品の数量を比較するには、出力元で先頭のゼロを保持してください。
+
+
+
 
 
 ## 試してみる
@@ -74,5 +88,15 @@ Qty,ID,Name
 
 
 在庫表では変わらない SKU をキーにします。旧ファイルの 0012 が新ファイルで 12 になると、削除と追加が各 1 件になります。数量の差を同じ商品の変更として比較するには、両方のファイルで先頭のゼロを保持してください。
+
+
+
+
+
+**計算・処理の参考資料** [IETF · RFC 4180 (CSV)](<https://www.rfc-editor.org/rfc/rfc4180>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fcsv-compare%2F>)
 
 [ドキュメント](https://docs.toolpony.com/ja/guides/csv-compare/)

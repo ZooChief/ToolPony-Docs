@@ -80,4 +80,12 @@ O BigInt preserva a precisão inteira. A divisão trunca para zero. As operaçõ
 - Digitos de saída mínimos
 - Operação · Adicionar / Subtrair / Multiplicar / Dividir / Resto / AND / OR / XOR
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fbase-converter%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/base-converter/)

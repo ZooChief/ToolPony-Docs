@@ -87,4 +87,16 @@ A energia de repouso é estimada com Mifflin–St Jeor, revisada Harris–Benedi
 - Factor de actividade
 - Unidade energética · kcal/day / kJ/day
 
+
+
+
+
+
+
+**Referências do método** [Mifflin et al. (1990)](<https://pubmed.ncbi.nlm.nih.gov/2305711/>) · [Roza &amp; Shizgal (1984)](<https://pubmed.ncbi.nlm.nih.gov/6741850/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fbmr-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/bmr-calculator/)

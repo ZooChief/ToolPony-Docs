@@ -50,4 +50,14 @@
 
 バージョン 4 の UUID では 122 ビットがランダムで、6 ビットはバージョンとバリアント用です。一度に 500 件まで生成できます。
 
+
+
+
+
+**計算・処理の参考資料** [IETF · RFC 9562 (UUID)](<https://www.rfc-editor.org/rfc/rfc9562>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fuuid-generator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/uuid-generator/)

@@ -75,4 +75,10 @@ $$
 a,b=\frac{\sqrt{c^2+2ch}\;\pm\;\sqrt{c^2-2ch}}{2}
 $$
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fright-triangle-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/right-triangle-calculator/)

@@ -50,4 +50,14 @@ aGVsbG8=
 
 텍스트는 UTF-8로 변환됩니다. URL-safe 모드는 "-" 및 "\_"을 사용하고 출력에서 패딩을 생략합니다. 최대 500,000개의 입력 문자.
 
+
+
+
+
+**계산 및 처리 방식의 출처** [IETF · RFC 4648 (Base64)](<https://www.rfc-editor.org/rfc/rfc4648>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fbase64-encoder-decoder%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/base64-encoder-decoder/)

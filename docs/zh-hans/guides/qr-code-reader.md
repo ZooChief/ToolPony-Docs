@@ -63,4 +63,10 @@ https://example.com/qr-sample
 
 每次读一个二维码。图片最大 20 MiB、2400 万像素，支持浏览器可读的 PNG、JPEG、WebP 和 SVG。相机需浏览器授权，识别成功后关闭。图片和帧留在本机。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fqr-code-reader%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/qr-code-reader/)

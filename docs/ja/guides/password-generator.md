@@ -50,4 +50,10 @@
 
 Web Cryptoはランダム性を実現します。 必要なグループが有効になると、各グループから1つの文字が選択され、その後、位置がシャッフルされます。 パスワードは、あなたが退出または消去するまで、現在のページに存在します。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fpassword-generator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/password-generator/)

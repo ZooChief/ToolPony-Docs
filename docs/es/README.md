@@ -6,6 +6,26 @@ Aprende a usar las calculadoras y las herramientas de imágenes y PDF de ToolPon
 
 
 
+
+
+## Casos prácticos
+
+
+
+- [Comprobar el fondo de un PNG transparente antes de enviarlo como JPEG](<guides/image-converter.md#case-study>)
+- [Localizar la página sin texto en un PDF mixto](<guides/pdf-to-text.md#case-study>)
+- [Conciliar dos inventarios con columnas en distinto orden](<guides/csv-compare.md#case-study>)
+- [Estimar cuánta agua cabe hasta la marca de un depósito](<guides/volume-calculator.md#case-study>)
+- [Elegir un gris que cumpla AA para texto normal sobre blanco](<guides/contrast-checker.md#case-study>)
+
+
+
+
+
+## Guías de herramientas
+
+
+
 [Generador de códigos QR](<guides/qr-code-generator.md>)
 
 

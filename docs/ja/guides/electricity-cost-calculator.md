@@ -103,4 +103,12 @@ $$
 - 使用時間の単位 · 分/日 / 1 日の運転時間 / 時間/週 / 時間/月 / 日/週 / 日/月 / 日/年 / 月/年
 - kWh あたりの料金
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Felectricity-cost-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/electricity-cost-calculator/)

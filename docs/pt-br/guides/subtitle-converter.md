@@ -77,4 +77,14 @@ Overlap 50 ms
 
 Até 1 MiB e 10.000 legendas. Legendas que terminam antes de zero são removidas e as que cruzam zero começam nele. SRT não comporta todas as posições, estilos e identificadores do WebVTT.
 
+
+
+
+
+**Referências do método** [W3C · WebVTT](<https://www.w3.org/TR/webvtt1/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fsubtitle-converter%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/subtitle-converter/)

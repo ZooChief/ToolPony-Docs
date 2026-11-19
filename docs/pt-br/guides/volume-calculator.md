@@ -34,6 +34,20 @@ Esfera com raio de 2 m
 
 
 
+<a id="case-study"></a>
+
+
+
+## Estimar o volume de água até a marca de um tanque
+
+
+
+1. Meça o diâmetro interno e a profundidade até a marca. No exemplo de um cilindro de 1 m de diâmetro e 1,2 m de profundidade útil, o raio é preenchido com 0,5 m e a saída fica em litros.
+2. O volume é π × 0,5² × 1,2 m³, cerca de 942,48 L. Informar o diâmetro no campo de raio quadruplica o resultado por causa do termo ao quadrado.
+3. Baixe a marca em 0,2 m e informe 1 m de profundidade. A capacidade passa para cerca de 785,40 L. A diferença de cerca de 157,08 L é o volume entre as duas marcas.
+
+
+
 
 
 ## Experimente
@@ -222,5 +236,17 @@ $$
 - Raio do tubo
 - Unidade do raio do tubo
 - Unidade de volume
+
+
+
+
+
+
+
+**Referências do método** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fvolume-calculator%2F>)
 
 [Documentação](https://docs.toolpony.com/pt-br/guides/volume-calculator/)

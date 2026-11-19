@@ -6,6 +6,26 @@ Découvrez les calculateurs et les outils image et PDF de ToolPony à travers de
 
 
 
+
+
+## Cas pratiques
+
+
+
+- [Vérifier le fond d’un PNG transparent avant un envoi en JPEG](<guides/image-converter.md#case-study>)
+- [Repérer une page sans texte dans un PDF mixte](<guides/pdf-to-text.md#case-study>)
+- [Rapprocher deux stocks après un changement d’ordre des colonnes](<guides/csv-compare.md#case-study>)
+- [Estimer le volume d’eau sous la marque de remplissage](<guides/volume-calculator.md#case-study>)
+- [Choisir un gris conforme au niveau AA pour un texte courant sur fond blanc](<guides/contrast-checker.md#case-study>)
+
+
+
+
+
+## Guides des outils
+
+
+
 [Générateur de code QR](<guides/qr-code-generator.md>)
 
 

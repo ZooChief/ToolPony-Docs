@@ -76,4 +76,14 @@ ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad
 
 最多 16 个文件且总计不超过 64 MB，文本上限一百万字符。文本按 UTF-8 编码，文件在浏览器中顺序处理。
 
+
+
+
+
+**方法来源** [NIST · FIPS 180-4 (SHA-2)](<https://csrc.nist.gov/pubs/fips/180-4/upd1/final>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Ffile-hash-calculator%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/file-hash-calculator/)

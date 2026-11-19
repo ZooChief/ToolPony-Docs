@@ -84,4 +84,12 @@ $$
 - 후속 연간 현금 흐름
 - 연간 할인율 · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fpayback-period-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/payback-period-calculator/)

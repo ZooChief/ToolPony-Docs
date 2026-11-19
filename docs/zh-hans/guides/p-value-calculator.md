@@ -79,4 +79,12 @@ $$
 - 概率区域 · 左尾概率 / 右尾概率 / 从中心到 |z| / 介于 −|z| 与 |z| 之间 / 双尾概率
 - 概率
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fp-value-calculator%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/p-value-calculator/)

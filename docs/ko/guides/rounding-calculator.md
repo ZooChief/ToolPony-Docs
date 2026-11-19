@@ -64,4 +64,10 @@ $$
 
 반에서 짝수 짝수 것은 정확한 넥타이에서만 선택합니다. 예를 들어, −2.5는 −2로 이동하고 −3.5는 −4로 이동합니다. 천장은 항상 긍정적 인 무한대로 움직입니다.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Frounding-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/rounding-calculator/)

@@ -89,4 +89,12 @@ O modo aritmético mantém os coeficientes decimais exatos para adição, subtra
 - Operação · Adicionar / Subtrair / Multiplicar / Dividir / Potência / Raiz quadrada do primeiro / Quadrado de primeiro
 - Dígitos significativos
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fscientific-notation-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/scientific-notation-calculator/)

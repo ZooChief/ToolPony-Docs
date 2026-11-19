@@ -87,4 +87,16 @@
 - 活動係数
 - エネルギーユニット · kcal/day / kJ/day
 
+
+
+
+
+
+
+**計算・処理の参考資料** [Mifflin et al. (1990)](<https://pubmed.ncbi.nlm.nih.gov/2305711/>) · [Roza &amp; Shizgal (1984)](<https://pubmed.ncbi.nlm.nih.gov/6741850/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fbmr-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/bmr-calculator/)

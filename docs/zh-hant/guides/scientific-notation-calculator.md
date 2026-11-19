@@ -89,4 +89,12 @@ $$
 - 運算 · 加 / 減 / 乘 / 除 / 冪 / 第一個數的平方根 / 第一個數的平方
 - 有效數字
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fscientific-notation-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/scientific-notation-calculator/)

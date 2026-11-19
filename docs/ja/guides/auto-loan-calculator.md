@@ -119,4 +119,12 @@ V は車両価格、D は頭金、T は下取り額、O は下取り車の残債
 - 税・手数料を借入に含める
 - 通貨
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fauto-loan-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/auto-loan-calculator/)

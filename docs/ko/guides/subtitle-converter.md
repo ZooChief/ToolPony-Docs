@@ -77,4 +77,14 @@ Overlap 50 ms
 
 텍스트 1 MiB, 자막 10,000개까지 지원합니다. 0초 전에 끝나는 자막은 제거하며 0초를 넘는 자막은 0초에서 시작합니다. SRT는 모든 WebVTT 위치, 스타일 및 식별자를 담을 수 없습니다.
 
+
+
+
+
+**계산 및 처리 방식의 출처** [W3C · WebVTT](<https://www.w3.org/TR/webvtt1/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fsubtitle-converter%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/subtitle-converter/)

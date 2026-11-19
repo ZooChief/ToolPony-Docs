@@ -50,4 +50,10 @@ Ein neues Zufallspasswort
 
 Web Crypto liefert Zufälligkeit. Wenn erforderliche Gruppen aktiviert sind, wird aus jeder Gruppe ein Zeichen ausgewählt, dann werden Positionen gemischt. Passwörter werden auf der aktuellen Seite gespeichert, bis Sie sie verlassen oder löschen.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fpassword-generator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/password-generator/)

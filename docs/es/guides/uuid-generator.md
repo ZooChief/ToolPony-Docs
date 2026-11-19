@@ -50,4 +50,14 @@ Ejemplo: 550e8400-e29b-41d4-a716-446655440000
 
 Un UUID v4 tiene 122 bits aleatorios y seis bits de versión y variante. Puedes generar hasta 500 por lote.
 
+
+
+
+
+**Fuentes del método** [IETF · RFC 9562 (UUID)](<https://www.rfc-editor.org/rfc/rfc9562>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fuuid-generator%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/uuid-generator/)

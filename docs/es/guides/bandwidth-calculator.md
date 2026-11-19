@@ -50,4 +50,10 @@ Tiempo estimado de transferencia del tamaño del archivo, velocidad de enlace y 
 
 Tiempo en segundos = bytes de archivo × 8 ÷ bits efectivos por segundo. Los prefijos de la red son decimales. El tamaño de archivo soporta prefijos decimales y binarios.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fbandwidth-calculator%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/bandwidth-calculator/)

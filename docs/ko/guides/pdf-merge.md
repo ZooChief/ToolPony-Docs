@@ -63,4 +63,14 @@ A1, A2, B1, B2, B3 순서의 PDF 한 개
 
 입력은 총 30 MB, 300페이지까지 가능합니다. 암호화된 PDF는 지원하지 않습니다. 양식, 북마크, 전자 서명이 유지되지 않을 수 있습니다.
 
+
+
+
+
+**계산 및 처리 방식의 출처** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fpdf-merge%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/pdf-merge/)

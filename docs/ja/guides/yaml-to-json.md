@@ -80,4 +80,14 @@ JSON が表現できない複数のドキュメント、カスタムタグ、サ
 
 最大1MBまで。 カスタムタグ、複数のドキュメント、非文字列キー、過剰なエイリアス、サイクリック構造、およびJSONが保持できない値は拒否されます。
 
+
+
+
+
+**計算・処理の参考資料** [YAML 1.2.2](<https://yaml.org/spec/1.2.2/>) · [IETF · RFC 8259 (JSON)](<https://www.rfc-editor.org/rfc/rfc8259>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fyaml-to-json%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/yaml-to-json/)

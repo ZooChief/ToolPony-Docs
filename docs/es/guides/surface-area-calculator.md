@@ -223,4 +223,12 @@ $$
 - Unidad del radio del tubo
 - Unidad de área
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fsurface-area-calculator%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/surface-area-calculator/)

@@ -34,6 +34,20 @@ Sphère avec rayon 2 m
 
 
 
+<a id="case-study"></a>
+
+
+
+## Estimer le volume d’eau sous la marque de remplissage
+
+
+
+1. Mesurez le diamètre intérieur et la profondeur jusqu’au repère. Lancez l’exemple pour un réservoir cylindrique de 1 m de diamètre et de 1,2 m de profondeur utile. Le rayon est réglé sur 0,5 m et la sortie en litres.
+2. Le volume vaut π × 0,5² × 1,2 m³, soit environ 942,48 L. Saisir le diamètre dans le champ du rayon quadruple le résultat à cause du carré.
+3. Abaissez le repère de 0,2 m et saisissez 1 m de profondeur. La capacité passe à environ 785,40 L. Les deux repères délimitent donc environ 157,08 L.
+
+
+
 
 
 ## Essayer
@@ -222,5 +236,17 @@ $$
 - Rayon du tube
 - Unité du rayon du tube
 - Volume unité
+
+
+
+
+
+
+
+**Références de la méthode** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fvolume-calculator%2F>)
 
 [Documentation](https://docs.toolpony.com/fr/guides/volume-calculator/)

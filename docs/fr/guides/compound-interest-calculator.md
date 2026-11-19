@@ -87,4 +87,16 @@ $$
 - Composition originale
 - Compilation des cibles
 
+
+
+
+
+
+
+**Références de la méthode** [Investor.gov · Compound Interest](<https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fcompound-interest-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/compound-interest-calculator/)

@@ -76,4 +76,10 @@ The preview can be downscaled while sampling still reads the corresponding origi
 
 JPG, PNG, WebP, AVIF or GIF up to 20 MB and 24 megapixels. Reads the browser’s decoded pixels. Coordinates start at (0, 0) at the top left. A palette holds up to 16 points.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fimage-color-picker%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/image-color-picker/)

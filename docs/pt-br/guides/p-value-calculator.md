@@ -79,4 +79,12 @@ $$
 - Região de probabilidade · Probabilidade de cauda esquerda / Probabilidade de cauda direita / Do centro para o zz / Entre o zhz e o zhz / Probabilidade de duas caudas
 - Probabilidade
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fp-value-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/p-value-calculator/)

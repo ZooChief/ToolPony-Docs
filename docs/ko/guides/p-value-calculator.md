@@ -79,4 +79,12 @@ $$
 - 확률 영역 · 왼쪽 꼬리 확률 / 오른쪽 꼬리 확률 / 중심부터 |z|까지 / −|z|와 |z| 사이 / 양쪽 꼬리 확률
 - 확률
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fp-value-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/p-value-calculator/)

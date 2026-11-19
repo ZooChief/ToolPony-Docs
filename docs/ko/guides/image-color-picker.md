@@ -76,4 +76,10 @@
 
 JPG, PNG, WebP, AVIF 또는 GIF 최대 20 MB 및 24 메가 픽셀. 브라우저의 디코딩된 픽셀을 읽습니다. 좌표는 왼쪽 상단의 (0, 0)에서 시작합니다. 팔레트는 최대 16 점을 보유합니다.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fimage-color-picker%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/image-color-picker/)

@@ -76,4 +76,14 @@ PDF 每英寸爲 72 點。144 DPI 時每點對應兩個像素。帶旋轉設置�
 
 輸入最大 30 MB、300 頁。每次最多導出 40 頁、總計 6000 萬像素，每頁最大 2400 萬像素、每邊最多 8,192 像素。ZIP 內圖片合計最多 64 MB。以白底渲染，不支持加密 PDF。
 
+
+
+
+
+**方法來源** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fpdf-to-jpg%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/pdf-to-jpg/)

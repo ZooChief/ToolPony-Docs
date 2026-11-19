@@ -147,4 +147,12 @@ $$
 - 电流 · A
 - 距离估算的压降上限 · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fvoltage-drop-calculator%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/voltage-drop-calculator/)

@@ -63,4 +63,10 @@ https://example.com/qr-sample
 
 1回につきQRコード1個。PNG、JPEG、WebP、SVGなど最大20 MiB、2,400万画素です。カメラには許可が必要で、読み取ると停止します。画像やフレームは端末内に留まります。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fqr-code-reader%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/qr-code-reader/)

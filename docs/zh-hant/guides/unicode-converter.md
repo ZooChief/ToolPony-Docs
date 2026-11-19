@@ -74,4 +74,12 @@ U+1F434 或 F0 9F 90 B4
 - 輸入
 - 編碼 · Unicode 碼點 / UTF-8 十六進制字節 / JavaScript UTF-16 轉義
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Funicode-converter%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/unicode-converter/)

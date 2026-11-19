@@ -83,4 +83,16 @@ $$
 - 발에 있는 고도 · ft
 - 추가 인치 · in
 
+
+
+
+
+
+
+**계산 및 처리 방식의 출처** [CDC · Adult BMI Categories](<https://www.cdc.gov/bmi/adult-calculator/bmi-categories.html>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fbmi-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/bmi-calculator/)

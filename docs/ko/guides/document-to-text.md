@@ -64,4 +64,10 @@ ABC	123
 
 DOCX와 ODT는 본문만 읽습니다. 파일은 20 MiB, 추출한 UTF-8은 1 MiB까지입니다. PDF에는 선택 가능한 텍스트가 필요합니다. 이미지, 페이지 서식, 암호 파일은 지원 범위에서 제외됩니다.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fdocument-to-text%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/document-to-text/)

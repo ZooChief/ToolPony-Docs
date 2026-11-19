@@ -50,4 +50,10 @@
 
 所要時間 (秒) = ファイルのバイト数 × 8 ÷ 実効速度 (bit/s)。通信速度の接頭辞は 10 進です。ファイルサイズは 10 進と 2 進の接頭辞に対応します。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fbandwidth-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/bandwidth-calculator/)

@@ -174,4 +174,12 @@ For two 7 ft × 3 ft × 5 in slabs, 133 lb/ft³ gives 2327.50 lb, or 38.79 equiv
 - Custom concrete density · lb/ft³
 - Waste allowance · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fconcrete-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/concrete-calculator/)

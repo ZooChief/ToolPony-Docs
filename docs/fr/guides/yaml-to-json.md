@@ -80,4 +80,14 @@ Plusieurs documents, balises personnalisées, alias cycliques et valeurs que JSO
 
 Jusqu'à 1 Mo. Les étiquettes personnalisées, les documents multiples, les clés non string, les alias excessifs, les structures cycliques et les valeurs que JSON ne peut pas préserver sont rejetés.
 
+
+
+
+
+**Références de la méthode** [YAML 1.2.2](<https://yaml.org/spec/1.2.2/>) · [IETF · RFC 8259 (JSON)](<https://www.rfc-editor.org/rfc/rfc8259>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fyaml-to-json%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/yaml-to-json/)

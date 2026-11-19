@@ -62,4 +62,10 @@ Birth 2000-01-01, reference 2025-02-03
 
 Months align to the same day or to month-end. For a February 29 birthday, choose February 28 or March 1 in common years. Elapsed time uses 24-hour days.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fage-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/age-calculator/)

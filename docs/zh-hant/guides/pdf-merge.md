@@ -76,4 +76,14 @@ A.pdf（2 頁）+ B.pdf（3 頁）
 
 輸入總計最多 30 MB、300 頁。不支持加密 PDF；數字簽名、表單、書籤等文檔級功能可能無法在頁面複製後保留。
 
+
+
+
+
+**方法來源** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fpdf-merge%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/pdf-merge/)

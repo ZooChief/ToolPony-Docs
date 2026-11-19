@@ -50,4 +50,10 @@
 
 팁 = 선택한 청구서 금액 × 팁 비율. 1 인당 총 청구서, 세금 및 팁은 사람들의 수로 나뉩니다.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Ftip-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/tip-calculator/)

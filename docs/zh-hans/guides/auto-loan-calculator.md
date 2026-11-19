@@ -119,4 +119,12 @@ V 为车价，D 为首付，T 为旧车折抵价，O 为旧车欠款，R 为返�
 - 税费计入贷款
 - 币种
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fauto-loan-calculator%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/auto-loan-calculator/)

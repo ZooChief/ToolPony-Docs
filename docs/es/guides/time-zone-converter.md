@@ -85,4 +85,16 @@ $$
 - Desfase de origen
 - Desfase de destino
 
+
+
+
+
+
+
+**Fuentes del método** [IANA · Time Zone Database](<https://www.iana.org/time-zones>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Ftime-zone-converter%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/time-zone-converter/)

@@ -76,4 +76,14 @@ ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad
 
 파일은 최대 16개, 합계 64 MB까지입니다. 텍스트는 최대 100만 자이며 UTF-8을 사용합니다. 파일은 브라우저에서 차례로 처리합니다.
 
+
+
+
+
+**계산 및 처리 방식의 출처** [NIST · FIPS 180-4 (SHA-2)](<https://csrc.nist.gov/pubs/fips/180-4/upd1/final>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Ffile-hash-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/file-hash-calculator/)

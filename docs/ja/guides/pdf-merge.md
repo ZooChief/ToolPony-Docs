@@ -63,4 +63,14 @@ A1、A2、B1、B2、B3 の順で 1 件の PDF
 
 入力は合計 30 MB・300 ページまで。暗号化 PDF には対応しません。フォーム、しおり、電子署名は保持されない場合があります。
 
+
+
+
+
+**計算・処理の参考資料** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fpdf-merge%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/pdf-merge/)

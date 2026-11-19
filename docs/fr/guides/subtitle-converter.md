@@ -77,4 +77,14 @@ Overlap 50 ms
 
 Jusqu’à 1 Mio de texte et 10 000 sous-titres. Les sous-titres finissant avant zéro sont supprimés et ceux qui traversent zéro y commencent. SRT ne représente pas tous les styles, positions ou identifiants WebVTT.
 
+
+
+
+
+**Références de la méthode** [W3C · WebVTT](<https://www.w3.org/TR/webvtt1/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fsubtitle-converter%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/subtitle-converter/)

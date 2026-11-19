@@ -56,4 +56,10 @@ $$
 ax^2+bx+c=0,\qquad x=\frac{-b\pm\sqrt{b^2-4ac}}{2a},\quad a\ne0
 $$
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fquadratic-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/quadratic-calculator/)

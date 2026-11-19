@@ -76,4 +76,10 @@
 
 文本按 UTF-8 计最多 1 MiB。分词取决于浏览器语言规则，PDF 导入使用文本层，DOCX 和 ODT 只读取正文。短语占比为出现次数除以同长度短语总数。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fword-counter%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/word-counter/)

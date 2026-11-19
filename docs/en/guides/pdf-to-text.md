@@ -48,6 +48,28 @@ A PDF whose first two pages read One and Two. Select 2, 1 and JSON.
 
 
 
+<a id="case-study"></a>
+
+
+
+## Find the missing text page in a mixed PDF
+
+
+
+1. Open the mixed sample PDF. Its first page says “Order 417”, the second contains only a picture of a blue swatch, and the last says “Total 42”. On the full tool, “Try a mixed PDF” loads the file, selects 3, 2, 1 and sets JSON output.
+2. Extract the text. The first record is page 3 with “Total 42”, the middle record is page 2 with an empty text field, and the last is page 1 with “Order 417”. The result identifies page 2 by its original number.
+3. Use this check on your own file before importing its text elsewhere. Inspect any pages listed. A diagram can be kept as an image. A scan of printed words needs OCR to create a text layer.
+
+
+
+[PDF to JPG or PNG](<https://toolpony.com/en/tools/pdf-to-jpg/>)
+
+
+
+[toolpony-mixed-pages.pdf](<https://toolpony.com/samples/toolpony-mixed-pages.pdf>)
+
+
+
 
 
 ## Try it
@@ -79,5 +101,15 @@ Up to 30 MB, 300 pages, two million characters and 200,000 text runs. Extraction
 
 
 If a scan looks readable but extraction finds no text, try selecting a single word in a PDF reader. A photographed page needs a text layer from OCR first. In a mixed document, export JSON to locate pages with an empty text field by their original page number.
+
+
+
+
+
+**Method references** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>) · [Adobe · PDF / OCR](<https://helpx.adobe.com/acrobat/desktop/create-documents/scan-documents-to-pdfs/recognize-text.html>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fpdf-to-text%2F>)
 
 [Documentation](https://docs.toolpony.com/en/guides/pdf-to-text/)

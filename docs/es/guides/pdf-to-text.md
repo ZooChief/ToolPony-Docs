@@ -47,6 +47,28 @@ JSON con la página 2 «Two» seguida de la página 1 «One»
 
 
 
+<a id="case-study"></a>
+
+
+
+## Localizar la página sin texto en un PDF mixto
+
+
+
+1. El PDF de muestra contiene «Order 417» en la página 1, solo una imagen azul en la 2 y «Total 42» en la 3. El botón de PDF mixto en la herramienta completa carga el archivo, selecciona las páginas 3, 2, 1 y elige JSON.
+2. Tras extraer el texto, el primer registro contiene «Total 42» de la página 3, el segundo conserva la página 2 con el campo text vacío y el último muestra «Order 417» de la página 1. El resultado también indica el número original 2.
+3. Antes de importar el texto a otro sistema, revisa las páginas señaladas. Puedes conservar un diagrama como imagen. Si la página es un escaneo de palabras impresas, el OCR permite crear una capa de texto.
+
+
+
+[Convertir PDF a JPG o PNG](<https://toolpony.com/es/tools/pdf-to-jpg/>)
+
+
+
+[toolpony-mixed-pages.pdf](<https://toolpony.com/samples/toolpony-mixed-pages.pdf>)
+
+
+
 
 
 ## Pruébalo
@@ -66,5 +88,15 @@ Hasta 30 MB, 300 páginas, dos millones de caracteres y 200.000 fragmentos. Se s
 
 
 Si un escaneo legible no devuelve texto, intenta seleccionar una palabra en un lector de PDF. Una página fotografiada necesita primero una capa de texto creada con OCR. En un documento mixto, el JSON identifica los campos text vacíos junto con su número de página original.
+
+
+
+
+
+**Fuentes del método** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>) · [Adobe · PDF / OCR](<https://helpx.adobe.com/acrobat/desktop/create-documents/scan-documents-to-pdfs/recognize-text.html>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fpdf-to-text%2F>)
 
 [Documentación](https://docs.toolpony.com/es/guides/pdf-to-text/)

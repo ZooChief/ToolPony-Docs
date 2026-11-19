@@ -118,4 +118,12 @@ Wenn der Endsaldo bekannt ist, kann eine Nullrate oder ein Nullterm dazu führen
 - Zinszeitraum · pro Jahr / pro Monat
 - Begriffseinheit · Jahre / Monate
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fsimple-interest-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/simple-interest-calculator/)

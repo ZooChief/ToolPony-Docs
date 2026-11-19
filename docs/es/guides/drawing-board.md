@@ -76,4 +76,10 @@ Limpiar el lienzo se puede deshacer dentro de la historia disponible. Exportar e
 
 El lienzo es 1080 × 640 píxeles. El dibujo se queda en esta pestaña. Deshacer y rehacer uso Ctrl/Cmd+Z y Ctrl/Cmd+Shift+Z.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fdrawing-board%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/drawing-board/)

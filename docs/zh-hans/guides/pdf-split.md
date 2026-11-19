@@ -76,4 +76,14 @@
 
 最大 30 MB、300 页。ZIP 内 PDF 合计最多 64 MB。大小限制以生成的实际 PDF 为准，不重新压缩；单页超限时可调高上限。页码不能重复，不支持加密 PDF。表单、书签和数字签名可能丢失。
 
+
+
+
+
+**方法来源** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fpdf-split%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/pdf-split/)

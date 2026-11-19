@@ -50,4 +50,10 @@ Estimate transfer time from file size, link speed and protocol efficiency.
 
 Time in seconds = file bytes × 8 ÷ effective bits per second. Network prefixes are decimal. File size supports decimal and binary prefixes.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fbandwidth-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/bandwidth-calculator/)

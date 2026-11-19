@@ -76,4 +76,14 @@
 
 輸入最大 20 MB，像素總數最多 2400 萬，輸出每邊最多 8,192 像素。放大圖片不能恢復原本缺失的細節。
 
+
+
+
+
+**方法來源** [W3C · PNG](<https://www.w3.org/TR/png-3/>) · [WHATWG · HTML Canvas](<https://html.spec.whatwg.org/multipage/canvas.html#dom-canvas-toblob-dev>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fimage-resizer%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/image-resizer/)

@@ -196,4 +196,16 @@ Cada grupo converte através de uma unidade de base padrão. U.S. e unidades de 
 - A partir da unidade · Hz / kHz / MHz / GHz / rpm
 - À unidade · Hz / kHz / MHz / GHz / rpm
 
+
+
+
+
+
+
+**Referências do método** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Funit-converter%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/unit-converter/)

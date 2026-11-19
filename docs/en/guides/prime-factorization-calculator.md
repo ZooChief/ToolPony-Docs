@@ -50,4 +50,10 @@ Find prime factors, exponent form and the divisor count of a positive integer.
 
 Trial division removes factors up to the square root of the remaining integer. Input range: 2 to 1 trillion.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fprime-factorization-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/prime-factorization-calculator/)

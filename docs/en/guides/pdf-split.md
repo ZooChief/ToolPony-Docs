@@ -76,4 +76,14 @@ A fixed count of 2 splits the example into \[5, 1\] and \[2, 3\]. The size cap m
 
 30 MB and 300 pages. PDFs in a ZIP are limited to 64 MB combined. Size grouping uses the written PDF bytes without recompression. Raise the cap if a single page exceeds it. Page numbers cannot repeat. Encrypted PDFs are rejected. Forms, bookmarks and signatures may be lost.
 
+
+
+
+
+**Method references** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fpdf-split%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/pdf-split/)

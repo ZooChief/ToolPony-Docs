@@ -87,4 +87,16 @@ $$
 - 原计息频率
 - 目标计息频率
 
+
+
+
+
+
+
+**方法来源** [Investor.gov · Compound Interest](<https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fcompound-interest-calculator%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/compound-interest-calculator/)

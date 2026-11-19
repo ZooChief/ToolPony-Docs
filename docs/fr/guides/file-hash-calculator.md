@@ -76,4 +76,14 @@ La vérification Hash compare les octets. Un codage différent, une fin de ligne
 
 Jusqu'à 16 fichiers et 64 Mo combinés, ou un million de caractères de texte. Le texte utilise UTF-8. Les fichiers sont traités séquentiellement dans le navigateur.
 
+
+
+
+
+**Références de la méthode** [NIST · FIPS 180-4 (SHA-2)](<https://csrc.nist.gov/pubs/fips/180-4/upd1/final>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Ffile-hash-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/file-hash-calculator/)

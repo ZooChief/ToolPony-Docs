@@ -50,4 +50,10 @@
 
 隨機值來自 Web Crypto，採用拒絕採樣避免取模偏差。最多生成 1,000 個數，區間範圍爲 −10 億至 10 億。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Frandom-number-generator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/random-number-generator/)

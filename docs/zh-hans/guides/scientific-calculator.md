@@ -50,4 +50,10 @@ sqrt(81) + 2^3 × sin(30)，角度制
 
 按括号、后缀、乘方、乘除、加减的优先级计算。乘方从右结合，百分号表示除以 100。结果采用浮点运算。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fscientific-calculator%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/scientific-calculator/)

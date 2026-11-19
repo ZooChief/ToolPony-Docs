@@ -92,4 +92,12 @@ A+ through F use the 4.3-point mapping. P, NP, I, and W are omitted from the wei
 - Completed credits
 - Additional credits
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fgpa-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/gpa-calculator/)

@@ -103,4 +103,12 @@ $$
 - Nutzungseinheit · Minuten pro Tag / Stunden pro Tag / Stunden pro Woche / Stunden pro Monat / Tage pro Woche / Tage pro Monat / Tage pro Jahr / Monate pro Jahr
 - Preis je kWh
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Felectricity-cost-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/electricity-cost-calculator/)

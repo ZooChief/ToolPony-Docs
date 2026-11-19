@@ -98,4 +98,12 @@ IPv4 可输入前缀长度或连续位的点分掩码。192.0.2.129 与 255.255.
 - CIDR 网段
 - 待检查地址
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fip-subnet-calculator%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/ip-subnet-calculator/)

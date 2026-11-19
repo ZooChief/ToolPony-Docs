@@ -50,4 +50,10 @@
 
 每颗骰子独立使用 Web Crypto 均匀抽取。最多 100 颗，每颗可选 2 至 1,000 面。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fdice-roller%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/dice-roller/)

@@ -62,4 +62,10 @@
 
 같은 날짜를 기준으로 하며 짧은 달은 말일로 맞춥니다. 2월 29일생은 평년 기준을 2월 28일이나 3월 1일로 선택하세요. 경과 시간은 하루 24시간으로 계산합니다.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fage-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/age-calculator/)

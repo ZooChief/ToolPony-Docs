@@ -92,4 +92,12 @@ A+ 至 F 採用 4.3 分制。P、NP、I、W 不計入加權總和。學校另有
 - 已修學分
 - 待修學分
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fgpa-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/gpa-calculator/)

@@ -6,6 +6,26 @@ Lernen Sie die Rechner, Bildkonverter und PDF-Werkzeuge von ToolPony anhand von 
 
 
 
+
+
+## Praxisbeispiele
+
+
+
+- [Den Hintergrund eines transparenten PNG beim JPEG-Export prüfen](<guides/image-converter.md#case-study>)
+- [Seiten ohne Text in einem gemischten PDF finden](<guides/pdf-to-text.md#case-study>)
+- [Zwei Inventarlisten mit geänderter Spaltenreihenfolge abgleichen](<guides/csv-compare.md#case-study>)
+- [Das Fassungsvermögen eines Tanks bis zur Füllmarke schätzen](<guides/volume-calculator.md#case-study>)
+- [Ein Grau für normalen Text auf weißem Grund wählen](<guides/contrast-checker.md#case-study>)
+
+
+
+
+
+## Werkzeuganleitungen
+
+
+
 [QR-Code-Generator](<guides/qr-code-generator.md>)
 
 

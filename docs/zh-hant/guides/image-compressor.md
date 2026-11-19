@@ -76,4 +76,14 @@
 
 每張最多 20 MB、2400 萬像素；批次輸入和輸出各限 64 MiB。最長邊僅縮小較大圖片。JPEG 和 WebP 爲有損編碼。動圖轉爲單幀並移除原始元數據。
 
+
+
+
+
+**方法來源** [WHATWG · HTML Canvas](<https://html.spec.whatwg.org/multipage/canvas.html#dom-canvas-toblob-dev>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fimage-compressor%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/image-compressor/)

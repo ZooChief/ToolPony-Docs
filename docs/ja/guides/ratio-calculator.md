@@ -88,4 +88,12 @@ A:B = C:D は、非非非項を持つA×D = B×Cを意味する。 簡素化は�
 - 方向 · 削減 / 拡大
 - 係数
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fratio-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/ratio-calculator/)

@@ -115,4 +115,12 @@ Pick the unknown first. Use consistent time units across the other three fields.
 - Known measurement · Half-life / Mean lifetime / Decay constant
 - Value
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fhalf-life-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/half-life-calculator/)

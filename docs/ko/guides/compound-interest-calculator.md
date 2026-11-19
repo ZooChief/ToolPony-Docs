@@ -87,4 +87,16 @@ $$
 - 본래 복리
 - 타겟 컴파운딩
 
+
+
+
+
+
+
+**계산 및 처리 방식의 출처** [Investor.gov · Compound Interest](<https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fcompound-interest-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/compound-interest-calculator/)

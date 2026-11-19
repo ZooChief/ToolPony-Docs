@@ -64,4 +64,14 @@ Os resultados que atingirem o limite são WebP com até 100.000 bytes em um ZIP.
 
 Até 20 MB e 24 megapixels por imagem, 64 MiB por lote de entrada e saída. O lado máximo não amplia imagens. JPEG e WebP têm perdas. Animações viram imagens estáticas e os metadados originais são removidos.
 
+
+
+
+
+**Referências do método** [WHATWG · HTML Canvas](<https://html.spec.whatwg.org/multipage/canvas.html#dom-canvas-toblob-dev>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fimage-compressor%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/image-compressor/)

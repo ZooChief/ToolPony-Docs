@@ -77,4 +77,14 @@ Overlap 50 ms
 
 最大1 MiB、字幕10,000件。0秒より前に終わる字幕は削除し、0秒をまたぐ字幕は0秒から始めます。SRTではWebVTTの位置、スタイル、識別子をすべて表現できません。
 
+
+
+
+
+**計算・処理の参考資料** [W3C · WebVTT](<https://www.w3.org/TR/webvtt1/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fsubtitle-converter%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/subtitle-converter/)

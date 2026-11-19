@@ -50,4 +50,10 @@
 
 小费 = 所选金额 × 小费比例。每人金额为账单、税费与小费之和除以人数。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Ftip-calculator%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/tip-calculator/)

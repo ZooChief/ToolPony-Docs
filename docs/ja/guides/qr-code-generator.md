@@ -64,4 +64,10 @@ https://example.com/
 
 静的 QR は入力した内容を直接格納します。UTF-8 で最大 2,048 バイトで、高い誤り訂正では容量が減ります。白い余白は 4 モジュールです。Wi-Fi QR には入力したパスワードが含まれます。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fqr-code-generator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/qr-code-generator/)

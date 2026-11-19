@@ -34,6 +34,20 @@ Esfera con radio 2 m
 
 
 
+<a id="case-study"></a>
+
+
+
+## Estimar cuánta agua cabe hasta la marca de un depósito
+
+
+
+1. Mide el diámetro interior y la profundidad hasta la marca. El ejemplo de un cilindro de 1 m de diámetro interior y 1,2 m de profundidad establece un radio de 0,5 m y la salida en litros.
+2. El volumen es π × 0,5² × 1,2 m³, unos 942,48 L. Introducir el diámetro en la casilla del radio multiplica el resultado por cuatro debido al cuadrado.
+3. Baja la marca 0,2 m e introduce 1 m de profundidad. Caben unos 785,40 L. La diferencia, unos 157,08 L, es el volumen entre las dos marcas.
+
+
+
 
 
 ## Pruébalo
@@ -222,5 +236,17 @@ $$
 - Radio del tubo
 - Unidad del radio del tubo
 - Unidad de volumen
+
+
+
+
+
+
+
+**Fuentes del método** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fvolume-calculator%2F>)
 
 [Documentación](https://docs.toolpony.com/es/guides/volume-calculator/)

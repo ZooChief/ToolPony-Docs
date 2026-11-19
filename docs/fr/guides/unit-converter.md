@@ -196,4 +196,16 @@ Chaque groupe se convertit par une unité de base standard. Les unités de volum
 - À partir de l'unité · Hz / kHz / MHz / GHz / tpm
 - À l'unité · Hz / kHz / MHz / GHz / tpm
 
+
+
+
+
+
+
+**Références de la méthode** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Funit-converter%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/unit-converter/)

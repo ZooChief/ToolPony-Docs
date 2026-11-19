@@ -50,4 +50,14 @@ rgb(102, 51, 153)
 
 HEX usa canais de 8 bits. RGB aceita números ou porcentagens. HSL usa graus no matiz e porcentagens na saturação e na luminosidade. A saída HEX arredonda cada canal ao byte mais próximo.
 
+
+
+
+
+**Referências do método** [W3C · CSS Color 4](<https://www.w3.org/TR/css-color-4/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fcolor-converter%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/color-converter/)

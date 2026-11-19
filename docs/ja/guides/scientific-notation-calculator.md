@@ -89,4 +89,12 @@ $$
 - 演算 · 追加 / 控除 / 多量に / 分割 / パワー / ファーストの平方根 / ファーストスクエア
 - 有意な数桁
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fscientific-notation-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/scientific-notation-calculator/)

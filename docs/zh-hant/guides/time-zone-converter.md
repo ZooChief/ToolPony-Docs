@@ -85,4 +85,16 @@ $$
 - 原 UTC 偏移
 - 目標 UTC 偏移
 
+
+
+
+
+
+
+**方法來源** [IANA · Time Zone Database](<https://www.iana.org/time-zones>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Ftime-zone-converter%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/time-zone-converter/)

@@ -76,4 +76,10 @@
 
 キャンバスは1080×640ピクセルです。 図面はこのタブに残ります。 Ctrl/Cmd+Z と Ctrl/Cmd+Shift+Z を使用して、やります。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fdrawing-board%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/drawing-board/)

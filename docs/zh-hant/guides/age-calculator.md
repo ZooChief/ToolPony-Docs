@@ -62,4 +62,10 @@
 
 月份對齊同一日，短月取月末。2 月 29 日出生可選在平年 2 月 28 日或 3 月 1 日過週年。總時長按每個日曆日 24 小時換算。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fage-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/age-calculator/)

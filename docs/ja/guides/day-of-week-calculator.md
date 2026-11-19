@@ -50,4 +50,10 @@
 
 グレゴリオ暦を使います。ISO 週は月曜始まりで、1 月 4 日を含む週が第 1 週です。1 月初旬が前年の最終週になることがあります。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fday-of-week-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/day-of-week-calculator/)

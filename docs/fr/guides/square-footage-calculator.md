@@ -229,4 +229,12 @@ Pour un secteur, r est le rayon et φ est l'angle en radians après toute conver
 - Prix par surface
 - Décharge pour déchets · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fsquare-footage-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/square-footage-calculator/)

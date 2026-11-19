@@ -83,4 +83,16 @@ $$
 - Altura em pés · ft
 - Inferimentos adicionais · in
 
+
+
+
+
+
+
+**Referências do método** [CDC · Adult BMI Categories](<https://www.cdc.gov/bmi/adult-calculator/bmi-categories.html>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fbmi-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/bmi-calculator/)

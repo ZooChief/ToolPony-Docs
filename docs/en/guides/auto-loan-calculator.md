@@ -119,4 +119,12 @@ V is vehicle price, D down payment, T trade-in value, O outstanding trade-in deb
 - Finance tax and fees
 - Currency
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fauto-loan-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/auto-loan-calculator/)

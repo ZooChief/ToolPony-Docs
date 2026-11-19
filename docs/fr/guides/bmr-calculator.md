@@ -87,4 +87,16 @@ L'énergie de repos est estimée avec Mifflin–St Jeor, Harris–Benedict révi
 - Facteur d'activité
 - Unité énergie · kcal/day / kJ/day
 
+
+
+
+
+
+
+**Références de la méthode** [Mifflin et al. (1990)](<https://pubmed.ncbi.nlm.nih.gov/2305711/>) · [Roza &amp; Shizgal (1984)](<https://pubmed.ncbi.nlm.nih.gov/6741850/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fbmr-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/bmr-calculator/)

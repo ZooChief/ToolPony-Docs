@@ -87,4 +87,16 @@ Resting energy is estimated with Mifflin–St Jeor, revised Harris–Benedict or
 - Activity factor
 - Energy unit · kcal/day / kJ/day
 
+
+
+
+
+
+
+**Method references** [Mifflin et al. (1990)](<https://pubmed.ncbi.nlm.nih.gov/2305711/>) · [Roza &amp; Shizgal (1984)](<https://pubmed.ncbi.nlm.nih.gov/6741850/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fbmr-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/bmr-calculator/)

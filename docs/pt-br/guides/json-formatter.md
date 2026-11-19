@@ -79,4 +79,14 @@ Chaves e cadeias de caracteres precisam de aspas duplas. Os comentários e as v�
 
 Até 1 MB. JSON inválido e precisão numérica insegura são rejeitados. A formatação não se valida contra um esquema de aplicação.
 
+
+
+
+
+**Referências do método** [IETF · RFC 8259 (JSON)](<https://www.rfc-editor.org/rfc/rfc8259>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fjson-formatter%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/json-formatter/)

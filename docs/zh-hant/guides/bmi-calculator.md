@@ -83,4 +83,16 @@ $$
 - 身高英尺部分 · ft
 - 額外英寸 · in
 
+
+
+
+
+
+
+**方法來源** [CDC · Adult BMI Categories](<https://www.cdc.gov/bmi/adult-calculator/bmi-categories.html>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fbmi-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/bmi-calculator/)

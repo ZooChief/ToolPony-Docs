@@ -63,4 +63,14 @@
 
 입력은 최대 30 MB, 300페이지입니다. 한 번에 최대 40페이지와 6천만 화소까지 내보냅니다. 페이지당 2,400만 화소, 한 변 8,192픽셀, ZIP 이미지 합계 64 MB로 제한됩니다. 흰 배경으로 렌더링하며 암호화 PDF는 지원하지 않습니다.
 
+
+
+
+
+**계산 및 처리 방식의 출처** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fpdf-to-jpg%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/pdf-to-jpg/)

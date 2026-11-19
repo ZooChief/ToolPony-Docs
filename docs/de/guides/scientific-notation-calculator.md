@@ -89,4 +89,12 @@ Der arithmetische Modus hält exakte Dezimalkoeffizienten für Addition, Subtrak
 - Rechenoperation · Additiv / Subtraktion / Multiplikation / Teilung / Stromstärke / Quadratwurzel des ersten / Platz des ersten Platzes
 - Bedeutende Ziffern
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fscientific-notation-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/scientific-notation-calculator/)

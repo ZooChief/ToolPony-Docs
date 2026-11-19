@@ -34,6 +34,20 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## 원통형 탱크의 수위선까지 담기는 물의 양 계산하기
+
+
+
+1. 탱크 안지름과 수위선까지의 깊이를 잽니다. 안지름 1 m, 깊이 1.2 m 예제를 계산하면 원기둥 모드의 반지름이 0.5 m, 출력 단위가 L로 설정됩니다.
+2. 용량은 π × 0.5² × 1.2 m³, 약 942.48 L입니다. 반지름 칸에 지름을 입력하면 제곱 항 때문에 결과가 4배가 됩니다.
+3. 수위선을 0.2 m 낮춰 깊이를 1 m로 바꾸면 약 785.40 L입니다. 두 수위선 사이의 용량은 그 차이인 약 157.08 L입니다.
+
+
+
 
 
 ## 직접 사용해 보기
@@ -222,5 +236,17 @@ $$
 - 관 반지름
 - 관 반지름 단위
 - 볼륨 단위
+
+
+
+
+
+
+
+**계산 및 처리 방식의 출처** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fvolume-calculator%2F>)
 
 [문서](https://docs.toolpony.com/ko/guides/volume-calculator/)

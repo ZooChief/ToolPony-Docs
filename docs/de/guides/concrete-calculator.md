@@ -174,4 +174,12 @@ Zwei Platten von 7 ft × 3 ft × 5 in wiegen bei 133 lb/ft³ zusammen 2.327,50 l
 - Betondichte nach Maß · lb/ft³
 - Abfallentschädigung · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fconcrete-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/concrete-calculator/)

@@ -93,4 +93,12 @@ A line and a distance determine a point on each side of the starting point. Use 
 - Direction given as · Slope / Angle in degrees
 - Direction value
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fslope-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/slope-calculator/)

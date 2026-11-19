@@ -50,4 +50,14 @@
 
 債務收入比 = 月債務還款額 ÷ 稅前月收入。所有金額請用同一幣種和月度口徑。
 
+
+
+
+
+**方法來源** [CFPB · Debt-to-Income Ratio](<https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fdebt-to-income-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/debt-to-income-calculator/)

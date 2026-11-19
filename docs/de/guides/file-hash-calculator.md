@@ -76,4 +76,14 @@ Eine andere Codierung, eine Zeilenendung oder sogar ein geändertes Byte erzeugt
 
 Bis zu 16 Dateien und 64 MB zusammen oder eine Million Textzeichen. Text verwendet UTF-8. Dateien werden sequentiell im Browser verarbeitet.
 
+
+
+
+
+**Quellen zur Methode** [NIST · FIPS 180-4 (SHA-2)](<https://csrc.nist.gov/pubs/fips/180-4/upd1/final>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Ffile-hash-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/file-hash-calculator/)

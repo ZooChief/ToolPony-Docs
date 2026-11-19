@@ -102,4 +102,12 @@ Arbeitstage sind Montag bis Freitag ohne Ihre Feiertage. YYYY-MM-DD gilt einmal,
 - Arbeitstage
 - Feiertage (YYYY-MM-DD oder MM-DD)
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fdate-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/date-calculator/)

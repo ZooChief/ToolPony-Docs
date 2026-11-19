@@ -140,4 +140,12 @@ $$
 - Price unit · cm² / m² / in² / ft² / yd² / acre / ha
 - Waste allowance · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Froofing-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/roofing-calculator/)

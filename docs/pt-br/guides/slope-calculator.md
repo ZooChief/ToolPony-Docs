@@ -93,4 +93,12 @@ Uma linha e uma distância determinam um ponto em cada lado do ponto de partida.
 - Direção expressa como · Inclinação / Ângulo em graus
 - Valor da direcção
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fslope-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/slope-calculator/)

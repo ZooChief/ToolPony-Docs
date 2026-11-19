@@ -161,4 +161,12 @@ P 爲本金，r 爲每期利率，M 爲計劃還款額，n 爲期數。反求期
 - 年利率 · %
 - 計息頻率
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Floan-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/loan-calculator/)

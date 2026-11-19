@@ -64,4 +64,10 @@ Ein Platz von 2 Runden zu Hundertstel, 0 Runden zu Einheiten und -2 Runden zu Hu
 
 Halb-zu-gerade wählt das gerade Vielfache nur an einer exakten Bindung. Zum Beispiel geht -2.5 zu -2 und -3.5 geht zu -4. Die Decke bewegt sich immer in Richtung positive Unendlichkeit.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Frounding-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/rounding-calculator/)

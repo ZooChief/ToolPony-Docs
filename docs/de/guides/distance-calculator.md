@@ -128,4 +128,12 @@ Bei geographischen Koordinaten sind Nord und Ost positiv, wenn eine Erhebung get
 - zweite Längensekunden
 - Zweite Längenhalbkugel · E / W
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fdistance-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/distance-calculator/)

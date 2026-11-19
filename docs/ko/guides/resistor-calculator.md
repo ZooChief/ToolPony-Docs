@@ -156,4 +156,12 @@ $$
 - 재질 프리셋 · 직접 입력 / 구리 / 풀림 구리 / 알루미늄 / 은 / 금
 - 전기 전도도 · S/m
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fresistor-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/resistor-calculator/)

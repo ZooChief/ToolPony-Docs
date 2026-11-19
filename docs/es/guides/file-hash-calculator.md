@@ -76,4 +76,14 @@ La verificación de cenizas compara los bytes. Una codificación diferente, un f
 
 Hasta 16 archivos y 64 MB combinados, o un millón de caracteres de texto. El texto utiliza UTF-8. Los archivos se procesan secuencialmente en el navegador.
 
+
+
+
+
+**Fuentes del método** [NIST · FIPS 180-4 (SHA-2)](<https://csrc.nist.gov/pubs/fips/180-4/upd1/final>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Ffile-hash-calculator%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/file-hash-calculator/)

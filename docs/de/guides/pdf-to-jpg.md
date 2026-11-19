@@ -63,4 +63,14 @@ Ein PNG mit 1224 × 1584 Pixeln
 
 Eingabe bis 30 MB und 300 Seiten. Je Export höchstens 40 Seiten und 60 Megapixel, je Seite 24 Megapixel und 8192 Pixel pro Kante. ZIP-Bilder sind auf 64 MB begrenzt. Seiten haben einen weißen Hintergrund. Verschlüsselte PDFs werden abgelehnt.
 
+
+
+
+
+**Quellen zur Methode** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fpdf-to-jpg%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/pdf-to-jpg/)

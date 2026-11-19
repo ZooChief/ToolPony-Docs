@@ -76,4 +76,10 @@
 
 캔버스는 1080 × 640 픽셀입니다. 도면은 이 탭에 유지됩니다. Ctrl/Cmd+Z 및 Ctrl/Cmd+Shift+Z를 실행 취소 및 다시 실행 취소합니다.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fdrawing-board%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/drawing-board/)

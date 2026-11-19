@@ -87,4 +87,16 @@ $$
 - Composición original
 - Ataque de objetivos
 
+
+
+
+
+
+
+**Fuentes del método** [Investor.gov · Compound Interest](<https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fcompound-interest-calculator%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/compound-interest-calculator/)

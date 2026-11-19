@@ -76,4 +76,14 @@ ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad
 
 ファイルは最大 16 個、合計 64 MB、テキストは最大 100 万文字です。テキストは UTF-8 として扱い、ファイルはブラウザ内で順次処理します。
 
+
+
+
+
+**計算・処理の参考資料** [NIST · FIPS 180-4 (SHA-2)](<https://csrc.nist.gov/pubs/fips/180-4/upd1/final>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Ffile-hash-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/file-hash-calculator/)

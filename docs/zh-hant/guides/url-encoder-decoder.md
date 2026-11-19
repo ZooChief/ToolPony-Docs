@@ -50,4 +50,10 @@ a%2Bb%20%26%20c
 
 組件編碼轉義保留分隔符。完整 URL 模式保留分隔符。表單模式用加號表示空格。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Furl-encoder-decoder%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/url-encoder-decoder/)

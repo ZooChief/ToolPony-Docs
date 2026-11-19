@@ -76,4 +76,10 @@ L'aperçu peut être réduit pendant que l'échantillonnage lit toujours le pixe
 
 JPG, PNG, WebP, AVIF ou GIF jusqu'à 20 Mo et 24 mégapixels. Lisez les pixels décodés du navigateur. Les coordonnées commencent à (0, 0) en haut à gauche. Une palette peut contenir jusqu'à 16 points.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fimage-color-picker%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/image-color-picker/)

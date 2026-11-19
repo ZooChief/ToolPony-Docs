@@ -176,4 +176,12 @@ For a measured value of 90 and reference of 96, absolute percent error is 6.25%.
 - Reference value
 - Error convention · Absolute / Signed relative to reference
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fpercentage-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/percentage-calculator/)

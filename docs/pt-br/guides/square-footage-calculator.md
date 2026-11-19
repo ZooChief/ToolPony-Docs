@@ -229,4 +229,12 @@ Para um setor, r é o raio e Δ é o ângulo em radianos após qualquer convers�
 - Preço por superfície
 - Desperdícios · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fsquare-footage-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/square-footage-calculator/)

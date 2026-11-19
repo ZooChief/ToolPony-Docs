@@ -50,4 +50,10 @@
 
 임의의 값은 Web Crypto에서 제공됩니다. 거절 샘플링은 모듈로 편향을 피합니다. 범위에서 최대 1,000개의 값을 생성합니다 −1,000,000,000 내지 1,000,000,000.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Frandom-number-generator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/random-number-generator/)

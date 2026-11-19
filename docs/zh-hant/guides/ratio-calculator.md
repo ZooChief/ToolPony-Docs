@@ -88,4 +88,12 @@ A:B = C:D 等價於 A×D = B×C，分母應非零。化簡支持小數和分數�
 - 方向 · 縮小 / 放大
 - 倍數
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fratio-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/ratio-calculator/)

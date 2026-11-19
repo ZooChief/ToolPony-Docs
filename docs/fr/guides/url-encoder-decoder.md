@@ -50,4 +50,10 @@ a%2Bb%20%26%20c
 
 L'encodage des composants évite les séparateurs réservés. L'encodage complet des URLs préserve les séparateurs.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Furl-encoder-decoder%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/url-encoder-decoder/)

@@ -56,4 +56,10 @@ $$
 A=\pi r^2,\qquad C=2\pi r
 $$
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fcircle-calculator%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/circle-calculator/)

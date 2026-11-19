@@ -34,6 +34,20 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## 按水位線估算圓柱水箱能裝多少水
+
+
+
+1. 量水箱內徑和水位線以下的有效深度。以內徑 1 米、水深 1.2 米爲例，點「運行示例」會選擇圓柱模式，填入半徑 0.5 米，輸出單位設爲升。
+2. 容量爲 π × 0.5² × 1.2 立方米，約 942.48 升。直徑如果直接填進半徑欄，平方項會讓結果放大到四倍。
+3. 把水位線下移 0.2 米，將高度改爲 1 米再計算，容量約爲 785.40 升。與第一次相比，少裝的約 157.08 升就是兩條水位線之間的容積。
+
+
+
 
 
 ## 試一試
@@ -222,5 +236,17 @@ $$
 - 管截面半徑
 - 管截面半徑單位
 - 體積單位
+
+
+
+
+
+
+
+**方法來源** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fvolume-calculator%2F>)
 
 [文檔站](https://docs.toolpony.com/zh-hant/guides/volume-calculator/)

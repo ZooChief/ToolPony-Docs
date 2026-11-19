@@ -79,4 +79,14 @@ JSONを貼り付け、インデントを選択してフォーマットするか�
 
 最大1MBまで。 無効なJSONおよび安全でない数値精度は拒否されます。 フォーマットはアプリケーションスキーマに対して認証されません。
 
+
+
+
+
+**計算・処理の参考資料** [IETF · RFC 8259 (JSON)](<https://www.rfc-editor.org/rfc/rfc8259>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fjson-formatter%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/json-formatter/)

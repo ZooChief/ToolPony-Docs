@@ -63,4 +63,14 @@ Un PDF con A1, A2, B1, B2, B3 en ese orden
 
 Hasta 30 MB y 300 páginas en total. Se rechazan los PDF cifrados. Los formularios, marcadores y firmas digitales pueden perderse.
 
+
+
+
+
+**Fuentes del método** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fpdf-merge%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/pdf-merge/)

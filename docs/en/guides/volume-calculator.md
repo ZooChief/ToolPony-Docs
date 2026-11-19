@@ -34,6 +34,20 @@ Sphere with radius 2 m
 
 
 
+<a id="case-study"></a>
+
+
+
+## Estimate how much water fits below a tank’s fill line
+
+
+
+1. Measure the inner diameter and the depth to the fill line. For a cylindrical tank 1 m across with 1.2 m of usable depth, choose “Run example”. The workbench sets the radius to 0.5 m and the output to liters.
+2. The capacity is π × 0.5² × 1.2 m³, about 942.48 L. If you enter the diameter in the radius field, the squared term makes the result four times too large.
+3. Move the fill line down by 0.2 m and enter 1 m for the depth. Capacity becomes about 785.40 L, leaving roughly 157.08 L above the fill line compared with the first calculation.
+
+
+
 
 
 ## Try it
@@ -222,5 +236,17 @@ $$
 - Tube radius
 - Tube radius unit
 - Volume unit
+
+
+
+
+
+
+
+**Method references** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fvolume-calculator%2F>)
 
 [Documentation](https://docs.toolpony.com/en/guides/volume-calculator/)

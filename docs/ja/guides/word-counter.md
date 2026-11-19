@@ -65,4 +65,10 @@
 
 集計するテキストは UTF-8 換算で最大 1 MiB。単語分割はブラウザーの言語規則に従います。語句は句読点や改行をまたぎません。分母はその長さで数えた全語句です。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fword-counter%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/word-counter/)

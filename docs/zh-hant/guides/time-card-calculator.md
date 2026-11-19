@@ -75,4 +75,10 @@ $$
 P=(t_{\rm base}+m\,t_{\rm overtime})r/60
 $$
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Ftime-card-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/time-card-calculator/)

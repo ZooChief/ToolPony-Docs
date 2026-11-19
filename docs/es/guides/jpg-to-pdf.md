@@ -63,4 +63,14 @@ Dos páginas A4 en horizontal
 
 Hasta 20 imágenes, 30 MB y 60 megapíxeles en total. Cada imagen admite 20 MB y 24 megapíxeles. La transparencia se vuelve blanca y solo se usa el primer fotograma de una animación.
 
+
+
+
+
+**Fuentes del método** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fjpg-to-pdf%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/jpg-to-pdf/)

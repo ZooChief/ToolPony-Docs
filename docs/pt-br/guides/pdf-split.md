@@ -65,4 +65,14 @@ Um PDF com as páginas 5, 1, 2 e 3 nessa ordem
 
 Até 30 MB e 300 páginas. As páginas não podem se repetir. Os PDFs no ZIP têm limite total de 64 MB. Formulários, marcadores e assinaturas podem ser perdidos.
 
+
+
+
+
+**Referências do método** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fpdf-split%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/pdf-split/)

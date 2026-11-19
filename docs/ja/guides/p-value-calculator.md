@@ -79,4 +79,12 @@ $$
 - 確率領域 · 左側確率 / 右側確率 / 中心から |z| まで / −|z| と |z| の間 / 両側確率
 - 確率
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fp-value-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/p-value-calculator/)

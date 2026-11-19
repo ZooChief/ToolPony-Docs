@@ -100,4 +100,12 @@ $$
 - 底佣类型 · 固定金额 / 销售额百分比
 - 每行填写档位上限和费率（% 或固定金额）。用 \* 表示不限。
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fcommission-calculator%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/commission-calculator/)

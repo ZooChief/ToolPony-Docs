@@ -6,6 +6,26 @@
 
 
 
+
+
+## 실전 예제
+
+
+
+- [투명 PNG를 JPEG로 보낼 때 배경 확인하기](<guides/image-converter.md#case-study>)
+- [혼합 PDF에서 텍스트를 추출할 수 없는 페이지 찾기](<guides/pdf-to-text.md#case-study>)
+- [열 순서가 바뀐 두 재고 목록 대조하기](<guides/csv-compare.md#case-study>)
+- [원통형 탱크의 수위선까지 담기는 물의 양 계산하기](<guides/volume-calculator.md#case-study>)
+- [흰 배경에서 본문 AA를 충족하는 회색 고르기](<guides/contrast-checker.md#case-study>)
+
+
+
+
+
+## 도구 가이드
+
+
+
 [QR 코드 생성기](<guides/qr-code-generator.md>)
 
 

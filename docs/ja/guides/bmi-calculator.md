@@ -83,4 +83,16 @@ $$
 - 足の高さ · ft
 - 追加インチ · in
 
+
+
+
+
+
+
+**計算・処理の参考資料** [CDC · Adult BMI Categories](<https://www.cdc.gov/bmi/adult-calculator/bmi-categories.html>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fbmi-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/bmi-calculator/)

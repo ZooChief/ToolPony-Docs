@@ -55,6 +55,20 @@ Ajoutés 1 · Supprimés 1 · Modifiés 1
 
 
 
+<a id="case-study"></a>
+
+
+
+## Rapprocher deux stocks après un changement d’ordre des colonnes
+
+
+
+1. Chargez l’exemple de stock et choisissez ID comme clé. L’ancien fichier commence par ID, Name, Qty, tandis que le nouveau place Qty en tête. Comparez les deux exports.
+2. La quantité de l’article 001 (Oak) passe de 2 à 4. Le 002 disparaît, le 003 apparaît et le 004 reste identique. Le résultat compte une modification, une suppression et un ajout malgré le déplacement des colonnes.
+3. Remplacez seulement 001 par 1 dans le nouvel export. Vous obtenez deux ajouts, deux suppressions et aucune modification. Conservez les zéros initiaux à l’export pour rapprocher les mêmes articles.
+
+
+
 
 
 ## Essayer
@@ -74,5 +88,15 @@ Jusqu’à 1 Mio UTF-8, 5 000 lignes et 80 colonnes par tableau. La comparaison 
 
 
 Pour un inventaire, utilisez une référence stable comme clé. Si 0012 devient 12 dans le nouvel export, la comparaison signale une suppression et un ajout. Gardez les zéros initiaux dans les deux fichiers pour comparer les quantités du même article.
+
+
+
+
+
+**Références de la méthode** [IETF · RFC 4180 (CSV)](<https://www.rfc-editor.org/rfc/rfc4180>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fcsv-compare%2F>)
 
 [Documentation](https://docs.toolpony.com/fr/guides/csv-compare/)

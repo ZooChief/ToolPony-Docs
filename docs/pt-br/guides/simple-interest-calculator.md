@@ -118,4 +118,12 @@ Use os modos inversos quando o saldo final for conhecido. Uma taxa zero ou termo
 - Período de taxa · Por ano / Por mês
 - Unidade de prazo · Anos / Meses
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fsimple-interest-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/simple-interest-calculator/)

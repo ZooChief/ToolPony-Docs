@@ -80,4 +80,12 @@ BigInt behält die Ganzzahlpräzision bei. Division kürzt gegen Null. Bitweise 
 - Mindestausgangsstellen
 - Rechenoperation · Additiv / Subtraktion / Multiplikation / Teilung / Rest / AND / OR / XOR
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fbase-converter%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/base-converter/)

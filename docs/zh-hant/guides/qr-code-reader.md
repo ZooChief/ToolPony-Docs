@@ -63,4 +63,10 @@ https://example.com/qr-sample
 
 每次讀一個二維碼。圖片最大 20 MiB、2400 萬像素，支持瀏覽器可讀的 PNG、JPEG、WebP 和 SVG。相機需瀏覽器授權，識別成功後關閉。圖片和幀留在本機。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fqr-code-reader%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/qr-code-reader/)

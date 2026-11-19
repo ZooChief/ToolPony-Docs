@@ -84,4 +84,12 @@ $$
 - 以後各年現金流
 - 年折現率 · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fpayback-period-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/payback-period-calculator/)

@@ -161,4 +161,12 @@ P ist der Kreditbetrag, r der Periodenzins, M die Regelrate und n die Laufzeit i
 - Jahreszins · %
 - Zinsintervall
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Floan-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/loan-calculator/)

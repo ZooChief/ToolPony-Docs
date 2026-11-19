@@ -56,4 +56,10 @@ $$
 x=m\cdot 10^e,\quad x_1x_2=(m_1m_2)\cdot 10^{e_1+e_2}
 $$
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fbig-number-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/big-number-calculator/)

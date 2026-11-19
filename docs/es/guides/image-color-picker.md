@@ -76,4 +76,10 @@ La vista previa puede ser reducida mientras el muestreo todavía lee el pixel or
 
 JPG, PNG, WebP, AVIF o GIF hasta 20 MB y 24 megapíxeles. Lee los píxeles decodificados del navegador. Las coordenadas comienzan en (0, 0) a la izquierda. Una paleta tiene hasta 16 puntos.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fimage-color-picker%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/image-color-picker/)

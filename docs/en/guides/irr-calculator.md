@@ -87,4 +87,12 @@ $$
 - Payment timing · End of period / Beginning of period
 - Include the terminal payment in beginning mode
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Firr-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/irr-calculator/)

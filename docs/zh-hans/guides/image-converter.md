@@ -48,6 +48,25 @@ JPEG · 64 × 32 px (四角为白色)
 
 
 
+<a id="case-study"></a>
+
+
+
+## 把透明 PNG 发成 JPEG 前，怎样核对底色
+
+
+
+1. 在空的图片转换器中点「试用样例文件」。会出现两张 64 × 32 像素的图片，一张是透明 PNG，预设输出 JPEG。另一张是白底 JPEG，预设输出 PNG。
+2. 转换后点缩略图切换到输出。第一张的四角变白了。第二张转成 PNG 后四角也仍然不透明，近白色的像素已经写在源文件中。想保留原有透明区域，把第一张改为 PNG 输出，背景选「保留透明」。
+3. 转换长条图片时看文件行里的输出尺寸。10,000 × 100 像素的横幅会等比缩为 8,192 × 82 像素。调整画质只会改变编码质量。
+4. 还可以把样例 JPEG 放进图片颜色取样器，查看左上角 (0, 0)。在 Chromium 实测，解码后是 RGBA (255, 255, 243, 255)，呈近白色。由这张 JPEG 转出的 PNG 保留这组值，最后的 255 表示完全不透明。
+
+
+
+[图片取色器](<https://toolpony.com/zh-hans/tools/image-color-picker/>)
+
+
+
 
 
 ## 试一试
@@ -83,5 +102,15 @@ PNG 保留透明度，JPEG 适合不含透明区域的照片，WebP 支持透明
 
 
 例如，带透明区域的 WebP 标志可以转成透明 PNG。只接受 JPEG 的表单可以使用白底输出。JPEG 转成 PNG 后保留原图可见的细节。
+
+
+
+
+
+**方法来源** [W3C · PNG](<https://www.w3.org/TR/png-3/>) · [WHATWG · HTML Canvas](<https://html.spec.whatwg.org/multipage/canvas.html#dom-canvas-toblob-dev>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fimage-converter%2F>)
 
 [文档站](https://docs.toolpony.com/zh-hans/guides/image-converter/)

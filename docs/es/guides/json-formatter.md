@@ -79,4 +79,14 @@ Las claves y las cuerdas necesitan citas dobles. Los comentarios y las comas que
 
 Hasta 1 MB. Se rechazan el JSON no válido y los números que no pueden representarse con precisión. El formateo no valida un esquema de aplicación.
 
+
+
+
+
+**Fuentes del método** [IETF · RFC 8259 (JSON)](<https://www.rfc-editor.org/rfc/rfc8259>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fjson-formatter%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/json-formatter/)

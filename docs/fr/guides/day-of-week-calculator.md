@@ -50,4 +50,10 @@ samedi
 
 Le calendrier est grégorien. Les semaines ISO commencent le lundi. La semaine 1 contient le 4 janvier. Le début de janvier peut appartenir à la dernière semaine ISO de l’année précédente.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fday-of-week-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/day-of-week-calculator/)

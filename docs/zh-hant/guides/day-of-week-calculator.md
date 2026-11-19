@@ -50,4 +50,10 @@
 
 採用公曆。ISO 周從週一開始，第 1 周包含 1 月 4 日。1 月初的日期可能屬於上一年的最後一週。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fday-of-week-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/day-of-week-calculator/)

@@ -76,4 +76,14 @@
 
 输入总计 30 MB，每张最大 20 MB、2400 万像素，总像素最多 6000 万；编码后的图片总计最多 64 MB。支持浏览器可解码的 JPG、PNG、WebP、AVIF 和 GIF，动图只保留单帧。透明区域变为白色，JPEG 会重新编码，不保留元数据。
 
+
+
+
+
+**方法来源** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fjpg-to-pdf%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/jpg-to-pdf/)

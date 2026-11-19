@@ -100,4 +100,12 @@ $$
 - 底傭類型 · 固定金額 / 銷售額百分比
 - 每行填寫檔位上限和費率（% 或固定金額）。用 \* 表示不限。
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fcommission-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/commission-calculator/)

@@ -156,4 +156,12 @@ $$
 - 材料預設 · 自定義 / 銅 / 退火銅 / 鋁 / 銀 / 金
 - 電導率 · S/m
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fresistor-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/resistor-calculator/)

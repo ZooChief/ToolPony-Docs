@@ -50,4 +50,10 @@ GCF 6; LCM 72
 
 Der euklidische Algorithmus berechnet den ggT. Wenn beide Zahlen ungleich null sind, gilt kgV(a,b) = |a·b| ÷ ggT(a,b). Gib bis zu 100 ganze Zahlen mit je höchstens 50 Stellen ein.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fgcf-lcm-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/gcf-lcm-calculator/)

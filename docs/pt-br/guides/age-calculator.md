@@ -62,4 +62,10 @@ Nascimento 2000-01-01, referência 2025-02-03
 
 Os meses seguem o mesmo dia ou o último dia do mês. Para nascimento em 29 de fevereiro, escolha 28 de fevereiro ou 1º de março em anos comuns. O tempo usa dias de 24 horas.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fage-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/age-calculator/)

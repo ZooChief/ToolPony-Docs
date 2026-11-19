@@ -87,4 +87,12 @@ $$
 - 지불 타이밍 · 기간 종료 / 기간의 시작
 - 시작 모드에 터미널 지불 포함
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Firr-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/irr-calculator/)

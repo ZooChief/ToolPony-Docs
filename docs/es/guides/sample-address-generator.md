@@ -67,4 +67,10 @@ Deutschland
 
 Hasta 100 ejemplos por lote. La localidad y el código postal ilustran el formato. La calle y el destinatario son sintéticos. El teléfono usa números reservados o máscaras. Para pruebas de formularios y software.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fsample-address-generator%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/sample-address-generator/)

@@ -128,4 +128,12 @@ $$
 - 第二點經度秒
 - 第二點經度半球 · E / W
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fdistance-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/distance-calculator/)

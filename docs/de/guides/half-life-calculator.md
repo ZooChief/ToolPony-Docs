@@ -115,4 +115,12 @@ Wähle zuerst die gesuchte Größe und verwende in den anderen drei Feldern dies
 - Bekannte Messungen · Halbwertszeit / Mittlere Lebensdauer / Abnahmekonstante
 - Wert
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fhalf-life-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/half-life-calculator/)

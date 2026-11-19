@@ -124,4 +124,12 @@ O modelo de cobertura usa um comprimento e largura eficazes para cada azulejo. O
 - Preço por
 - Desperdícios · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Ftile-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/tile-calculator/)

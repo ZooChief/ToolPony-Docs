@@ -77,4 +77,14 @@ Overlap 50 ms
 
 Bis 1 MiB Text und 10.000 Untertitel. Vor null endende Untertitel werden entfernt, übergreifende beginnen bei null. SRT kann nicht alle WebVTT-Positionen, Stile oder Kennungen abbilden.
 
+
+
+
+
+**Quellen zur Methode** [W3C · WebVTT](<https://www.w3.org/TR/webvtt1/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fsubtitle-converter%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/subtitle-converter/)

@@ -50,4 +50,10 @@ Estimar o tempo de transferência do tamanho do arquivo, velocidade da ligação
 
 Tempo em segundos = bytes de arquivo × 8 □ bits efetivos por segundo. Prefixos de rede são decimais. Tamanho do arquivo suporta prefixos decimais e binários.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fbandwidth-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/bandwidth-calculator/)

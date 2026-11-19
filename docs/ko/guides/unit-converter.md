@@ -196,4 +196,16 @@
 - 단위에서 · Hz / kHz / MHz / GHz / rpm
 - 단위에 · Hz / kHz / MHz / GHz / rpm
 
+
+
+
+
+
+
+**계산 및 처리 방식의 출처** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Funit-converter%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/unit-converter/)

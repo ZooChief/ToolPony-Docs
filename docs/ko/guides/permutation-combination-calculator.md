@@ -50,4 +50,10 @@ n=10, r=3, 반복 없이
 
 반복 없이, nPr = n!/ (n−r)! 그리고 nCr = nPr/r!. 반복으로, 순서된 선택은 nr이고 순서 없는 선택은 C (n+r-1,r)입니다.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fpermutation-combination-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/permutation-combination-calculator/)

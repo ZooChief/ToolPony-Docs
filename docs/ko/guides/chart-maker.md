@@ -78,4 +78,10 @@ Feb,38
 
 최대 120행과 수치 계열 6개를 지원합니다. 따옴표로 묶인 셀에는 쉼표를 넣을 수 있습니다. 각 데이터 행을 한 줄로 입력하면 입력 순서대로 그립니다.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fchart-maker%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/chart-maker/)

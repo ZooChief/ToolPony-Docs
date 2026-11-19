@@ -50,4 +50,10 @@
 
 試行分割は、残りの整数の平方根までの要因を除去します。 入力範囲:2〜1兆。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fprime-factorization-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/prime-factorization-calculator/)

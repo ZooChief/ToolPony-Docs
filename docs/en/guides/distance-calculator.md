@@ -128,4 +128,12 @@ For geographic coordinates, north and east are positive. Use the degree-minute-s
 - Second longitude seconds
 - Second longitude hemisphere · E / W
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fdistance-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/distance-calculator/)

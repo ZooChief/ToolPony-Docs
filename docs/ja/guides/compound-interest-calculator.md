@@ -87,4 +87,16 @@ $$
 - オリジナルコンパウンディング
 - ターゲット複合化
 
+
+
+
+
+
+
+**計算・処理の参考資料** [Investor.gov · Compound Interest](<https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fcompound-interest-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/compound-interest-calculator/)

@@ -62,4 +62,10 @@
 
 月份对齐同一日，短月取月末。2 月 29 日出生可选在平年 2 月 28 日或 3 月 1 日过周年。总时长按每个日历日 24 小时换算。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fage-calculator%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/age-calculator/)

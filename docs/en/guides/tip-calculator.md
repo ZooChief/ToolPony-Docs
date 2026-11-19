@@ -50,4 +50,10 @@ Split a bill and tip among people, with the tip based on the amount before or af
 
 Tip = selected bill amount × tip percentage. Per-person total equals bill, tax and tip divided by the number of people.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Ftip-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/tip-calculator/)

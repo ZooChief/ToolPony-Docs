@@ -63,4 +63,14 @@ Duas páginas A4 em paisagem
 
 Até 20 imagens, 30 MB e 60 megapixels no total. Cada imagem pode ter 20 MB e 24 megapixels. A transparência vira branco e só o primeiro quadro de uma animação é usado.
 
+
+
+
+
+**Referências do método** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fjpg-to-pdf%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/jpg-to-pdf/)

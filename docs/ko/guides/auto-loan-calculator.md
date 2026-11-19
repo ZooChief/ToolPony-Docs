@@ -119,4 +119,12 @@ V는 차량 가격, D는 선납금, T는 보상 판매 가치, O는 기존 차�
 - 세금 및 수수료를 할부에 포함
 - 통화
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fauto-loan-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/auto-loan-calculator/)

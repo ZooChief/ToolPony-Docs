@@ -64,4 +64,10 @@ https://example.com/
 
 静态码直接编码所填内容。最多 2,048 个 UTF-8 字节，纠错级别较高时容量更小。白边保留四个模块宽的识读留白。Wi-Fi 二维码包含填写的密码。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fqr-code-generator%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/qr-code-generator/)

@@ -63,4 +63,14 @@ Zwei A4-Seiten im Querformat
 
 Bis zu 20 Bilder, insgesamt 30 MB und 60 Megapixel. Je Bild sind es 20 MB und 24 Megapixel. Transparenz wird weiß und bei Animationen bleibt nur das erste Bild.
 
+
+
+
+
+**Quellen zur Methode** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fjpg-to-pdf%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/jpg-to-pdf/)

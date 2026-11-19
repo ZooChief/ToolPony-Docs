@@ -64,4 +64,10 @@ ABC	123
 
 DOCX e ODT usam o corpo principal, com até 20 MiB por arquivo e 1 MiB de texto UTF-8 extraído. O PDF precisa de texto selecionável. Imagens, formatação da página e arquivos protegidos por senha ficam fora do escopo.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fdocument-to-text%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/document-to-text/)

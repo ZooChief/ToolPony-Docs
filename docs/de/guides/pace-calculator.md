@@ -116,4 +116,12 @@ $$
 - Tempo pro · km / mi / 100 m / 100 yd
 - Reihen sind kumulative Checkpoints
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fpace-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/pace-calculator/)

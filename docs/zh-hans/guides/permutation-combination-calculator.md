@@ -50,4 +50,10 @@ n=10，r=3，不重复
 
 不重复时 nPr = n!/(n−r)!，nCr = nPr/r!。可重复时有序方案为 nʳ，无序方案为 C(n+r−1,r)。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fpermutation-combination-calculator%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/permutation-combination-calculator/)

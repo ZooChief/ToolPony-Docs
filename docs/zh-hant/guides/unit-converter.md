@@ -196,4 +196,16 @@
 - 原單位 · Hz / kHz / MHz / GHz / rpm
 - 目標單位 · Hz / kHz / MHz / GHz / rpm
 
+
+
+
+
+
+
+**方法來源** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Funit-converter%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/unit-converter/)

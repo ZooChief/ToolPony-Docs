@@ -74,4 +74,12 @@ U+1F434 또는 F0 9F 90 B4
 - 입력
 - 인코딩 · 유니코드 코드 포인트 / UTF-8 16진수 바이트 / JavaScript UTF-16 이스케이프
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Funicode-converter%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/unicode-converter/)

@@ -50,4 +50,10 @@
 
 總回報率爲（淨回收金額 − 總投入）÷ 總投入。年化回報率把該比例按期限折算爲複合年收益。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Froi-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/roi-calculator/)

@@ -196,4 +196,16 @@
 - 単位から · Hz / kHz / MHz / GHz / rpm
 - 単位へ · Hz / kHz / MHz / GHz / rpm
 
+
+
+
+
+
+
+**計算・処理の参考資料** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Funit-converter%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/unit-converter/)

@@ -76,4 +76,10 @@ A visualização pode ser reduzida enquanto a amostragem ainda lê o pixel origi
 
 JPG, PNG, WebP, AVIF ou GIF até 20 MB e 24 megapixels. Lê os pixels decodificados do navegador. Coordenadas começam em (0, 0) na parte superior esquerda. Uma paleta mantém até 16 pontos.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fimage-color-picker%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/image-color-picker/)

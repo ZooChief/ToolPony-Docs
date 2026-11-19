@@ -84,4 +84,12 @@ $$
 - その後の年間キャッシュフロー
 - 年間割引率 · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fpayback-period-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/payback-period-calculator/)

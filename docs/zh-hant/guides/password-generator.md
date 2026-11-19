@@ -50,4 +50,10 @@
 
 使用 Web Crypto 隨機取樣。要求包含每個啓用的字符組時，先分別抽取，再隨機打亂位置。密碼僅顯示在當前頁面。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fpassword-generator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/password-generator/)

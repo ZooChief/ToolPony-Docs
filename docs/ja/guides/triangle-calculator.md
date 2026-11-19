@@ -152,4 +152,12 @@ $$
 - 辺 a
 - 辺 b
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Ftriangle-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/triangle-calculator/)

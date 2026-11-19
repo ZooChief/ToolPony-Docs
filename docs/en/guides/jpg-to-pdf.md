@@ -76,4 +76,14 @@ Each picture occupies one centered page without stretching. Transparent areas be
 
 30 MB total input, 20 MB per image, 24 megapixels per image and 60 megapixels combined. Encoded images are limited to 64 MB. Supports browser-decodable JPG, PNG, WebP, AVIF and GIF; animation becomes one frame. Transparency is flattened onto white, JPEG is re-encoded and metadata is removed.
 
+
+
+
+
+**Method references** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fjpg-to-pdf%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/jpg-to-pdf/)

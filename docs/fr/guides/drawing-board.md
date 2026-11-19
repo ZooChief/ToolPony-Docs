@@ -76,4 +76,10 @@ La suppression de la toile peut être annulée dans l'historique disponible. Exp
 
 La toile est de 1080 × 640 pixels. Le dessin reste dans cet onglet. Undo et redo utilisent Ctrl/Cmd+Z et Ctrl/Cmd+Shift+Z.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fdrawing-board%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/drawing-board/)

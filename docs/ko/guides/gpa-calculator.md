@@ -92,4 +92,12 @@ A+ through F는 4.3 포인트 매핑을 사용합니다. P, NP, I 및 W는 가�
 - 완성 된 크레딧
 - 추가 크레딧
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fgpa-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/gpa-calculator/)

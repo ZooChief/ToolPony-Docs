@@ -87,4 +87,12 @@ $$
 - Calendário dos pagamentos · Fim do período / Início do período
 - Incluir o pagamento do terminal no modo inicial
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Firr-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/irr-calculator/)

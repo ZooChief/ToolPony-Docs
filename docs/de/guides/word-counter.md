@@ -65,4 +65,10 @@ Blauer Himmel blauer Himmel
 
 Bis zu 1 MiB Text in UTF-8. Die Worttrennung folgt den Sprachregeln des Browsers. Phrasen enden an Satzzeichen oder Zeilenumbrüchen. Der Nenner umfasst alle Phrasen der gewählten Länge.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fword-counter%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/word-counter/)

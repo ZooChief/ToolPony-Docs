@@ -78,4 +78,10 @@ Anführungszeichen mit Kommas; eine Periode als Dezimaltrennzeichen verwenden; n
 
 Bis zu 120 Zeilen und sechs numerische Reihen; eine zitierte Zelle kann ein Komma enthalten; jede Zeile bleibt in einer Zeile; die Werte werden in der eingegebenen Reihenfolge aufgetragen.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fchart-maker%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/chart-maker/)

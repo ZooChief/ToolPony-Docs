@@ -76,4 +76,10 @@
 
 畫布爲 1080 × 640 像素，內容保留在當前標籤頁。使用 Ctrl/Cmd+Z 撤銷，Ctrl/Cmd+Shift+Z 重做。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fdrawing-board%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/drawing-board/)

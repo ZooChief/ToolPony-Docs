@@ -76,4 +76,14 @@ The tool copies pages in order. Encrypted documents are rejected. Forms, bookmar
 
 Up to 30 MB combined input and 300 pages. Encrypted PDFs are not supported. Digital signatures, forms, bookmarks, and document-level features may not survive page copying.
 
+
+
+
+
+**Method references** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fpdf-merge%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/pdf-merge/)

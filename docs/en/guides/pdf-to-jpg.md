@@ -76,4 +76,14 @@ PDF dimensions use 72 points per inch. At 144 DPI each point spans two pixels. R
 
 PDF up to 30 MB and 300 pages. Each export renders up to 40 pages and 60 megapixels total, with at most 8,192 pixels per side and 24 megapixels per page. ZIP images are limited to 64 MB. Pages render on white. Password-protected PDFs are rejected.
 
+
+
+
+
+**Method references** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fpdf-to-jpg%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/pdf-to-jpg/)

@@ -64,4 +64,10 @@ Un lugar de 2 rondas a centésimas, 0 rondas a unidades, y −2 rondas a cientos
 
 La mitad a la vez elige el múltiple sólo en una corbata exacta. Por ejemplo, −2.5 va a −2 y −3.5 va a −4. El techo siempre se mueve hacia la infinidad positiva.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Frounding-calculator%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/rounding-calculator/)

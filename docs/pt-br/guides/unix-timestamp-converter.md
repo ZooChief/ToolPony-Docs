@@ -73,4 +73,12 @@ O tempo de Unix é decorrido desde 1970-01-01T00:00:00Z. Datas de suporte de con
 
 - ISO 8601 com deslocamento
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Funix-timestamp-converter%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/unix-timestamp-converter/)

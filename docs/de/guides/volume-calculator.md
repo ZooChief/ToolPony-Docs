@@ -34,6 +34,20 @@ Kugel mit Radius von 2 m
 
 
 
+<a id="case-study"></a>
+
+
+
+## Das Fassungsvermögen eines Tanks bis zur Füllmarke schätzen
+
+
+
+1. Messen Sie Innendurchmesser und Tiefe bis zur Füllmarke. Beim Beispiel mit 1 m Innendurchmesser und 1,2 m Füllhöhe setzt der Rechner im Zylindermodus den Radius auf 0,5 m und die Ausgabe auf Liter.
+2. Das Volumen ist π × 0,5² × 1,2 m³, also rund 942,48 l. Wer den Durchmesser als Radius eingibt, erhält wegen des Quadrats das Vierfache.
+3. Senken Sie die Füllmarke um 0,2 m und geben Sie als Tiefe 1 m ein. Das ergibt rund 785,40 l. Zwischen den beiden Marken liegen also etwa 157,08 l.
+
+
+
 
 
 ## Ausprobieren
@@ -222,5 +236,17 @@ $$
 - Rohrradius
 - Einheit des Rohrradius
 - Volumeneinheit
+
+
+
+
+
+
+
+**Quellen zur Methode** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fvolume-calculator%2F>)
 
 [Dokumentation](https://docs.toolpony.com/de/guides/volume-calculator/)

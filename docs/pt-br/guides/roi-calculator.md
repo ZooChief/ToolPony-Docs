@@ -50,4 +50,10 @@ Investir 1.000 e receber 1.210 após 2 anos
 
 O retorno total é (rendimentos líquidos - custo total) □ custo total. Compostos de retorno anualizados a mesma proporção ao longo dos anos especificados.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Froi-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/roi-calculator/)

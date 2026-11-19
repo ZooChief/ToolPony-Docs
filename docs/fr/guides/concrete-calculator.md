@@ -174,4 +174,12 @@ Pour deux dalles de 7 pi × 3 pi × 5 pi, 133 lb/ft3 donne 2327,50 lb, ou 38,79 
 - Densité de béton sur mesure · lb/ft³
 - Décharge pour déchets · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fconcrete-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/concrete-calculator/)

@@ -124,4 +124,12 @@ Le modèle de couverture utilise une longueur et une largeur efficaces pour chaq
 - Prix par
 - Décharge pour déchets · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Ftile-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/tile-calculator/)

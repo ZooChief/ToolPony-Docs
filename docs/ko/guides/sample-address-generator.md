@@ -67,4 +67,10 @@ Deutschland
 
 한 번에 최대 100개를 생성합니다. 도시와 우편번호는 형식 예제이며 도로명과 수취인은 합성 데이터입니다. 전화번호는 예약된 예시 번호나 마스크를 사용합니다. 양식과 소프트웨어 테스트용입니다.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fsample-address-generator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/sample-address-generator/)

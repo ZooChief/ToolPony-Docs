@@ -96,4 +96,12 @@ $$
 - 使用年限
 - 舍入精度 · 两位小数 / 取整数
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fdepreciation-calculator%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/depreciation-calculator/)

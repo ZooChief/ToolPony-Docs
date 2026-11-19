@@ -63,4 +63,10 @@ https://example.com/qr-sample
 
 Ein QR-Code pro Scan. Bilder bis 20 MiB und 24 Megapixel, darunter unterstützte PNG, JPEG, WebP und SVG. Die Kamera braucht Freigabe und stoppt nach dem Lesen. Bilder und Frames bleiben auf dem Gerät.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fqr-code-reader%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/qr-code-reader/)

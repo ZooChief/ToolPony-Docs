@@ -50,4 +50,10 @@ Schätzen Sie die Übertragungszeit von der Dateigröße, der Verbindungsgeschwi
 
 Zeit in Sekunden = Dateibytes × 8 ÷ effektive Bits pro Sekunde. Netzwerkpräfixe sind dezimal. Dateigröße unterstützt dezimale und binäre Präfixe.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fbandwidth-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/bandwidth-calculator/)

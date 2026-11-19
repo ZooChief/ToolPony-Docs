@@ -116,4 +116,12 @@ $$
 - Ritmo por · km / mi / 100 m / 100 yd
 - As linhas são postos de controlo cumulativos
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fpace-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/pace-calculator/)

@@ -64,4 +64,10 @@ ABC	123
 
 DOCX et ODT sont lus dans le corps du document, jusqu’à 20 Mio par fichier et 1 Mio de texte UTF-8 extrait. Le PDF doit contenir du texte sélectionnable. Images, mise en page et fichiers protégés sont exclus.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fdocument-to-text%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/document-to-text/)

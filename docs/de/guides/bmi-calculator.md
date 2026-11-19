@@ -83,4 +83,16 @@ $$
 - Höhe in Fuß · ft
 - Zusätzliche Zoll · in
 
+
+
+
+
+
+
+**Quellen zur Methode** [CDC · Adult BMI Categories](<https://www.cdc.gov/bmi/adult-calculator/bmi-categories.html>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fbmi-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/bmi-calculator/)

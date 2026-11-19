@@ -64,4 +64,10 @@ https://example.com/
 
 Los códigos estáticos contienen los datos ingresados. Hasta 2.048 bytes UTF-8, menos con mayor corrección. El borde blanco reserva cuatro módulos. El QR de Wi-Fi contiene la contraseña indicada.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fqr-code-generator%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/qr-code-generator/)

@@ -50,4 +50,10 @@ sábado
 
 O calendário é gregoriano. Semanas ISO começam na segunda-feira. A primeira contém 4 de janeiro. Os primeiros dias de janeiro podem pertencer à última semana ISO do ano anterior.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fday-of-week-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/day-of-week-calculator/)

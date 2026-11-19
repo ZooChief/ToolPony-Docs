@@ -98,4 +98,12 @@ Die Präfix-Größenkategorie folgt der A/B/C-Konvention des Vergleichstools. Di
 - CIDR-Netz
 - Anschrift zur Überprüfung
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fip-subnet-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/ip-subnet-calculator/)

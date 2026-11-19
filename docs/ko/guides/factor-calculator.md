@@ -56,4 +56,10 @@ $$
 d\mid n\iff n\bmod d=0,\qquad n=d\cdot(n/d)
 $$
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Ffactor-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/factor-calculator/)

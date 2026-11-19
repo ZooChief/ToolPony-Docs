@@ -6,6 +6,26 @@ Work through examples for ToolPony calculators, image converters and PDF tools. 
 
 
 
+
+
+## Practical examples
+
+
+
+- [Check a transparent PNG before sending a JPEG](<guides/image-converter.md#case-study>)
+- [Find the missing text page in a mixed PDF](<guides/pdf-to-text.md#case-study>)
+- [Reconcile two stock lists after their columns move](<guides/csv-compare.md#case-study>)
+- [Estimate how much water fits below a tank’s fill line](<guides/volume-calculator.md#case-study>)
+- [Choose a gray that passes for normal text on white](<guides/contrast-checker.md#case-study>)
+
+
+
+
+
+## Tool guides
+
+
+
 [QR code generator](<guides/qr-code-generator.md>)
 
 

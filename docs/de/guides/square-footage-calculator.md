@@ -229,4 +229,12 @@ Für einen Sektor ist r der Radius und θ der Winkel in Radiant nach jeder Umrec
 - Preis pro Fläche
 - Abfallentschädigung · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fsquare-footage-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/square-footage-calculator/)

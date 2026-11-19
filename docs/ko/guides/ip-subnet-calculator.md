@@ -98,4 +98,12 @@ IPv4는 접두사 길이나 연속된 비트로 이루어진 점 표기 마스�
 - CIDR 네트워크
 - 확인해야 할 주소
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fip-subnet-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/ip-subnet-calculator/)

@@ -80,4 +80,14 @@ ready: true
 
 最大 1 MB。不支持自定義標籤、多文檔、非字符串鍵、過量別名、循環結構或無法被 JSON 保真的值。
 
+
+
+
+
+**方法來源** [YAML 1.2.2](<https://yaml.org/spec/1.2.2/>) · [IETF · RFC 8259 (JSON)](<https://www.rfc-editor.org/rfc/rfc8259>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fyaml-to-json%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/yaml-to-json/)

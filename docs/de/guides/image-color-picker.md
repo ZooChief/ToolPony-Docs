@@ -76,4 +76,10 @@ Die Vorschau kann herunterskaliert werden, während das Sampling noch das entspr
 
 JPG, PNG, WebP, AVIF oder GIF bis zu 20 MB und 24 Megapixel. Lesen Sie die decodierten Pixel des Browsers. Koordinaten beginnen bei (0, 0) oben links. Eine Palette enthält bis zu 16 Punkte.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fimage-color-picker%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/image-color-picker/)

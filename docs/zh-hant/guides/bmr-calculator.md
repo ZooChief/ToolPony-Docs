@@ -87,4 +87,16 @@
 - 活動係數
 - 能量單位 · kcal/天 / kJ/天
 
+
+
+
+
+
+
+**方法來源** [Mifflin et al. (1990)](<https://pubmed.ncbi.nlm.nih.gov/2305711/>) · [Roza &amp; Shizgal (1984)](<https://pubmed.ncbi.nlm.nih.gov/6741850/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fbmr-calculator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/bmr-calculator/)

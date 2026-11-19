@@ -62,4 +62,10 @@
 
 同じ日付を基準にし、短い月では月末に合わせます。2 月 29 日生まれは平年の周年を 2 月 28 日または 3 月 1 日に設定できます。経過時間は 1 日 24 時間で計算します。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fage-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/age-calculator/)

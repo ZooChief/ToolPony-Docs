@@ -174,4 +174,12 @@ Para dos 7 ft × 3 ft × 5 en losas, 133 lb/ft3 da 2327.50 lb, o 38.79 equivalen
 - Densidad de hormigón personalizado · lb/ft³
 - Prestaciones por desechos · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fconcrete-calculator%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/concrete-calculator/)

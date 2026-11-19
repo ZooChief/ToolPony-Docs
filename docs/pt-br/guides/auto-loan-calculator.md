@@ -119,4 +119,12 @@ V é o preço, D a entrada, T o valor da troca, O a dívida pendente, R o descon
 - Financiar impostos e taxas
 - Moeda
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fauto-loan-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/auto-loan-calculator/)

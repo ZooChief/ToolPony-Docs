@@ -50,4 +50,10 @@ n=10, r=3, sans répétition
 
 Sans répétition, nPr = n!/(n−r)! et nCr = nPr/r!. Avec répétition, les choix ordonnés sont nr et les choix non ordonnés sont C(n+r−1,r).
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fpermutation-combination-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/permutation-combination-calculator/)

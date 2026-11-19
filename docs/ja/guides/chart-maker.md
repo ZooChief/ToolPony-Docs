@@ -78,4 +78,10 @@ Feb,38
 
 最大 120 行、数値系列は 6 本までです。引用符で囲んだセルにはカンマを含められます。1 行ずつ入力すると、入力順に描画します。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fchart-maker%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/chart-maker/)

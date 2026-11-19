@@ -63,4 +63,10 @@ https://example.com/qr-sample
 
 한 번에 QR 코드 하나를 읽습니다. PNG, JPEG, WebP, SVG 등 20 MiB, 2,400만 픽셀 이하입니다. 카메라는 권한이 필요하고 읽으면 멈춥니다. 이미지와 프레임은 기기에 남습니다.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fqr-code-reader%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/qr-code-reader/)

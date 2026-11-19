@@ -156,4 +156,12 @@ $$
 - Materialvorgabe · Benutzerdefiniert / Kupfer / Geglühtes Kupfer / Aluminium / Silber / Gold
 - Leitfähigkeit · S/m
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fresistor-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/resistor-calculator/)

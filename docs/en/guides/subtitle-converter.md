@@ -77,4 +77,14 @@ Overlap 50 ms
 
 Up to 1 MiB of text and 10,000 cues. Cues ending before zero are removed, and crossing cues start at zero. SRT cannot carry all WebVTT positioning, styles or cue identifiers.
 
+
+
+
+
+**Method references** [W3C · WebVTT](<https://www.w3.org/TR/webvtt1/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fsubtitle-converter%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/subtitle-converter/)

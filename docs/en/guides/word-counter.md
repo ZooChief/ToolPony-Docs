@@ -76,4 +76,10 @@ The text limit is 1 MiB in UTF-8. Character counts use Unicode code points. Phra
 
 Up to 1 MiB of UTF-8 text. Segmentation follows the browser’s language rules. PDF imports use the text layer. DOCX and ODT use the main body. Phrase density divides a term’s count by all terms of the selected length.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fword-counter%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/word-counter/)

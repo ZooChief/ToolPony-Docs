@@ -50,4 +50,10 @@ GCF 6; LCM 72
 
 유클리드 알고리즘으로 최대공약수(GCF)를 구합니다. 두 수가 모두 0이 아니면 LCM(a,b) = |a·b| ÷ GCF(a,b)입니다. 각 50자리 이내의 정수를 최대 100개 입력할 수 있습니다.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fgcf-lcm-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/gcf-lcm-calculator/)

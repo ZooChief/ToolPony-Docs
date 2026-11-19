@@ -74,4 +74,12 @@ Le mode code-point traite un caractère supplémentaire comme un scalaire. UTF-1
 - Entrée
 - Encodage · Points de code Unicode / Octets UTF-8 hexadécimaux / Séquences d’échappement UTF-16 JavaScript
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Funicode-converter%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/unicode-converter/)

@@ -79,4 +79,14 @@ Keys and strings need double quotes. Comments and trailing commas are not JSON. 
 
 Up to 1 MB. Invalid JSON and unsafe numeric precision are rejected. Formatting does not validate against an application schema.
 
+
+
+
+
+**Method references** [IETF · RFC 8259 (JSON)](<https://www.rfc-editor.org/rfc/rfc8259>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fjson-formatter%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/json-formatter/)

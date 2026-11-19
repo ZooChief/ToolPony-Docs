@@ -64,4 +64,10 @@ https://example.com/
 
 정적 QR은 입력값을 담습니다. UTF-8 최대 2,048바이트이며 정정 수준이 높으면 용량이 줄어듭니다. 흰 테두리는 네 모듈의 여백을 확보합니다. Wi-Fi QR에 입력한 암호가 포함됩니다.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fqr-code-generator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/qr-code-generator/)

@@ -56,4 +56,10 @@ $$
 d\mid a_1,\ldots,a_n\iff d\mid\gcd(a_1,\ldots,a_n)
 $$
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fcommon-factor-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/common-factor-calculator/)

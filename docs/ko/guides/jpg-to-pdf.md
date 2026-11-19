@@ -63,4 +63,14 @@ JPG, PNG, WebP 등 여러 이미지를 PDF 한 개로 만듭니다.
 
 최대 20장, 입력 합계 30 MB와 6천만 화소입니다. 이미지 한 장은 20 MB와 2,400만 화소까지 가능합니다. 투명 부분은 흰색이며 애니메이션은 첫 프레임만 사용합니다.
 
+
+
+
+
+**계산 및 처리 방식의 출처** [PDF Association · ISO 32000-2](<https://pdfa.org/resource/iso-32000-2/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fjpg-to-pdf%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/jpg-to-pdf/)

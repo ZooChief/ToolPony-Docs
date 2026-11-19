@@ -64,4 +64,10 @@ https://example.com/
 
 Statische Codes enthalten die Eingabe. Maximal 2.048 UTF-8-Byte, bei hoher Korrektur weniger. Der weiße Rand lässt vier Module frei. WLAN-Codes enthalten das eingegebene Passwort.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fqr-code-generator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/qr-code-generator/)

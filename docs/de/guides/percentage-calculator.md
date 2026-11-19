@@ -176,4 +176,12 @@ Bei einem Messwert von 90 und einem Referenzwert von 96 beträgt der absolute Fe
 - Bezugswert
 - Fehlerkonvention · Absolute Werte / Vorzeichen relativ zur Referenz
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fpercentage-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/percentage-calculator/)

@@ -100,4 +100,12 @@ $$
 - 기본 유형 · 고정 금액 / 매출의 퍼센트
 - 계층 상한, 비율(% 또는 고정 금액). 제한 없음에 \*를 사용하십시오.
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fcommission-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/commission-calculator/)

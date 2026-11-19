@@ -89,4 +89,12 @@ $$
 - Sucessos
 - Nível de confiança · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fconfidence-interval-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/confidence-interval-calculator/)

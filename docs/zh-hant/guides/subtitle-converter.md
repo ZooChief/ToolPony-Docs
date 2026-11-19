@@ -77,4 +77,14 @@ Overlap 50 ms
 
 最多 1 MiB 文本、10,000 條字幕。結束在零點前的字幕會被移除，跨零點的字幕從零開始。SRT 無法表達所有 WebVTT 位置、樣式和編號。
 
+
+
+
+
+**方法來源** [W3C · WebVTT](<https://www.w3.org/TR/webvtt1/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fsubtitle-converter%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/subtitle-converter/)

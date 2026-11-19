@@ -64,4 +64,14 @@ Erreichbare Ergebnisse sind WebP-Dateien mit je höchstens 100.000 Byte im ZIP.
 
 Je Bild maximal 20 MB und 24 Megapixel, je Stapel 64 MiB für Ein- und Ausgabe. Die maximale Seitenlänge vergrößert keine Bilder. JPEG und WebP werden verlustbehaftet kodiert. Animationen werden Standbilder und ursprüngliche Metadaten werden entfernt.
 
+
+
+
+
+**Quellen zur Methode** [WHATWG · HTML Canvas](<https://html.spec.whatwg.org/multipage/canvas.html#dom-canvas-toblob-dev>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fimage-compressor%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/image-compressor/)

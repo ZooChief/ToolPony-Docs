@@ -115,4 +115,12 @@ $$
 - 既知の測定 · 半身生活 / 平均寿命 / デカイ定数
 - 値
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fhalf-life-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/half-life-calculator/)

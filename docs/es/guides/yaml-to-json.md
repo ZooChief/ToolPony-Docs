@@ -80,4 +80,14 @@ Múltiples documentos, etiquetas personalizadas, alias cíclicos y valores que J
 
 Hasta 1 MB. Se rechazan las etiquetas personalizadas, múltiples documentos, claves no pendientes, alias excesivos, estructuras cíclicas y valores que JSON no puede preservar.
 
+
+
+
+
+**Fuentes del método** [YAML 1.2.2](<https://yaml.org/spec/1.2.2/>) · [IETF · RFC 8259 (JSON)](<https://www.rfc-editor.org/rfc/rfc8259>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fyaml-to-json%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/yaml-to-json/)

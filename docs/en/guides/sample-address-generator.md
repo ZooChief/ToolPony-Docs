@@ -67,4 +67,10 @@ Deutschland
 
 Up to 100 samples per batch. Locality and postcode are format fixtures, and street and recipient are synthetic. Phone examples use reserved numbers or masks. Use the results for form and software testing.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fsample-address-generator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/sample-address-generator/)

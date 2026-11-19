@@ -102,4 +102,12 @@ Les jours ouvrés vont du lundi au vendredi, hors jours fériés saisis. AAAA-MM
 - Jours ouvrés
 - Jours fériés (AAAA-MM-JJ ou MM-JJ)
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fdate-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/date-calculator/)

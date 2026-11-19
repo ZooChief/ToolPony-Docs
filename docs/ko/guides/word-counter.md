@@ -65,4 +65,10 @@
 
 텍스트는 UTF-8 기준 최대 1 MiB입니다. 브라우저의 언어 규칙으로 단어를 나눕니다. 구문은 문장 부호와 줄바꿈을 넘지 않으며 분모는 같은 길이의 전체 표현 수입니다.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fword-counter%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/word-counter/)

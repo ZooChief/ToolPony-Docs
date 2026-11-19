@@ -79,4 +79,12 @@ $$
 - Región de probabilidad · Probabilidad de cola izquierda / Probabilidad de cola derecha / Desde el centro hasta la muerte / Entre − vidas eternas y Silenciosos / Probabilidad de dos colas
 - Probabilidad
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fp-value-calculator%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/p-value-calculator/)

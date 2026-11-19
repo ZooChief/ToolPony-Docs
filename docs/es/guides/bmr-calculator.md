@@ -87,4 +87,16 @@ La energía de reposo se calcula con Mifflin-St Jeor, Harris-Benedict revisado o
 - Factor de actividad
 - Unidad de energía · kcal/day / kJ/day
 
+
+
+
+
+
+
+**Fuentes del método** [Mifflin et al. (1990)](<https://pubmed.ncbi.nlm.nih.gov/2305711/>) · [Roza &amp; Shizgal (1984)](<https://pubmed.ncbi.nlm.nih.gov/6741850/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fbmr-calculator%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/bmr-calculator/)

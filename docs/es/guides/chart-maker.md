@@ -78,4 +78,10 @@ Etiquetas de citas que contienen comas. Use un período como el separador decima
 
 Hasta 120 filas y seis series numéricas. Una célula citada puede contener una coma. Cada fila se queda en una línea. Los valores se parcelan en el orden introducido.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fchart-maker%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/chart-maker/)

@@ -89,4 +89,12 @@ Le mode arithmétique conserve les coefficients décimaux exacts pour l'addition
 - Opération · Ajouter / Soustraire / Multiplier / Diviser / Puissance / Racine carrée de première / Carré de la première
 - Chiffres significatifs
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fscientific-notation-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/scientific-notation-calculator/)

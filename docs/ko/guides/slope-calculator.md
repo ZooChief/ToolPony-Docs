@@ -93,4 +93,12 @@ $$
 - 방향 지정 방식 · 기울기 / 각도 in degrees
 - 방향 값
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fslope-calculator%2F>)
+
 [문서](https://docs.toolpony.com/ko/guides/slope-calculator/)

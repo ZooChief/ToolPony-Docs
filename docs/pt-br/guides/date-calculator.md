@@ -102,4 +102,12 @@ Dias úteis vão de segunda a sexta, excluindo as datas informadas. AAAA-MM-DD v
 - Dias úteis
 - Feriados (AAAA-MM-DD ou MM-DD)
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fdate-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/date-calculator/)

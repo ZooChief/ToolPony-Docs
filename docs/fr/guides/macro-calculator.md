@@ -77,4 +77,12 @@ Le calcul utilise 4 kcal/g pour les protéines et glucides et 9 kcal/g pour les 
 - Glucides · g
 - Lipides · g
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fmacro-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/macro-calculator/)

@@ -77,4 +77,12 @@ Die Rechnung verwendet 4 kcal/g für Eiweiß und Kohlenhydrate und 9 kcal/g für
 - Kohlenhydrate · g
 - Fett · g
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fmacro-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/macro-calculator/)

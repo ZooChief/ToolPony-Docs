@@ -55,6 +55,20 @@ Qty,ID,Name
 
 
 
+<a id="case-study"></a>
+
+
+
+## 열 순서가 바뀐 두 재고 목록 대조하기
+
+
+
+1. 재고 예제를 불러와 ID를 키로 선택합니다. 이전 파일의 열은 ID, Name, Qty 순서이고 새 파일은 Qty부터 시작합니다. 두 파일을 비교하세요.
+2. 001(Oak)의 수량은 2에서 4로 바뀌고 002는 삭제, 003은 추가, 004는 그대로입니다. 열 순서가 달라도 변경, 삭제, 추가가 각각 1건입니다.
+3. 새 파일에서 001만 1로 바꾸고 다시 비교하면 추가 2건, 삭제 2건, 변경 0건입니다. 같은 품목의 수량을 비교하려면 원본 내보내기에서 앞자리 0을 보존하세요.
+
+
+
 
 
 ## 직접 사용해 보기
@@ -74,5 +88,15 @@ Qty,ID,Name
 
 
 재고를 비교할 때는 고정된 SKU를 키로 쓰세요. 이전 파일의 0012가 새 파일에서 12로 바뀌면 삭제 1건과 추가 1건으로 표시됩니다. 같은 상품의 수량 변경을 비교하려면 두 파일 모두 앞자리 0을 유지하세요.
+
+
+
+
+
+**계산 및 처리 방식의 출처** [IETF · RFC 4180 (CSV)](<https://www.rfc-editor.org/rfc/rfc4180>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ko/about/>) · [결과 문제 제보](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fko%2Fguides%2Fcsv-compare%2F>)
 
 [문서](https://docs.toolpony.com/ko/guides/csv-compare/)

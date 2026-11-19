@@ -229,4 +229,12 @@ Para un sector, r es radius y θ es el ángulo en radians después de cualquier 
 - Precio por área
 - Prestaciones por desechos · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fsquare-footage-calculator%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/square-footage-calculator/)

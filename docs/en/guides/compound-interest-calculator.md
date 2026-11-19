@@ -87,4 +87,16 @@ $$
 - Original compounding
 - Target compounding
 
+
+
+
+
+
+
+**Method references** [Investor.gov · Compound Interest](<https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fcompound-interest-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/compound-interest-calculator/)

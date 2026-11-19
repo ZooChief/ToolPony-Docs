@@ -85,4 +85,12 @@ Verwendeter Kraftstoff = Entfernung × L/100 km ÷ 100. US-amerikanische und imp
 - Entfernung · km
 - Kraftstoffverbrauch · L
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Ffuel-cost-calculator%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/fuel-cost-calculator/)

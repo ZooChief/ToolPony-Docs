@@ -65,4 +65,10 @@ Cielo azul cielo azul
 
 Hasta 1 MiB de texto en UTF-8. La segmentación sigue la configuración del navegador. Los grupos no cruzan signos de puntuación ni saltos de línea. La proporción usa todos los grupos de la longitud elegida.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fword-counter%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/word-counter/)

@@ -103,4 +103,12 @@ $$
 - Unidade de uso · Minutos por dia / Horas por dia / Horas por semana / Horas por mês / Dias por semana / Dias por mês / Dias por ano / Meses por ano
 - Preço por kWh
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Felectricity-cost-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/electricity-cost-calculator/)

@@ -50,4 +50,14 @@ Ingresos 5.000, pagos de deuda 1.500
 
 Tasa de deuda a ingresos = pagos mensuales de deuda ÷ ingreso mensual bruto. Use la misma moneda y un período mensual para todas las cantidades.
 
+
+
+
+
+**Fuentes del método** [CFPB · Debt-to-Income Ratio](<https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fdebt-to-income-calculator%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/debt-to-income-calculator/)

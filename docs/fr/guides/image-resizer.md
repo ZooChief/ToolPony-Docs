@@ -64,4 +64,14 @@ PNG 800 × 600
 
 Limite de 20 Mo, 24 mégapixels et 8 192 pixels par côté. Agrandir une image ne restitue aucun détail absent.
 
+
+
+
+
+**Références de la méthode** [W3C · PNG](<https://www.w3.org/TR/png-3/>) · [WHATWG · HTML Canvas](<https://html.spec.whatwg.org/multipage/canvas.html#dom-canvas-toblob-dev>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fimage-resizer%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/image-resizer/)

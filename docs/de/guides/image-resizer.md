@@ -64,4 +64,14 @@ Wählen Sie ein Bild. Geben Sie Breite oder Höhe ein. Behalten Sie bei Bedarf d
 
 Bis zu 20 MB, 24 Megapixel und 8.192 Pixel je Seite. Eine Vergrößerung stellt keine fehlenden Details wieder her.
 
+
+
+
+
+**Quellen zur Methode** [W3C · PNG](<https://www.w3.org/TR/png-3/>) · [WHATWG · HTML Canvas](<https://html.spec.whatwg.org/multipage/canvas.html#dom-canvas-toblob-dev>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fimage-resizer%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/image-resizer/)

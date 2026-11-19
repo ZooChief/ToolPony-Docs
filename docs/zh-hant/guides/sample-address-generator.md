@@ -67,4 +67,10 @@ Deutschland
 
 每批最多 100 條。城市與郵編用於展示格式，街道與收件人由工具合成。電話使用保留示例號或佔位符。適用於表單及軟件測試。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fsample-address-generator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/sample-address-generator/)

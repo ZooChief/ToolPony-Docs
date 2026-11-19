@@ -34,6 +34,20 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## 水位線までの円筒タンクの容量を見積もる
+
+
+
+1. タンクの内径と水位線までの深さを測ります。内径 1 m、深さ 1.2 m の例を実行すると、円柱モードで半径が 0.5 m、出力単位が L に設定されます。
+2. 容量は π × 0.5² × 1.2 m³ で、約 942.48 L です。直径を半径欄に入れると二乗の項により結果が 4 倍になります。
+3. 水位線を 0.2 m 下げ、深さを 1 m として再計算します。約 785.40 L となり、差の約 157.08 L が 2 本の水位線の間の容量です。
+
+
+
 
 
 ## 試してみる
@@ -222,5 +236,17 @@ $$
 - 管の半径
 - 管の半径の単位
 - ボリューム単位
+
+
+
+
+
+
+
+**計算・処理の参考資料** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fvolume-calculator%2F>)
 
 [ドキュメント](https://docs.toolpony.com/ja/guides/volume-calculator/)

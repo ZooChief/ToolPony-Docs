@@ -64,4 +64,10 @@ ABC	123
 
 DOCX 和 ODT 僅讀取正文，文件最多 20 MiB，提取的 UTF-8 文本最多 1 MiB。PDF 須含可選文字。圖片、頁面排版和受密碼保護的文件不在處理範圍內。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fdocument-to-text%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/document-to-text/)

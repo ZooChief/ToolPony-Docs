@@ -104,4 +104,12 @@ Use um modo inverso quando você souber o preço de venda ou o valor salvo. Modo
 - Quantidade salva
 - Taxa de desconto · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Fdiscount-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/discount-calculator/)

@@ -50,4 +50,14 @@
 
 第 4 版 UUID 使用 122 個隨機位，另有 6 位用於版本和變體。每批最多 500 個。
 
+
+
+
+
+**方法來源** [IETF · RFC 9562 (UUID)](<https://www.rfc-editor.org/rfc/rfc9562>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fuuid-generator%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/uuid-generator/)

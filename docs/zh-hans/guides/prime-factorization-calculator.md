@@ -50,4 +50,10 @@
 
 用试除法取出质因数，试除上界为剩余整数的平方根。输入范围为 2 至 1 万亿。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hans/about/>) · [反馈结果问题](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hans%2Fguides%2Fprime-factorization-calculator%2F>)
+
 [文档站](https://docs.toolpony.com/zh-hans/guides/prime-factorization-calculator/)

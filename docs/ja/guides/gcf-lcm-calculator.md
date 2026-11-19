@@ -50,4 +50,10 @@ GCF 6;LCM 72
 
 ユークリッドのアルゴリズムはGCFを発見する。 LCM(a,b) = |a·b| ÷ GCF(a,b) がいずれもゼロでない場合。 それぞれ50桁の最大100個の整数。
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fgcf-lcm-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/gcf-lcm-calculator/)

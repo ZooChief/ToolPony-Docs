@@ -147,4 +147,12 @@ $$
 - 電流 · A
 - 距離推定の電圧降下上限 · %
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fvoltage-drop-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/voltage-drop-calculator/)

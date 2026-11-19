@@ -50,4 +50,10 @@ GCF 6; LCM 72
 
 El algoritmo de Euclid encuentra GCF. LCM(a,b) = prehensia·b sufrimiento ÷ GCF(a,b) cuando ambos no son cero. Hasta 100 enteros de 50 dígitos cada uno.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/es/about/>) · [Informar de un problema con el resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fes%2Fguides%2Fgcf-lcm-calculator%2F>)
+
 [Documentación](https://docs.toolpony.com/es/guides/gcf-lcm-calculator/)

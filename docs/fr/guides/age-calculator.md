@@ -62,4 +62,10 @@ Naissance le 2000-01-01, référence le 2025-02-03
 
 Les mois se terminent au même quantième ou en fin de mois. Pour une naissance le 29 février, choisissez le 28 février ou le 1er mars les années ordinaires. Les jours durent 24 heures dans ce calcul.
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/fr/about/>) · [Signaler un problème de résultat](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Ffr%2Fguides%2Fage-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/fr/guides/age-calculator/)

@@ -56,4 +56,10 @@ $$
 I_k=r B_{k-1},\qquad B_k=B_{k-1}-(M_k-I_k)
 $$
 
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Fmortgage-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/mortgage-calculator/)

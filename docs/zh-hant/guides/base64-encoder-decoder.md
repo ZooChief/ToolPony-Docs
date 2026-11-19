@@ -50,4 +50,14 @@ aGVsbG8=
 
 文本以 UTF-8 轉換。URL 安全模式採用 “-” 和 “\_”，輸出省略填充。輸入上限爲 50 萬字符。
 
+
+
+
+
+**方法來源** [IETF · RFC 4648 (Base64)](<https://www.rfc-editor.org/rfc/rfc4648>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/zh-hant/about/>) · [反饋結果問題](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fzh-hant%2Fguides%2Fbase64-encoder-decoder%2F>)
+
 [文檔站](https://docs.toolpony.com/zh-hant/guides/base64-encoder-decoder/)

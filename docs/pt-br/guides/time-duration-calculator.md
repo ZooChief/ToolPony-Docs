@@ -133,4 +133,12 @@ $$
 
 - Expressão de duração
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/pt-br/about/>) · [Relatar um problema no resultado](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fpt-br%2Fguides%2Ftime-duration-calculator%2F>)
+
 [Documentação](https://docs.toolpony.com/pt-br/guides/time-duration-calculator/)

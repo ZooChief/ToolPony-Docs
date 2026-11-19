@@ -64,4 +64,14 @@
 
 1 枚 20 MB・2400 万画素まで。バッチ入出力は各 64 MiB まで。長辺の上限で画像を拡大することはありません。JPEG と WebP は非可逆圧縮です。アニメーションは静止画になり、元のメタデータは削除されます。
 
+
+
+
+
+**計算・処理の参考資料** [WHATWG · HTML Canvas](<https://html.spec.whatwg.org/multipage/canvas.html#dom-canvas-toblob-dev>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fimage-compressor%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/image-compressor/)

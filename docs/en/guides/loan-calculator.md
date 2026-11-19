@@ -161,4 +161,12 @@ A payment of 785 on 45,000 at 6.3% gives an estimated 68.38 months. Monthly bill
 - Annual rate · %
 - Compounding
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/en/about/>) · [Report a problem with this result](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fen%2Fguides%2Floan-calculator%2F>)
+
 [Documentation](https://docs.toolpony.com/en/guides/loan-calculator/)

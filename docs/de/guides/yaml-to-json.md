@@ -80,4 +80,14 @@ Mehrere Dokumente, benutzerdefinierte Tags, zyklische Aliase und Werte, die JSON
 
 Bis zu 1 MB. Benutzerdefinierte Tags, mehrere Dokumente, Schlüssel außer Zeichenketten, zu viele Aliasse, zyklische Strukturen und Werte ohne verlustfreie JSON-Darstellung werden abgewiesen.
 
+
+
+
+
+**Quellen zur Methode** [YAML 1.2.2](<https://yaml.org/spec/1.2.2/>) · [IETF · RFC 8259 (JSON)](<https://www.rfc-editor.org/rfc/rfc8259>)
+
+
+
+[ZooChief](<https://docs.toolpony.com/de/about/>) · [Ergebnisfehler melden](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fde%2Fguides%2Fyaml-to-json%2F>)
+
 [Dokumentation](https://docs.toolpony.com/de/guides/yaml-to-json/)

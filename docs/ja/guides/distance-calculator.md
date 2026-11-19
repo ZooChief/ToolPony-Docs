@@ -128,4 +128,12 @@ $$
 - 2回目の経度秒
 - 第二経経半球 · E / W
 
+
+
+
+
+
+
+[ZooChief](<https://docs.toolpony.com/ja/about/>) · [結果の問題を報告](<https://github.com/ZooChief/ToolPony-Docs/issues/new?template=01-problem.yml&page=%2Fja%2Fguides%2Fdistance-calculator%2F>)
+
 [ドキュメント](https://docs.toolpony.com/ja/guides/distance-calculator/)
