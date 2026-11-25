@@ -1,4 +1,4 @@
-# Convertisseur d’unités
+# Guide pratique · Convertisseur d’unités
 
 
 
@@ -34,11 +34,55 @@ Convertir 1 m en ft
 
 
 
+<a id="case-study"></a>
+
+
+
+## Vérifier une variation de température
+
+
+
+1. La température passe de 20 °C à 10 °C. Choisissez « Écart de température » et saisissez −10 °C. L’écart vaut −18 °F. Une mesure de 10 °C correspond à 50 °F.
+
+
+
+
+
+## Un disque de 1 To en Gio
+
+
+
+Un disque de 1 To contient 1 000 000 000 000 octets. Divisez par 1 073 741 824 octets par Gio pour obtenir environ 931,32 Gio avant formatage. La valeur affichée et le CSV conservent toutes les décimales.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/unit-converter/#example-drive-capacity>)
+
+
+
+
+
+
+
+## Un raccord de 3/8 pouce
+
+
+
+Saisissez 3/8 de pouce pour obtenir 9,525 mm. Les nombres mixtes sont acceptés. 1 3/8 pouce vaut 34,925 mm.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/unit-converter/#example-fractional-inch>)
+
+
+
+
+
 
 
 ## Essayer
 
-[Ouvrir l’outil complet · Convertisseur d’unités](<https://toolpony.com/fr/tools/unit-converter/>)
+[Ouvrir l’outil complet · Convertisseur d’unités](<https://toolpony.com/fr/tools/unit-converter/#example-temperature-change>)
 
 
 
@@ -48,7 +92,7 @@ Convertir 1 m en ft
 
 
 
-Chaque groupe se convertit par une unité de base standard. Les unités de volume américaines et impériales sont séparées. Les unités de stockage décimales et binaires conservent leurs bases respectives.
+Les rapports définis entre unités sont calculés avec des fractions exactes. Un décimal périodique conserve sa fraction à côté de la valeur arrondie. Les conversions entre radians et autres unités d’angle utilisent une approximation de π.
 
 
 
@@ -60,7 +104,11 @@ Chaque groupe se convertit par une unité de base standard. Les unités de volum
 
 
 
-**Longueur**
+
+
+### Longueur
+
+
 
 - Valeur
 - À partir de l'unité
@@ -70,7 +118,11 @@ Chaque groupe se convertit par une unité de base standard. Les unités de volum
 
 
 
-**Masse**
+
+
+### Masse
+
+
 
 - Valeur
 - À partir de l'unité
@@ -80,7 +132,11 @@ Chaque groupe se convertit par une unité de base standard. Les unités de volum
 
 
 
-**Aire**
+
+
+### Aire
+
+
 
 - Valeur
 - À partir de l'unité
@@ -90,7 +146,11 @@ Chaque groupe se convertit par une unité de base standard. Les unités de volum
 
 
 
-**Volume**
+
+
+### Volume
+
+
 
 - Valeur
 - À partir de l'unité
@@ -100,17 +160,26 @@ Chaque groupe se convertit par une unité de base standard. Les unités de volum
 
 
 
-**Température**
+
+
+### Température
+
+
 
 - Valeur
 - À partir de l'unité · °C / °F / K
 - À l'unité · °C / °F / K
+- Temperature difference
 
 
 
 
 
-**Vitesse**
+
+
+### Vitesse
+
+
 
 - Valeur
 - À partir de l'unité · m/s / km/h / mph / ft/s / Noyau
@@ -120,7 +189,11 @@ Chaque groupe se convertit par une unité de base standard. Les unités de volum
 
 
 
-**Pression**
+
+
+### Pression
+
+
 
 - Valeur
 - À partir de l'unité · Pa / kPa / Mpa / barre / et de / Pertes / psi
@@ -130,7 +203,11 @@ Chaque groupe se convertit par une unité de base standard. Les unités de volum
 
 
 
-**Énergie**
+
+
+### Énergie
+
+
 
 - Valeur
 - À partir de l'unité
@@ -140,7 +217,11 @@ Chaque groupe se convertit par une unité de base standard. Les unités de volum
 
 
 
-**Puissance**
+
+
+### Puissance
+
+
 
 - Valeur
 - À partir de l'unité · W / mW / kW / MW / Puissance mécanique / Puissance métrique
@@ -150,7 +231,11 @@ Chaque groupe se convertit par une unité de base standard. Les unités de volum
 
 
 
-**Forcer**
+
+
+### Forcer
+
+
 
 - Valeur
 - À partir de l'unité · N / kN / Dyn / kgf / Voir aussi:
@@ -160,7 +245,11 @@ Chaque groupe se convertit par une unité de base standard. Les unités de volum
 
 
 
-**Heure**
+
+
+### Heure
+
+
 
 - Valeur
 - À partir de l'unité · ns / μs / ms / s / min / h / d / wk
@@ -170,7 +259,11 @@ Chaque groupe se convertit par une unité de base standard. Les unités de volum
 
 
 
-**Stockage numérique**
+
+
+### Stockage numérique
+
+
 
 - Valeur
 - À partir de l'unité
@@ -180,7 +273,11 @@ Chaque groupe se convertit par une unité de base standard. Les unités de volum
 
 
 
-**Angle**
+
+
+### Angle
+
+
 
 - Valeur
 - À partir de l'unité · ° / rad / grad / Tourner / arcmin / arcsec
@@ -190,7 +287,11 @@ Chaque groupe se convertit par une unité de base standard. Les unités de volum
 
 
 
-**Fréquence**
+
+
+### Fréquence
+
+
 
 - Valeur
 - À partir de l'unité · Hz / kHz / MHz / GHz / tpm
@@ -202,7 +303,7 @@ Chaque groupe se convertit par une unité de base standard. Les unités de volum
 
 
 
-**Références de la méthode** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+**Références de la méthode** [NIST · Unit conversion factors](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>) · [Hong Kong Customs · Market units](<https://www.customs.gov.hk/en/service-enforcement-information/consumer-protection/weights-measures/index.html>) · [New Taipei City · 臺斤](<https://www.ntpc.gov.tw/ch/home.jsp?dataserno=202204120009&id=28>) · [Hong Kong Legislative Council · 司馬斤](<https://www.legco.gov.hk/yr16-17/english/bc/bc56/papers/bc5620171121cb2-297-2-e.pdf>) · [NIST · Binary prefixes](<https://physics.nist.gov/cuu/Units/binary.html>)
 
 
 

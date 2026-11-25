@@ -1,4 +1,4 @@
-# Calculadora de triângulos retângulos
+# Guia de uso · Calculadora de triângulos retângulos
 
 
 

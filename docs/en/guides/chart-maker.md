@@ -1,8 +1,8 @@
-# Chart maker
+# Chart maker guide
 
 
 
-Paste CSV with a header, a label column and numeric series. Pick bars or lines, update the chart and download SVG.
+Paste CSV with a header, a label column and numeric series. Choose bars or lines and download the live chart as SVG.
 
 
 
@@ -13,7 +13,7 @@ Paste CSV with a header, a label column and numeric series. Pick bars or lines, 
 
 
 1. Enter a CSV header. Put category labels in the first column and numeric series in the remaining columns.
-2. Choose bars or lines and update the preview.
+2. Choose bars or lines. The chart updates as you edit.
 3. Download the chart as an SVG.
 
 

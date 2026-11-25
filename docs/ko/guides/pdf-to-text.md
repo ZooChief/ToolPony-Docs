@@ -1,4 +1,4 @@
-# PDF를 텍스트로 변환
+# PDF를 텍스트로 변환 사용 가이드
 
 
 
@@ -30,17 +30,17 @@
 
 
 ```
-첫 두 페이지가 「One」「Two」인 PDF, 선택 2, 1
+혼합 PDF에서 3, 2, 1쪽 순서로 JSON을 추출합니다. 2쪽에는 파란 견본 이미지만 있습니다.
 ```
 
-[예시 · PDF](<https://toolpony.com/samples/toolpony-pages.pdf>)
+[예시 · PDF](<https://toolpony.com/samples/toolpony-mixed-pages.pdf>)
 
 ### 예상 결과
 
 
 
 ```
-JSON에서 2페이지 Two 다음에 1페이지 One
+[{"page":3,"text":"Total 42"},{"page":2,"text":""},{"page":1,"text":"Order 417"}]
 ```
 
 
@@ -73,7 +73,19 @@ JSON에서 2페이지 Two 다음에 1페이지 One
 
 ## 직접 사용해 보기
 
-[전체 도구 열기 · PDF를 텍스트로 변환](<https://toolpony.com/ko/tools/pdf-to-text/>)
+[전체 도구 열기 · PDF를 텍스트로 변환](<https://toolpony.com/ko/tools/pdf-to-text/#example-mixed-pdf>)
+
+
+
+
+
+## 참고 사항
+
+
+
+최대 30 MB, 300페이지, 200만 자, 텍스트 항목 20만 개입니다. PDF 내부의 텍스트 순서를 따릅니다. 스캔 페이지에는 OCR이 필요합니다. 암호화된 파일은 지원하지 않습니다. 8페이지 이하면 선택을 지우고 내보낼 순서대로 페이지 번호를 누르세요. 문서가 더 길면 홀수 또는 짝수 페이지를 한 번에 선택할 수 있습니다.
+
+
 
 
 

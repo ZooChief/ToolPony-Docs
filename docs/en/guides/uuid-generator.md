@@ -1,4 +1,4 @@
-# UUID generator
+# UUID generator guide
 
 
 
@@ -31,6 +31,23 @@ Example shape: 550e8400-e29b-41d4-a716-446655440000
 ```
 
 
+
+
+
+<a id="case-study"></a>
+
+
+
+## Prepare 27 IDs for an import
+
+
+
+1. Generate 27 uppercase UUIDs. In each identifier the third group starts with 4 and the fourth starts with 8, 9, A or B.
+2. The last page contains rows 25–27. Copy row 27 to check one record, or download the text file to import all 27 lines in their original order.
+
+
+
+[Run example](<https://toolpony.com/en/tools/uuid-generator/#example-import-ids>)
 
 
 

@@ -1,4 +1,4 @@
-# Abschreibungsrechner
+# Anleitung: Abschreibungsrechner
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Geradeauslinie**
+
+
+### Geradeauslinie
+
+
 
 - Anlagekosten
 - Wert der Bergung
@@ -77,7 +81,11 @@ $$
 
 
 
-**Sinkende Bilanz**
+
+
+### Sinkende Bilanz
+
+
 
 - Anlagekosten
 - Wert der Bergung
@@ -89,7 +97,11 @@ $$
 
 
 
-**Jahressummenstellen**
+
+
+### Jahressummenstellen
+
+
 
 - Anlagekosten
 - Wert der Bergung

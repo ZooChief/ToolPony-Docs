@@ -1,4 +1,4 @@
-# Calculatrice de pourboire
+# Guide pratique · Calculatrice de pourboire
 
 
 

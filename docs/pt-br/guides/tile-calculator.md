@@ -1,4 +1,4 @@
-# Calculadora de quantidade de pisos
+# Guia de uso · Calculadora de quantidade de pisos
 
 
 
@@ -88,7 +88,11 @@ O modelo de cobertura usa um comprimento e largura eficazes para cada azulejo. O
 
 
 
-**Área conhecida**
+
+
+### Área conhecida
+
+
 
 - Comprimento do ladrilho
 - Unidade de comprimento da telha
@@ -107,7 +111,11 @@ O modelo de cobertura usa um comprimento e largura eficazes para cada azulejo. O
 
 
 
-**Sala retangular**
+
+
+### Sala retangular
+
+
 
 - Comprimento do ladrilho
 - Unidade de comprimento da telha

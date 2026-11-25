@@ -1,4 +1,4 @@
-# IP 子网计算器
+# IP 子网计算器使用指南
 
 
 
@@ -29,6 +29,38 @@
 ```
 网络 192.0.2.128/27，可用主机 30 个
 ```
+
+
+
+
+
+<a id="case-study"></a>
+
+
+
+## 核对网段边界
+
+
+
+1. 192.0.2.128/27 含首末地址，末地址 .159 是 IPv4 广播地址。下一个地址 .160 已在网段之外。输入 IPv6 地址会标明版本不同。
+
+
+
+[运行示例](<https://toolpony.com/zh-hans/tools/ip-subnet-calculator/#example-subnet-boundary>)
+
+
+
+
+
+## 两个 IPv6 端点
+
+
+
+2001:db8::8/127 包含 ::8 和 ::9，分别为第 1 和第 2 个地址。IPv6 没有广播地址。
+
+
+
+[运行示例](<https://toolpony.com/zh-hans/tools/ip-subnet-calculator/#example-ipv6-endpoints>)
 
 
 
@@ -74,7 +106,11 @@ IPv4 可输入前缀长度或连续位的点分掩码。192.0.2.129 与 255.255.
 
 
 
-**IPv4**
+
+
+### IPv4
+
+
 
 - IPv4 地址或 CIDR
 - 前缀或子网掩码
@@ -84,7 +120,11 @@ IPv4 可输入前缀长度或连续位的点分掩码。192.0.2.129 与 255.255.
 
 
 
-**IPv6**
+
+
+### IPv6
+
+
 
 - IPv6 地址或 CIDR
 - 前缀
@@ -93,7 +133,11 @@ IPv4 可输入前缀长度或连续位的点分掩码。192.0.2.129 与 255.255.
 
 
 
-**检查地址归属**
+
+
+### 检查地址归属
+
+
 
 - CIDR 网段
 - 待检查地址
@@ -101,6 +145,10 @@ IPv4 可输入前缀长度或连续位的点分掩码。192.0.2.129 与 255.255.
 
 
 
+
+
+
+**方法来源** [IETF · RFC 4632 (CIDR)](<https://www.rfc-editor.org/rfc/rfc4632>) · [IETF · RFC 3021 (/31 links)](<https://www.rfc-editor.org/rfc/rfc3021>) · [IETF · RFC 5952 (IPv6 text)](<https://www.rfc-editor.org/rfc/rfc5952>)
 
 
 

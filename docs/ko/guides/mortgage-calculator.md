@@ -1,4 +1,4 @@
-# 주택담보대출 계산기
+# 주택담보대출 계산기 사용 가이드
 
 
 
@@ -57,6 +57,10 @@ I_k=r B_{k-1},\qquad B_k=B_{k-1}-(M_k-I_k)
 $$
 
 
+
+
+
+**계산 및 처리 방식의 출처** [CFPB · Mortgage amortization](<https://www.consumerfinance.gov/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/>)
 
 
 

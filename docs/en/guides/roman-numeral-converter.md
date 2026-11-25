@@ -1,4 +1,4 @@
-# Roman numeral converter
+# Roman numeral converter guide
 
 
 
@@ -60,7 +60,11 @@ The converter uses standard subtractive pairs such as IV and CM. An overline mul
 
 
 
-**Single value**
+
+
+### Single value
+
+
 
 - Integer or Roman numeral
 
@@ -68,7 +72,11 @@ The converter uses standard subtractive pairs such as IV and CM. An overline mul
 
 
 
-**Date or list**
+
+
+### Date or list
+
+
 
 - Values or date
 

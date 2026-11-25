@@ -1,4 +1,4 @@
-# Calculadora de caída de tensión
+# Guía de uso · Calculadora de caída de tensión
 
 
 
@@ -47,6 +47,54 @@ Caída de 0,37 V, 0,30 %
 
 
 
+<a id="case-study"></a>
+
+
+
+## Usar una tabla de cables
+
+
+
+1. Con 1 mV/(A·m), 50 m de ida y 100 A, este cable pierde 5 V. Schneider suma otros 10 V aguas arriba, con un total de 15 V para todo el trayecto.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/voltage-drop-calculator/#example-cable-table>)
+
+
+
+
+
+## Circuito trifásico paralelo
+
+
+
+Dos conductores por fase comparten 20 A. Con 400 V, 100 m, R = 1 Ω/km, X = 0,5 Ω/km y factor inductivo 0,8, la caída es 1,91 V y la carga recibe 398,09 V.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/voltage-drop-calculator/#example-parallel-cable>)
+
+
+
+
+
+
+
+## Caída superior a la fuente
+
+
+
+Con 24 V CC, 10 A y 1 km de ida a 5 Ω/km, la caída sería 100 V. Con esa corriente el modelo no da una tensión de carga.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/voltage-drop-calculator/#example-cable-limit>)
+
+
+
+
+
 
 
 ## Pruébalo
@@ -85,15 +133,21 @@ $$
 
 
 
-**Resistencia o impedancia conocida**
 
+
+### Resistencia o impedancia conocida
+
+
+
+- Dato publicado · Impedancia del conductor / Coeficiente de caída del circuito
 - Resistencia o impedancia por longitud
 - Unidad por longitud · Ω/km / Ω/m / mΩ/m / Ω/1000 pies / Ω/ft / mΩ/ft
+- Coeficiente tabulado del circuito · mV/(A·m)
 - Tensión · V
 - Circuito · DC / CA monofásica / CA trifásica
 - Conductores en paralelo por fase
 - Distancia de ida
-- Unidad de longitud · ft / m / \# / km
+- Unidad de longitud · ft / m / mi / km
 - Corriente · A
 - Límite de caída para estimar la distancia · %
 
@@ -101,7 +155,11 @@ $$
 
 
 
-**Estimar según el calibre**
+
+
+### Estimar según el calibre
+
+
 
 - Material · Cobre / Aluminio / Plata / Oro
 - Calibre del cable
@@ -109,7 +167,7 @@ $$
 - Circuito · DC / CA monofásica / CA trifásica
 - Conductores en paralelo por fase
 - Distancia de ida
-- Unidad de longitud · ft / m / \# / km
+- Unidad de longitud · ft / m / mi / km
 - Corriente · A
 - Límite de caída para estimar la distancia · %
 
@@ -117,7 +175,11 @@ $$
 
 
 
-**Estimar según el área**
+
+
+### Estimar según el área
+
+
 
 - Material · Cobre / Aluminio / Plata / Oro
 - Área transversal · mm²
@@ -125,7 +187,7 @@ $$
 - Circuito · DC / CA monofásica / CA trifásica
 - Conductores en paralelo por fase
 - Distancia de ida
-- Unidad de longitud · ft / m / \# / km
+- Unidad de longitud · ft / m / mi / km
 - Corriente · A
 - Límite de caída para estimar la distancia · %
 
@@ -133,7 +195,11 @@ $$
 
 
 
-**Resistencia y reactancia**
+
+
+### Resistencia y reactancia
+
+
 
 - Resistencia
 - Reactancia por longitud
@@ -143,13 +209,17 @@ $$
 - Circuito · DC / CA monofásica / CA trifásica
 - Conductores en paralelo por fase
 - Distancia de ida
-- Unidad de longitud · ft / m / \# / km
+- Unidad de longitud · ft / m / mi / km
 - Corriente · A
 - Límite de caída para estimar la distancia · %
 
 
 
 
+
+
+
+**Fuentes del método** [Schneider Electric · Voltage drop in steady load conditions](<https://www.electrical-installation.org/enwiki/Calculation_of_voltage_drop_in_steady_load_conditions>)
 
 
 

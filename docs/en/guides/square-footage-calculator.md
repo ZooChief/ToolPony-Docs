@@ -1,4 +1,4 @@
-# Square footage calculator
+# Square footage calculator guide
 
 
 
@@ -94,7 +94,11 @@ For a sector, r is radius and θ is the angle in radians after any conversion. I
 
 
 
-**Rectangle**
+
+
+### Rectangle
+
+
 
 - Length
 - Length unit
@@ -109,7 +113,11 @@ For a sector, r is radius and θ is the angle in radians after any conversion. I
 
 
 
-**Rectangle border**
+
+
+### Rectangle border
+
+
 
 - Length
 - Length unit
@@ -126,7 +134,11 @@ For a sector, r is radius and θ is the angle in radians after any conversion. I
 
 
 
-**Circle**
+
+
+### Circle
+
+
 
 - Diameter
 - Diameter unit
@@ -139,7 +151,11 @@ For a sector, r is radius and θ is the angle in radians after any conversion. I
 
 
 
-**Ring**
+
+
+### Ring
+
+
 
 - Outer diameter
 - Outer diameter unit
@@ -154,7 +170,11 @@ For a sector, r is radius and θ is the angle in radians after any conversion. I
 
 
 
-**Triangle · three sides**
+
+
+### Triangle · three sides
+
+
 
 - First side
 - First side unit
@@ -171,7 +191,11 @@ For a sector, r is radius and θ is the angle in radians after any conversion. I
 
 
 
-**Triangle · base and height**
+
+
+### Triangle · base and height
+
+
 
 - Base
 - Base unit
@@ -186,7 +210,11 @@ For a sector, r is radius and θ is the angle in radians after any conversion. I
 
 
 
-**Trapezoid**
+
+
+### Trapezoid
+
+
 
 - First parallel side
 - First parallel side unit
@@ -203,7 +231,11 @@ For a sector, r is radius and θ is the angle in radians after any conversion. I
 
 
 
-**Circular sector**
+
+
+### Circular sector
+
+
 
 - Radius
 - Radius unit
@@ -218,7 +250,11 @@ For a sector, r is radius and θ is the angle in radians after any conversion. I
 
 
 
-**Parallelogram**
+
+
+### Parallelogram
+
+
 
 - Base
 - Base unit

@@ -1,4 +1,4 @@
-# Dokument in Text umwandeln
+# Anleitung: Dokument in Text umwandeln
 
 
 

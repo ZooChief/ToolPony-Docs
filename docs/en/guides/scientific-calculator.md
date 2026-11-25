@@ -1,4 +1,4 @@
-# Scientific calculator
+# Scientific calculator guide
 
 
 
@@ -34,6 +34,23 @@ sqrt(81) + 2^3 × sin(30), degrees
 
 
 
+<a id="case-study"></a>
+
+
+
+## Measure a diagonal
+
+
+
+1. A panel is 12 by 5 cm. Paste √(12² + 5²) to get a 13 cm diagonal. You can also select part of a formula and press x² to square just that part.
+2. To find the angle opposite the 5 cm side, use DEG and enter asin(5/Ans) immediately after the diagonal. It is about 22.62°.
+
+
+
+[Run example](<https://toolpony.com/en/tools/scientific-calculator/#example-panel-diagonal>)
+
+
+
 
 
 ## Try it
@@ -51,6 +68,10 @@ sqrt(81) + 2^3 × sin(30), degrees
 Operators follow parentheses, postfix, exponent, multiplication and addition precedence. Powers associate from the right. Percent divides by 100. Results use floating-point arithmetic.
 
 
+
+
+
+**Method references** [Python · Power and unary operators](<https://docs.python.org/3/reference/expressions.html#the-power-operator>)
 
 
 

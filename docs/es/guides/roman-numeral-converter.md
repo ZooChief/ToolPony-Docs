@@ -1,4 +1,4 @@
-# Conversor de números romanos
+# Guía de uso · Conversor de números romanos
 
 
 
@@ -60,7 +60,11 @@ El convertidor utiliza pares subtráctiles estándar como IV y CM. Un overline m
 
 
 
-**Valor único**
+
+
+### Valor único
+
+
 
 - Número entero o romano
 
@@ -68,7 +72,11 @@ El convertidor utiliza pares subtráctiles estándar como IV y CM. Un overline m
 
 
 
-**Fecha o lista**
+
+
+### Fecha o lista
+
+
 
 - Valores o fecha
 

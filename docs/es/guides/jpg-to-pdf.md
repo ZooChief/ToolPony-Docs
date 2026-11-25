@@ -1,4 +1,4 @@
-# Convertir imágenes a PDF
+# Guía de uso · Convertir imágenes a PDF
 
 
 

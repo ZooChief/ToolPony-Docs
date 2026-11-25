@@ -1,4 +1,4 @@
-# Generador de UUID
+# Guía de uso · Generador de UUID
 
 
 
@@ -31,6 +31,23 @@ Ejemplo: 550e8400-e29b-41d4-a716-446655440000
 ```
 
 
+
+
+
+<a id="case-study"></a>
+
+
+
+## Preparar 27 identificadores para importar
+
+
+
+1. Genera 27 UUID en mayúsculas. El tercer grupo empieza por 4 y el cuarto por 8, 9, A o B.
+2. La última página muestra las filas 25 a 27. Copia la 27 para comprobar un registro o descarga las 27 líneas de texto en su orden original.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/uuid-generator/#example-import-ids>)
 
 
 

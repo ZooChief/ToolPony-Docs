@@ -1,4 +1,4 @@
-# 随机数生成器
+# 随机数生成器使用指南
 
 
 
@@ -34,6 +34,22 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## 抽四张票
+
+
+
+1. 给 12 张票编号 101 至 112，勾选不重复，抽取 4 张。开启升序便于唱票，关闭后可看原始抽取次序。CSV 保留每张票原本是第几次抽中的。
+
+
+
+[运行示例](<https://toolpony.com/zh-hans/tools/random-number-generator/#example-ticket-draw>)
+
+
+
 
 
 ## 试一试
@@ -51,6 +67,10 @@
 随机值来自 Web Crypto，采用拒绝采样避免取模偏差。最多生成 1,000 个数，区间范围为 −10 亿至 10 亿。
 
 
+
+
+
+**方法来源** [W3C · Web Cryptography](<https://www.w3.org/TR/WebCryptoAPI/#Crypto-method-getRandomValues>)
 
 
 

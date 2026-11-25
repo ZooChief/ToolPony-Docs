@@ -1,8 +1,8 @@
-# Créateur de graphiques
+# Guide pratique · Créateur de graphiques
 
 
 
-Coller CSV avec un en-tête, une colonne d'étiquette et des séries numériques. Choisir des barres ou des lignes, mettre à jour le graphique et télécharger SVG.
+Collez un CSV avec un en-tête, des libellés dans la première colonne et des séries numériques. Choisissez des barres ou des courbes, puis téléchargez le graphique au format SVG.
 
 
 
@@ -13,7 +13,7 @@ Coller CSV avec un en-tête, une colonne d'étiquette et des séries numériques
 
 
 1. Saisissez un en-tête CSV. Placez les étiquettes de catégorie dans la première colonne et les séries numériques dans les colonnes restantes.
-2. Choisissez des barres ou des lignes et mettez à jour l'aperçu.
+2. Choisissez des barres ou des courbes. Le graphique suit vos modifications.
 3. Téléchargez le graphique sous forme de SVG.
 
 

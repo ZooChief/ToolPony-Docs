@@ -1,4 +1,4 @@
-# Z-score calculator
+# Z-score calculator guide
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Standardize a value**
+
+
+### Standardize a value
+
+
 
 - Observed value
 - Mean
@@ -76,7 +80,11 @@ $$
 
 
 
-**Z-score to probabilities**
+
+
+### Z-score to probabilities
+
+
 
 - Z-score
 
@@ -84,7 +92,11 @@ $$
 
 
 
-**Probability to Z-score**
+
+
+### Probability to Z-score
+
+
 
 - Probability region · Left-tail probability / Right-tail probability / From the center to |z| / Between −|z| and |z| / Two-tail probability
 - Probability
@@ -93,7 +105,11 @@ $$
 
 
 
-**Probability between Z-scores**
+
+
+### Probability between Z-scores
+
+
 
 - Lower Z-score
 - Upper Z-score

@@ -1,4 +1,4 @@
-# Calculadora de datas
+# Guia de uso · Calculadora de datas
 
 
 
@@ -73,7 +73,11 @@ Dias úteis vão de segunda a sexta, excluindo as datas informadas. AAAA-MM-DD v
 
 
 
-**Entre datas**
+
+
+### Entre datas
+
+
 
 - Data inicial
 - Data final
@@ -84,7 +88,11 @@ Dias úteis vão de segunda a sexta, excluindo as datas informadas. AAAA-MM-DD v
 
 
 
-**Somar ou subtrair datas**
+
+
+### Somar ou subtrair datas
+
+
 
 - Data inicial
 - Anos
@@ -96,7 +104,11 @@ Dias úteis vão de segunda a sexta, excluindo as datas informadas. AAAA-MM-DD v
 
 
 
-**Deslocar em dias úteis**
+
+
+### Deslocar em dias úteis
+
+
 
 - Data inicial
 - Dias úteis

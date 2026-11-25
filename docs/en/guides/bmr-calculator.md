@@ -1,4 +1,4 @@
-# BMR and calorie calculator
+# BMR and calorie calculator guide
 
 
 
@@ -34,6 +34,23 @@ Male equation, 30 years, 70 kg, 175 cm, Mifflin–St Jeor
 
 
 
+<a id="case-study"></a>
+
+
+
+## Estimate from lean mass
+
+
+
+1. With a weight of 70 kg and an assumed body fat of 20%, lean mass is 56 kg. Katch–McArdle gives 370 + 21.6 × 56 = 1,579.6 kcal/day at rest.
+2. A factor of 1.20 gives a daily estimate of 1,895.52 kcal. Changing that assumption to 1.55 gives 2,448.38 kcal. Both use the same resting estimate.
+
+
+
+[Run example](<https://toolpony.com/en/tools/bmr-calculator/#example-lean-mass>)
+
+
+
 
 
 ## Try it
@@ -60,13 +77,17 @@ Resting energy is estimated with Mifflin–St Jeor, revised Harris–Benedict or
 
 
 
-**Metric**
 
+
+### Metric
+
+
+
+- Equation · Mifflin–St Jeor / Revised Harris–Benedict / Katch–McArdle
 - Age
 - Equation group · Male / Female
 - Weight · kg
 - Height · cm
-- Equation · Mifflin–St Jeor / Revised Harris–Benedict / Katch–McArdle
 - Body fat for Katch–McArdle · %
 - Activity factor
 - Energy unit · kcal/day / kJ/day
@@ -75,14 +96,18 @@ Resting energy is estimated with Mifflin–St Jeor, revised Harris–Benedict or
 
 
 
-**US customary**
 
+
+### US customary
+
+
+
+- Equation · Mifflin–St Jeor / Revised Harris–Benedict / Katch–McArdle
 - Age
 - Equation group · Male / Female
 - Weight · lb
 - Height in feet · ft
 - Additional inches · in
-- Equation · Mifflin–St Jeor / Revised Harris–Benedict / Katch–McArdle
 - Body fat for Katch–McArdle · %
 - Activity factor
 - Energy unit · kcal/day / kJ/day
@@ -93,7 +118,7 @@ Resting energy is estimated with Mifflin–St Jeor, revised Harris–Benedict or
 
 
 
-**Method references** [Mifflin et al. (1990)](<https://pubmed.ncbi.nlm.nih.gov/2305711/>) · [Roza &amp; Shizgal (1984)](<https://pubmed.ncbi.nlm.nih.gov/6741850/>)
+**Method references** [Mifflin et al. (1990)](<https://pubmed.ncbi.nlm.nih.gov/2305711/>) · [Roza &amp; Shizgal (1984)](<https://pubmed.ncbi.nlm.nih.gov/6741850/>) · [Cunningham (1991) · Fat-free mass and resting energy](<https://pubmed.ncbi.nlm.nih.gov/1957828/>) · [NIST · Thermochemical calorie](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>)
 
 
 

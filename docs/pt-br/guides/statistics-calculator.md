@@ -1,4 +1,4 @@
-# Calculadora estatística
+# Guia de uso · Calculadora estatística
 
 
 
@@ -76,7 +76,11 @@ Use o desvio padrão da amostra para um subconjunto de uma população e um desv
 
 
 
-**Resumo do conjunto de dados**
+
+
+### Resumo do conjunto de dados
+
+
 
 - Valores
 
@@ -84,7 +88,11 @@ Use o desvio padrão da amostra para um subconjunto de uma população e um desv
 
 
 
-**Desvio-padrão da amostra**
+
+
+### Desvio-padrão da amostra
+
+
 
 - Valores
 
@@ -92,7 +100,11 @@ Use o desvio padrão da amostra para um subconjunto de uma população e um desv
 
 
 
-**Desvio-padrão populacional**
+
+
+### Desvio-padrão populacional
+
+
 
 - Valores
 

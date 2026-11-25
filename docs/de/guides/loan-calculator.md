@@ -1,4 +1,4 @@
-# Kreditrechner
+# Anleitung: Kreditrechner
 
 
 
@@ -48,11 +48,25 @@ Berechnen Sie Raten, die Laufzeit aus einer Monatsrate oder datierte Sondertilgu
 
 
 
+<a id="case-study"></a>
+
+
+
+## Was spart eine monatliche Sondertilgung von 100?
+
+
+
+1. Wählen Sie das Beispiel mit monatlich 100 zusätzlich. Es rechnet mit 100.000 Darlehenssumme, zehn Jahren Laufzeit und festen 6 % pro Jahr bei monatlicher Verzinsung und Zahlung.
+2. Die reguläre Rate beträgt 1.110,21. Mit monatlich 100 zusätzlicher Tilgung sinkt die Zahl der Raten von 120 auf 107 und der Gesamtzins von 33.224,60 auf 29.328,37.
+3. Vergleichen Sie die Restschulden und prüfen Sie die letzte Rate von 1.046,63 im Tilgungsplan. Intern wird mit ungerundeten Raten gerechnet. Sonderzahlungen tilgen direkt die Restschuld.
+
+
+
 
 
 ## Ausprobieren
 
-[Vollständiges Werkzeug öffnen · Kreditrechner](<https://toolpony.com/de/tools/loan-calculator/>)
+[Vollständiges Werkzeug öffnen · Kreditrechner](<https://toolpony.com/de/tools/loan-calculator/#example-extra-payment>)
 
 
 
@@ -100,7 +114,11 @@ P ist der Kreditbetrag, r der Periodenzins, M die Regelrate und n die Laufzeit i
 
 
 
-**Ratenzahlung**
+
+
+### Ratenzahlung
+
+
 
 - Darlehensbetrag
 - Jahre
@@ -114,7 +132,11 @@ P ist der Kreditbetrag, r der Periodenzins, M die Regelrate und n die Laufzeit i
 
 
 
-**Laufzeit aus Monatsrate**
+
+
+### Laufzeit aus Monatsrate
+
+
 
 - Darlehensbetrag
 - Monatsrate
@@ -124,7 +146,11 @@ P ist der Kreditbetrag, r der Periodenzins, M die Regelrate und n die Laufzeit i
 
 
 
-**Datierte Sondertilgungen**
+
+
+### Datierte Sondertilgungen
+
+
 
 - Darlehensbetrag
 - Jahre
@@ -135,13 +161,17 @@ P ist der Kreditbetrag, r der Periodenzins, M die Regelrate und n die Laufzeit i
 - Beginn der monatlichen Sondertilgung
 - Jährliche Sondertilgung
 - Beginn der jährlichen Sondertilgung
-- Einmalzahlungen (JJJJ-MM, Betrag)
+- Einmalzahlungen
 
 
 
 
 
-**Einmalzahlung bei Fälligkeit**
+
+
+### Einmalzahlung bei Fälligkeit
+
+
 
 - Darlehensbetrag
 - Jahre
@@ -153,7 +183,11 @@ P ist der Kreditbetrag, r der Periodenzins, M die Regelrate und n die Laufzeit i
 
 
 
-**Barwert einer Einmalzahlung**
+
+
+### Barwert einer Einmalzahlung
+
+
 
 - Betrag bei Fälligkeit
 - Jahre
@@ -164,6 +198,10 @@ P ist der Kreditbetrag, r der Periodenzins, M die Regelrate und n die Laufzeit i
 
 
 
+
+
+
+**Quellen zur Methode** [CFPB · Mortgage amortization](<https://www.consumerfinance.gov/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/>)
 
 
 

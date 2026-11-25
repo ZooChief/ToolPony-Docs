@@ -1,4 +1,4 @@
-# Logarithmusrechner
+# Anleitung: Logarithmusrechner
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Logarithmus**
+
+
+### Logarithmus
+
+
 
 - Basis (Zahl oder e)
 - Argumentation
@@ -75,7 +79,11 @@ $$
 
 
 
-**Basis**
+
+
+### Basis
+
+
 
 - Argumentation
 - Logarithmus
@@ -84,7 +92,11 @@ $$
 
 
 
-**Argumentation**
+
+
+### Argumentation
+
+
 
 - Basis (Zahl oder e)
 - Logarithmus

@@ -1,4 +1,4 @@
-# Conversor de legendas
+# Guia de uso · Conversor de legendas
 
 
 

@@ -1,4 +1,4 @@
-# Distance calculator
+# Distance calculator guide
 
 
 
@@ -74,7 +74,11 @@ For geographic coordinates, north and east are positive. Use the degree-minute-s
 
 
 
-**2D**
+
+
+### 2D
+
+
 
 - X1
 - Y1
@@ -85,7 +89,11 @@ For geographic coordinates, north and east are positive. Use the degree-minute-s
 
 
 
-**3D**
+
+
+### 3D
+
+
 
 - X1
 - Y1
@@ -98,7 +106,11 @@ For geographic coordinates, north and east are positive. Use the degree-minute-s
 
 
 
-**Latitude and longitude**
+
+
+### Latitude and longitude
+
+
 
 - First latitude · °
 - First longitude · °
@@ -109,7 +121,11 @@ For geographic coordinates, north and east are positive. Use the degree-minute-s
 
 
 
-**Degrees, minutes and seconds**
+
+
+### Degrees, minutes and seconds
+
+
 
 - First latitude degrees
 - First latitude minutes

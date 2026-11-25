@@ -1,8 +1,8 @@
-# Surface area calculator
+# Surface area calculator guide
 
 
 
-Calculate the total surface area of a solid, including its end faces. Compare lateral and end-face areas for shapes such as cylinders.
+Calculate a solid’s surface area. For tanks, pipes and other solids with flat ends, choose the faces to cover and compare their areas.
 
 
 
@@ -34,6 +34,23 @@ Sphere with radius 2 m
 
 
 
+<a id="case-study"></a>
+
+
+
+## Line an open rectangular tank
+
+
+
+1. Use inside dimensions of 120 cm by 0.8 m and a depth of 450 mm. Cover the four walls and one end, the floor of the tank.
+2. The walls use 1.80 m² and the floor 0.96 m², for a total of 2.76 m² before seams or waste. Selecting all faces adds a lid and brings the total to 3.72 m².
+
+
+
+[Run example](<https://toolpony.com/en/tools/surface-area-calculator/#example-open-tank>)
+
+
+
 
 
 ## Try it
@@ -48,7 +65,7 @@ Sphere with radius 2 m
 
 
 
-Total surface area includes end faces. Where applicable, lateral and end-face areas are listed separately. Ellipsoid area is approximate.
+A closed surface includes all its ends. End areas are calculated from their dimensions. Ellipsoid area is evaluated numerically with a symmetric elliptic integral.
 
 
 
@@ -66,7 +83,11 @@ $$
 
 
 
-**Sphere**
+
+
+### Sphere
+
+
 
 - Radius
 - Radius unit
@@ -76,41 +97,60 @@ $$
 
 
 
-**Cone**
+
+
+### Cone
+
+
 
 - Radius
 - Radius unit
 - Perpendicular height
 - Perpendicular height unit
+- Surfaces to cover · All faces / Sides only
 - Area unit
 
 
 
 
 
-**Cube**
+
+
+### Cube
+
+
 
 - Edge length
 - Edge length unit
+- Surfaces to cover · All faces / Sides only / Sides and one end
 - Area unit
 
 
 
 
 
-**Cylinder**
+
+
+### Cylinder
+
+
 
 - Radius
 - Radius unit
 - Perpendicular height
 - Perpendicular height unit
+- Surfaces to cover · All faces / Sides only / Sides and one end
 - Area unit
 
 
 
 
 
-**Rectangular tank**
+
+
+### Rectangular tank
+
+
 
 - Length
 - Length unit
@@ -118,13 +158,18 @@ $$
 - Width unit
 - Perpendicular height
 - Perpendicular height unit
+- Surfaces to cover · All faces / Sides only / Sides and one end
 - Area unit
 
 
 
 
 
-**Capsule**
+
+
+### Capsule
+
+
 
 - Radius
 - Radius unit
@@ -136,7 +181,11 @@ $$
 
 
 
-**Spherical cap**
+
+
+### Spherical cap
+
+
 
 - Sphere radius
 - Sphere radius unit
@@ -145,13 +194,18 @@ $$
 - Cap height
 - Cap height unit
 - Cap with both radii known · Smaller cap / Larger cap
+- Surfaces to cover · All faces / Sides only
 - Area unit
 
 
 
 
 
-**Conical frustum**
+
+
+### Conical frustum
+
+
 
 - First end radius
 - First end radius unit
@@ -159,13 +213,18 @@ $$
 - Second end radius unit
 - Perpendicular height
 - Perpendicular height unit
+- Surfaces to cover · All faces / Sides only / Sides and first end / Sides and second end
 - Area unit
 
 
 
 
 
-**Ellipsoid**
+
+
+### Ellipsoid
+
+
 
 - First semi-axis
 - First semi-axis unit
@@ -179,19 +238,28 @@ $$
 
 
 
-**Square pyramid**
+
+
+### Square pyramid
+
+
 
 - Edge length
 - Edge length unit
 - Perpendicular height
 - Perpendicular height unit
+- Surfaces to cover · All faces / Sides only
 - Area unit
 
 
 
 
 
-**Hollow tube**
+
+
+### Hollow tube
+
+
 
 - Outer diameter
 - Outer diameter unit
@@ -199,23 +267,33 @@ $$
 - Inner diameter unit
 - Length
 - Length unit
+- Surfaces to cover · All faces / Sides only / Sides and one end
 - Area unit
 
 
 
 
 
-**Hemisphere**
+
+
+### Hemisphere
+
+
 
 - Radius
 - Radius unit
+- Surfaces to cover · All faces / Sides only
 - Area unit
 
 
 
 
 
-**Ring torus**
+
+
+### Ring torus
+
+
 
 - Centerline radius
 - Centerline radius unit
@@ -226,6 +304,10 @@ $$
 
 
 
+
+
+
+**Method references** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST DLMF · Triaxial ellipsoids](<https://dlmf.nist.gov/19.33>)
 
 
 

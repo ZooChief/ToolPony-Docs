@@ -1,4 +1,4 @@
-# Calculadora de superficie en pies cuadrados
+# Guía de uso · Calculadora de superficie en pies cuadrados
 
 
 
@@ -94,7 +94,11 @@ Para un sector, r es radius y θ es el ángulo en radians después de cualquier 
 
 
 
-**Rectángulo**
+
+
+### Rectángulo
+
+
 
 - Longitud
 - Unidad de longitud
@@ -109,7 +113,11 @@ Para un sector, r es radius y θ es el ángulo en radians después de cualquier 
 
 
 
-**Frontera de rectángulo**
+
+
+### Frontera de rectángulo
+
+
 
 - Longitud
 - Unidad de longitud
@@ -126,7 +134,11 @@ Para un sector, r es radius y θ es el ángulo en radians después de cualquier 
 
 
 
-**Círculo**
+
+
+### Círculo
+
+
 
 - Diámetro
 - Unidad de diámetro
@@ -139,7 +151,11 @@ Para un sector, r es radius y θ es el ángulo en radians después de cualquier 
 
 
 
-**Anillo**
+
+
+### Anillo
+
+
 
 - Diámetro exterior
 - Unidad de diámetro exterior
@@ -154,7 +170,11 @@ Para un sector, r es radius y θ es el ángulo en radians después de cualquier 
 
 
 
-**Triángulo · tres lados**
+
+
+### Triángulo · tres lados
+
+
 
 - Primer lado
 - Primera unidad lateral
@@ -171,7 +191,11 @@ Para un sector, r es radius y θ es el ángulo en radians después de cualquier 
 
 
 
-**Triángulo · base y altura**
+
+
+### Triángulo · base y altura
+
+
 
 - Base
 - Unidad de base
@@ -186,7 +210,11 @@ Para un sector, r es radius y θ es el ángulo en radians después de cualquier 
 
 
 
-**Trapecio**
+
+
+### Trapecio
+
+
 
 - Primera cara paralela
 - Primera unidad lateral paralela
@@ -203,12 +231,16 @@ Para un sector, r es radius y θ es el ángulo en radians después de cualquier 
 
 
 
-**Sector circular**
+
+
+### Sector circular
+
+
 
 - Radio
 - Unidad radiactiva
 - Ángulo central
-- Unidad de ángulo · Grados / Radians
+- Unidad angular · Grados / Radianes
 - Cantidad
 - Precio unitario
 - Precio por área
@@ -218,7 +250,11 @@ Para un sector, r es radius y θ es el ángulo en radians después de cualquier 
 
 
 
-**Parallelograma**
+
+
+### Parallelograma
+
+
 
 - Base
 - Unidad de base

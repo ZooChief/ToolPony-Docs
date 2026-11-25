@@ -1,4 +1,4 @@
-# Calculadora de potencias
+# Guía de uso · Calculadora de potencias
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Poder**
+
+
+### Poder
+
+
 
 - Base
 - Exponente
@@ -75,7 +79,11 @@ $$
 
 
 
-**Base**
+
+
+### Base
+
+
 
 - Exponente
 - Valor de potencia
@@ -84,7 +92,11 @@ $$
 
 
 
-**Exponente**
+
+
+### Exponente
+
+
 
 - Base
 - Valor de potencia

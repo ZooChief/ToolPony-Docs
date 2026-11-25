@@ -1,4 +1,4 @@
-# Calculateur de feuille d’heures
+# Guide pratique · Calculateur de feuille d’heures
 
 
 

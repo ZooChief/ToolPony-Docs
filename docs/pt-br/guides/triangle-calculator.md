@@ -1,4 +1,4 @@
-# Calculadora de triângulos
+# Guia de uso · Calculadora de triângulos
 
 
 
@@ -48,6 +48,23 @@ Duas soluções, com c ≈ 13,55923 e 3,76127.
 
 
 
+<a id="case-study"></a>
+
+
+
+## Quando há dois triângulos possíveis
+
+
+
+1. Use a = 7, b = 10 e A = 30°. O lado a é oposto a A. Duas posições do vértice dão c de aproximadamente 13,56 ou 3,76. Compare os dois desenhos e as medidas.
+2. Com a = 5, a é igual a b × sin A e há um único triângulo retângulo. Abaixo de 5 não se forma um triângulo. A tabela de ângulos também mostra radianos e graus, minutos e segundos.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/triangle-calculator/#example-two-triangles>)
+
+
+
 
 
 ## Experimente
@@ -92,7 +109,11 @@ $$
 
 
 
-**Medidas conhecidas**
+
+
+### Medidas conhecidas
+
+
 
 - Lado a
 - Lado b
@@ -106,7 +127,11 @@ $$
 
 
 
-**Três lados (LLL)**
+
+
+### Três lados (LLL)
+
+
 
 - Lado a
 - Lado b
@@ -116,7 +141,11 @@ $$
 
 
 
-**Dois lados e ângulo entre eles (LAL)**
+
+
+### Dois lados e ângulo entre eles (LAL)
+
+
 
 - Lado b
 - Lado c
@@ -126,7 +155,11 @@ $$
 
 
 
-**Dois ângulos e um lado**
+
+
+### Dois ângulos e um lado
+
+
 
 - Ângulo A · °
 - Ângulo B · °
@@ -137,7 +170,11 @@ $$
 
 
 
-**Dois lados e um ângulo oposto (LLA)**
+
+
+### Dois lados e um ângulo oposto (LLA)
+
+
 
 - Lado a
 - Lado b
@@ -147,7 +184,11 @@ $$
 
 
 
-**Catetos do triângulo retângulo**
+
+
+### Catetos do triângulo retângulo
+
+
 
 - Lado a
 - Lado b
@@ -155,6 +196,10 @@ $$
 
 
 
+
+
+
+**Referências do método** [MathWorld · Law of sines](<https://mathworld.wolfram.com/LawofSines.html>)
 
 
 

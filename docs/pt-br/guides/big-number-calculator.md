@@ -1,4 +1,4 @@
-# Calculadora de números grandes
+# Guia de uso · Calculadora de números grandes
 
 
 

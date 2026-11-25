@@ -1,4 +1,4 @@
-# Rechner für quadratische Gleichungen
+# Anleitung: Rechner für quadratische Gleichungen
 
 
 

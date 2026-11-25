@@ -1,4 +1,4 @@
-# Calculadora de interés simple
+# Guía de uso · Calculadora de interés simple
 
 
 
@@ -74,7 +74,11 @@ Usar los modos inversos cuando se conoce el equilibrio final. Una tasa cero o un
 
 
 
-**Intereses y saldo final**
+
+
+### Intereses y saldo final
+
+
 
 - Principal
 - Tasa de interés · %
@@ -86,7 +90,11 @@ Usar los modos inversos cuando se conoce el equilibrio final. Una tasa cero o un
 
 
 
-**Encontrar el director**
+
+
+### Encontrar el director
+
+
 
 - Saldo final
 - Tasa de interés · %
@@ -98,7 +106,11 @@ Usar los modos inversos cuando se conoce el equilibrio final. Una tasa cero o un
 
 
 
-**Buscar tipo de interés**
+
+
+### Buscar tipo de interés
+
+
 
 - Principal
 - Saldo final
@@ -110,7 +122,11 @@ Usar los modos inversos cuando se conoce el equilibrio final. Una tasa cero o un
 
 
 
-**Buscar un término**
+
+
+### Buscar un término
+
+
 
 - Principal
 - Saldo final

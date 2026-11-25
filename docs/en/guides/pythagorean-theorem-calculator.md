@@ -1,4 +1,4 @@
-# Pythagorean theorem calculator
+# Pythagorean theorem calculator guide
 
 
 

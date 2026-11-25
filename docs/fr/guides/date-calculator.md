@@ -1,4 +1,4 @@
-# Calculateur de dates
+# Guide pratique · Calculateur de dates
 
 
 
@@ -73,7 +73,11 @@ Les jours ouvrés vont du lundi au vendredi, hors jours fériés saisis. AAAA-MM
 
 
 
-**Entre deux dates**
+
+
+### Entre deux dates
+
+
 
 - Date de début
 - Date de fin
@@ -84,7 +88,11 @@ Les jours ouvrés vont du lundi au vendredi, hors jours fériés saisis. AAAA-MM
 
 
 
-**Ajouter ou soustraire à une date**
+
+
+### Ajouter ou soustraire à une date
+
+
 
 - Date de début
 - Années
@@ -96,7 +104,11 @@ Les jours ouvrés vont du lundi au vendredi, hors jours fériés saisis. AAAA-MM
 
 
 
-**Décaler en jours ouvrés**
+
+
+### Décaler en jours ouvrés
+
+
 
 - Date de début
 - Jours ouvrés

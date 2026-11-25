@@ -1,8 +1,8 @@
-# Volumenrechner
+# Anleitung: Volumenrechner
 
 
 
-Berechnen Sie Tankinhalt und Körpervolumen aus den Abmessungen. Bei Hohlrohren liefern Innen- und Außenradius das Materialvolumen. Ausgabe in Litern oder Kubikeinheiten.
+Berechne Tankinhalt oder Körpervolumen in Litern oder Kubikeinheiten. Außendurchmesser, Innendurchmesser und Länge ergeben das Materialvolumen eines Rohres.
 
 
 
@@ -48,6 +48,26 @@ Kugel mit Radius von 2 m
 
 
 
+[Beispiel ausführen](<https://toolpony.com/de/tools/volume-calculator/#example-tank-fill-line>)
+
+
+
+
+
+## Rohrwand und Innenraum
+
+
+
+Bei einem Meter Rohr mit 60 mm Außendurchmesser und 48 mm Innendurchmesser entfallen etwa 1,018 L auf das Material und 1,810 L auf das Innenvolumen. Die CSV-Datei enthält beide Ergebnisse und Durchmesser.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/volume-calculator/#example-pipe-wall>)
+
+
+
+
+
 
 
 ## Ausprobieren
@@ -80,7 +100,11 @@ $$
 
 
 
-**Kugel**
+
+
+### Kugel
+
+
 
 - Radius
 - Radiuseinheit
@@ -90,7 +114,11 @@ $$
 
 
 
-**Kegel**
+
+
+### Kegel
+
+
 
 - Radius
 - Radiuseinheit
@@ -102,7 +130,11 @@ $$
 
 
 
-**Würfel**
+
+
+### Würfel
+
+
 
 - Kantenlänge
 - Kantenlängeneinheit
@@ -112,7 +144,11 @@ $$
 
 
 
-**Zylinder**
+
+
+### Zylinder
+
+
 
 - Radius
 - Radiuseinheit
@@ -124,7 +160,11 @@ $$
 
 
 
-**Rechteckbehälter**
+
+
+### Rechteckbehälter
+
+
 
 - Länge
 - Längeneinheit
@@ -138,7 +178,11 @@ $$
 
 
 
-**Kapsel**
+
+
+### Kapsel
+
+
 
 - Radius
 - Radiuseinheit
@@ -150,7 +194,11 @@ $$
 
 
 
-**Kugelkappe**
+
+
+### Kugelkappe
+
+
 
 - Kugelradius
 - Einheit des Kugelradius
@@ -165,7 +213,11 @@ $$
 
 
 
-**Kegelstumpf**
+
+
+### Kegelstumpf
+
+
 
 - erster Endradius
 - erste Endradiuseinheit
@@ -179,7 +231,11 @@ $$
 
 
 
-**Ellipsoid**
+
+
+### Ellipsoid
+
+
 
 - Erste Halbachse
 - Erste Halbachseneinheit
@@ -193,7 +249,11 @@ $$
 
 
 
-**Quadratpyramide**
+
+
+### Quadratpyramide
+
+
 
 - Kantenlänge
 - Kantenlängeneinheit
@@ -205,7 +265,11 @@ $$
 
 
 
-**Hohlrohr**
+
+
+### Hohlrohr
+
+
 
 - Außendurchmesser
 - Außendurchmessereinheit
@@ -219,7 +283,11 @@ $$
 
 
 
-**Hemisphäre**
+
+
+### Hemisphäre
+
+
 
 - Radius
 - Radiuseinheit
@@ -229,7 +297,11 @@ $$
 
 
 
-**Ringtorus**
+
+
+### Ringtorus
+
+
 
 - Mittellinienradius
 - Einheit für den Mittelradius
@@ -243,7 +315,7 @@ $$
 
 
 
-**Quellen zur Methode** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+**Quellen zur Methode** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST DLMF · Triaxial ellipsoids](<https://dlmf.nist.gov/19.33>)
 
 
 

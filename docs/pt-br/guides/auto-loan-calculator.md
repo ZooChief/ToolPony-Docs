@@ -1,4 +1,4 @@
-# Calculadora de financiamento de veículos
+# Guia de uso · Calculadora de financiamento de veículos
 
 
 
@@ -83,7 +83,11 @@ V é o preço, D a entrada, T o valor da troca, O a dívida pendente, R o descon
 
 
 
-**Calcular a parcela mensal**
+
+
+### Calcular a parcela mensal
+
+
 
 - Preço do veículo
 - Meses
@@ -103,7 +107,11 @@ V é o preço, D a entrada, T o valor da troca, O a dívida pendente, R o descon
 
 
 
-**Calcular preço do veículo**
+
+
+### Calcular preço do veículo
+
+
 
 - Parcela mensal
 - Meses

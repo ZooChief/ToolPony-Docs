@@ -1,4 +1,4 @@
-# Zahlensystem-Umrechner und Rechner
+# Anleitung: Zahlensystem-Umrechner und Rechner
 
 
 
@@ -34,6 +34,22 @@ FF, Basis 16 zu Basis 10
 
 
 
+<a id="case-study"></a>
+
+
+
+## Eine lange Hex-ID prüfen
+
+
+
+1. Wandle 0x20\_0000\_0000\_0001 in eine Dezimalzahl um. Die letzte 1 bleibt in 9007199254740993 erhalten. Tausche die Basen oder kopiere die Binärdarstellung ohne Abstände.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/base-converter/#example-large-hex-id>)
+
+
+
 
 
 ## Ausprobieren
@@ -48,7 +64,7 @@ FF, Basis 16 zu Basis 10
 
 
 
-BigInt behält die Ganzzahlpräzision bei. Division kürzt gegen Null. Bitweise Operationen verwenden signierte BigInt-Semantik. Jeder Operande ist auf 256 Stellen begrenzt.
+BigInt erhält jede Ziffer. Die Umrechnung unterstützt bis zu 4.096 Bit, die Arithmetik bis zu 256 Ziffern je Operand. Die Ganzzahldivision rundet zu null. Leerzeichen oder Unterstriche dürfen Ziffern trennen.
 
 
 
@@ -60,7 +76,11 @@ BigInt behält die Ganzzahlpräzision bei. Division kürzt gegen Null. Bitweise 
 
 
 
-**Konverterbasis**
+
+
+### Konverterbasis
+
+
 
 - Ganze Zahl
 - Input-Basis
@@ -71,7 +91,11 @@ BigInt behält die Ganzzahlpräzision bei. Division kürzt gegen Null. Bitweise 
 
 
 
-**Ganzheitliche Arithmetik**
+
+
+### Ganzheitliche Arithmetik
+
+
 
 - Erste ganze Zahl
 - Zweite ganze Zahl

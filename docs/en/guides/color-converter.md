@@ -1,8 +1,8 @@
-# Color converter
+# Color converter guide
 
 
 
-Convert HEX, RGB and HSL, preserve alpha and preview the color.
+Convert CSS colors to HEX, RGB, HSL and OKLCH, with opacity and an sRGB fallback for wide-gamut colors.
 
 
 
@@ -34,6 +34,23 @@ rgb(102, 51, 153)
 
 
 
+<a id="case-study"></a>
+
+
+
+## Prepare a wide-gamut color for an sRGB asset
+
+
+
+1. Paste color(display-p3 0 1 0 / 70%). The green is outside sRGB. The two swatches show the source and its mapped fallback. With this mapping the HEX value is \#00FB29B3.
+2. Copy the RGB row to keep opacity at exactly 0.7. The eight-digit HEX represents opacity in one byte, B3 (179/255).
+
+
+
+[Run example](<https://toolpony.com/en/tools/color-converter/#example-wide-gamut>)
+
+
+
 
 
 ## Try it
@@ -48,7 +65,7 @@ rgb(102, 51, 153)
 
 
 
-HEX represents 8-bit channels. RGB accepts numbers or percentages. HSL uses degrees for hue and percentages for saturation and lightness. HEX output rounds channels to the nearest byte.
+HEX rounds sRGB channels to bytes. Colors outside sRGB are mapped along OKLCH chroma before export. The source preview retains the supplied color space.
 
 
 

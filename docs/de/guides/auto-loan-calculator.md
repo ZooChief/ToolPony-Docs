@@ -1,4 +1,4 @@
-# Autokreditrechner
+# Anleitung: Autokreditrechner
 
 
 
@@ -83,7 +83,11 @@ V ist der Fahrzeugpreis, D die Anzahlung, T der Inzahlungnahmewert, O die Restsc
 
 
 
-**Monatsrate berechnen**
+
+
+### Monatsrate berechnen
+
+
 
 - Fahrzeugpreis
 - Monate
@@ -103,7 +107,11 @@ V ist der Fahrzeugpreis, D die Anzahlung, T der Inzahlungnahmewert, O die Restsc
 
 
 
-**Fahrzeugpreis berechnen**
+
+
+### Fahrzeugpreis berechnen
+
+
 
 - Monatsrate
 - Monate

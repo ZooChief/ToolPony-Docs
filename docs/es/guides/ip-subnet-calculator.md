@@ -1,4 +1,4 @@
-# Calculadora de subredes IP
+# Guía de uso · Calculadora de subredes IP
 
 
 
@@ -29,6 +29,38 @@ Inspeccione redes IPv4 e IPv6, máscaras, rangos y conteos de direcciones, o pru
 ```
 Red 192.0.2.128/27, 30 hosts utilizables
 ```
+
+
+
+
+
+<a id="case-study"></a>
+
+
+
+## Comprobar un límite de subred
+
+
+
+1. 192.0.2.128/27 incluye .159, su dirección de difusión IPv4. .160 queda fuera e IPv6 pertenece a otra familia.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/ip-subnet-calculator/#example-subnet-boundary>)
+
+
+
+
+
+## Dos extremos IPv6
+
+
+
+2001:db8::8/127 contiene ::8 y ::9, en las posiciones 1 y 2. IPv6 no usa direcciones de difusión.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/ip-subnet-calculator/#example-ipv6-endpoints>)
 
 
 
@@ -74,7 +106,11 @@ La categoría de tamaño prefijo sigue la convención A/B/C de la herramienta de
 
 
 
-**IPv4**
+
+
+### IPv4
+
+
 
 - Dirección IPv4 o CIDR
 - Máscara de prefijo o subnet
@@ -84,7 +120,11 @@ La categoría de tamaño prefijo sigue la convención A/B/C de la herramienta de
 
 
 
-**IPv6**
+
+
+### IPv6
+
+
 
 - Dirección IPv6 o CIDR
 - Prefijo
@@ -93,7 +133,11 @@ La categoría de tamaño prefijo sigue la convención A/B/C de la herramienta de
 
 
 
-**Composición de la dirección de verificación**
+
+
+### Composición de la dirección de verificación
+
+
 
 - Red de CIDR
 - Dirección para comprobar
@@ -101,6 +145,10 @@ La categoría de tamaño prefijo sigue la convención A/B/C de la herramienta de
 
 
 
+
+
+
+**Fuentes del método** [IETF · RFC 4632 (CIDR)](<https://www.rfc-editor.org/rfc/rfc4632>) · [IETF · RFC 3021 (/31 links)](<https://www.rfc-editor.org/rfc/rfc3021>) · [IETF · RFC 5952 (IPv6 text)](<https://www.rfc-editor.org/rfc/rfc5952>)
 
 
 

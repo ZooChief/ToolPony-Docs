@@ -1,4 +1,4 @@
-# Calculatrice de bande passante
+# Guide pratique · Calculatrice de bande passante
 
 
 
@@ -48,9 +48,13 @@ Estimer le temps de transfert à partir de la taille du fichier, la vitesse du l
 
 
 
-Temps en secondes = octets de fichier × 8 ÷ bits effectifs par seconde. Les préfixes réseau sont décimal. La taille du fichier supporte les préfixes décimal et binaire.
+Durée en secondes = taille en octets × 8 ÷ débit effectif en bits par seconde. MB/s vaut 1 000 000 octets par seconde et MiB/s en vaut 1 048 576. Le rendement ajuste le débit disponible.
 
 
+
+
+
+**Références de la méthode** [NIST · Binary prefixes](<https://physics.nist.gov/cuu/Units/binary.html>)
 
 
 

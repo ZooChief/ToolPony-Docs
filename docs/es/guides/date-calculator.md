@@ -1,4 +1,4 @@
-# Calculadora de fechas
+# Guía de uso · Calculadora de fechas
 
 
 
@@ -73,7 +73,11 @@ Los laborables son de lunes a viernes salvo las fechas indicadas. AAAA-MM-DD se 
 
 
 
-**Entre fechas**
+
+
+### Entre fechas
+
+
 
 - Fecha inicial
 - Fecha final
@@ -84,7 +88,11 @@ Los laborables son de lunes a viernes salvo las fechas indicadas. AAAA-MM-DD se 
 
 
 
-**Sumar o restar fechas**
+
+
+### Sumar o restar fechas
+
+
 
 - Fecha inicial
 - Años
@@ -96,7 +104,11 @@ Los laborables son de lunes a viernes salvo las fechas indicadas. AAAA-MM-DD se 
 
 
 
-**Desplazar en días laborables**
+
+
+### Desplazar en días laborables
+
+
 
 - Fecha inicial
 - Días laborables

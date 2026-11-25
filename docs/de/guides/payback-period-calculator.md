@@ -1,4 +1,4 @@
-# Amortisationsdauer-Rechner
+# Anleitung: Amortisationsdauer-Rechner
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Regelmäßige oder wachsende Cashflows**
+
+
+### Regelmäßige oder wachsende Cashflows
+
+
 
 - Anfangsinvestition
 - Cashflow des ersten Jahres
@@ -78,7 +82,11 @@ $$
 
 
 
-**Unregelmäßige jährliche Cashflows**
+
+
+### Unregelmäßige jährliche Cashflows
+
+
 
 - Anfangsinvestition
 - Spätere jährliche Cashflows

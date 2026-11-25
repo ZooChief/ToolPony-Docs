@@ -1,4 +1,4 @@
-# Factor calculator
+# Factor calculator guide
 
 
 

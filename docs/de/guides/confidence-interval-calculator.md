@@ -1,8 +1,8 @@
-# Konfidenzintervall-Rechner
+# Anleitung: Konfidenzintervall-Rechner
 
 
 
-Schätzen Sie ein normales mittleres Intervall oder ein Wilson-Intervall für einen Anteil.
+Mittelwertintervalle aus Messwerten oder Kennzahlen mit z oder Student-t berechnen, Anteilsintervalle nach Wilson.
 
 
 
@@ -34,6 +34,38 @@ n = 36, Mittelwert 56, Standardabweichung 8, 99%
 
 
 
+<a id="case-study"></a>
+
+
+
+## Ein Intervall aus fünf Messungen
+
+
+
+1. 48, 49, 50, 51 und 52 haben den Mittelwert 50. Mit der Stichprobenstandardabweichung und vier Freiheitsgraden ergibt sich ein 95%-t-Intervall von etwa 48,04 bis 51,96. Die Beobachtungen gelten als unabhängig und die Grundgesamtheit als annähernd normalverteilt.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/confidence-interval-calculator/#example-five-measurements>)
+
+
+
+
+
+## Kein Fehler bei 30 Prüfungen
+
+
+
+Bei 30 unabhängigen Prüfungen gab es keinen Fehler. Das 95%-Wilson-Intervall für den Fehleranteil reicht von 0 % bis etwa 11,35 %. Weitere fehlerfreie Prüfungen verkleinern das Intervall.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/confidence-interval-calculator/#example-no-failures>)
+
+
+
+
+
 
 
 ## Ausprobieren
@@ -48,7 +80,7 @@ n = 36, Mittelwert 56, Standardabweichung 8, 99%
 
 
 
-Die normale Marge ist z mal dem Standardfehler s/√n. Wilson-Scoreintervalle passen die Mitte und Breite für Proportionen an und bleiben innerhalb von \[0,1\].
+Die Fehlerspanne ist kritischer Wert × Standardabweichung / √n. Bei bekanntem σ gilt z, bei Stichproben-s die t-Verteilung mit n − 1 Freiheitsgraden. Wilson schätzt den Binomialanteil aus Treffern und Versuchen.
 
 
 
@@ -72,18 +104,28 @@ $$
 
 
 
-**Normales mittleres Intervall**
 
+
+### Intervall für den Mittelwert
+
+
+
+- Datengrundlage · Bekanntes σ / Stichproben-s / Messwerte
 - Stichprobenumfang
 - Mittelwert
 - Standardabweichung
+- Messwerte
 - Konfidenzniveau · %
 
 
 
 
 
-**Wilson-Anteilintervall**
+
+
+### Wilson-Anteilintervall
+
+
 
 - Stichprobenumfang
 - Erfolge
@@ -92,6 +134,10 @@ $$
 
 
 
+
+
+
+**Quellen zur Methode** [NIST · Confidence limits for the mean](<https://www.itl.nist.gov/div898/handbook/eda/section3/eda352.htm>) · [NIST · Confidence limits for a proportion](<https://www.itl.nist.gov/div898/handbook/prc/section2/prc241.htm>)
 
 
 

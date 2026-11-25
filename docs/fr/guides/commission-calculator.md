@@ -1,4 +1,4 @@
-# Calculatrice de commissions
+# Guide pratique · Calculatrice de commissions
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Trouver une commission**
+
+
+### Trouver une commission
+
+
 
 - Montant des ventes
 - Taux de la Commission · %
@@ -75,7 +79,11 @@ $$
 
 
 
-**Taux de recherche**
+
+
+### Taux de recherche
+
+
 
 - Montant des ventes
 - Montant de la Commission
@@ -84,7 +92,11 @@ $$
 
 
 
-**Trouver le montant des ventes**
+
+
+### Trouver le montant des ventes
+
+
 
 - Taux de la Commission · %
 - Montant de la Commission
@@ -93,7 +105,11 @@ $$
 
 
 
-**Base et niveaux**
+
+
+### Base et niveaux
+
+
 
 - Montant des ventes
 - Commission de base

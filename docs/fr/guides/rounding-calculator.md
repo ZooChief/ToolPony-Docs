@@ -1,4 +1,4 @@
-# Calculatrice d’arrondis
+# Guide pratique · Calculatrice d’arrondis
 
 
 

@@ -1,4 +1,4 @@
-# Calculadora de cantidad de concreto
+# Guía de uso · Calculadora de cantidad de concreto
 
 
 
@@ -94,7 +94,11 @@ Para dos 7 ft × 3 ft × 5 en losas, 133 lb/ft3 da 2327.50 lb, o 38.79 equivalen
 
 
 
-**Pisado rectangular o de placas**
+
+
+### Pisado rectangular o de placas
+
+
 
 - Longitud
 - Unidad de longitud
@@ -110,7 +114,11 @@ Para dos 7 ft × 3 ft × 5 en losas, 133 lb/ft3 da 2327.50 lb, o 38.79 equivalen
 
 
 
-**Columna o pie redondo**
+
+
+### Columna o pie redondo
+
+
 
 - Diámetro
 - Unidad de diámetro
@@ -124,7 +132,11 @@ Para dos 7 ft × 3 ft × 5 en losas, 133 lb/ft3 da 2327.50 lb, o 38.79 equivalen
 
 
 
-**Elas o tubos circulares**
+
+
+### Elas o tubos circulares
+
+
 
 - Diámetro exterior
 - Unidad de diámetro exterior
@@ -140,7 +152,11 @@ Para dos 7 ft × 3 ft × 5 en losas, 133 lb/ft3 da 2327.50 lb, o 38.79 equivalen
 
 
 
-**Bordillo y cuneta**
+
+
+### Bordillo y cuneta
+
+
 
 - Profundidad de la curvatura
 - Unidad de profundidad de la placa
@@ -160,7 +176,11 @@ Para dos 7 ft × 3 ft × 5 en losas, 133 lb/ft3 da 2327.50 lb, o 38.79 equivalen
 
 
 
-**Sólidas escaleras y plataforma**
+
+
+### Sólidas escaleras y plataforma
+
+
 
 - Corre por paso
 - Corre por unidad paso

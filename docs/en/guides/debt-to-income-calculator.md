@@ -1,4 +1,4 @@
-# Debt-to-income calculator
+# Debt-to-income calculator guide
 
 
 

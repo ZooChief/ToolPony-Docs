@@ -1,4 +1,4 @@
-# Calculadora de duración
+# Guía de uso · Calculadora de duración
 
 
 
@@ -46,6 +46,22 @@ De 22:30 a 06:15 del día siguiente
 
 
 
+<a id="case-study"></a>
+
+
+
+## Sumar tres grabaciones
+
+
+
+1. Las grabaciones duran 47 min 35 s, 1 h 12 min 40 s y 8 min 15 s. Juntas, la segunda termina en 02:00:15 y el montaje dura 02:08:30. Descarga los tiempos acumulados para localizar cada corte.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/time-duration-calculator/#example-recording-sessions>)
+
+
+
 
 
 ## Pruébalo
@@ -78,7 +94,11 @@ $$
 
 
 
-**Intervalo horario**
+
+
+### Intervalo horario
+
+
 
 - Hora inicial
 - Hora final
@@ -89,7 +109,11 @@ $$
 
 
 
-**Sumar duraciones**
+
+
+### Sumar duraciones
+
+
 
 - Duraciones
 
@@ -97,7 +121,11 @@ $$
 
 
 
-**Entre fechas y horas**
+
+
+### Entre fechas y horas
+
+
 
 - Fecha inicial
 - Hora inicial
@@ -108,7 +136,11 @@ $$
 
 
 
-**Sumar o restar duraciones**
+
+
+### Sumar o restar duraciones
+
+
 
 - Primera duración
 - Operación · Sumar / Restar
@@ -118,7 +150,11 @@ $$
 
 
 
-**Desplazar fecha y hora**
+
+
+### Desplazar fecha y hora
+
+
 
 - Fecha inicial
 - Hora inicial
@@ -129,7 +165,11 @@ $$
 
 
 
-**Expresión temporal**
+
+
+### Expresión temporal
+
+
 
 - Expresión temporal
 

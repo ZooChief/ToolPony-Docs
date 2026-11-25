@@ -1,8 +1,8 @@
-# Calculatrice d’aire de surface
+# Guide pratique · Calculatrice d’aire de surface
 
 
 
-Calculez la surface totale d’un solide, faces d’extrémité comprises. Pour un cylindre, consultez séparément la surface latérale et celle des bases.
+Calculez l’aire d’un solide. Pour les réservoirs, tubes et autres solides à bases planes, choisissez les faces à couvrir et comparez leurs aires.
 
 
 
@@ -34,6 +34,23 @@ Sphère avec rayon 2 m
 
 
 
+<a id="case-study"></a>
+
+
+
+## Doubler une cuve ouverte
+
+
+
+1. Les dimensions intérieures sont de 120 cm sur 0,8 m, pour une profondeur de 450 mm. Choisissez la surface latérale et une base pour couvrir les quatre parois et le fond.
+2. Les parois représentent 1,80 m² et le fond 0,96 m², soit 2,76 m² avant raccords et chutes. Toutes les faces incluent le couvercle et portent le total à 3,72 m².
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/surface-area-calculator/#example-open-tank>)
+
+
+
 
 
 ## Essayer
@@ -48,7 +65,7 @@ Sphère avec rayon 2 m
 
 
 
-La superficie totale comprend les faces terminales. Le cas échéant, les surfaces latérales et terminales sont énumérées séparément.
+Une surface fermée comprend toutes ses bases. Leur aire est calculée à partir de leurs dimensions. L’aire de l’ellipsoïde est évaluée numériquement avec une intégrale elliptique symétrique.
 
 
 
@@ -66,7 +83,11 @@ $$
 
 
 
-**Sphère**
+
+
+### Sphère
+
+
 
 - Rayon
 - Unité de rayonnement
@@ -76,41 +97,60 @@ $$
 
 
 
-**Cône**
+
+
+### Cône
+
+
 
 - Rayon
 - Unité de rayonnement
 - Hauteur du perpendiculaire
 - Unité de hauteur perpendiculaire
+- Faces à couvrir · Toutes les faces / Surface latérale seule
 - Unité de surface
 
 
 
 
 
-**Cube**
+
+
+### Cube
+
+
 
 - Longueur des bords
 - Unité de longueur des bords
+- Faces à couvrir · Toutes les faces / Surface latérale seule / Surface latérale et une base
 - Unité de surface
 
 
 
 
 
-**Cylindre**
+
+
+### Cylindre
+
+
 
 - Rayon
 - Unité de rayonnement
 - Hauteur du perpendiculaire
 - Unité de hauteur perpendiculaire
+- Faces à couvrir · Toutes les faces / Surface latérale seule / Surface latérale et une base
 - Unité de surface
 
 
 
 
 
-**Réservoir rectangulaire**
+
+
+### Réservoir rectangulaire
+
+
 
 - Longueur
 - Unité de longueur
@@ -118,13 +158,18 @@ $$
 - Unité de largeur
 - Hauteur du perpendiculaire
 - Unité de hauteur perpendiculaire
+- Faces à couvrir · Toutes les faces / Surface latérale seule / Surface latérale et une base
 - Unité de surface
 
 
 
 
 
-**Capsule**
+
+
+### Capsule
+
+
 
 - Rayon
 - Unité de rayonnement
@@ -136,7 +181,11 @@ $$
 
 
 
-**Couvercle sphérique**
+
+
+### Couvercle sphérique
+
+
 
 - Rayon de la sphère
 - Unité du rayon de la sphère
@@ -145,13 +194,18 @@ $$
 - Hauteur du culot
 - Unité de hauteur du culot
 - Cap avec les deux rayons connus · Petite casquette / Couvercle plus grand
+- Faces à couvrir · Toutes les faces / Surface latérale seule
 - Unité de surface
 
 
 
 
 
-**Frustum conique**
+
+
+### Frustum conique
+
+
 
 - Rayon du premier bout
 - Unité de rayon de première extrémité
@@ -159,13 +213,18 @@ $$
 - Unité de rayon de deuxième extrémité
 - Hauteur du perpendiculaire
 - Unité de hauteur perpendiculaire
+- Faces à couvrir · Toutes les faces / Surface latérale seule / Surface latérale et première base / Surface latérale et seconde base
 - Unité de surface
 
 
 
 
 
-**Ellipsoïde**
+
+
+### Ellipsoïde
+
+
 
 - Première semi-axe
 - Première unité semi-axe
@@ -179,19 +238,28 @@ $$
 
 
 
-**Pyramide carrée**
+
+
+### Pyramide carrée
+
+
 
 - Longueur des bords
 - Unité de longueur des bords
 - Hauteur du perpendiculaire
 - Unité de hauteur perpendiculaire
+- Faces à couvrir · Toutes les faces / Surface latérale seule
 - Unité de surface
 
 
 
 
 
-**Tube creux**
+
+
+### Tube creux
+
+
 
 - Diamètre extérieur
 - Unité de diamètre extérieur
@@ -199,23 +267,33 @@ $$
 - Unité de diamètre intérieur
 - Longueur
 - Unité de longueur
+- Faces à couvrir · Toutes les faces / Surface latérale seule / Surface latérale et une base
 - Unité de surface
 
 
 
 
 
-**Hémisphère**
+
+
+### Hémisphère
+
+
 
 - Rayon
 - Unité de rayonnement
+- Faces à couvrir · Toutes les faces / Surface latérale seule
 - Unité de surface
 
 
 
 
 
-**Tore annulaire**
+
+
+### Tore annulaire
+
+
 
 - Rayon de ligne centrale
 - Unité de rayon de ligne centrale
@@ -226,6 +304,10 @@ $$
 
 
 
+
+
+
+**Références de la méthode** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST DLMF · Triaxial ellipsoids](<https://dlmf.nist.gov/19.33>)
 
 
 

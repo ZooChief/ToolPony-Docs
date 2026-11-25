@@ -1,4 +1,4 @@
-# Calculateur de prêt
+# Guide pratique · Calculateur de prêt
 
 
 
@@ -48,11 +48,25 @@ Calculez des versements, une durée à partir de la mensualité ou des rembourse
 
 
 
+<a id="case-study"></a>
+
+
+
+## Combien économise-t-on en versant 100 de plus par mois ?
+
+
+
+1. Lancez l’exemple avec un supplément mensuel de 100. Le capital est de 100 000 sur dix ans à un taux annuel fixe de 6 %, avec capitalisation et versements mensuels.
+2. La mensualité prévue est de 1 110,21. En remboursant 100 de capital de plus chaque mois, on passe de 120 à 107 versements. Les intérêts passent de 33 224,60 à 29 328,37.
+3. Comparez les courbes et vérifiez le dernier versement de 1 046,63 dans l’échéancier. Le calcul utilise les mensualités avant arrondi et déduit le supplément du capital.
+
+
+
 
 
 ## Essayer
 
-[Ouvrir l’outil complet · Calculateur de prêt](<https://toolpony.com/fr/tools/loan-calculator/>)
+[Ouvrir l’outil complet · Calculateur de prêt](<https://toolpony.com/fr/tools/loan-calculator/#example-extra-payment>)
 
 
 
@@ -100,7 +114,11 @@ Pour 45 000 à 6,3 % et 785 par mois, la durée estimée est de 68,38 mois. En m
 
 
 
-**Versements échelonnés**
+
+
+### Versements échelonnés
+
+
 
 - Capital emprunté
 - Années
@@ -114,7 +132,11 @@ Pour 45 000 à 6,3 % et 785 par mois, la durée estimée est de 68,38 mois. En m
 
 
 
-**Durée à partir du versement mensuel**
+
+
+### Durée à partir du versement mensuel
+
+
 
 - Capital emprunté
 - Versement mensuel
@@ -124,7 +146,11 @@ Pour 45 000 à 6,3 % et 785 par mois, la durée estimée est de 68,38 mois. En m
 
 
 
-**Versements supplémentaires datés**
+
+
+### Versements supplémentaires datés
+
+
 
 - Capital emprunté
 - Années
@@ -135,13 +161,17 @@ Pour 45 000 à 6,3 % et 785 par mois, la durée estimée est de 68,38 mois. En m
 - Début du supplément mensuel
 - Supplément annuel
 - Début du supplément annuel
-- Versements ponctuels (AAAA-MM, montant)
+- Versements ponctuels
 
 
 
 
 
-**Versement unique à l’échéance**
+
+
+### Versement unique à l’échéance
+
+
 
 - Capital emprunté
 - Années
@@ -153,7 +183,11 @@ Pour 45 000 à 6,3 % et 785 par mois, la durée estimée est de 68,38 mois. En m
 
 
 
-**Valeur actuelle d’une somme future**
+
+
+### Valeur actuelle d’une somme future
+
+
 
 - Somme due à l’échéance
 - Années
@@ -164,6 +198,10 @@ Pour 45 000 à 6,3 % et 785 par mois, la durée estimée est de 68,38 mois. En m
 
 
 
+
+
+
+**Références de la méthode** [CFPB · Mortgage amortization](<https://www.consumerfinance.gov/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/>)
 
 
 

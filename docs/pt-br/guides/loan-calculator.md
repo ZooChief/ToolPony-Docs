@@ -1,4 +1,4 @@
-# Calculadora de empréstimos
+# Guia de uso · Calculadora de empréstimos
 
 
 
@@ -48,11 +48,25 @@ Calcule parcelas, obtenha o prazo a partir do pagamento mensal ou programe pagam
 
 
 
+<a id="case-study"></a>
+
+
+
+## Quanto se economiza pagando 100 a mais por mês?
+
+
+
+1. Escolha o exemplo com 100 a mais por mês. O principal é 100.000 em dez anos a uma taxa fixa de 6% ao ano, com capitalização e pagamentos mensais.
+2. A prestação prevista é 1.110,21. Amortizando mais 100 por mês, o prazo passa de 120 para 107 parcelas e os juros caem de 33.224,60 para 29.328,37.
+3. Compare as curvas e confira a última parcela de 1.046,63 na tabela. O cálculo usa a prestação antes do arredondamento e abate o pagamento extra do principal.
+
+
+
 
 
 ## Experimente
 
-[Abrir ferramenta completa · Calculadora de empréstimos](<https://toolpony.com/pt-br/tools/loan-calculator/>)
+[Abrir ferramenta completa · Calculadora de empréstimos](<https://toolpony.com/pt-br/tools/loan-calculator/#example-extra-payment>)
 
 
 
@@ -100,7 +114,11 @@ Com 45.000 a 6,3% e parcela de 785, o prazo estimado é de 68,38 meses. Em meses
 
 
 
-**Parcelas**
+
+
+### Parcelas
+
+
 
 - Principal
 - Anos
@@ -114,7 +132,11 @@ Com 45.000 a 6,3% e parcela de 785, o prazo estimado é de 68,38 meses. Em meses
 
 
 
-**Prazo a partir da parcela**
+
+
+### Prazo a partir da parcela
+
+
 
 - Principal
 - Parcela mensal
@@ -124,7 +146,11 @@ Com 45.000 a 6,3% e parcela de 785, o prazo estimado é de 68,38 meses. Em meses
 
 
 
-**Pagamentos extras com datas**
+
+
+### Pagamentos extras com datas
+
+
 
 - Principal
 - Anos
@@ -135,13 +161,17 @@ Com 45.000 a 6,3% e parcela de 785, o prazo estimado é de 68,38 meses. Em meses
 - Início dos extras mensais
 - Pagamento extra anual
 - Início dos extras anuais
-- Pagamentos únicos (AAAA-MM, valor)
+- Pagamentos únicos
 
 
 
 
 
-**Pagamento único no vencimento**
+
+
+### Pagamento único no vencimento
+
+
 
 - Principal
 - Anos
@@ -153,7 +183,11 @@ Com 45.000 a 6,3% e parcela de 785, o prazo estimado é de 68,38 meses. Em meses
 
 
 
-**Valor presente de um pagamento único**
+
+
+### Valor presente de um pagamento único
+
+
 
 - Montante no vencimento
 - Anos
@@ -164,6 +198,10 @@ Com 45.000 a 6,3% e parcela de 785, o prazo estimado é de 68,38 meses. Em meses
 
 
 
+
+
+
+**Referências do método** [CFPB · Mortgage amortization](<https://www.consumerfinance.gov/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/>)
 
 
 

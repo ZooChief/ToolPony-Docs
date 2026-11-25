@@ -1,4 +1,4 @@
-# 掷骰子
+# 掷骰子使用指南
 
 
 
@@ -34,6 +34,22 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## 用两颗骰子掷出至少 10 点
+
+
+
+1. 选择两颗六面骰，目标设为 10。36 种有序组合里有 6 种达标，概率约 16.67%。把修正量改为 +1，两颗骰子的点数保留，达标组合增至 10 种，概率约 27.78%。
+
+
+
+[运行示例](<https://toolpony.com/zh-hans/tools/dice-roller/#example-two-dice>)
+
+
+
 
 
 ## 试一试
@@ -51,6 +67,10 @@
 每颗骰子独立使用 Web Crypto 均匀抽取。最多 100 颗，每颗可选 2 至 1,000 面。
 
 
+
+
+
+**方法来源** [W3C · Web Cryptography](<https://www.w3.org/TR/WebCryptoAPI/#Crypto-method-getRandomValues>)
 
 
 

@@ -1,4 +1,4 @@
-# 房貸計算器
+# 房貸計算器使用指南
 
 
 
@@ -57,6 +57,10 @@ I_k=r B_{k-1},\qquad B_k=B_{k-1}-(M_k-I_k)
 $$
 
 
+
+
+
+**方法來源** [CFPB · Mortgage amortization](<https://www.consumerfinance.gov/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/>)
 
 
 

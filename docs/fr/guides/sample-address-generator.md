@@ -1,4 +1,4 @@
-# Générateur d’adresses fictives
+# Guide pratique · Générateur d’adresses fictives
 
 
 
@@ -51,6 +51,23 @@ Deutschland
 
 
 
+<a id="case-study"></a>
+
+
+
+## Vérifier une adresse canadienne avec numéro d’unité
+
+
+
+1. Avec la graine label-review, créez deux adresses de test en Ontario avec numéro d’unité et sans coordonnées. Les mêmes réglages reproduisent la même paire.
+2. Dans le fichier texte, un trait d’union sépare l’unité du numéro civique qui suit. Sur la ligne de la ville, deux espaces séparent ON du code postal. Le JSON conserve aussi les éléments séparément.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/sample-address-generator/#example-canadian-label>)
+
+
+
 
 
 ## Essayer
@@ -68,6 +85,10 @@ Deutschland
 Jusqu’à 100 exemples par lot. Localité et code postal illustrent le format. La voie et le destinataire sont fictifs. Les téléphones utilisent des numéros réservés ou masqués. Pour les tests de formulaires et de logiciels.
 
 
+
+
+
+**Références de la méthode** [USPS · Publication 28, §213](<https://pe.usps.com/text/pub28/28c2_003.htm>) · [Canada Post · Civic address](<https://www.canadapost-postescanada.ca/cpc/en/support/articles/addressing-guidelines/civic-address.page>)
 
 
 

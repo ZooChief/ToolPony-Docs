@@ -1,4 +1,4 @@
-# Area calculator
+# Area calculator guide
 
 
 
@@ -31,6 +31,23 @@ A rectangle 4 m by 3 m
 ```
 
 
+
+
+
+<a id="case-study"></a>
+
+
+
+## Cut a ring with a circular opening
+
+
+
+1. For a flat gasket with an outer diameter of 60 mm and a 40 mm opening, enter radii of 30 and 20 mm. Choose mm² for the material area.
+2. The material covers 500π mm², about 1,570.80 mm². Cutting both circles takes 100π mm, about 314.16 mm of cut. The export keeps each circumference and the original measurements.
+
+
+
+[Run example](<https://toolpony.com/en/tools/area-calculator/#example-gasket>)
 
 
 
@@ -72,7 +89,11 @@ $$
 
 
 
-**Rectangle**
+
+
+### Rectangle
+
+
 
 - Length
 - Length unit
@@ -84,17 +105,25 @@ $$
 
 
 
-**Square**
 
-- Edge length
-- Edge length unit
+
+### Square
+
+
+
+- Side length
+- Side length unit
 - Area unit
 
 
 
 
 
-**Triangle · three sides**
+
+
+### Triangle · three sides
+
+
 
 - First side
 - First side unit
@@ -108,10 +137,14 @@ $$
 
 
 
-**Triangle · base and height**
 
-- First parallel side
-- First parallel side unit
+
+### Triangle · base and height
+
+
+
+- Base length
+- Base length unit
 - Perpendicular height
 - Perpendicular height unit
 - Area unit
@@ -120,7 +153,11 @@ $$
 
 
 
-**Trapezoid**
+
+
+### Trapezoid
+
+
 
 - First parallel side
 - First parallel side unit
@@ -134,7 +171,11 @@ $$
 
 
 
-**Circle**
+
+
+### Circle
+
+
 
 - Radius
 - Radius unit
@@ -144,7 +185,11 @@ $$
 
 
 
-**Circular sector**
+
+
+### Circular sector
+
+
 
 - Radius
 - Radius unit
@@ -156,7 +201,11 @@ $$
 
 
 
-**Ellipse**
+
+
+### Ellipse
+
+
 
 - First semi-axis
 - First semi-axis unit
@@ -168,10 +217,14 @@ $$
 
 
 
-**Parallelogram**
 
-- First parallel side
-- First parallel side unit
+
+### Parallelogram
+
+
+
+- Base length
+- Base length unit
 - Perpendicular height
 - Perpendicular height unit
 - Area unit
@@ -180,7 +233,11 @@ $$
 
 
 
-**Annulus**
+
+
+### Annulus
+
+
 
 - Outer radius
 - Outer radius unit
@@ -192,10 +249,14 @@ $$
 
 
 
-**Regular polygon**
 
-- Edge length
-- Edge length unit
+
+### Regular polygon
+
+
+
+- Side length
+- Side length unit
 - Number of sides
 - Area unit
 
@@ -205,7 +266,7 @@ $$
 
 
 
-**Method references** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+**Method references** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST DLMF · Lengths of plane curves](<https://dlmf.nist.gov/19.30>)
 
 
 

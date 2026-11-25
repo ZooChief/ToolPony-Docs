@@ -1,4 +1,4 @@
-# Pipette de couleurs d’image
+# Guide pratique · Pipette de couleurs d’image
 
 
 

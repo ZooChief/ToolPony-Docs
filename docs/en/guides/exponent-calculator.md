@@ -1,4 +1,4 @@
-# Exponent calculator
+# Exponent calculator guide
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Power**
+
+
+### Power
+
+
 
 - Base
 - Exponent
@@ -75,7 +79,11 @@ $$
 
 
 
-**Base**
+
+
+### Base
+
+
 
 - Exponent
 - Power value
@@ -84,7 +92,11 @@ $$
 
 
 
-**Exponent**
+
+
+### Exponent
+
+
 
 - Base
 - Power value

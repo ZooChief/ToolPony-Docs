@@ -1,4 +1,4 @@
-# Provisionsrechner
+# Anleitung: Provisionsrechner
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Finde Kommission**
+
+
+### Finde Kommission
+
+
 
 - Verkaufsbetrag
 - Kommissionssatz · %
@@ -75,7 +79,11 @@ $$
 
 
 
-**Find-Rate**
+
+
+### Find-Rate
+
+
 
 - Verkaufsbetrag
 - Kommissionsbetrag
@@ -84,7 +92,11 @@ $$
 
 
 
-**Verkaufsbetrag ermitteln**
+
+
+### Verkaufsbetrag ermitteln
+
+
 
 - Kommissionssatz · %
 - Kommissionsbetrag
@@ -93,7 +105,11 @@ $$
 
 
 
-**Basis und Ebenen**
+
+
+### Basis und Ebenen
+
+
 
 - Verkaufsbetrag
 - Basisprovision

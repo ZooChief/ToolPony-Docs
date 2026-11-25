@@ -1,4 +1,4 @@
-# Dividir PDF
+# Guía de uso · Dividir PDF
 
 
 
@@ -54,6 +54,18 @@ Un PDF con las páginas 5, 1, 2 y 3 en ese orden
 ## Pruébalo
 
 [Abrir herramienta completa · Dividir PDF](<https://toolpony.com/es/tools/pdf-split/>)
+
+
+
+
+
+## Notas de uso
+
+
+
+Hasta 30 MB y 300 páginas. No se pueden repetir páginas. Los PDF dentro del ZIP tienen un límite de 64 MB en total. Los formularios, marcadores y firmas pueden perderse. Si el documento tiene hasta ocho páginas, borra la selección y toca los números en el orden de salida. En documentos más largos puedes seleccionar solo las páginas pares o impares.
+
+
 
 
 

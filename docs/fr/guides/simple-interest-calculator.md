@@ -1,4 +1,4 @@
-# Calculatrice d’intérêts simples
+# Guide pratique · Calculatrice d’intérêts simples
 
 
 
@@ -74,7 +74,11 @@ Utilisez les modes inverses lorsque le solde final est connu. Un taux zéro ou u
 
 
 
-**Intérêts et solde final**
+
+
+### Intérêts et solde final
+
+
 
 - Capital emprunté
 - Taux d'intérêt · %
@@ -86,7 +90,11 @@ Utilisez les modes inverses lorsque le solde final est connu. Un taux zéro ou u
 
 
 
-**Trouver le principal**
+
+
+### Trouver le principal
+
+
 
 - Solde final
 - Taux d'intérêt · %
@@ -98,7 +106,11 @@ Utilisez les modes inverses lorsque le solde final est connu. Un taux zéro ou u
 
 
 
-**Trouver le taux d'intérêt**
+
+
+### Trouver le taux d'intérêt
+
+
 
 - Capital emprunté
 - Solde final
@@ -110,7 +122,11 @@ Utilisez les modes inverses lorsque le solde final est connu. Un taux zéro ou u
 
 
 
-**Trouver le terme**
+
+
+### Trouver le terme
+
+
 
 - Capital emprunté
 - Solde final

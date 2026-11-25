@@ -1,4 +1,4 @@
-# Image compressor
+# Image compressor guide
 
 
 

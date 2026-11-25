@@ -1,8 +1,8 @@
-# Farbkonverter
+# Anleitung: Farbkonverter
 
 
 
-HEX, RGB und HSL umrechnen, Alpha beibehalten und die Farbe als Vorschau anzeigen.
+CSS-Farben in HEX, RGB, HSL und OKLCH umrechnen, einschließlich Deckkraft und sRGB-Ersatzfarbe.
 
 
 
@@ -34,6 +34,23 @@ rgb(102, 51, 153)
 
 
 
+<a id="case-study"></a>
+
+
+
+## Eine sRGB-Ersatzfarbe für ein Asset ermitteln
+
+
+
+1. color(display-p3 0 1 0 / 70%) einfügen. Das Grün liegt außerhalb von sRGB. Die Farbfelder zeigen Original und Ersatzfarbe. Die Abbildung ergibt \#00FB29B3.
+2. Die RGB-Zeile erhält die Deckkraft von 0,7. Im achtstelligen HEX-Wert steht B3 für 179/255.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/color-converter/#example-wide-gamut>)
+
+
+
 
 
 ## Ausprobieren
@@ -48,7 +65,7 @@ rgb(102, 51, 153)
 
 
 
-HEX stellt Kanäle mit 8 Bit dar. RGB akzeptiert Zahlen und Prozentwerte. HSL verwendet Grad für den Farbton und Prozentwerte für Sättigung und Helligkeit. HEX rundet jeden Kanal auf den nächsten Bytewert.
+HEX rundet sRGB-Kanäle auf Bytes. Farben außerhalb von sRGB werden entlang der OKLCH-Chroma abgebildet. Die Quellvorschau behält den Eingabefarbraum.
 
 
 

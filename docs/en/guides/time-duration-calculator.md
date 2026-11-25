@@ -1,4 +1,4 @@
-# Time duration calculator
+# Time duration calculator guide
 
 
 
@@ -46,6 +46,22 @@ Find intervals, add or subtract durations, and shift a date and time.
 
 
 
+<a id="case-study"></a>
+
+
+
+## Total three recording sessions
+
+
+
+1. The recordings last 47 min 35 s, 1 h 12 min 40 s and 8 min 15 s. The second ends at 02:00:15 on the combined timeline. The final duration is 02:08:30. Download the running totals to locate each cut.
+
+
+
+[Run example](<https://toolpony.com/en/tools/time-duration-calculator/#example-recording-sessions>)
+
+
+
 
 
 ## Try it
@@ -78,7 +94,11 @@ $$
 
 
 
-**Clock interval**
+
+
+### Clock interval
+
+
 
 - Start time
 - End time
@@ -89,7 +109,11 @@ $$
 
 
 
-**Sum durations**
+
+
+### Sum durations
+
+
 
 - Durations
 
@@ -97,7 +121,11 @@ $$
 
 
 
-**Between dates and times**
+
+
+### Between dates and times
+
+
 
 - Start date
 - Start time
@@ -108,7 +136,11 @@ $$
 
 
 
-**Add or subtract durations**
+
+
+### Add or subtract durations
+
+
 
 - First duration
 - Operation · Add / Subtract
@@ -118,7 +150,11 @@ $$
 
 
 
-**Shift a date and time**
+
+
+### Shift a date and time
+
+
 
 - Start date
 - Start time
@@ -129,7 +165,11 @@ $$
 
 
 
-**Time expression**
+
+
+### Time expression
+
+
 
 - Time expression
 

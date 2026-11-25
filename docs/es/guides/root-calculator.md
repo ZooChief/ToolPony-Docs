@@ -1,4 +1,4 @@
-# Calculadora de raíces
+# Guía de uso · Calculadora de raíces
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Raíz cuadrada**
+
+
+### Raíz cuadrada
+
+
 
 - Radicando
 
@@ -74,7 +78,11 @@ $$
 
 
 
-**Raíz cúbica**
+
+
+### Raíz cúbica
+
+
 
 - Radicando
 
@@ -82,7 +90,11 @@ $$
 
 
 
-**Raíz enésima**
+
+
+### Raíz enésima
+
+
 
 - Radicando
 - Grado

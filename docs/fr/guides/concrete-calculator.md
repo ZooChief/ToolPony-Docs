@@ -1,4 +1,4 @@
-# Calculatrice de quantité de béton
+# Guide pratique · Calculatrice de quantité de béton
 
 
 
@@ -94,7 +94,11 @@ Pour deux dalles de 7 pi × 3 pi × 5 pi, 133 lb/ft3 donne 2327,50 lb, ou 38,79 
 
 
 
-**Bases en lambeaux ou rectangulaires**
+
+
+### Bases en lambeaux ou rectangulaires
+
+
 
 - Longueur
 - Unité de longueur
@@ -110,7 +114,11 @@ Pour deux dalles de 7 pi × 3 pi × 5 pi, 133 lb/ft3 donne 2327,50 lb, ou 38,79 
 
 
 
-**Colonne ou base ronde**
+
+
+### Colonne ou base ronde
+
+
 
 - Diamètre
 - Unité de diamètre
@@ -124,7 +132,11 @@ Pour deux dalles de 7 pi × 3 pi × 5 pi, 133 lb/ft3 donne 2327,50 lb, ou 38,79 
 
 
 
-**Dalle ou tube circulaire**
+
+
+### Dalle ou tube circulaire
+
+
 
 - Diamètre extérieur
 - Unité de diamètre extérieur
@@ -140,7 +152,11 @@ Pour deux dalles de 7 pi × 3 pi × 5 pi, 133 lb/ft3 donne 2327,50 lb, ou 38,79 
 
 
 
-**Bordure et caniveau**
+
+
+### Bordure et caniveau
+
+
 
 - Profondeur de courbure
 - Unité de profondeur de courbure
@@ -160,7 +176,11 @@ Pour deux dalles de 7 pi × 3 pi × 5 pi, 133 lb/ft3 donne 2327,50 lb, ou 38,79 
 
 
 
-**Escaliers solides et quai**
+
+
+### Escaliers solides et quai
+
+
 
 - Exécuter par étape
 - Exécution par unité d'étape

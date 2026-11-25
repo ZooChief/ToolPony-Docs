@@ -1,8 +1,8 @@
-# Calculadora de matrizes
+# Guia de uso · Calculadora de matrizes
 
 
 
-Adicione, multiplique, transponha, inverta, solucione ou encontre a classificação e o determinante. Copie o resultado como TSV ou baixe CSV.
+Resolva sistemas lineares e calcule determinantes, inversas, postos e produtos com frações e decimais exatos. Cole células de uma planilha e exporte o resultado.
 
 
 
@@ -34,6 +34,54 @@ A + B = [3, 2; 5, 8]
 
 
 
+<a id="case-study"></a>
+
+
+
+## Contar dois tipos de pacote
+
+
+
+1. Um pacote pequeno tem 2 clipes pretos e 1 branco. Um grande tem 3 pretos e 2 brancos. Ao todo, são 17 pretos e 10 brancos. As colunas de A descrevem os pacotes e B contém os totais. O resultado é 4 pacotes pequenos e 3 grandes. Confira os totais com A × X.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/matrix-calculator/#example-packing-matrix>)
+
+
+
+
+
+## Determinante igual a um
+
+
+
+O produto da diagonal principal é um bilhão ao quadrado. O outro é (um bilhão − 1) × (um bilhão + 1). A diferença é exatamente 1 e as linhas são independentes.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/matrix-calculator/#example-determinant-one>)
+
+
+
+
+
+
+
+## Duas variáveis livres
+
+
+
+A segunda equação é o dobro da primeira. Em x + y + z = 4, escolha y e z livremente e faça x = 4 − y − z. A partir de (4, 0, 0), os dois vetores do núcleo dão as variações possíveis. Mude o segundo total de 8 para 9 para ver a contradição.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/matrix-calculator/#example-free-variables>)
+
+
+
+
+
 
 
 ## Experimente
@@ -48,7 +96,7 @@ A + B = [3, 2; 5, 8]
 
 
 
-Separe cada linha com uma nova linha ou ponto- e- vírgula. Os valores podem ser separados por espaços ou vírgulas. É aceite uma matriz JSON aninhada. Os métodos de matriz quadrada usam a eliminação gaussiana com pivô escalonado.
+A redução por linhas usa aritmética racional exata. O número de colunas pivô dá o posto. Em A × X = B, uma linha nula à esquerda com termo independente não nulo indica incompatibilidade. As colunas livres determinam as direções que se somam a uma solução particular.
 
 
 
@@ -72,7 +120,11 @@ $$
 
 
 
-**Adicionar A + B**
+
+
+### Adicionar A + B
+
+
 
 - Matriz A
 - Matriz B
@@ -81,7 +133,11 @@ $$
 
 
 
-**Subtrair A − B**
+
+
+### Subtrair A − B
+
+
 
 - Matriz A
 - Matriz B
@@ -90,7 +146,11 @@ $$
 
 
 
-**Multiplicar A × B**
+
+
+### Multiplicar A × B
+
+
 
 - Matriz A
 - Matriz B
@@ -99,7 +159,11 @@ $$
 
 
 
-**Resolver A × X = B**
+
+
+### Resolver A × X = B
+
+
 
 - Matriz A
 - Matriz B
@@ -108,7 +172,11 @@ $$
 
 
 
-**Determinante**
+
+
+### Determinante
+
+
 
 - Matriz A
 
@@ -116,7 +184,11 @@ $$
 
 
 
-**Inverso**
+
+
+### Inverso
+
+
 
 - Matriz A
 
@@ -124,7 +196,11 @@ $$
 
 
 
-**Transpor**
+
+
+### Transpor
+
+
 
 - Matriz A
 
@@ -132,7 +208,11 @@ $$
 
 
 
-**Potência total**
+
+
+### Potência total
+
+
 
 - Matriz A
 - Expoente
@@ -141,7 +221,11 @@ $$
 
 
 
-**Multiplicação escalonar**
+
+
+### Multiplicação escalonar
+
+
 
 - Matriz A
 - Escalar
@@ -150,13 +234,21 @@ $$
 
 
 
-**Forma de escalonamento e de fila reduzida**
+
+
+### Forma de escalonamento e de fila reduzida
+
+
 
 - Matriz A
 
 
 
 
+
+
+
+**Referências do método** [MIT OpenCourseWare · Solving Ax = b](<https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/solving-ax-b-row-reduced-form-r/>)
 
 
 

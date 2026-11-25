@@ -1,8 +1,8 @@
-# Calculatrice de pourcentage
+# Guide pratique · Calculatrice de pourcentage
 
 
 
-Résolvez le pourcentage, la partie, l'ensemble, l'augmentation, la diminution, le changement inverse, la différence et l'erreur.
+Calculez un pourcentage, comparez des taux en points ou appliquez et inversez deux remises.
 
 
 
@@ -48,6 +48,38 @@ Résolvez le pourcentage, la partie, l'ensemble, l'augmentation, la diminution, 
 
 
 
+<a id="case-study"></a>
+
+
+
+## Deux remises successives
+
+
+
+1. À partir de 250, une remise de 20 % donne 200. La seconde remise de 10 % porte sur 200 et donne 180. La baisse totale est de 28 %. Inversez le calcul pour retrouver le prix initial.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/percentage-calculator/#example-two-discounts>)
+
+
+
+
+
+## Passer de 4 % à 5 %
+
+
+
+Le taux d’inscription passe de 4 % à 5 %, soit un point de pourcentage de plus. Rapportée aux 4 % initiaux, la hausse est de 1 ÷ 4 = 25 %.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/percentage-calculator/#example-percentage-points>)
+
+
+
+
+
 
 
 ## Essayer
@@ -62,7 +94,7 @@ Résolvez le pourcentage, la partie, l'ensemble, l'augmentation, la diminution, 
 
 
 
-Pourcentage = partie ÷ entière × 100. Le changement utilise la valeur originale absolue comme dénominateur. La différence symétrique utilise la moyenne des valeurs absolues.
+La variation relative utilise la valeur absolue de la base. Soustraire deux taux donne des points de pourcentage. Les facteurs successifs se multiplient. L’écart symétrique utilise la moyenne des valeurs absolues.
 
 
 
@@ -98,7 +130,11 @@ Pour une valeur mesurée de 90 et une référence de 96, l'erreur absolue en pou
 
 
 
-**Pourcentage d'une valeur**
+
+
+### Pourcentage d'une valeur
+
+
 
 - Pourcentage · %
 - Valeur
@@ -107,7 +143,11 @@ Pour une valeur mesurée de 90 et une référence de 96, l'erreur absolue en pou
 
 
 
-**Trouver le pourcentage**
+
+
+### Trouver le pourcentage
+
+
 
 - Partie
 - Entière
@@ -116,7 +156,11 @@ Pour une valeur mesurée de 90 et une référence de 96, l'erreur absolue en pou
 
 
 
-**Trouvez l'ensemble**
+
+
+### Trouvez l'ensemble
+
+
 
 - Partie
 - Pourcentage · %
@@ -125,8 +169,13 @@ Pour une valeur mesurée de 90 et une référence de 96, l'erreur absolue en pou
 
 
 
-**Variation en pourcentage**
 
+
+### Variation en pourcentage
+
+
+
+- Type des valeurs · Montants / Taux (%)
 - Valeur initiale
 - Nouvelle valeur
 
@@ -134,7 +183,11 @@ Pour une valeur mesurée de 90 et une référence de 96, l'erreur absolue en pou
 
 
 
-**Différence en pourcentage**
+
+
+### Différence en pourcentage
+
+
 
 - Première valeur
 - Deuxième valeur
@@ -143,7 +196,11 @@ Pour une valeur mesurée de 90 et une référence de 96, l'erreur absolue en pou
 
 
 
-**Différence avec les valeurs signées**
+
+
+### Différence avec les valeurs signées
+
+
 
 - Première valeur
 - Deuxième valeur
@@ -152,25 +209,39 @@ Pour une valeur mesurée de 90 et une référence de 96, l'erreur absolue en pou
 
 
 
-**Appliquer une modification**
+
+
+### Appliquer une modification
+
+
 
 - Valeur initiale
 - Changement signé · %
+- Deuxième variation · %
 
 
 
 
 
-**Inverser un changement**
+
+
+### Inverser un changement
+
+
 
 - Nouvelle valeur
 - Changement signé · %
+- Deuxième variation · %
 
 
 
 
 
-**Erreur en pourcentage**
+
+
+### Erreur en pourcentage
+
+
 
 - Valeur mesurée
 - Valeur de référence
@@ -179,6 +250,10 @@ Pour une valeur mesurée de 90 et une référence de 96, l'erreur absolue en pou
 
 
 
+
+
+
+**Références de la méthode** [Eurostat · Percentage point](<https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Percentage_point>)
 
 
 

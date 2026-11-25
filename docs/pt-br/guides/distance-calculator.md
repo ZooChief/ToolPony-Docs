@@ -1,4 +1,4 @@
-# Calculadora de distâncias
+# Guia de uso · Calculadora de distâncias
 
 
 
@@ -74,7 +74,11 @@ Para as coordenadas geográficas, o Norte e o Leste são positivos. Use o modo g
 
 
 
-**2D**
+
+
+### 2D
+
+
 
 - X1
 - Y1
@@ -85,7 +89,11 @@ Para as coordenadas geográficas, o Norte e o Leste são positivos. Use o modo g
 
 
 
-**3D**
+
+
+### 3D
+
+
 
 - X1
 - Y1
@@ -98,7 +106,11 @@ Para as coordenadas geográficas, o Norte e o Leste são positivos. Use o modo g
 
 
 
-**Latitude e longitude**
+
+
+### Latitude e longitude
+
+
 
 - Primeira latitude · °
 - Primeira longitude · °
@@ -109,7 +121,11 @@ Para as coordenadas geográficas, o Norte e o Leste são positivos. Use o modo g
 
 
 
-**Graus, minutos e segundos**
+
+
+### Graus, minutos e segundos
+
+
 
 - Primeiros graus de latitude
 - Primeiros minutos de latitude

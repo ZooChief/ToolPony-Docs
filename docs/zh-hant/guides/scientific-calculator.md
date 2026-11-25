@@ -1,4 +1,4 @@
-# 科學計算器
+# 科學計算器使用指南
 
 
 
@@ -34,6 +34,23 @@ sqrt(81) + 2^3 × sin(30)，角度制
 
 
 
+<a id="case-study"></a>
+
+
+
+## 測量對角線
+
+
+
+1. 一塊麪板長 12 釐米、寬 5 釐米。粘貼 √(12² + 5²)，對角線是 13 釐米。也可以選中式子的一部分，點 x² 只對選中部分求平方。
+2. 算完對角線，選 DEG，輸入 asin(5/Ans)，可得到 5 釐米邊的對角，約 22.62°。
+
+
+
+[運行示例](<https://toolpony.com/zh-hant/tools/scientific-calculator/#example-panel-diagonal>)
+
+
+
 
 
 ## 試一試
@@ -51,6 +68,10 @@ sqrt(81) + 2^3 × sin(30)，角度制
 按括號、後綴、乘方、乘除、加減的優先級計算。乘方從右結合，百分號表示除以 100。結果採用浮點運算。
 
 
+
+
+
+**方法來源** [Python · Power and unary operators](<https://docs.python.org/3/reference/expressions.html#the-power-operator>)
 
 
 

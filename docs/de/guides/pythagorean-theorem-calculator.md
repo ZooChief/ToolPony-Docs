@@ -1,4 +1,4 @@
-# Satz-des-Pythagoras-Rechner
+# Anleitung: Satz-des-Pythagoras-Rechner
 
 
 

@@ -1,4 +1,4 @@
-# Tip calculator
+# Tip calculator guide
 
 
 

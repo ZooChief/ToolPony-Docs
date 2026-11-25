@@ -1,4 +1,4 @@
-# Selector de colores de imagen
+# Guía de uso · Selector de colores de imagen
 
 
 

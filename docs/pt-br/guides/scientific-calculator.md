@@ -1,8 +1,8 @@
-# Calculadora científica
+# Guia de uso · Calculadora científica
 
 
 
-Avaliar expressões matemáticas com poderes, fatorials, trigonometria, raízes e logaritmos.
+Calcule expressões com potências, fatoriais, funções trigonométricas, raízes e logaritmos.
 
 
 
@@ -34,6 +34,23 @@ sqrt( 81) + 2^3 × sin( 30), graus
 
 
 
+<a id="case-study"></a>
+
+
+
+## Medir uma diagonal
+
+
+
+1. Para um painel de 12 × 5 cm, cole √(12² + 5²). A diagonal mede 13 cm. Selecione parte da fórmula e pressione x² para elevar apenas esse trecho ao quadrado.
+2. Logo em seguida, asin(5/Ans) em DEG fornece o ângulo oposto ao lado de 5 cm, cerca de 22,62°.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/scientific-calculator/#example-panel-diagonal>)
+
+
+
 
 
 ## Experimente
@@ -48,9 +65,13 @@ sqrt( 81) + 2^3 × sin( 30), graus
 
 
 
-Os operadores seguem parênteses, pós-fixação, expoente, multiplicação e precedência de adição. Os poderes associam-se à direita. A percentagem divide- se por 100. Os resultados usam aritmética de ponto flutuante.
+O cálculo segue a ordem de parênteses, operadores pós-fixos, potências, multiplicação e divisão, depois soma e subtração. Potências associam-se da direita para a esquerda. % divide por 100. A aritmética usa ponto flutuante.
 
 
+
+
+
+**Referências do método** [Python · Power and unary operators](<https://docs.python.org/3/reference/expressions.html#the-power-operator>)
 
 
 

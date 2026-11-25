@@ -1,4 +1,4 @@
-# Bilder komprimieren
+# Anleitung: Bilder komprimieren
 
 
 

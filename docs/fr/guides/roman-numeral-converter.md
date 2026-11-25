@@ -1,4 +1,4 @@
-# Convertisseur de chiffres romains
+# Guide pratique · Convertisseur de chiffres romains
 
 
 
@@ -60,7 +60,11 @@ Le convertisseur utilise des paires de soustraction standard telles que IV et CM
 
 
 
-**Valeur unique**
+
+
+### Valeur unique
+
+
 
 - Nombre entier ou romain
 
@@ -68,7 +72,11 @@ Le convertisseur utilise des paires de soustraction standard telles que IV et CM
 
 
 
-**Date ou liste**
+
+
+### Date ou liste
+
+
 
 - Valeurs ou date
 

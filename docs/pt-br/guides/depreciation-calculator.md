@@ -1,4 +1,4 @@
-# Calculadora de depreciação
+# Guia de uso · Calculadora de depreciação
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Linha reta**
+
+
+### Linha reta
+
+
 
 - Custo do activo
 - Valor da salvação
@@ -77,7 +81,11 @@ $$
 
 
 
-**Equilíbrio de redução**
+
+
+### Equilíbrio de redução
+
+
 
 - Custo do activo
 - Valor da salvação
@@ -89,7 +97,11 @@ $$
 
 
 
-**Números da soma dos anos**
+
+
+### Números da soma dos anos
+
+
 
 - Custo do activo
 - Valor da salvação

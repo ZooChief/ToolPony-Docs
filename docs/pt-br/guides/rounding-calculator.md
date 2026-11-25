@@ -1,4 +1,4 @@
-# Calculadora de arredondamento
+# Guia de uso · Calculadora de arredondamento
 
 
 

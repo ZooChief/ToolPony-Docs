@@ -1,4 +1,4 @@
-# Calculatrice d’amortissement comptable
+# Guide pratique · Calculatrice d’amortissement comptable
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Ligne droite**
+
+
+### Ligne droite
+
+
 
 - Coût de l ' actif
 - Valeur de récupération
@@ -77,7 +81,11 @@ $$
 
 
 
-**Baisse de l'équilibre**
+
+
+### Baisse de l'équilibre
+
+
 
 - Coût de l ' actif
 - Valeur de récupération
@@ -89,7 +97,11 @@ $$
 
 
 
-**Chiffres de la somme des années**
+
+
+### Chiffres de la somme des années
+
+
 
 - Coût de l ' actif
 - Valeur de récupération

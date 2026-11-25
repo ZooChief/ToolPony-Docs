@@ -1,4 +1,4 @@
-# Convertisseur de fuseaux horaires
+# Guide pratique · Convertisseur de fuseaux horaires
 
 
 
@@ -34,6 +34,54 @@ Convertissez date et heure entre fuseaux IANA ou décalages UTC fixes.
 
 
 
+<a id="case-study"></a>
+
+
+
+## Un rendez-vous à l’heure répétée
+
+
+
+1. Le 1er novembre 2026, il est deux fois 01:30 à New York. À Shanghai, la première occurrence correspond à 13:30 et la seconde à 14:30. Choisissez celle de l’invitation et copiez l’instant UTC. Inverser les villes conserve le même rendez-vous.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/time-zone-converter/#example-repeated-meeting>)
+
+
+
+
+
+## Un appel en novembre à La Havane
+
+
+
+Cuba a conservé UTC−04:00 en novembre 2026. Le 23 novembre, un appel à 09:00 à La Havane correspond à 13:00 UTC. Pour un rendez-vous en heure locale, choisissez America/Havana pour appliquer les règles de cette date.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/time-zone-converter/#example-havana-clock>)
+
+
+
+
+
+
+
+## Quand l’horloge avance de 30 minutes
+
+
+
+Le 4 octobre 2026, l’île Lord Howe passe de 01:59:59 à 02:30:00. Essayez 02:15. Vous pouvez décaler le rendez-vous d’une demi-heure vers 01:45 ou 02:45. Cette dernière correspond au 3 octobre à 15:45 UTC.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/time-zone-converter/#example-half-hour-change>)
+
+
+
+
+
 
 
 ## Essayer
@@ -48,7 +96,7 @@ Convertissez date et heure entre fuseaux IANA ou décalages UTC fixes.
 
 
 
-Les fuseaux IANA suivent les règles du navigateur. Une heure répétée donne deux instants, une heure sautée aucun. Un décalage UTC fixe reste constant.
+Les règles IANA de la date choisie déterminent l’heure locale. Une heure répétée correspond à deux instants UTC. Avancer l’horloge crée un intervalle sauté. Un décalage fixe reste constant.
 
 
 
@@ -66,7 +114,11 @@ $$
 
 
 
-**IANA**
+
+
+### IANA
+
+
 
 - Date
 - Heure locale
@@ -78,7 +130,11 @@ $$
 
 
 
-**Décalages UTC fixes**
+
+
+### Décalages UTC fixes
+
+
 
 - Date
 - Heure locale

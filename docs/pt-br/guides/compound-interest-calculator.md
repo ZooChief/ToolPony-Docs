@@ -1,4 +1,4 @@
-# Calculadora de juros compostos
+# Guia de uso · Calculadora de juros compostos
 
 
 
@@ -34,11 +34,23 @@ Projete um equilíbrio com contribuições recorrentes e inflação, ou converte
 
 
 
+<a id="case-study"></a>
+
+
+
+## Comparar aportes durante 30 meses
+
+
+
+1. Comece com 10.000 e acrescente 100 por mês por dois anos e seis meses. Com taxa nominal de 6% e capitalização mensal, os aportes no fim do mês resultam em 14.842,00, dos quais 13.000 foram aportados. No início do mês, o saldo chega a 14.858,14. Com inflação anual de 3%, o primeiro saldo equivale hoje a 13.784,77.
+
+
+
 
 
 ## Experimente
 
-[Abrir ferramenta completa · Calculadora de juros compostos](<https://toolpony.com/pt-br/tools/compound-interest-calculator/>)
+[Abrir ferramenta completa · Calculadora de juros compostos](<https://toolpony.com/pt-br/tools/compound-interest-calculator/#example-30-months>)
 
 
 
@@ -66,11 +78,16 @@ $$
 
 
 
-**Saldo futuro**
+
+
+### Saldo futuro
+
+
 
 - Principal
 - Taxa anual · %
 - Anos
+- Meses
 - Capitalização
 - Contribuição periódica
 - Frequência da contribuição · Anual / Semestral / Trimestral / Mensal / Duas vezes ao mês / A cada duas semanas / Semanal / Diária
@@ -81,7 +98,11 @@ $$
 
 
 
-**Taxa de juro equivalente**
+
+
+### Taxa de juro equivalente
+
+
 
 - Taxa anual · %
 - Composição original

@@ -1,4 +1,4 @@
-# Flächenrechner in Quadratfuß
+# Anleitung: Flächenrechner in Quadratfuß
 
 
 
@@ -94,7 +94,11 @@ Für einen Sektor ist r der Radius und θ der Winkel in Radiant nach jeder Umrec
 
 
 
-**Rechteck**
+
+
+### Rechteck
+
+
 
 - Länge
 - Längeneinheit
@@ -109,7 +113,11 @@ Für einen Sektor ist r der Radius und θ der Winkel in Radiant nach jeder Umrec
 
 
 
-**Rechteckgrenze**
+
+
+### Rechteckgrenze
+
+
 
 - Länge
 - Längeneinheit
@@ -126,7 +134,11 @@ Für einen Sektor ist r der Radius und θ der Winkel in Radiant nach jeder Umrec
 
 
 
-**Kreis**
+
+
+### Kreis
+
+
 
 - Durchmesser
 - Durchmessereinheit
@@ -139,7 +151,11 @@ Für einen Sektor ist r der Radius und θ der Winkel in Radiant nach jeder Umrec
 
 
 
-**Ring**
+
+
+### Ring
+
+
 
 - Außendurchmesser
 - Außendurchmessereinheit
@@ -154,7 +170,11 @@ Für einen Sektor ist r der Radius und θ der Winkel in Radiant nach jeder Umrec
 
 
 
-**Dreieck · drei Seiten**
+
+
+### Dreieck · drei Seiten
+
+
 
 - erste Seite
 - erste Seiteneinheit
@@ -171,7 +191,11 @@ Für einen Sektor ist r der Radius und θ der Winkel in Radiant nach jeder Umrec
 
 
 
-**Dreieck · Basis und Höhe**
+
+
+### Dreieck · Basis und Höhe
+
+
 
 - Basis
 - Basiseinheit
@@ -186,7 +210,11 @@ Für einen Sektor ist r der Radius und θ der Winkel in Radiant nach jeder Umrec
 
 
 
-**Trapez**
+
+
+### Trapez
+
+
 
 - erste Parallelseite
 - erste Parallelseiteneinheit
@@ -203,12 +231,16 @@ Für einen Sektor ist r der Radius und θ der Winkel in Radiant nach jeder Umrec
 
 
 
-**Kreissektor**
+
+
+### Kreissektor
+
+
 
 - Radius
 - Radiuseinheit
 - Mittelwinkel
-- Winkeleinheit · Grad / Radianten
+- Winkeleinheit · Grad / Radiant
 - Menge
 - Stückpreis
 - Preis pro Fläche
@@ -218,7 +250,11 @@ Für einen Sektor ist r der Radius und θ der Winkel in Radiant nach jeder Umrec
 
 
 
-**Parallelogramm**
+
+
+### Parallelogramm
+
+
 
 - Basis
 - Basiseinheit

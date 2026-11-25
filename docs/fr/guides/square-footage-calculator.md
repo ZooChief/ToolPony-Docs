@@ -1,4 +1,4 @@
-# Calculatrice de surface en pieds carrés
+# Guide pratique · Calculatrice de surface en pieds carrés
 
 
 
@@ -94,7 +94,11 @@ Pour un secteur, r est le rayon et φ est l'angle en radians après toute conver
 
 
 
-**Rectangle**
+
+
+### Rectangle
+
+
 
 - Longueur
 - Unité de longueur
@@ -109,7 +113,11 @@ Pour un secteur, r est le rayon et φ est l'angle en radians après toute conver
 
 
 
-**Bordure rectangle**
+
+
+### Bordure rectangle
+
+
 
 - Longueur
 - Unité de longueur
@@ -126,7 +134,11 @@ Pour un secteur, r est le rayon et φ est l'angle en radians après toute conver
 
 
 
-**Cercle**
+
+
+### Cercle
+
+
 
 - Diamètre
 - Unité de diamètre
@@ -139,7 +151,11 @@ Pour un secteur, r est le rayon et φ est l'angle en radians après toute conver
 
 
 
-**Anneau**
+
+
+### Anneau
+
+
 
 - Diamètre extérieur
 - Unité de diamètre extérieur
@@ -154,7 +170,11 @@ Pour un secteur, r est le rayon et φ est l'angle en radians après toute conver
 
 
 
-**Triangle · trois côtés**
+
+
+### Triangle · trois côtés
+
+
 
 - Premier côté
 - Première unité latérale
@@ -171,7 +191,11 @@ Pour un secteur, r est le rayon et φ est l'angle en radians après toute conver
 
 
 
-**Triangle · base et hauteur**
+
+
+### Triangle · base et hauteur
+
+
 
 - Base
 - Unité de base
@@ -186,7 +210,11 @@ Pour un secteur, r est le rayon et φ est l'angle en radians après toute conver
 
 
 
-**Trapèze**
+
+
+### Trapèze
+
+
 
 - Premier côté parallèle
 - Première unité parallèle latérale
@@ -203,12 +231,16 @@ Pour un secteur, r est le rayon et φ est l'angle en radians après toute conver
 
 
 
-**Secteur circulaire**
+
+
+### Secteur circulaire
+
+
 
 - Rayon
 - Unité de rayonnement
 - Angle central
-- Unité d'angle · Diplômes / Radians
+- Unité d’angle · Degrés / Radians
 - Quantité
 - Prix unitaire
 - Prix par surface
@@ -218,7 +250,11 @@ Pour un secteur, r est le rayon et φ est l'angle en radians après toute conver
 
 
 
-**Parallélogramme**
+
+
+### Parallélogramme
+
+
 
 - Base
 - Unité de base

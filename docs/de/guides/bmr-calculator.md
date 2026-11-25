@@ -1,4 +1,4 @@
-# Grundumsatz- und Kalorienrechner
+# Anleitung: Grundumsatz- und Kalorienrechner
 
 
 
@@ -34,6 +34,23 @@ Männliche Gleichung, 30 Jahre, 70 kg, 175 cm, Mifflin-St Jeor
 
 
 
+<a id="case-study"></a>
+
+
+
+## Schätzung aus fettfreier Masse
+
+
+
+1. Bei 70 kg und einem angenommenen Körperfettanteil von 20 % beträgt die fettfreie Masse 56 kg. Katch–McArdle ergibt in Ruhe 370 + 21,6 × 56 = 1.579,6 kcal/Tag.
+2. Faktor 1,20 ergibt geschätzte 1.895,52 kcal täglich, Faktor 1,55 dagegen 2.448,38 kcal. Beide beruhen auf demselben Ruhewert.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/bmr-calculator/#example-lean-mass>)
+
+
+
 
 
 ## Ausprobieren
@@ -60,14 +77,18 @@ Ruheenergie wird mit Mifflin-St Jeor, revidiertem Harris-Benedict oder Katch-McA
 
 
 
-**Metrisch**
 
-- Alter
-- Gleichungsgruppe · männlich / Weiblich
-- Gewicht · kg
-- Höhe · cm
+
+### Metrisch
+
+
+
 - Gleichung · Mifflin–St. Jeor / Überarbeitet Harris-Benedict / Katch-McArdle
-- Körperfett für Katch-McArdle · %
+- Alter
+- Geschlecht im Rechenmodell · männlich / Weiblich
+- Körpergewicht · kg
+- Körpergröße · cm
+- Körperfettanteil · %
 - Aktivitätsfaktor
 - Energieeinheit · kcal/day / kJ/day
 
@@ -75,15 +96,19 @@ Ruheenergie wird mit Mifflin-St Jeor, revidiertem Harris-Benedict oder Katch-McA
 
 
 
-**US-Einheiten**
 
+
+### US-Einheiten
+
+
+
+- Gleichung · Mifflin–St. Jeor / Überarbeitet Harris-Benedict / Katch-McArdle
 - Alter
-- Gleichungsgruppe · männlich / Weiblich
-- Gewicht · lb
-- Höhe in Fuß · ft
+- Geschlecht im Rechenmodell · männlich / Weiblich
+- Körpergewicht · lb
+- Körpergröße in Fuß · ft
 - Zusätzliche Zoll · in
-- Gleichung · Mifflin–St. Jeor / Überarbeitet Harris-Benedict / Katch-McArdle
-- Körperfett für Katch-McArdle · %
+- Körperfettanteil · %
 - Aktivitätsfaktor
 - Energieeinheit · kcal/day / kJ/day
 
@@ -93,7 +118,7 @@ Ruheenergie wird mit Mifflin-St Jeor, revidiertem Harris-Benedict oder Katch-McA
 
 
 
-**Quellen zur Methode** [Mifflin et al. (1990)](<https://pubmed.ncbi.nlm.nih.gov/2305711/>) · [Roza &amp; Shizgal (1984)](<https://pubmed.ncbi.nlm.nih.gov/6741850/>)
+**Quellen zur Methode** [Mifflin et al. (1990)](<https://pubmed.ncbi.nlm.nih.gov/2305711/>) · [Roza &amp; Shizgal (1984)](<https://pubmed.ncbi.nlm.nih.gov/6741850/>) · [Cunningham (1991) · Fat-free mass and resting energy](<https://pubmed.ncbi.nlm.nih.gov/1957828/>) · [NIST · Thermochemical calorie](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>)
 
 
 

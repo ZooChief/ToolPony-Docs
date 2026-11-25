@@ -1,4 +1,4 @@
-# Gerador de endereços fictícios
+# Guia de uso · Gerador de endereços fictícios
 
 
 
@@ -51,6 +51,23 @@ Deutschland
 
 
 
+<a id="case-study"></a>
+
+
+
+## Conferir um endereço canadense com unidade
+
+
+
+1. Use a semente label-review para gerar dois endereços de teste em Ontário com unidade e sem contato. As mesmas opções reproduzem o mesmo par.
+2. No texto, a unidade vem antes do número do prédio, separada por hífen. Na linha da cidade, ON vem seguido de dois espaços e do código postal. O JSON também mantém os componentes em campos separados.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/sample-address-generator/#example-canadian-label>)
+
+
+
 
 
 ## Experimente
@@ -68,6 +85,10 @@ Deutschland
 Até 100 exemplos por lote. Cidade e CEP ilustram o formato. Logradouro e destinatário são sintéticos. O telefone usa números reservados ou máscaras. Para testar formulários e software.
 
 
+
+
+
+**Referências do método** [USPS · Publication 28, §213](<https://pe.usps.com/text/pub28/28c2_003.htm>) · [Canada Post · Civic address](<https://www.canadapost-postescanada.ca/cpc/en/support/articles/addressing-guidelines/civic-address.page>)
 
 
 

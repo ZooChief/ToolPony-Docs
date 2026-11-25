@@ -1,8 +1,8 @@
-# Percentage calculator
+# Percentage calculator guide
 
 
 
-Solve percentage, part, whole, increase, decrease, reverse change, difference and error.
+Find a percentage, compare rates in percentage points, or apply and reverse two successive discounts.
 
 
 
@@ -48,6 +48,38 @@ Solve percentage, part, whole, increase, decrease, reverse change, difference an
 
 
 
+<a id="case-study"></a>
+
+
+
+## Two discounts on one price
+
+
+
+1. Start at 250. Reducing by 20% gives 200. The next 10% applies to 200, so the price becomes 180. The overall reduction is 28%. Reverse the calculation to recover the starting price.
+
+
+
+[Run example](<https://toolpony.com/en/tools/percentage-calculator/#example-two-discounts>)
+
+
+
+
+
+## From a 4% rate to 5%
+
+
+
+A signup rate rises from 4% to 5%. The change is one percentage point. Compared with the original 4%, the relative increase is 1 ÷ 4 = 25%.
+
+
+
+[Run example](<https://toolpony.com/en/tools/percentage-calculator/#example-percentage-points>)
+
+
+
+
+
 
 
 ## Try it
@@ -62,7 +94,7 @@ Solve percentage, part, whole, increase, decrease, reverse change, difference an
 
 
 
-Percentage = part ÷ whole × 100. Change uses the absolute original value as its denominator. Symmetric difference uses the mean of the absolute values.
+Relative change divides the difference by the magnitude of the original value. For two rates, their subtraction gives the percentage-point change. Successive changes multiply their factors. Symmetric difference uses the mean magnitude of the two inputs.
 
 
 
@@ -98,7 +130,11 @@ For a measured value of 90 and reference of 96, absolute percent error is 6.25%.
 
 
 
-**Percentage of a value**
+
+
+### Percentage of a value
+
+
 
 - Percentage · %
 - Value
@@ -107,7 +143,11 @@ For a measured value of 90 and reference of 96, absolute percent error is 6.25%.
 
 
 
-**Find the percentage**
+
+
+### Find the percentage
+
+
 
 - Part
 - Whole
@@ -116,7 +156,11 @@ For a measured value of 90 and reference of 96, absolute percent error is 6.25%.
 
 
 
-**Find the whole**
+
+
+### Find the whole
+
+
 
 - Part
 - Percentage · %
@@ -125,8 +169,13 @@ For a measured value of 90 and reference of 96, absolute percent error is 6.25%.
 
 
 
-**Percentage change**
 
+
+### Percentage change
+
+
+
+- Values represent · Amounts / Rates (%)
 - Original value
 - New value
 
@@ -134,7 +183,11 @@ For a measured value of 90 and reference of 96, absolute percent error is 6.25%.
 
 
 
-**Percentage difference**
+
+
+### Percentage difference
+
+
 
 - First value
 - Second value
@@ -143,7 +196,11 @@ For a measured value of 90 and reference of 96, absolute percent error is 6.25%.
 
 
 
-**Difference with signed values**
+
+
+### Difference with signed values
+
+
 
 - First value
 - Second value
@@ -152,25 +209,39 @@ For a measured value of 90 and reference of 96, absolute percent error is 6.25%.
 
 
 
-**Apply a change**
+
+
+### Apply a change
+
+
 
 - Original value
 - Signed change · %
+- Second change · %
 
 
 
 
 
-**Reverse a change**
+
+
+### Reverse a change
+
+
 
 - New value
 - Signed change · %
+- Second change · %
 
 
 
 
 
-**Percent error**
+
+
+### Percent error
+
+
 
 - Measured value
 - Reference value
@@ -179,6 +250,10 @@ For a measured value of 90 and reference of 96, absolute percent error is 6.25%.
 
 
 
+
+
+
+**Method references** [Eurostat · Percentage point](<https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Percentage_point>)
 
 
 

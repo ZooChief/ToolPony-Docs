@@ -1,4 +1,4 @@
-# Calculadora de tejados
+# Guía de uso · Calculadora de tejados
 
 
 
@@ -47,6 +47,54 @@ Unos 2.461 ft², 28 squares con margen del 10 %.
 
 
 
+<a id="case-study"></a>
+
+
+
+## Comprar tejas
+
+
+
+1. Un tejado plano de 25 × 40 ft cubre 1.000 ft². Con 10 % de margen y 3 paquetes por 100 ft², compra 33 paquetes. A 75 cada uno cuestan 2.475.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/roofing-calculator/#example-roof-order>)
+
+
+
+
+
+## Leer la cobertura del paquete
+
+
+
+Para 1.100 ft², 33 paquetes de 33,3 ft² cubren 1.098,9 ft². Hacen falta 34, que cubren 1.132,2 ft².
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/roofing-calculator/#example-package-label>)
+
+
+
+
+
+
+
+## Dos voladizos distintos
+
+
+
+En una planta de 8 × 5 m, con 25 cm de alero y 40 cm en cada hastial, la proyección es 8,8 × 5,5 m. A 5/12 de pendiente, 10 % de margen y 3 m² por paquete se compran 20 paquetes.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/roofing-calculator/#example-roof-overhang>)
+
+
+
+
+
 
 
 ## Pruébalo
@@ -85,7 +133,11 @@ $$
 
 
 
-**Planta y pendiente**
+
+
+### Planta y pendiente
+
+
 
 - Área en planta
 - Unidad de superficie · cm² / m² / in² / ft² / yd² / acre / ¡Ja!
@@ -95,12 +147,20 @@ $$
 - Precio unitario
 - Unidad de precio · cm² / m² / in² / ft² / yd² / acre / ¡Ja!
 - Margen por desperdicio · %
+- Cobertura por paquete · Paquetes por cuadrado de techo / Superficie por paquete
+- Paquetes por 100 ft²
+- Cobertura efectiva por paquete
+- Precio por paquete (opcional)
 
 
 
 
 
-**Planta y ángulo**
+
+
+### Planta y ángulo
+
+
 
 - Área en planta
 - Unidad de superficie · cm² / m² / in² / ft² / yd² / acre / ¡Ja!
@@ -110,24 +170,40 @@ $$
 - Precio unitario
 - Unidad de precio · cm² / m² / in² / ft² / yd² / acre / ¡Ja!
 - Margen por desperdicio · %
+- Cobertura por paquete · Paquetes por cuadrado de techo / Superficie por paquete
+- Paquetes por 100 ft²
+- Cobertura efectiva por paquete
+- Precio por paquete (opcional)
 
 
 
 
 
-**Superficie de tejado conocida**
+
+
+### Superficie de tejado conocida
+
+
 
 - Superficie del tejado
 - Unidad de superficie · cm² / m² / in² / ft² / yd² / acre / ¡Ja!
 - Precio unitario
 - Unidad de precio · cm² / m² / in² / ft² / yd² / acre / ¡Ja!
 - Margen por desperdicio · %
+- Cobertura por paquete · Paquetes por cuadrado de techo / Superficie por paquete
+- Paquetes por 100 ft²
+- Cobertura efectiva por paquete
+- Precio por paquete (opcional)
 
 
 
 
 
-**Largo y ancho medidos**
+
+
+### Largo y ancho medidos
+
+
 
 - Largo
 - Unidad de largo · mm / cm / m / dentro / ft / Yd
@@ -136,13 +212,23 @@ $$
 - Elevación por 12 horizontales
 - Voladizo horizontal
 - Unidad de voladizo · mm / cm / m / dentro / ft / Yd
+- Voladizo de hastial si varía
 - Precio unitario
 - Unidad de precio · cm² / m² / in² / ft² / yd² / acre / ¡Ja!
 - Margen por desperdicio · %
+- Cobertura por paquete · Paquetes por cuadrado de techo / Superficie por paquete
+- Paquetes por 100 ft²
+- Cobertura efectiva por paquete
+- Unidad de superficie · cm² / m² / in² / ft² / yd² / acre / ¡Ja!
+- Precio por paquete (opcional)
 
 
 
 
+
+
+
+**Fuentes del método** [GAF · Bundle coverage per roofing square](<https://www.gaf.com/en-us/blog/your-home/how-many-bundles-of-shingles-are-in-a-square---63a47862-f7e1-4e73-abcf-8d09917a8b8d>)
 
 
 

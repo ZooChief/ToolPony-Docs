@@ -1,4 +1,4 @@
-# サンプル住所生成
+# サンプル住所生成の使い方
 
 
 
@@ -51,6 +51,23 @@ Deutschland
 
 
 
+<a id="case-study"></a>
+
+
+
+## カナダの部屋番号付き住所を確認
+
+
+
+1. オンタリオ州を選び、シード label-review で部屋番号付き・連絡先なしのテスト住所を2件生成します。同じ設定で同じ2件を再現できます。
+2. テキストでは、部屋番号と番地がこの順でハイフンでつながります。市名の行では ON と郵便番号の間は半角スペース2つです。JSONには各項目も個別に入ります。
+
+
+
+[入力例を実行](<https://toolpony.com/ja/tools/sample-address-generator/#example-canadian-label>)
+
+
+
 
 
 ## 試してみる
@@ -68,6 +85,10 @@ Deutschland
 一度に最大 100 件です。地名と郵便番号は書式例で、番地と宛名は合成データです。電話は予約番号か伏字で表示します。フォームやソフトウェアのテストに使えます。
 
 
+
+
+
+**計算・処理の参考資料** [USPS · Publication 28, §213](<https://pe.usps.com/text/pub28/28c2_003.htm>) · [Canada Post · Civic address](<https://www.canadapost-postescanada.ca/cpc/en/support/articles/addressing-guidelines/civic-address.page>)
 
 
 

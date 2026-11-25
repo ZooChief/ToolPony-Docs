@@ -1,4 +1,4 @@
-# Calculatrice du taux de rendement interne
+# Guide pratique · Calculatrice du taux de rendement interne
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Flux annuels irréguliers**
+
+
+### Flux annuels irréguliers
+
+
 
 - Investissement initial
 - Flux de trésorerie annuels ultérieurs
@@ -75,7 +79,11 @@ $$
 
 
 
-**Flux fixes et solde de clôture**
+
+
+### Flux fixes et solde de clôture
+
+
 
 - Investissement initial
 - Années complètes

@@ -1,4 +1,4 @@
-# Calculadora de duração
+# Guia de uso · Calculadora de duração
 
 
 
@@ -46,6 +46,22 @@ Das 22:30 às 06:15 do dia seguinte
 
 
 
+<a id="case-study"></a>
+
+
+
+## Somar três gravações
+
+
+
+1. As gravações duram 47 min 35 s, 1 h 12 min 40 s e 8 min 15 s. Na sequência unida, a segunda termina em 02:00:15 e o total é 02:08:30. Exporte os tempos acumulados para localizar cada corte.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/time-duration-calculator/#example-recording-sessions>)
+
+
+
 
 
 ## Experimente
@@ -78,7 +94,11 @@ $$
 
 
 
-**Intervalo entre horários**
+
+
+### Intervalo entre horários
+
+
 
 - Hora inicial
 - Hora final
@@ -89,7 +109,11 @@ $$
 
 
 
-**Somar durações**
+
+
+### Somar durações
+
+
 
 - Durações
 
@@ -97,7 +121,11 @@ $$
 
 
 
-**Entre datas e horários**
+
+
+### Entre datas e horários
+
+
 
 - Data inicial
 - Hora inicial
@@ -108,7 +136,11 @@ $$
 
 
 
-**Somar ou subtrair durações**
+
+
+### Somar ou subtrair durações
+
+
 
 - Primeira duração
 - Operação · Somar / Subtrair
@@ -118,7 +150,11 @@ $$
 
 
 
-**Deslocar data e horário**
+
+
+### Deslocar data e horário
+
+
 
 - Data inicial
 - Hora inicial
@@ -129,7 +165,11 @@ $$
 
 
 
-**Expressão de duração**
+
+
+### Expressão de duração
+
+
 
 - Expressão de duração
 

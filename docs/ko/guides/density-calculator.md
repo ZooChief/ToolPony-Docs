@@ -1,4 +1,4 @@
-# 밀도 계산기
+# 밀도 계산기 사용 가이드
 
 
 
@@ -48,7 +48,7 @@
 
 
 
-밀도 = 질량 ÷ 볼륨. 인터페이스는 kg, m3 및 kg/m3을 사용합니다.
+밀도는 질량을 부피로 나눈 값입니다. 계산할 때 킬로그램과 세제곱미터로 통일한 뒤 선택한 단위로 결과를 표시합니다.
 
 
 
@@ -57,6 +57,10 @@ $$
 $$
 
 
+
+
+
+**계산 및 처리 방식의 출처** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST · Unit conversion factors](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>)
 
 
 

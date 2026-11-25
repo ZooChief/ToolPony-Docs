@@ -1,4 +1,4 @@
-# Calculadora estadística
+# Guía de uso · Calculadora estadística
 
 
 
@@ -76,7 +76,11 @@ Use la desviación estándar de muestra para un subconjunto de una población y 
 
 
 
-**Resumen del conjunto de datos**
+
+
+### Resumen del conjunto de datos
+
+
 
 - Valores
 
@@ -84,7 +88,11 @@ Use la desviación estándar de muestra para un subconjunto de una población y 
 
 
 
-**Muestra de desviación estándar**
+
+
+### Muestra de desviación estándar
+
+
 
 - Valores
 
@@ -92,7 +100,11 @@ Use la desviación estándar de muestra para un subconjunto de una población y 
 
 
 
-**Desviación normal de la población**
+
+
+### Desviación normal de la población
+
+
 
 - Valores
 

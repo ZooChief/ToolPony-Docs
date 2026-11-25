@@ -1,4 +1,4 @@
-# Calculadora de descuentos
+# Guía de uso · Calculadora de descuentos
 
 
 
@@ -68,7 +68,11 @@ Utilice un modo inverso cuando sepa el precio de venta o la cantidad guardada. M
 
 
 
-**Aplicar descuentos**
+
+
+### Aplicar descuentos
+
+
 
 - Precio original
 - Porcentajes de descuento
@@ -79,7 +83,11 @@ Utilice un modo inverso cuando sepa el precio de venta o la cantidad guardada. M
 
 
 
-**Encontrar precio original**
+
+
+### Encontrar precio original
+
+
 
 - Precio tras descuento
 - Tipo de descuento · Porcentaje / Cantidad fija
@@ -89,7 +97,11 @@ Utilice un modo inverso cuando sepa el precio de venta o la cantidad guardada. M
 
 
 
-**Buscar tarifas y ahorros**
+
+
+### Buscar tarifas y ahorros
+
+
 
 - Precio original
 - Cantidad conocida · Precio con descuento / Ahorros
@@ -99,7 +111,11 @@ Utilice un modo inverso cuando sepa el precio de venta o la cantidad guardada. M
 
 
 
-**Encuentre precios de ahorros**
+
+
+### Encuentre precios de ahorros
+
+
 
 - Cuantía salvada
 - Tasa de descuento · %

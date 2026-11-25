@@ -1,8 +1,8 @@
-# Wahrscheinlichkeitsrechner
+# Anleitung: Wahrscheinlichkeitsrechner
 
 
 
-Berechnen Sie Ereigniswahrscheinlichkeiten, stellen Sie unabhängige Wahrscheinlichkeiten aus zwei bekannten Werten wieder her oder verwenden Sie ein normales Intervall.
+Ereignisse als Wahrscheinlichkeiten oder Häufigkeiten untersuchen, bedingte Wahrscheinlichkeiten vergleichen und unabhängige Ereignisse berechnen.
 
 
 
@@ -34,6 +34,22 @@ Mindestens ein Ereignis 0,6964
 
 
 
+<a id="case-study"></a>
+
+
+
+## Teilnahme an zwei Workshops
+
+
+
+1. Von 50 Personen kamen 18 zu beiden Terminen, 12 nur morgens (AM), 6 nur nachmittags (PM) und 14 gar nicht. Von den 24 am Nachmittag waren 18 auch morgens da (75 %). Von den 30 am Morgen kamen 18 wieder (60 %).
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/probability-calculator/#example-workshop-attendance>)
+
+
+
 
 
 ## Ausprobieren
@@ -48,7 +64,7 @@ Mindestens ein Ereignis 0,6964
 
 
 
-Unabhängige Ereignisse erfüllen P(A∩B)=P(A)P(B), geben Sie bei abhängigen Ereignissen direkt den Schnittpunkt ein. Wiederholte Versuche multiplizieren ihre Wahrscheinlichkeiten, und die Wahrscheinlichkeit mindestens eines Erfolgs verwendet das Komplement.
+Die Vereinigung ist die Summe der Randwahrscheinlichkeiten abzüglich der Schnittmenge. Innerhalb B ist der Anteil von A gleich P(A ∩ B) / P(B). Bei Unabhängigkeit ergibt das Produkt der Randwahrscheinlichkeiten den Schnitt.
 
 
 
@@ -72,7 +88,11 @@ $$
 
 
 
-**Zwei unabhängige Veranstaltungen**
+
+
+### Zwei unabhängige Veranstaltungen
+
+
 
 - Wahrscheinlichkeit von A
 - Wahrscheinlichkeit von B
@@ -81,17 +101,32 @@ $$
 
 
 
-**Bekannter Schnittpunkt**
 
+
+### Bekannter Schnittpunkt
+
+
+
+- Eingabe · Wahrscheinlichkeiten / Häufigkeiten
 - Wahrscheinlichkeit von A
 - Wahrscheinlichkeit von B
 - Beide Veranstaltungen
+- Name für Ereignis A
+- Name für Ereignis B
+- A ∩ B
+- A ∩ ¬B
+- ¬A ∩ B
+- ¬A ∩ ¬B
 
 
 
 
 
-**Unabhängige Veranstaltungen wiederherstellen**
+
+
+### Unabhängige Veranstaltungen wiederherstellen
+
+
 
 - Erste bekannte Menge · Wahrscheinlichkeit von A / Wahrscheinlichkeit von B / Nicht A / Nicht B / Beide Veranstaltungen / Mindestens ein Ereignis / Genau ein Ereignis / Keine der beiden Veranstaltungen
 - Erste Wahrscheinlichkeit
@@ -102,7 +137,11 @@ $$
 
 
 
-**Wiederholte unabhängige Versuche**
+
+
+### Wiederholte unabhängige Versuche
+
+
 
 - Wahrscheinlichkeit von A
 - Versuche von A
@@ -113,7 +152,11 @@ $$
 
 
 
-**Normalverteilungsintervall**
+
+
+### Normalverteilungsintervall
+
+
 
 - Mittelwert
 - Standardabweichung
@@ -123,6 +166,10 @@ $$
 
 
 
+
+
+
+**Quellen zur Methode** [OpenStax · Contingency Tables](<https://openstax.org/books/introductory-statistics-2e/pages/3-4-contingency-tables>)
 
 
 

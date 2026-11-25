@@ -1,4 +1,4 @@
-# Right triangle calculator
+# Right triangle calculator guide
 
 
 

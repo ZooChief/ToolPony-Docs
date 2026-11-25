@@ -1,4 +1,4 @@
-# Calculadora de divisores comuns
+# Guia de uso · Calculadora de divisores comuns
 
 
 

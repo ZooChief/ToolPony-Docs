@@ -1,4 +1,4 @@
-# Bandbreitenrechner
+# Anleitung: Bandbreitenrechner
 
 
 
@@ -48,9 +48,13 @@ Schätzen Sie die Übertragungszeit von der Dateigröße, der Verbindungsgeschwi
 
 
 
-Zeit in Sekunden = Dateibytes × 8 ÷ effektive Bits pro Sekunde. Netzwerkpräfixe sind dezimal. Dateigröße unterstützt dezimale und binäre Präfixe.
+Übertragungszeit in Sekunden = Dateigröße in Byte × 8 ÷ effektive Bitrate. 1 MB/s entspricht 1.000.000 Byte/s, 1 MiB/s entspricht 1.048.576 Byte/s. Der Wirkungsgrad bestimmt die nutzbare Rate.
 
 
+
+
+
+**Quellen zur Methode** [NIST · Binary prefixes](<https://physics.nist.gov/cuu/Units/binary.html>)
 
 
 

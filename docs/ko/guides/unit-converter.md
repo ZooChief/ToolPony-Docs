@@ -1,4 +1,4 @@
-# 단위 변환기
+# 단위 변환기 사용 가이드
 
 
 
@@ -34,11 +34,55 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## 온도 변화 확인
+
+
+
+1. 20 °C에서 10 °C로 내려가면 온도 차이를 선택하고 −10 °C를 입력하세요. 변화량은 −18 °F이고 10 °C라는 온도 자체는 50 °F입니다.
+
+
+
+
+
+## 1 TB 드라이브를 GiB로 보기
+
+
+
+1 TB는 1,000,000,000,000바이트입니다. 1 GiB의 바이트 수인 1,073,741,824로 나누면 포맷 전 약 931.32 GiB입니다. 화면과 CSV에서 전체 자릿수를 확인할 수 있습니다.
+
+
+
+[예제 실행](<https://toolpony.com/ko/tools/unit-converter/#example-drive-capacity>)
+
+
+
+
+
+
+
+## 3/8인치 연결부
+
+
+
+3/8인치는 9.525 mm입니다. 대분수도 입력할 수 있으며 1 3/8인치는 34.925 mm입니다。
+
+
+
+[예제 실행](<https://toolpony.com/ko/tools/unit-converter/#example-fractional-inch>)
+
+
+
+
+
 
 
 ## 직접 사용해 보기
 
-[전체 도구 열기 · 단위 변환기](<https://toolpony.com/ko/tools/unit-converter/>)
+[전체 도구 열기 · 단위 변환기](<https://toolpony.com/ko/tools/unit-converter/#example-temperature-change>)
 
 
 
@@ -48,7 +92,7 @@
 
 
 
-각 그룹은 표준 기본 단위를 통해 변환합니다. 미국과 제국 부피 단위는 분리됩니다. Decimal 및 바이너리 스토리지 유닛은 각각의 기초를 유지합니다.
+정의된 단위 비율은 정확한 분수로 계산합니다. 순환소수는 반올림한 값과 원래 분수를 함께 표시합니다. 라디안과 다른 각도 단위 사이의 변환에는 π의 근삿값을 사용합니다.
 
 
 
@@ -60,7 +104,11 @@
 
 
 
-**길이**
+
+
+### 길이
+
+
 
 - 값
 - 단위에서
@@ -70,7 +118,11 @@
 
 
 
-**질량**
+
+
+### 질량
+
+
 
 - 값
 - 단위에서
@@ -80,7 +132,11 @@
 
 
 
-**넓이**
+
+
+### 넓이
+
+
 
 - 값
 - 단위에서
@@ -90,7 +146,11 @@
 
 
 
-**부피**
+
+
+### 부피
+
+
 
 - 값
 - 단위에서
@@ -100,17 +160,26 @@
 
 
 
-**온도**
+
+
+### 온도
+
+
 
 - 값
 - 단위에서 · °C / °F / K
 - 단위에 · °C / °F / K
+- Temperature difference
 
 
 
 
 
-**속도**
+
+
+### 속도
+
+
 
 - 값
 - 단위에서 · m/s / km/h / mph / ft/s / 매듭
@@ -120,7 +189,11 @@
 
 
 
-**압력**
+
+
+### 압력
+
+
 
 - 값
 - 단위에서 · 파 / kPa / MPa / 바 / atm / 토르 / psi
@@ -130,7 +203,11 @@
 
 
 
-**에너지**
+
+
+### 에너지
+
+
 
 - 값
 - 단위에서
@@ -140,7 +217,11 @@
 
 
 
-**힘**
+
+
+### 힘
+
+
 
 - 값
 - 단위에서 · W / mW / kW / MW / 기계적 마력 / 미터법 파워
@@ -150,7 +231,11 @@
 
 
 
-**힘**
+
+
+### 힘
+
+
 
 - 값
 - 단위에서 · N / kN / dyn / kgf / lbf
@@ -160,7 +245,11 @@
 
 
 
-**시간**
+
+
+### 시간
+
+
 
 - 값
 - 단위에서 · ns / μs / ms / s / min / h / d / wk
@@ -170,7 +259,11 @@
 
 
 
-**디지털 스토리지**
+
+
+### 디지털 스토리지
+
+
 
 - 값
 - 단위에서
@@ -180,7 +273,11 @@
 
 
 
-**각도**
+
+
+### 각도
+
+
 
 - 값
 - 단위에서 · ° / rad / grad / 턴 / arcmin / 아크섹
@@ -190,7 +287,11 @@
 
 
 
-**주파수**
+
+
+### 주파수
+
+
 
 - 값
 - 단위에서 · Hz / kHz / MHz / GHz / rpm
@@ -202,7 +303,7 @@
 
 
 
-**계산 및 처리 방식의 출처** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+**계산 및 처리 방식의 출처** [NIST · Unit conversion factors](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>) · [Hong Kong Customs · Market units](<https://www.customs.gov.hk/en/service-enforcement-information/consumer-protection/weights-measures/index.html>) · [New Taipei City · 臺斤](<https://www.ntpc.gov.tw/ch/home.jsp?dataserno=202204120009&id=28>) · [Hong Kong Legislative Council · 司馬斤](<https://www.legco.gov.hk/yr16-17/english/bc/bc56/papers/bc5620171121cb2-297-2-e.pdf>) · [NIST · Binary prefixes](<https://physics.nist.gov/cuu/Units/binary.html>)
 
 
 

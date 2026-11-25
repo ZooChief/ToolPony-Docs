@@ -1,4 +1,4 @@
-# Calculadora de retorno de inversión
+# Guía de uso · Calculadora de retorno de inversión
 
 
 

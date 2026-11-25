@@ -1,4 +1,4 @@
-# Einheitenumrechner
+# Anleitung: Einheitenumrechner
 
 
 
@@ -34,11 +34,55 @@ Konvertieren Sie Länge, Masse, Fläche, Volumen, Temperatur, Geschwindigkeit, E
 
 
 
+<a id="case-study"></a>
+
+
+
+## Eine Temperaturänderung prüfen
+
+
+
+1. Die Temperatur fällt von 20 °C auf 10 °C. Wählen Sie Temperaturdifferenz und geben Sie −10 °C ein. Die Änderung beträgt −18 °F. Der Messwert 10 °C entspricht 50 °F.
+
+
+
+
+
+## Ein 1-TB-Laufwerk in GiB
+
+
+
+Ein Laufwerk mit 1 TB enthält 1.000.000.000.000 Byte. Geteilt durch 1.073.741.824 Byte pro GiB sind das vor der Formatierung rund 931,32 GiB. Anzeige und CSV enthalten alle Nachkommastellen.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/unit-converter/#example-drive-capacity>)
+
+
+
+
+
+
+
+## Ein Anschluss mit 3/8 Zoll
+
+
+
+3/8 Zoll ergeben 9,525 mm. Auch gemischte Zahlen sind möglich. 1 3/8 Zoll entsprechen 34,925 mm.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/unit-converter/#example-fractional-inch>)
+
+
+
+
+
 
 
 ## Ausprobieren
 
-[Vollständiges Werkzeug öffnen · Einheitenumrechner](<https://toolpony.com/de/tools/unit-converter/>)
+[Vollständiges Werkzeug öffnen · Einheitenumrechner](<https://toolpony.com/de/tools/unit-converter/#example-temperature-change>)
 
 
 
@@ -48,7 +92,7 @@ Konvertieren Sie Länge, Masse, Fläche, Volumen, Temperatur, Geschwindigkeit, E
 
 
 
-Jede Gruppe konvertiert über eine Standard-Basiseinheit. US- und imperiale Volumeneinheiten sind getrennt, Dezimal- und Binärspeichereinheiten behalten ihre jeweiligen Basen bei.
+Definierte Einheitenverhältnisse werden als exakte Brüche berechnet. Bei periodischen Dezimalzahlen erscheint der Bruch neben dem gerundeten Ergebnis. Die Umrechnung zwischen Radiant und anderen Winkeleinheiten verwendet eine Näherung für π.
 
 
 
@@ -60,7 +104,11 @@ Jede Gruppe konvertiert über eine Standard-Basiseinheit. US- und imperiale Volu
 
 
 
-**Länge**
+
+
+### Länge
+
+
 
 - Wert
 - Aus der Einheit
@@ -70,7 +118,11 @@ Jede Gruppe konvertiert über eine Standard-Basiseinheit. US- und imperiale Volu
 
 
 
-**Masse**
+
+
+### Masse
+
+
 
 - Wert
 - Aus der Einheit
@@ -80,7 +132,11 @@ Jede Gruppe konvertiert über eine Standard-Basiseinheit. US- und imperiale Volu
 
 
 
-**Fläche**
+
+
+### Fläche
+
+
 
 - Wert
 - Aus der Einheit
@@ -90,7 +146,11 @@ Jede Gruppe konvertiert über eine Standard-Basiseinheit. US- und imperiale Volu
 
 
 
-**Volumen**
+
+
+### Volumen
+
+
 
 - Wert
 - Aus der Einheit
@@ -100,17 +160,26 @@ Jede Gruppe konvertiert über eine Standard-Basiseinheit. US- und imperiale Volu
 
 
 
-**Temperatur**
+
+
+### Temperatur
+
+
 
 - Wert
 - Aus der Einheit · °C / °F / K
 - An die Einheit · °C / °F / K
+- Temperature difference
 
 
 
 
 
-**Geschwindigkeit**
+
+
+### Geschwindigkeit
+
+
 
 - Wert
 - Aus der Einheit · m/s / km/h / mph / ft/s / Knoten
@@ -120,7 +189,11 @@ Jede Gruppe konvertiert über eine Standard-Basiseinheit. US- und imperiale Volu
 
 
 
-**Druck**
+
+
+### Druck
+
+
 
 - Wert
 - Aus der Einheit · Pa / kPa / MPa / Stange / atm / Torf / psi
@@ -130,7 +203,11 @@ Jede Gruppe konvertiert über eine Standard-Basiseinheit. US- und imperiale Volu
 
 
 
-**Energie**
+
+
+### Energie
+
+
 
 - Wert
 - Aus der Einheit
@@ -140,7 +217,11 @@ Jede Gruppe konvertiert über eine Standard-Basiseinheit. US- und imperiale Volu
 
 
 
-**Stromstärke**
+
+
+### Stromstärke
+
+
 
 - Wert
 - Aus der Einheit · W / mW / kW / MW / Mechanische Pferdestärke / Metrische Pferdestärke
@@ -150,7 +231,11 @@ Jede Gruppe konvertiert über eine Standard-Basiseinheit. US- und imperiale Volu
 
 
 
-**Kraft**
+
+
+### Kraft
+
+
 
 - Wert
 - Aus der Einheit · N / kN / dyn / kgf / lbf
@@ -160,7 +245,11 @@ Jede Gruppe konvertiert über eine Standard-Basiseinheit. US- und imperiale Volu
 
 
 
-**Zeit**
+
+
+### Zeit
+
+
 
 - Wert
 - Aus der Einheit · ns / μs / ms / s / min / h / d / wk
@@ -170,7 +259,11 @@ Jede Gruppe konvertiert über eine Standard-Basiseinheit. US- und imperiale Volu
 
 
 
-**Digitale Speicherung**
+
+
+### Digitale Speicherung
+
+
 
 - Wert
 - Aus der Einheit
@@ -180,7 +273,11 @@ Jede Gruppe konvertiert über eine Standard-Basiseinheit. US- und imperiale Volu
 
 
 
-**Winkel**
+
+
+### Winkel
+
+
 
 - Wert
 - Aus der Einheit · ° / Rad / grad / Wendel / arcmin / Bogensekunde
@@ -190,7 +287,11 @@ Jede Gruppe konvertiert über eine Standard-Basiseinheit. US- und imperiale Volu
 
 
 
-**Häufigkeit**
+
+
+### Häufigkeit
+
+
 
 - Wert
 - Aus der Einheit · Hz / Hz / MHz / GHz / Drehzahl
@@ -202,7 +303,7 @@ Jede Gruppe konvertiert über eine Standard-Basiseinheit. US- und imperiale Volu
 
 
 
-**Quellen zur Methode** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+**Quellen zur Methode** [NIST · Unit conversion factors](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>) · [Hong Kong Customs · Market units](<https://www.customs.gov.hk/en/service-enforcement-information/consumer-protection/weights-measures/index.html>) · [New Taipei City · 臺斤](<https://www.ntpc.gov.tw/ch/home.jsp?dataserno=202204120009&id=28>) · [Hong Kong Legislative Council · 司馬斤](<https://www.legco.gov.hk/yr16-17/english/bc/bc56/papers/bc5620171121cb2-297-2-e.pdf>) · [NIST · Binary prefixes](<https://physics.nist.gov/cuu/Units/binary.html>)
 
 
 

@@ -1,4 +1,4 @@
-# Calculadora de folha de horas
+# Guia de uso · Calculadora de folha de horas
 
 
 

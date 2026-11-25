@@ -1,4 +1,4 @@
-# GPA-Rechner
+# Anleitung: GPA-Rechner
 
 
 
@@ -74,7 +74,11 @@ A+ bis F verwenden Sie die 4,3-Punkte-Mapping. P, NP, I und W werden aus der gew
 
 
 
-**Kursnoten**
+
+
+### Kursnoten
+
+
 
 - Kurs, Credits, Besoldungsgruppe, fakultative Laufzeit und Bonus
 - Gradformat · Briefe / Prozentsatz / Punkte
@@ -85,7 +89,11 @@ A+ bis F verwenden Sie die 4,3-Punkte-Mapping. P, NP, I und W werden aus der gew
 
 
 
-**Planziel GPA**
+
+
+### Planziel GPA
+
+
 
 - Aktuelles GPA
 - Ziel-GPA

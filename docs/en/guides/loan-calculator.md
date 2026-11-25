@@ -1,4 +1,4 @@
-# Loan calculator
+# Loan calculator guide
 
 
 
@@ -48,11 +48,25 @@ Calculate installment loans, find a term from a monthly payment, or plan dated e
 
 
 
+<a id="case-study"></a>
+
+
+
+## How much does paying 100 extra per month save?
+
+
+
+1. Choose the example with 100 extra each month. It uses a principal of 100,000, a ten-year term and a fixed 6% annual rate, compounded and paid monthly.
+2. The scheduled installment is 1,110.21. Adding 100 to principal each month reduces the term from 120 to 107 payments. Total interest falls from 33,224.60 to 29,328.37.
+3. Compare the two balances, then check the final payment in the schedule: 1,046.63. The model uses unrounded installments internally and assumes the extra amount goes directly to principal.
+
+
+
 
 
 ## Try it
 
-[Open full tool · Loan calculator](<https://toolpony.com/en/tools/loan-calculator/>)
+[Open full tool · Loan calculator](<https://toolpony.com/en/tools/loan-calculator/#example-extra-payment>)
 
 
 
@@ -100,7 +114,11 @@ A payment of 785 on 45,000 at 6.3% gives an estimated 68.38 months. Monthly bill
 
 
 
-**Installments**
+
+
+### Installments
+
+
 
 - Principal
 - Years
@@ -114,7 +132,11 @@ A payment of 785 on 45,000 at 6.3% gives an estimated 68.38 months. Monthly bill
 
 
 
-**Term from monthly payment**
+
+
+### Term from monthly payment
+
+
 
 - Principal
 - Monthly payment
@@ -124,7 +146,11 @@ A payment of 785 on 45,000 at 6.3% gives an estimated 68.38 months. Monthly bill
 
 
 
-**Dated extra payments**
+
+
+### Dated extra payments
+
+
 
 - Principal
 - Years
@@ -135,13 +161,17 @@ A payment of 785 on 45,000 at 6.3% gives an estimated 68.38 months. Monthly bill
 - Start of monthly extras
 - Extra yearly payment
 - Start of yearly extras
-- One-time payments (YYYY-MM, amount)
+- One-time payments
 
 
 
 
 
-**Single payment at maturity**
+
+
+### Single payment at maturity
+
+
 
 - Principal
 - Years
@@ -153,7 +183,11 @@ A payment of 785 on 45,000 at 6.3% gives an estimated 68.38 months. Monthly bill
 
 
 
-**Present value of a lump sum**
+
+
+### Present value of a lump sum
+
+
 
 - Amount due at maturity
 - Years
@@ -164,6 +198,10 @@ A payment of 785 on 45,000 at 6.3% gives an estimated 68.38 months. Monthly bill
 
 
 
+
+
+
+**Method references** [CFPB · Mortgage amortization](<https://www.consumerfinance.gov/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/>)
 
 
 

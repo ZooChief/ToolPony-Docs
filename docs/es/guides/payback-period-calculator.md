@@ -1,4 +1,4 @@
-# Calculadora del período de recuperación
+# Guía de uso · Calculadora del período de recuperación
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Corrientes de efectivo regulares o crecientes**
+
+
+### Corrientes de efectivo regulares o crecientes
+
+
 
 - Inversión inicial
 - Corriente de efectivo de primer año
@@ -78,7 +82,11 @@ $$
 
 
 
-**Corrientes de efectivo anuales irregulares**
+
+
+### Corrientes de efectivo anuales irregulares
+
+
 
 - Inversión inicial
 - Corrientes de efectivo anuales posteriores

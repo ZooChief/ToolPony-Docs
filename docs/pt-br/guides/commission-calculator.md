@@ -1,4 +1,4 @@
-# Calculadora de comissões
+# Guia de uso · Calculadora de comissões
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Procurar comissão**
+
+
+### Procurar comissão
+
+
 
 - Montante das vendas
 - Taxa da Comissão · %
@@ -75,7 +79,11 @@ $$
 
 
 
-**Taxa de procura**
+
+
+### Taxa de procura
+
+
 
 - Montante das vendas
 - Montante da Comissão
@@ -84,7 +92,11 @@ $$
 
 
 
-**Procurar o valor das vendas**
+
+
+### Procurar o valor das vendas
+
+
 
 - Taxa da Comissão · %
 - Montante da Comissão
@@ -93,7 +105,11 @@ $$
 
 
 
-**Base e níveis**
+
+
+### Base e níveis
+
+
 
 - Montante das vendas
 - Comissão de base

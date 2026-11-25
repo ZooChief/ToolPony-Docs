@@ -1,4 +1,4 @@
-# GPA calculator
+# GPA calculator guide
 
 
 
@@ -74,7 +74,11 @@ A+ through F use the 4.3-point mapping. P, NP, I, and W are omitted from the wei
 
 
 
-**Course grades**
+
+
+### Course grades
+
+
 
 - Course, credits, grade, optional term and bonus
 - Grade format · Letters / Percentage / Points
@@ -85,7 +89,11 @@ A+ through F use the 4.3-point mapping. P, NP, I, and W are omitted from the wei
 
 
 
-**Plan target GPA**
+
+
+### Plan target GPA
+
+
 
 - Current GPA
 - Target GPA

@@ -1,4 +1,4 @@
-# Calculadora de gorjetas
+# Guia de uso · Calculadora de gorjetas
 
 
 

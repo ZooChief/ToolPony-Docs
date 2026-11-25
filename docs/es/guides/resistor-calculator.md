@@ -1,4 +1,4 @@
-# Calculadora de resistencias y códigos de color
+# Guía de uso · Calculadora de resistencias y códigos de color
 
 
 
@@ -85,7 +85,11 @@ $$
 
 
 
-**4 bandas**
+
+
+### 4 bandas
+
+
 
 - Primer dígito
 - Segundo dígito
@@ -96,7 +100,11 @@ $$
 
 
 
-**3 bandas**
+
+
+### 3 bandas
+
+
 
 - Primer dígito
 - Segundo dígito
@@ -106,7 +114,11 @@ $$
 
 
 
-**5 bandas**
+
+
+### 5 bandas
+
+
 
 - Primer dígito
 - Segundo dígito
@@ -118,7 +130,11 @@ $$
 
 
 
-**6 bandas**
+
+
+### 6 bandas
+
+
 
 - Primer dígito
 - Segundo dígito
@@ -131,7 +147,11 @@ $$
 
 
 
-**Paralelo**
+
+
+### Paralelo
+
+
 
 - Resistencias en Ω
 
@@ -139,7 +159,11 @@ $$
 
 
 
-**Serie**
+
+
+### Serie
+
+
 
 - Resistencias en Ω
 
@@ -147,12 +171,16 @@ $$
 
 
 
-**Conductor circular**
+
+
+### Conductor circular
+
+
 
 - Longitud
-- Unidad de longitud · mm / cm / m / km / dentro / ft / Yd / \#
+- Unidad de longitud · mm / cm / m / km / dentro / ft / Yd / mi
 - Diámetro
-- Unidad de diámetro · mm / cm / m / km / dentro / ft / Yd / \#
+- Unidad de diámetro · mm / cm / m / km / dentro / ft / Yd / mi
 - Material predefinido · Personalizado / Cobre / Cobre recocido / Aluminio / Plata / Oro
 - Conductividad · S/m
 

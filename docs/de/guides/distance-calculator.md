@@ -1,4 +1,4 @@
-# Abstandsrechner
+# Anleitung: Abstandsrechner
 
 
 
@@ -74,7 +74,11 @@ Bei geographischen Koordinaten sind Nord und Ost positiv, wenn eine Erhebung get
 
 
 
-**2D**
+
+
+### 2D
+
+
 
 - X1
 - Y1
@@ -85,7 +89,11 @@ Bei geographischen Koordinaten sind Nord und Ost positiv, wenn eine Erhebung get
 
 
 
-**3D**
+
+
+### 3D
+
+
 
 - X1
 - Y1
@@ -98,7 +106,11 @@ Bei geographischen Koordinaten sind Nord und Ost positiv, wenn eine Erhebung get
 
 
 
-**Breite und Länge**
+
+
+### Breite und Länge
+
+
 
 - erster Breitengrad · °
 - Erste Länge · °
@@ -109,7 +121,11 @@ Bei geographischen Koordinaten sind Nord und Ost positiv, wenn eine Erhebung get
 
 
 
-**Grad, Minuten und Sekunden**
+
+
+### Grad, Minuten und Sekunden
+
+
 
 - Erste Breitengrade
 - Erste Breitenminuten

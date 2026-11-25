@@ -1,8 +1,8 @@
-# 置信区间计算器
+# 置信区间计算器使用指南
 
 
 
-估算均值的正态置信区间，或用 Wilson 方法计算比例区间。
+由样本数据或汇总统计量计算均值的 z 或 t 置信区间，也可用 Wilson 方法估计比例区间。
 
 
 
@@ -34,6 +34,38 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## 用五次测量估计均值
+
+
+
+1. 五次测量为 48、49、50、51、52，平均值为 50。采用样本标准差，自由度为 4，均值的 95% t 置信区间约为 48.04 至 51.96。这里假定观测相互独立，且总体近似正态。
+
+
+
+[运行示例](<https://toolpony.com/zh-hans/tools/confidence-interval-calculator/#example-five-measurements>)
+
+
+
+
+
+## 抽检 30 件，发现 0 件不合格
+
+
+
+独立抽检 30 件，发现 0 件不合格。按 Wilson 方法估计总体不合格率，95% 区间为 0% 至约 11.35%。如果扩大抽样且仍未发现不合格，区间会变窄。
+
+
+
+[运行示例](<https://toolpony.com/zh-hans/tools/confidence-interval-calculator/#example-no-failures>)
+
+
+
+
+
 
 
 ## 试一试
@@ -48,7 +80,7 @@
 
 
 
-正态误差幅度为 z 乘以标准误 s/√n。Wilson 区间对比例的中心与宽度进行调整，并保持在 \[0,1\] 内。
+均值区间的误差幅度等于临界值 × 标准差 / √n。已知总体标准差时取 z，使用样本标准差时取自由度为 n − 1 的 t。Wilson 区间由二项试验中的成功次数和总次数估计比例。
 
 
 
@@ -72,18 +104,28 @@ $$
 
 
 
-**正态均值区间**
 
+
+### 均值区间
+
+
+
+- 数据来源 · 已知总体 σ / 样本 s / 样本数据
 - 样本量
 - 均值
 - 标准差
+- 样本数值
 - 置信水平 · %
 
 
 
 
 
-**Wilson 比例区间**
+
+
+### Wilson 比例区间
+
+
 
 - 样本量
 - 成功次数
@@ -92,6 +134,10 @@ $$
 
 
 
+
+
+
+**方法来源** [NIST · Confidence limits for the mean](<https://www.itl.nist.gov/div898/handbook/eda/section3/eda352.htm>) · [NIST · Confidence limits for a proportion](<https://www.itl.nist.gov/div898/handbook/prc/section2/prc241.htm>)
 
 
 

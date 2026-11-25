@@ -1,4 +1,4 @@
-# Depreciation calculator
+# Depreciation calculator guide
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Straight-line**
+
+
+### Straight-line
+
+
 
 - Asset cost
 - Salvage value
@@ -77,7 +81,11 @@ $$
 
 
 
-**Declining balance**
+
+
+### Declining balance
+
+
 
 - Asset cost
 - Salvage value
@@ -89,7 +97,11 @@ $$
 
 
 
-**Sum-of-years’ digits**
+
+
+### Sum-of-years’ digits
+
+
 
 - Asset cost
 - Salvage value

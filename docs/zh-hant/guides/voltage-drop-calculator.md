@@ -1,4 +1,4 @@
-# 電壓降計算器
+# 電壓降計算器使用指南
 
 
 
@@ -47,6 +47,54 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## 按電纜表計算
+
+
+
+1. 迴路係數 1 mV/(A·m)、單程 50 m、電流 100 A，這段電纜壓降 5 V。施耐德的算例再加上游的 10 V，整條路徑合計 15 V。
+
+
+
+[運行示例](<https://toolpony.com/zh-hant/tools/voltage-drop-calculator/#example-cable-table>)
+
+
+
+
+
+## 三相併聯迴路
+
+
+
+每相兩條相同線路均分 20 A。400 V 系統單程 100 m，R 爲 1 Ω/km、X 爲 0.5 Ω/km、滯後功率因數 0.8，壓降爲 1.91 V，負載端爲 398.09 V。
+
+
+
+[運行示例](<https://toolpony.com/zh-hant/tools/voltage-drop-calculator/#example-parallel-cable>)
+
+
+
+
+
+
+
+## 壓降超過電源電壓
+
+
+
+24 V 直流、10 A、單程 1 km、每根線 5 Ω/km，往返壓降爲 100 V。按這個電流，模型無法給出負載端電壓。
+
+
+
+[運行示例](<https://toolpony.com/zh-hant/tools/voltage-drop-calculator/#example-cable-limit>)
+
+
+
+
+
 
 
 ## 試一試
@@ -85,10 +133,16 @@ $$
 
 
 
-**已知電阻或阻抗**
 
+
+### 已知電阻或阻抗
+
+
+
+- 資料給出的量 · 導體阻抗 / 迴路壓降係數
 - 每單位長度的電阻或阻抗
 - 每長度單位 · Ω/km / Ω/m / mΩ/m / Ω/1000 ft / Ω/ft / mΩ/ft
+- 表列迴路壓降係數 · mV/(A·m)
 - 電壓 · V
 - 電路類型 · DC / 單相交流 / 三相交流
 - 每相併聯導體數
@@ -101,7 +155,11 @@ $$
 
 
 
-**按線規估算**
+
+
+### 按線規估算
+
+
 
 - 材料 · 銅 / 鋁 / 銀 / 金
 - 線規
@@ -117,7 +175,11 @@ $$
 
 
 
-**按截面積估算**
+
+
+### 按截面積估算
+
+
 
 - 材料 · 銅 / 鋁 / 銀 / 金
 - 截面積 · mm²
@@ -133,7 +195,11 @@ $$
 
 
 
-**電阻和電抗**
+
+
+### 電阻和電抗
+
+
 
 - 電阻
 - 每單位長度的電抗
@@ -150,6 +216,10 @@ $$
 
 
 
+
+
+
+**方法來源** [Schneider Electric · Voltage drop in steady load conditions](<https://www.electrical-installation.org/enwiki/Calculation_of_voltage_drop_in_steady_load_conditions>)
 
 
 

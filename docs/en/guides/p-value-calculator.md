@@ -1,4 +1,4 @@
-# Normal p-value calculator
+# Normal p-value calculator guide
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Z-score to probabilities**
+
+
+### Z-score to probabilities
+
+
 
 - Z-score
 
@@ -74,7 +78,11 @@ $$
 
 
 
-**Probability to Z-score**
+
+
+### Probability to Z-score
+
+
 
 - Probability region · Left-tail probability / Right-tail probability / From the center to |z| / Between −|z| and |z| / Two-tail probability
 - Probability

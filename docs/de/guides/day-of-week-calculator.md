@@ -1,4 +1,4 @@
-# Wochentagsrechner
+# Anleitung: Wochentagsrechner
 
 
 

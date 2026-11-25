@@ -1,4 +1,4 @@
-# Circle calculator
+# Circle calculator guide
 
 
 

@@ -1,4 +1,4 @@
-# CSV 對賬
+# CSV 對賬使用指南
 
 
 
@@ -48,7 +48,7 @@ Qty,ID,Name
 
 
 ```
-新增 1 · 缺失 1 · 變更 1
+新增 1 · 移除 1 · 變更 1
 ```
 
 
@@ -73,7 +73,7 @@ Qty,ID,Name
 
 ## 試一試
 
-[打開完整工具 · CSV 對賬](<https://toolpony.com/zh-hant/tools/csv-compare/>)
+[打開完整工具 · CSV 對賬](<https://toolpony.com/zh-hant/tools/csv-compare/#example-inventory>)
 
 
 

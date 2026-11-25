@@ -1,4 +1,4 @@
-# Calculatrice de moyenne GPA
+# Guide pratique · Calculatrice de moyenne GPA
 
 
 
@@ -74,7 +74,11 @@ A+ à F utilisent la cartographie en 4,3 points. P, NP, I et W sont omis de la s
 
 
 
-**Classes de cours**
+
+
+### Classes de cours
+
+
 
 - Cours, crédits, grade, durée facultative et bonus
 - Format de classe · Lettres / Pourcentage / Points
@@ -85,7 +89,11 @@ A+ à F utilisent la cartographie en 4,3 points. P, NP, I et W sont omis de la s
 
 
 
-**Objectif du plan d'action mondial**
+
+
+### Objectif du plan d'action mondial
+
+
 
 - GPA actuel
 - Objectif GPA

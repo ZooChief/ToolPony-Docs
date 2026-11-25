@@ -1,4 +1,4 @@
-# Calculadora de quantidade de concreto
+# Guia de uso · Calculadora de quantidade de concreto
 
 
 
@@ -94,7 +94,11 @@ Para dois 7 pés × 3 pés × 5 em lajes, 133 lb/ft3 dá 2327,50 lb, ou 38,79 eq
 
 
 
-**Pés de lâmina ou retangular**
+
+
+### Pés de lâmina ou retangular
+
+
 
 - Comprimento
 - Unidade de comprimento
@@ -110,7 +114,11 @@ Para dois 7 pés × 3 pés × 5 em lajes, 133 lb/ft3 dá 2327,50 lb, ou 38,79 eq
 
 
 
-**Coluna ou pé redondo**
+
+
+### Coluna ou pé redondo
+
+
 
 - Diâmetro
 - Unidade de diâmetro
@@ -124,7 +132,11 @@ Para dois 7 pés × 3 pés × 5 em lajes, 133 lb/ft3 dá 2327,50 lb, ou 38,79 eq
 
 
 
-**Laje circular ou tubo**
+
+
+### Laje circular ou tubo
+
+
 
 - Diâmetro exterior
 - Unidade de diâmetro exterior
@@ -140,7 +152,11 @@ Para dois 7 pés × 3 pés × 5 em lajes, 133 lb/ft3 dá 2327,50 lb, ou 38,79 eq
 
 
 
-**Meio-fio e sarjeta**
+
+
+### Meio-fio e sarjeta
+
+
 
 - Profundidade da curva
 - Unidade de profundidade da curva
@@ -160,7 +176,11 @@ Para dois 7 pés × 3 pés × 5 em lajes, 133 lb/ft3 dá 2327,50 lb, ou 38,79 eq
 
 
 
-**Escadas e plataformas sólidas**
+
+
+### Escadas e plataformas sólidas
+
+
 
 - Executar por passo
 - Executar por unidade de passo

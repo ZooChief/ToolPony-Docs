@@ -1,4 +1,4 @@
-# Fatoração em números primos
+# Guia de uso · Fatoração em números primos
 
 
 

@@ -1,4 +1,4 @@
-# Scientific notation calculator
+# Scientific notation calculator guide
 
 
 
@@ -74,7 +74,11 @@ The arithmetic mode keeps exact decimal coefficients for addition, subtraction, 
 
 
 
-**Convert**
+
+
+### Convert
+
+
 
 - Number
 
@@ -82,7 +86,11 @@ The arithmetic mode keeps exact decimal coefficients for addition, subtraction, 
 
 
 
-**Calculate**
+
+
+### Calculate
+
+
 
 - First number
 - Second number

@@ -1,4 +1,4 @@
-# Calculateur de résistances et de codes couleur
+# Guide pratique · Calculateur de résistances et de codes couleur
 
 
 
@@ -85,7 +85,11 @@ $$
 
 
 
-**4 anneaux**
+
+
+### 4 anneaux
+
+
 
 - Premier chiffre
 - Deuxième chiffre
@@ -96,7 +100,11 @@ $$
 
 
 
-**3 anneaux**
+
+
+### 3 anneaux
+
+
 
 - Premier chiffre
 - Deuxième chiffre
@@ -106,7 +114,11 @@ $$
 
 
 
-**5 anneaux**
+
+
+### 5 anneaux
+
+
 
 - Premier chiffre
 - Deuxième chiffre
@@ -118,7 +130,11 @@ $$
 
 
 
-**6 anneaux**
+
+
+### 6 anneaux
+
+
 
 - Premier chiffre
 - Deuxième chiffre
@@ -131,7 +147,11 @@ $$
 
 
 
-**Parallèle**
+
+
+### Parallèle
+
+
 
 - Résistances en Ω
 
@@ -139,7 +159,11 @@ $$
 
 
 
-**Série**
+
+
+### Série
+
+
 
 - Résistances en Ω
 
@@ -147,12 +171,16 @@ $$
 
 
 
-**Conducteur rond**
+
+
+### Conducteur rond
+
+
 
 - Longueur
-- Unité de longueur · mm / cm / m / km / en / ft / yd / - Oui.
+- Unité de longueur · mm / cm / m / km / en / ft / yd / mi
 - Diamètre
-- Unité de diamètre · mm / cm / m / km / en / ft / yd / - Oui.
+- Unité de diamètre · mm / cm / m / km / en / ft / yd / mi
 - Préréglage du matériau · Personnalisé / Cuivre / Cuivre recuit / Aluminium / Argent / Or
 - Conductivité · S/m
 

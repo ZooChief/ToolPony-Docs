@@ -1,8 +1,8 @@
-# QR-Code-Generator
+# Anleitung: QR-Code-Generator
 
 
 
-Wählen Sie den Inhalt und füllen Sie Link, Text oder die benötigten Felder aus. Erstellen und prüfen Sie den Code. Laden Sie PNG zum Teilen oder SVG zum Drucken herunter. Wählen Sie bei Bedarf eine dunkle sechsstellige HEX-Farbe. Beide Exporte behalten den weißen Rand.
+Wählen Sie den Inhalt und füllen Sie Link, Text oder die benötigten Felder aus. Der Code aktualisiert sich beim Eingeben. Bei WLAN und Kontakten lässt sich der kodierte Inhalt vor dem Export prüfen. Dunkle Farbe wählen oder einen sechsstelligen HEX-Wert eingeben. Der weiße Rand bleibt erhalten.
 
 
 
@@ -13,8 +13,8 @@ Wählen Sie den Inhalt und füllen Sie Link, Text oder die benötigten Felder au
 
 
 1. Wählen Sie den Inhalt und füllen Sie Link, Text oder die benötigten Felder aus.
-2. Erstellen und prüfen Sie den Code. Laden Sie PNG zum Teilen oder SVG zum Drucken herunter.
-3. Wählen Sie bei Bedarf eine dunkle sechsstellige HEX-Farbe. Beide Exporte behalten den weißen Rand.
+2. Der Code aktualisiert sich beim Eingeben. Bei WLAN und Kontakten lässt sich der kodierte Inhalt vor dem Export prüfen.
+3. Dunkle Farbe wählen oder einen sechsstelligen HEX-Wert eingeben. Der weiße Rand bleibt erhalten.
 
 
 
@@ -31,7 +31,7 @@ Wählen Sie den Inhalt und füllen Sie Link, Text oder die benötigten Felder au
 
 
 ```
-https://example.com/
+https://example.com/ · M · 512 px
 ```
 
 
@@ -41,7 +41,7 @@ https://example.com/
 
 
 ```
-https://example.com/
+PNG · 512 × 512 px → https://example.com/
 ```
 
 
@@ -65,6 +65,10 @@ https://example.com/
 Statische Codes enthalten die Eingabe. Maximal 2.048 UTF-8-Byte, bei hoher Korrektur weniger. Der weiße Rand lässt vier Module frei. WLAN-Codes enthalten das eingegebene Passwort.
 
 
+
+
+
+**Quellen zur Methode** [DENSO WAVE · QR error correction](<https://www.qrcode.com/en/about/error_correction.html>)
 
 
 

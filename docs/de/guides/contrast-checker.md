@@ -1,8 +1,8 @@
-# Kontrastprüfer
+# Anleitung: Kontrastprüfer
 
 
 
-Zwei deckende Farben anhand der Kontrastgrenzen von WCAG 2.2 prüfen.
+Kontrast von Text und UI auf deckenden oder transparenten Ebenen prüfen und eine passende Textfarbe ausprobieren.
 
 
 
@@ -45,6 +45,11 @@ Zwei deckende Farben anhand der Kontrastgrenzen von WCAG 2.2 prüfen.
 1. Testen Sie \#777777 auf Weiß. Das Verhältnis beträgt etwa 4,48:1. Auf eine Nachkommastelle gerundet erscheint 4,5, doch mit dem ungerundeten Wert verfehlt normaler Text WCAG AA.
 2. Testen Sie \#767676 auf demselben Weiß. Etwa 4,54:1 reichen für normalen Text nach AA. Beide Beispiele erreichen die Schwelle von 3:1 für Großschrift.
 3. Prüfen Sie die tatsächlich dargestellten Vorder- und Hintergrundfarben. Bei Text über Bildern oder durchscheinenden Ebenen nehmen Sie die zusammengesetzten Farben an der kontrastärmsten Stelle. Das Ergebnis gilt für das geprüfte Farbpaar.
+4. Auf Weiß ergibt \#00000080 den Textfarbwert \#7F7F7F mit rund 4,00:1. Der Vorschlag \#767676 erreicht 4,54:1 für normalen Text.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/contrast-checker/#example-translucent-text>)
 
 
 
@@ -68,7 +73,7 @@ Der Kontrast ist (hellere Leuchtdichte + 0,05) geteilt durch (dunklere Leuchtdic
 
 
 
-**Quellen zur Methode** [W3C · WCAG 2.2 (1.4.3, AA)](<https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html>) · [W3C · WCAG 2.2 (1.4.6, AAA)](<https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced.html>)
+**Quellen zur Methode** [W3C · WCAG 2.2 (1.4.3, AA)](<https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html>) · [W3C · WCAG 2.2 (1.4.6, AAA)](<https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced.html>) · [W3C · Non-text contrast](<https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html>) · [W3C · Source-over compositing](<https://www.w3.org/TR/compositing-1/#simplealphacompositing>)
 
 
 

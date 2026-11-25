@@ -1,8 +1,8 @@
-# Criador de gráficos
+# Guia de uso · Criador de gráficos
 
 
 
-Colar CSV com um cabeçalho, uma coluna de etiquetas e séries numéricas. Escolha barras ou linhas, atualize o gráfico e baixe SVG.
+Cole um CSV com cabeçalho, rótulos na primeira coluna e séries numéricas. Escolha barras ou linhas e baixe o gráfico em SVG.
 
 
 
@@ -13,7 +13,7 @@ Colar CSV com um cabeçalho, uma coluna de etiquetas e séries numéricas. Escol
 
 
 1. Digite um cabeçalho CSV. Coloque as legendas de categoria na primeira coluna e séries numéricas nas colunas restantes.
-2. Escolha barras ou linhas e atualize a visualização.
+2. Escolha barras ou linhas. O gráfico é atualizado enquanto você edita.
 3. Baixe o gráfico como um SVG.
 
 

@@ -1,4 +1,4 @@
-# Calculadora de quitação imobiliária
+# Guia de uso · Calculadora de quitação imobiliária
 
 
 
@@ -93,7 +93,11 @@ $$
 
 
 
-**Empréstimo original e prazo restante**
+
+
+### Empréstimo original e prazo restante
+
+
 
 - Valor original
 - Anos do prazo original
@@ -113,7 +117,11 @@ $$
 
 
 
-**Saldo atual e parcela**
+
+
+### Saldo atual e parcela
+
+
 
 - Principal restante
 - Parcela mensal
@@ -129,6 +137,10 @@ $$
 
 
 
+
+
+
+**Referências do método** [CFPB · Mortgage amortization](<https://www.consumerfinance.gov/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/>)
 
 
 

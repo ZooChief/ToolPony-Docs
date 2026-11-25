@@ -1,4 +1,4 @@
-# Calculadora de áreas
+# Guía de uso · Calculadora de áreas
 
 
 
@@ -31,6 +31,23 @@ Un rectángulo de 4 m por 3 m
 ```
 
 
+
+
+
+<a id="case-study"></a>
+
+
+
+## Recortar un anillo
+
+
+
+1. Para una junta plana de diámetro exterior 60 mm y orificio de 40 mm, introduce radios de 30 y 20 mm. Elige mm² como unidad de área.
+2. El área es 500π mm², unos 1.570,80 mm². Los dos cortes suman 100π mm, unos 314,16 mm. El archivo incluye cada circunferencia y las medidas originales.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/area-calculator/#example-gasket>)
 
 
 
@@ -72,7 +89,11 @@ $$
 
 
 
-**Rectángulo**
+
+
+### Rectángulo
+
+
 
 - Longitud
 - Unidad de longitud
@@ -84,17 +105,25 @@ $$
 
 
 
-**Plaza**
 
-- Longitud del borde
-- Unidad de longitud de borde
+
+### Plaza
+
+
+
+- Longitud del lado
+- Unidad del lado
 - Unidad de área
 
 
 
 
 
-**Triángulo · tres lados**
+
+
+### Triángulo · tres lados
+
+
 
 - Primer lado
 - Primera unidad lateral
@@ -108,10 +137,14 @@ $$
 
 
 
-**Triángulo · base y altura**
 
-- Primera cara paralela
-- Primera unidad lateral paralela
+
+### Triángulo · base y altura
+
+
+
+- Longitud de la base
+- Unidad de la base
 - Altura perpendicular
 - Unidad de altura perpendicular
 - Unidad de área
@@ -120,7 +153,11 @@ $$
 
 
 
-**Trapecio**
+
+
+### Trapecio
+
+
 
 - Primera cara paralela
 - Primera unidad lateral paralela
@@ -134,7 +171,11 @@ $$
 
 
 
-**Círculo**
+
+
+### Círculo
+
+
 
 - Radio
 - Unidad radiactiva
@@ -144,19 +185,27 @@ $$
 
 
 
-**Sector circular**
+
+
+### Sector circular
+
+
 
 - Radio
 - Unidad radiactiva
 - Ángulo central
-- Unidad de ángulo · Grados / Radians
+- Unidad angular · Grados / Radianes
 - Unidad de área
 
 
 
 
 
-**Elipse**
+
+
+### Elipse
+
+
 
 - Primer semi-eje
 - Primera unidad semi-eje
@@ -168,10 +217,14 @@ $$
 
 
 
-**Parallelograma**
 
-- Primera cara paralela
-- Primera unidad lateral paralela
+
+### Parallelograma
+
+
+
+- Longitud de la base
+- Unidad de la base
 - Altura perpendicular
 - Unidad de altura perpendicular
 - Unidad de área
@@ -180,7 +233,11 @@ $$
 
 
 
-**Corona circular**
+
+
+### Corona circular
+
+
 
 - radio exterior
 - Unidad de radio exterior
@@ -192,10 +249,14 @@ $$
 
 
 
-**Pólvora regular**
 
-- Longitud del borde
-- Unidad de longitud de borde
+
+### Pólvora regular
+
+
+
+- Longitud del lado
+- Unidad del lado
 - Número de lados
 - Unidad de área
 
@@ -205,7 +266,7 @@ $$
 
 
 
-**Fuentes del método** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+**Fuentes del método** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST DLMF · Lengths of plane curves](<https://dlmf.nist.gov/19.30>)
 
 
 

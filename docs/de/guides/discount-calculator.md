@@ -1,4 +1,4 @@
-# Rabattrechner
+# Anleitung: Rabattrechner
 
 
 
@@ -68,7 +68,11 @@ Verwenden Sie einen umgekehrten Modus, wenn Sie den Verkaufspreis oder den gespa
 
 
 
-**Ermäßigungen anwenden**
+
+
+### Ermäßigungen anwenden
+
+
 
 - Ursprünglicher Preis
 - Abzinsungssätze
@@ -79,7 +83,11 @@ Verwenden Sie einen umgekehrten Modus, wenn Sie den Verkaufspreis oder den gespa
 
 
 
-**Originalpreis finden**
+
+
+### Originalpreis finden
+
+
 
 - Preis nach Abschlag
 - Discount-Typ · Prozentsatz / Festbetrag
@@ -89,7 +97,11 @@ Verwenden Sie einen umgekehrten Modus, wenn Sie den Verkaufspreis oder den gespa
 
 
 
-**Find Rate und Einsparungen**
+
+
+### Find Rate und Einsparungen
+
+
 
 - Ursprünglicher Preis
 - Bekannter Betrag · Abgezinster Preis / Einsparungen
@@ -99,7 +111,11 @@ Verwenden Sie einen umgekehrten Modus, wenn Sie den Verkaufspreis oder den gespa
 
 
 
-**Finden Sie Preise aus Einsparungen**
+
+
+### Finden Sie Preise aus Einsparungen
+
+
 
 - Gesparter Betrag
 - Abzinsungssatz · %

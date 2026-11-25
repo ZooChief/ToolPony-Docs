@@ -1,4 +1,4 @@
-# Formatador JSON
+# Guia de uso · Formatador JSON
 
 
 

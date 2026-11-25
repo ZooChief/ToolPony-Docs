@@ -1,4 +1,4 @@
-# CSV-Vergleich
+# Anleitung: CSV-Vergleich
 
 
 
@@ -73,7 +73,7 @@ Hinzugefügt 1 · Entfernt 1 · Geändert 1
 
 ## Ausprobieren
 
-[Vollständiges Werkzeug öffnen · CSV-Vergleich](<https://toolpony.com/de/tools/csv-compare/>)
+[Vollständiges Werkzeug öffnen · CSV-Vergleich](<https://toolpony.com/de/tools/csv-compare/#example-inventory>)
 
 
 

@@ -1,4 +1,4 @@
-# Calculadora de sequências
+# Guia de uso · Calculadora de sequências
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Aritmética**
+
+
+### Aritmética
+
+
 
 - Primeiro período
 - Diferença comum
@@ -76,7 +80,11 @@ $$
 
 
 
-**Geométrico**
+
+
+### Geométrico
+
+
 
 - Primeiro período
 - Rácio comum
@@ -86,7 +94,11 @@ $$
 
 
 
-**Fibonacci**
+
+
+### Fibonacci
+
+
 
 - Índice
 

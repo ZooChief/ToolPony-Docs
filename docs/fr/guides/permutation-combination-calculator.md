@@ -1,4 +1,4 @@
-# Calculatrice de permutations et combinaisons
+# Guide pratique · Calculatrice de permutations et combinaisons
 
 
 

@@ -1,4 +1,4 @@
-# Calculadora de ritmo de carrera
+# Guía de uso · Calculadora de ritmo de carrera
 
 
 
@@ -34,6 +34,23 @@ Resolver el ritmo, el tiempo transcurrido y la distancia. Compare los ritmos de 
 
 
 
+<a id="case-study"></a>
+
+
+
+## Leer dos tiempos de paso
+
+
+
+1. El reloj marca 3:25 en el km 1 y 6:55 en el km 2. Con tiempos acumulados, el segundo kilómetro dura 3:30 y la media es 3:27,5/km.
+2. En un maratón de 4:00:00 con puntos cada kilómetro, el último tramo mide 195 m. Al incluirlo, el tiempo final es exactamente 4:00:00.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/pace-calculator/#example-watch-checkpoints>)
+
+
+
 
 
 ## Pruébalo
@@ -48,7 +65,7 @@ Resolver el ritmo, el tiempo transcurrido y la distancia. Compare los ritmos de 
 
 
 
-El rato transcurrido se divide por distancia. El tiempo de acabado extrapola el ritmo constante. Las filas divididas usan la unidad de distancia seleccionada y aceptan hasta 100 filas.
+El ritmo medio es el tiempo total dividido por la distancia total. Dos campos indican minutos y segundos, tres añaden las horas. Se admiten 100 tramos medidos o 500 puntos a ritmo constante.
 
 
 
@@ -66,59 +83,99 @@ $$
 
 
 
-**Encuentre el ritmo y el tiempo de acabado**
+
+
+### Ritmo y tiempo final
+
+
 
 - Distancia
-- Unidad de distancia · km / \# / m / Yd
-- Tiempo transcurrido (hh:mm:ss)
-- Ritmo por · km / \# / 100 m / 100 yd
-- Distancia al objetivo · 5 km / 10 km / Media maratón / Marathon / km personalizado
+- Unidad de distancia · km / mi / m / Yd
+- Tiempo transcurrido
+- Ritmo por · km / mi / 100 m / 100 yd
+- Distancia objetivo · 5 km / 10 km / Media maratón / Marathon / Otra distancia (km)
 - Distancia de carrera personalizada · km
 
 
 
 
 
-**Encontrar el tiempo transcurrido**
+
+
+### Calcular el tiempo
+
+
 
 - Distancia
-- Unidad de distancia · km / \# / m / Yd
+- Unidad de distancia · km / mi / m / Yd
 - Ritmo (min:s)
-- Ritmo por · km / \# / 100 m / 100 yd
+- Ritmo por · km / mi / 100 m / 100 yd
 
 
 
 
 
-**Encontrar distancia**
 
-- Tiempo transcurrido (hh:mm:ss)
+
+### Calcular la distancia
+
+
+
+- Tiempo transcurrido
 - Ritmo (min:s)
-- Ritmo por · km / \# / 100 m / 100 yd
+- Ritmo por · km / mi / 100 m / 100 yd
 
 
 
 
 
-**Convertir unidades de ritmo**
+
+
+### Convertir el ritmo
+
+
 
 - Ritmo (min:s)
-- Ritmo por · km / \# / 100 m / 100 yd
+- Ritmo por · km / mi / 100 m / 100 yd
 
 
 
 
 
-**Compara las divisiones**
 
-- Distancia, tiempo transcurrido por fila
-- Unidad de distancia · km / \# / m / Yd
-- Ritmo por · km / \# / 100 m / 100 yd
-- Las filas son puntos de control acumulativos
+
+### Comparar parciales
 
 
 
+- Tramos
+- Unidad de distancia · km / mi / m / Yd
+- Ritmo por · km / mi / 100 m / 100 yd
+- Distancia y tiempo acumulados por fila
 
+
+
+
+
+
+
+### Plan de parciales
+
+
+
+- Distancia objetivo · 5 km / 10 km / Media maratón / Marathon / Otra distancia (km)
+- Distancia de carrera personalizada · km
+- Tiempo final previsto
+- Intervalo entre puntos · 1 km / 1 mi / 400 m / 100 m / 5 km / 10 km
+- Ritmo por · km / mi / 100 m / 100 yd
+
+
+
+
+
+
+
+**Fuentes del método** [World Athletics · Marathon](<https://worldathletics.org/disciplines/road-running-event/marathon>) · [NIST · Unit conversion factors](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>)
 
 
 

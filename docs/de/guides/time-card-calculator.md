@@ -1,4 +1,4 @@
-# Stundenzettel-Rechner
+# Anleitung: Stundenzettel-Rechner
 
 
 

@@ -1,8 +1,8 @@
-# Conversor de marcas de tiempo Unix
+# Guía de uso · Conversor de marcas de tiempo Unix
 
 
 
-Convertir segundos y milisegundos en UTC, y convertir un tiempo ISO con un offset explícito de vuelta a la hora Unix.
+Convierte segundos, milisegundos, microsegundos o nanosegundos Unix a UTC y viceversa sin perder dígitos.
 
 
 
@@ -34,6 +34,23 @@ Convertir segundos y milisegundos en UTC, y convertir un tiempo ISO con un offse
 
 
 
+<a id="case-study"></a>
+
+
+
+## Un nanosegundo antes de la época
+
+
+
+1. Selecciona ns e introduce -1. La hora UTC es 1969-12-31T23:59:59.999999999Z. Invierte la conversión para recuperar el mismo entero.
+2. 1970-01-01T05:44:59.999999999+05:45 representa el mismo instante. Copia una unidad o exporta las cuatro en una fila CSV.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/unix-timestamp-converter/#example-before-epoch>)
+
+
+
 
 
 ## Pruébalo
@@ -48,7 +65,7 @@ Convertir segundos y milisegundos en UTC, y convertir un tiempo ISO con un offse
 
 
 
-El tiempo Unix mide lo transcurrido desde 1970-01-01T00:00:00Z. La conversión admite fechas de 1900 a 9999 con precisión de milisegundos.
+El tiempo Unix cuenta desde 1970-01-01T00:00:00Z y excluye segundos intercalares. Admite fechas UTC de 1900 a 9999, con desplazamiento explícito y hasta nueve decimales.
 
 
 
@@ -60,22 +77,35 @@ El tiempo Unix mide lo transcurrido desde 1970-01-01T00:00:00Z. La conversión a
 
 
 
-**Timetamp to date**
+
+
+### Marca de tiempo → Fecha
+
+
 
 - Marca de tiempo Unix
-- Unidad · Segundos / Milliseconds
+- Unidad · Segundos / Milisegundos / Microsegundos / Nanosegundos
 
 
 
 
 
-**Fecha a la hora**
-
-- ISO 8601 con offset
 
 
+### Fecha → Marca de tiempo
 
 
+
+- Fecha ISO 8601 con desfase UTC
+- Unidad · Segundos / Milisegundos / Microsegundos / Nanosegundos
+
+
+
+
+
+
+
+**Fuentes del método** [GNU · Seconds since the Epoch](<https://www.gnu.org/software/coreutils/manual/html_node/Seconds-since-the-Epoch.html>) · [IETF · RFC 3339](<https://www.rfc-editor.org/rfc/rfc3339>)
 
 
 

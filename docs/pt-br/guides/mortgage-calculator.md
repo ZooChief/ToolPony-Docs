@@ -1,4 +1,4 @@
-# Calculadora de financiamento imobiliário
+# Guia de uso · Calculadora de financiamento imobiliário
 
 
 
@@ -57,6 +57,10 @@ I_k=r B_{k-1},\qquad B_k=B_{k-1}-(M_k-I_k)
 $$
 
 
+
+
+
+**Referências do método** [CFPB · Mortgage amortization](<https://www.consumerfinance.gov/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/>)
 
 
 

@@ -1,4 +1,4 @@
-# Document en texte
+# Guide pratique · Document en texte
 
 
 

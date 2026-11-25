@@ -1,4 +1,4 @@
-# Calculadora de MDC e MMC
+# Guia de uso · Calculadora de MDC e MMC
 
 
 

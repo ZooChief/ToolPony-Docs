@@ -1,4 +1,4 @@
-# Prime factorization calculator
+# Prime factorization calculator guide
 
 
 

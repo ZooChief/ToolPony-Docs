@@ -1,4 +1,4 @@
-# 전압 강하 계산기
+# 전압 강하 계산기 사용 가이드
 
 
 
@@ -47,6 +47,54 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## 케이블 표 적용
+
+
+
+1. 계수 1 mV/(A·m), 편도 50 m, 100 A이면 이 구간 강하는 5 V입니다. Schneider 예시는 상류 10 V를 더해 전체 15 V입니다.
+
+
+
+[예제 실행](<https://toolpony.com/ko/tools/voltage-drop-calculator/#example-cable-table>)
+
+
+
+
+
+## 3상 병렬 회로
+
+
+
+상당 두 선로가 20 A를 분담합니다. 400 V, 100 m, R = 1 Ω/km, X = 0.5 Ω/km, 지상 역률 0.8이면 강하 1.91 V, 부하 398.09 V입니다.
+
+
+
+[예제 실행](<https://toolpony.com/ko/tools/voltage-drop-calculator/#example-parallel-cable>)
+
+
+
+
+
+
+
+## 전원보다 큰 강하
+
+
+
+24 V 직류, 10 A, 편도 1 km, 5 Ω/km이면 왕복 강하는 100 V입니다. 이 전류에서 부하 전압을 추정할 수 없습니다.
+
+
+
+[예제 실행](<https://toolpony.com/ko/tools/voltage-drop-calculator/#example-cable-limit>)
+
+
+
+
+
 
 
 ## 직접 사용해 보기
@@ -85,10 +133,16 @@ $$
 
 
 
-**알고 있는 저항 또는 임피던스**
 
+
+### 알고 있는 저항 또는 임피던스
+
+
+
+- 자료의 값 · 도체 임피던스 / 회로 전압강하 계수
 - 단위 길이당 저항 또는 임피던스
 - 길이당 단위 · Ω/km / Ω/m / mΩ/m / Ω/1000 ft / Ω/ft / mΩ/ft
+- 표에 기재된 회로 계수 · mV/(A·m)
 - 전압 · V
 - 회로 · DC / 단상 교류 / 삼상 교류
 - 상당 병렬 도체 수
@@ -101,7 +155,11 @@ $$
 
 
 
-**전선 규격으로 추정**
+
+
+### 전선 규격으로 추정
+
+
 
 - 재질 · 구리 / 알루미늄 / 은 / 금
 - 전선 규격
@@ -117,7 +175,11 @@ $$
 
 
 
-**단면적으로 추정**
+
+
+### 단면적으로 추정
+
+
 
 - 재질 · 구리 / 알루미늄 / 은 / 금
 - 단면적 · mm²
@@ -133,7 +195,11 @@ $$
 
 
 
-**저항과 리액턴스**
+
+
+### 저항과 리액턴스
+
+
 
 - 저항
 - 단위 길이당 리액턴스
@@ -150,6 +216,10 @@ $$
 
 
 
+
+
+
+**계산 및 처리 방식의 출처** [Schneider Electric · Voltage drop in steady load conditions](<https://www.electrical-installation.org/enwiki/Calculation_of_voltage_drop_in_steady_load_conditions>)
 
 
 

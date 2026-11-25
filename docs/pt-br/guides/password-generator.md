@@ -1,4 +1,4 @@
-# Gerador de senhas
+# Guia de uso · Gerador de senhas
 
 
 
@@ -34,6 +34,23 @@ Uma nova senha aleatória
 
 
 
+<a id="case-study"></a>
+
+
+
+## Códigos de teste para digitação
+
+
+
+1. Gere seis códigos de 16 caracteres com maiúsculas e algarismos. Exclua 2Z5S8B para evitar três pares que se confundem no papel.
+2. Cada linha usa os dois grupos sem repetir caracteres. Copie uma linha para testar o formulário. Reabrir o exemplo gera novos valores no seu aparelho.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/password-generator/#example-readable-codes>)
+
+
+
 
 
 ## Experimente
@@ -51,6 +68,10 @@ Uma nova senha aleatória
 A criptografia Web fornece aleatoriedade. Quando grupos necessários estão habilitados, um caractere é selecionado de cada grupo, então as posições são embaralhadas. As senhas estão ao vivo na página atual até que você saia ou limpe- a.
 
 
+
+
+
+**Referências do método** [W3C · Web Cryptography](<https://www.w3.org/TR/WebCryptoAPI/#Crypto-method-getRandomValues>)
 
 
 

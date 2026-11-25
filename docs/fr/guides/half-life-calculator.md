@@ -1,4 +1,4 @@
-# Calculatrice de demi-vie
+# Guide pratique · Calculatrice de demi-vie
 
 
 
@@ -70,7 +70,11 @@ Choisissez d'abord l'inconnu. Utilisez des unités de temps cohérentes dans les
 
 
 
-**Trouver la demi-vie**
+
+
+### Trouver la demi-vie
+
+
 
 - Quantité restante
 - Quantité initiale
@@ -80,7 +84,11 @@ Choisissez d'abord l'inconnu. Utilisez des unités de temps cohérentes dans les
 
 
 
-**Trouver la quantité restante**
+
+
+### Trouver la quantité restante
+
+
 
 - Quantité initiale
 - Temps écoulé
@@ -90,7 +98,11 @@ Choisissez d'abord l'inconnu. Utilisez des unités de temps cohérentes dans les
 
 
 
-**Trouver la quantité initiale**
+
+
+### Trouver la quantité initiale
+
+
 
 - Quantité restante
 - Temps écoulé
@@ -100,7 +112,11 @@ Choisissez d'abord l'inconnu. Utilisez des unités de temps cohérentes dans les
 
 
 
-**Trouver le temps écoulé**
+
+
+### Calculer le temps
+
+
 
 - Quantité restante
 - Quantité initiale
@@ -110,7 +126,11 @@ Choisissez d'abord l'inconnu. Utilisez des unités de temps cohérentes dans les
 
 
 
-**Convertir les mesures de désintégration**
+
+
+### Convertir les mesures de désintégration
+
+
 
 - Mesure connue · Demi-vie / Durée de vie moyenne / Décaissement constant
 - Valeur

@@ -1,8 +1,8 @@
-# Calculatrice de volume
+# Guide pratique · Calculatrice de volume
 
 
 
-Calculez la capacité d’un réservoir ou le volume d’un solide. Pour un tube creux, les rayons intérieur et extérieur donnent le volume de matière. Choisissez des litres ou une unité cubique.
+Calculez une capacité ou un volume en litres ou en unités cubes. Les diamètres extérieur et intérieur et la longueur d’un tube donnent le volume de sa paroi.
 
 
 
@@ -48,6 +48,26 @@ Sphère avec rayon 2 m
 
 
 
+[Essayer l’exemple](<https://toolpony.com/fr/tools/volume-calculator/#example-tank-fill-line>)
+
+
+
+
+
+## Paroi et capacité
+
+
+
+Pour un mètre de tube de diamètres extérieur 60 mm et intérieur 48 mm, la paroi occupe environ 1,018 L et le tube peut contenir 1,810 L. Le CSV conserve les deux résultats et les deux diamètres.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/volume-calculator/#example-pipe-wall>)
+
+
+
+
+
 
 
 ## Essayer
@@ -80,7 +100,11 @@ $$
 
 
 
-**Sphère**
+
+
+### Sphère
+
+
 
 - Rayon
 - Unité de rayonnement
@@ -90,7 +114,11 @@ $$
 
 
 
-**Cône**
+
+
+### Cône
+
+
 
 - Rayon
 - Unité de rayonnement
@@ -102,7 +130,11 @@ $$
 
 
 
-**Cube**
+
+
+### Cube
+
+
 
 - Longueur des bords
 - Unité de longueur des bords
@@ -112,7 +144,11 @@ $$
 
 
 
-**Cylindre**
+
+
+### Cylindre
+
+
 
 - Rayon
 - Unité de rayonnement
@@ -124,7 +160,11 @@ $$
 
 
 
-**Réservoir rectangulaire**
+
+
+### Réservoir rectangulaire
+
+
 
 - Longueur
 - Unité de longueur
@@ -138,7 +178,11 @@ $$
 
 
 
-**Capsule**
+
+
+### Capsule
+
+
 
 - Rayon
 - Unité de rayonnement
@@ -150,7 +194,11 @@ $$
 
 
 
-**Couvercle sphérique**
+
+
+### Couvercle sphérique
+
+
 
 - Rayon de la sphère
 - Unité du rayon de la sphère
@@ -165,7 +213,11 @@ $$
 
 
 
-**Frustum conique**
+
+
+### Frustum conique
+
+
 
 - Rayon du premier bout
 - Unité de rayon de première extrémité
@@ -179,7 +231,11 @@ $$
 
 
 
-**Ellipsoïde**
+
+
+### Ellipsoïde
+
+
 
 - Première semi-axe
 - Première unité semi-axe
@@ -193,7 +249,11 @@ $$
 
 
 
-**Pyramide carrée**
+
+
+### Pyramide carrée
+
+
 
 - Longueur des bords
 - Unité de longueur des bords
@@ -205,7 +265,11 @@ $$
 
 
 
-**Tube creux**
+
+
+### Tube creux
+
+
 
 - Diamètre extérieur
 - Unité de diamètre extérieur
@@ -219,7 +283,11 @@ $$
 
 
 
-**Hémisphère**
+
+
+### Hémisphère
+
+
 
 - Rayon
 - Unité de rayonnement
@@ -229,7 +297,11 @@ $$
 
 
 
-**Tore annulaire**
+
+
+### Tore annulaire
+
+
 
 - Rayon de ligne centrale
 - Unité de rayon de ligne centrale
@@ -243,7 +315,7 @@ $$
 
 
 
-**Références de la méthode** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+**Références de la méthode** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST DLMF · Triaxial ellipsoids](<https://dlmf.nist.gov/19.33>)
 
 
 

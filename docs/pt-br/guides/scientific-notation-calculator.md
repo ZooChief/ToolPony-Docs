@@ -1,4 +1,4 @@
-# Calculadora de notação científica
+# Guia de uso · Calculadora de notação científica
 
 
 
@@ -74,7 +74,11 @@ O modo aritmético mantém os coeficientes decimais exatos para adição, subtra
 
 
 
-**Converter**
+
+
+### Converter
+
+
 
 - Número
 
@@ -82,7 +86,11 @@ O modo aritmético mantém os coeficientes decimais exatos para adição, subtra
 
 
 
-**Calcular**
+
+
+### Calcular
+
+
 
 - Primeiro número
 - Segundo número

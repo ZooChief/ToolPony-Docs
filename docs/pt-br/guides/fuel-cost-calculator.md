@@ -1,4 +1,4 @@
-# Calculadora de custo e consumo de combustível
+# Guia de uso · Calculadora de custo e consumo de combustível
 
 
 
@@ -34,6 +34,22 @@ Converter unidades de economia de combustível, estimar o custo de combustível 
 
 
 
+<a id="case-study"></a>
+
+
+
+## Interpretar um consumo britânico
+
+
+
+1. Os 35 mpg de uma avaliação britânica usam o galão imperial. Isso equivale a cerca de 8,07 L/100 km ou 29,14 mpg dos EUA. Mude a unidade de saída para comparar.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/fuel-cost-calculator/#example-uk-mileage>)
+
+
+
 
 
 ## Experimente
@@ -60,34 +76,55 @@ Combustível utilizado = distância × L/100 km 100. EUA e milhas imperiais por 
 
 
 
-**Custo da viagem**
 
-- Distância · km
+
+### Custo da viagem
+
+
+
+- Distância
+- Unidade de distância · km / mi
 - Economia de combustível
 - Unidade de economia de combustível · L/100 km / km/L / mpg (EUA) / mpg (imperial)
-- Preço por litro
+- Preço na bomba
+- Unidade de preço na bomba · L / US gal / UK gal
 
 
 
 
 
-**Converter economia de combustível**
+
+
+### Converter economia de combustível
+
+
 
 - Economia de combustível
 - Unidade de entrada · L/100 km / km/L / mpg (EUA) / mpg (imperial)
+- Unidade de saída · L/100 km / km/L / mpg (EUA) / mpg (imperial)
 
 
 
 
 
-**Milhagem medida**
 
-- Distância · km
-- Combustível utilizado · L
 
+### Milhagem medida
 
 
 
+- Distância
+- Unidade de distância · km / mi
+- Combustível utilizado
+- Unidade de volume · L / US gal / UK gal
+
+
+
+
+
+
+
+**Referências do método** [NIST · Unit conversion factors](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>)
 
 
 

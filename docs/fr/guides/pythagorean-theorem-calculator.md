@@ -1,4 +1,4 @@
-# Calculateur du théorème de Pythagore
+# Guide pratique · Calculateur du théorème de Pythagore
 
 
 

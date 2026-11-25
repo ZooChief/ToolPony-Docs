@@ -1,4 +1,4 @@
-# Calculatrice de PGCD et PPCM
+# Guide pratique · Calculatrice de PGCD et PPCM
 
 
 

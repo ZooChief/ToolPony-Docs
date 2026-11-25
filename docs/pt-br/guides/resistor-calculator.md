@@ -1,4 +1,4 @@
-# Calculadora de resistores e código de cores
+# Guia de uso · Calculadora de resistores e código de cores
 
 
 
@@ -85,7 +85,11 @@ $$
 
 
 
-**4 faixas**
+
+
+### 4 faixas
+
+
 
 - Primeiro dígito
 - Segundo dígito
@@ -96,7 +100,11 @@ $$
 
 
 
-**3 faixas**
+
+
+### 3 faixas
+
+
 
 - Primeiro dígito
 - Segundo dígito
@@ -106,7 +114,11 @@ $$
 
 
 
-**5 faixas**
+
+
+### 5 faixas
+
+
 
 - Primeiro dígito
 - Segundo dígito
@@ -118,7 +130,11 @@ $$
 
 
 
-**6 faixas**
+
+
+### 6 faixas
+
+
 
 - Primeiro dígito
 - Segundo dígito
@@ -131,7 +147,11 @@ $$
 
 
 
-**Paralelo**
+
+
+### Paralelo
+
+
 
 - Resistências em Ω
 
@@ -139,7 +159,11 @@ $$
 
 
 
-**Série**
+
+
+### Série
+
+
 
 - Resistências em Ω
 
@@ -147,7 +171,11 @@ $$
 
 
 
-**Condutor circular**
+
+
+### Condutor circular
+
+
 
 - Comprimento
 - Unidade de comprimento · mm / cm / m / km / em / ft / yd / mi

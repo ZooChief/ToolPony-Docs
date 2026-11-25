@@ -1,4 +1,4 @@
-# PDF to JPG or PNG
+# PDF to JPG or PNG guide
 
 
 
@@ -62,7 +62,7 @@ A 1224 × 1584 pixel PNG
 
 
 
-PDF dimensions use 72 points per inch. At 144 DPI each point spans two pixels. Rotated pages keep their orientation.
+PDF dimensions use 72 points per inch. At 144 DPI each point spans two pixels. Rotated pages keep their orientation. For up to eight pages, clear the selection and tap the page numbers in the order you want. Longer documents also have odd and even page shortcuts.
 
 
 

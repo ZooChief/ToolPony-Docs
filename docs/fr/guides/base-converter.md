@@ -1,4 +1,4 @@
-# Convertisseur et calculatrice de bases
+# Guide pratique · Convertisseur et calculatrice de bases
 
 
 
@@ -34,6 +34,22 @@ FF, base 16 à base 10
 
 
 
+<a id="case-study"></a>
+
+
+
+## Lire un grand identifiant hexadécimal
+
+
+
+1. Convertissez 0x20\_0000\_0000\_0001 en décimal. Le dernier 1 est conservé dans 9007199254740993. Inversez les bases ou copiez la ligne binaire sans espaces.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/base-converter/#example-large-hex-id>)
+
+
+
 
 
 ## Essayer
@@ -48,7 +64,7 @@ FF, base 16 à base 10
 
 
 
-BigInt préserve la précision entière. La division tronque vers zéro. Les opérations bitwise utilisent la sémantique BigInt signée. Chaque opérande est limité à 256 chiffres.
+BigInt préserve chaque chiffre. La conversion accepte les entiers de 4 096 bits au plus et le calcul accepte 256 chiffres par opérande. La division entière tronque vers zéro. Les espaces et tirets bas peuvent séparer les chiffres.
 
 
 
@@ -60,7 +76,11 @@ BigInt préserve la précision entière. La division tronque vers zéro. Les op�
 
 
 
-**Convertir la base**
+
+
+### Convertir la base
+
+
 
 - Entier
 - Base d'entrée
@@ -71,7 +91,11 @@ BigInt préserve la précision entière. La division tronque vers zéro. Les op�
 
 
 
-**Arithmétique entière**
+
+
+### Arithmétique entière
+
+
 
 - Premier entier
 - Deuxième entier

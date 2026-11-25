@@ -1,4 +1,4 @@
-# Hypotheken-Tilgungsrechner
+# Anleitung: Hypotheken-Tilgungsrechner
 
 
 
@@ -93,7 +93,11 @@ $$
 
 
 
-**Ursprünglicher Kredit und Restlaufzeit**
+
+
+### Ursprünglicher Kredit und Restlaufzeit
+
+
 
 - Ursprünglicher Kreditbetrag
 - Ursprüngliche Laufzeit in Jahren
@@ -113,7 +117,11 @@ $$
 
 
 
-**Aktuelle Restschuld und Rate**
+
+
+### Aktuelle Restschuld und Rate
+
+
 
 - Restschuld
 - Monatsrate
@@ -129,6 +137,10 @@ $$
 
 
 
+
+
+
+**Quellen zur Methode** [CFPB · Mortgage amortization](<https://www.consumerfinance.gov/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/>)
 
 
 

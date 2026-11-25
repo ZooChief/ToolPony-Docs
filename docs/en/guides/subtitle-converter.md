@@ -1,4 +1,4 @@
-# Subtitle converter
+# Subtitle converter guide
 
 
 

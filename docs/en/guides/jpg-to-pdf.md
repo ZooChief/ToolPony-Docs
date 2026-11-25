@@ -1,4 +1,4 @@
-# JPG to PDF
+# JPG to PDF guide
 
 
 

@@ -1,4 +1,4 @@
-# Umrechner für römische Zahlen
+# Anleitung: Umrechner für römische Zahlen
 
 
 
@@ -60,7 +60,11 @@ Der Konverter verwendet standardmäßige subtraktive Paare wie IV und CM. Eine O
 
 
 
-**Einzelwert**
+
+
+### Einzelwert
+
+
 
 - Ganzzahl oder römische Zahl
 
@@ -68,7 +72,11 @@ Der Konverter verwendet standardmäßige subtraktive Paare wie IV und CM. Eine O
 
 
 
-**Datum oder Liste**
+
+
+### Datum oder Liste
+
+
 
 - Werte oder Datum
 

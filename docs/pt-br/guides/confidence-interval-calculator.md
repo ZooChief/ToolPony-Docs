@@ -1,8 +1,8 @@
-# Calculadora de intervalo de confiança
+# Guia de uso · Calculadora de intervalo de confiança
 
 
 
-Estimar um intervalo médio normal ou um intervalo Wilson para uma proporção.
+Estime a média com observações ou estatísticas resumidas usando z ou t de Student, ou uma proporção com Wilson.
 
 
 
@@ -34,6 +34,38 @@ n = 36, média 56, desvio padrão 8, 99%
 
 
 
+<a id="case-study"></a>
+
+
+
+## Um intervalo com cinco medidas
+
+
+
+1. As medidas 48, 49, 50, 51 e 52 têm média 50. Com o desvio da amostra e quatro graus de liberdade, o intervalo t de 95% para a média vai de cerca de 48,04 a 51,96. O cálculo pressupõe observações independentes e uma população aproximadamente normal.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/confidence-interval-calculator/#example-five-measurements>)
+
+
+
+
+
+## Zero falhas em 30 verificações
+
+
+
+Em 30 verificações independentes houve zero falhas. O intervalo de Wilson de 95% para a proporção de falhas vai de 0% até cerca de 11,35%. Mais verificações sem falhas estreitam o intervalo.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/confidence-interval-calculator/#example-no-failures>)
+
+
+
+
+
 
 
 ## Experimente
@@ -48,7 +80,7 @@ n = 36, média 56, desvio padrão 8, 99%
 
 
 
-A margem normal é z vezes o erro padrão s/?n. Intervalos de pontuação Wilson ajustar o centro e largura para proporções e permanecer dentro \[0,1\].
+A margem é o valor crítico × desvio / √n. Use z para σ conhecido e t com n − 1 graus de liberdade para desvio amostral. Wilson estima a proporção binomial a partir de sucessos e tentativas.
 
 
 
@@ -72,18 +104,28 @@ $$
 
 
 
-**Intervalo médio normal**
 
+
+### Intervalo da média
+
+
+
+- Origem dos dados · σ conhecido / s amostral / Observações
 - Tamanho da amostra
 - Média
 - Desvio padrão
+- Valores observados
 - Nível de confiança · %
 
 
 
 
 
-**Intervalo de proporção de Wilson**
+
+
+### Intervalo de proporção de Wilson
+
+
 
 - Tamanho da amostra
 - Sucessos
@@ -92,6 +134,10 @@ $$
 
 
 
+
+
+
+**Referências do método** [NIST · Confidence limits for the mean](<https://www.itl.nist.gov/div898/handbook/eda/section3/eda352.htm>) · [NIST · Confidence limits for a proportion](<https://www.itl.nist.gov/div898/handbook/prc/section2/prc241.htm>)
 
 
 

@@ -1,8 +1,8 @@
-# Electricity cost calculator
+# Electricity cost calculator guide
 
 
 
-Estimate electricity use and cost by device, load and tariff for a fixed duration or daily to yearly periods.
+Estimate an energy charge from electrical input, cooling capacity and efficiency, or two meter readings. Inspect kWh and cost per day or billing period.
 
 
 
@@ -46,6 +46,54 @@ Estimate electricity use and cost by device, load and tariff for a fixed duratio
 
 
 
+<a id="case-study"></a>
+
+
+
+## Read the watts on a window AC
+
+
+
+1. The LG LW6014ER spec sheet lists 6,000 BTU/h of cooling and 530 W of electrical input. At full load for 8 hours a day over 30 days, one unit uses 0.53 × 8 × 30 = 127.2 kWh. At 0.20 per kWh the energy charge is 25.44.
+
+
+
+[Run example](<https://toolpony.com/en/tools/electricity-cost-calculator/#example-window-power>)
+
+
+
+
+
+## Check a meter reading against a bill
+
+
+
+An import meter rises from 612345.125 to 612492.365 kWh over 30 days. The difference is 147.24 kWh, or 4.908 kWh per day. At 0.15 per kWh this adds 22.086 to the bill before fixed charges and taxes.
+
+
+
+[Run example](<https://toolpony.com/en/tools/electricity-cost-calculator/#example-meter-readings>)
+
+
+
+
+
+
+
+## Estimate input power from an EER rating
+
+
+
+For a unit rated at 6,000 BTU/h with a rated EER of 12 BTU/Wh, electrical input is 6,000 ÷ 12 = 500 W. Running 8 hours a day for 30 days at full load takes 120 kWh. Use EER at the stated operating condition for this calculation.
+
+
+
+[Run example](<https://toolpony.com/en/tools/electricity-cost-calculator/#example-cooling-eer>)
+
+
+
+
+
 
 
 ## Try it
@@ -60,7 +108,13 @@ Estimate electricity use and cost by device, load and tariff for a fixed duratio
 
 
 
-Energy equals kW times operating hours, average load and device count. Cost uses a flat tariff. Period estimates use 30.44 days per month and 365.25 per year. A cooling rating describes heat moved; use electrical input power for billing.
+Energy charge = kWh × the unit rate. Metered kWh = ending reading − starting reading. For rated cooling, BTU/h ÷ EER gives electrical watts, or divide cooling watts by COP. Period estimates use 30.44 days per month and 365.25 per year.
+
+
+
+$$
+E_{\rm kWh}=M_1-M_0,\qquad P_{\rm W}=\frac{Q_{\rm Btu/h}}{\mathrm{EER}}=\frac{Q_{\rm W}}{\mathrm{COP}}
+$$
 
 
 
@@ -78,10 +132,21 @@ $$
 
 
 
-**Fixed days**
 
-- Power
+
+### Fixed days
+
+
+
+- Estimate from · Electrical input / Cooling capacity / Meter readings
+- Electrical input
 - Power unit · W / kW / BTU/h / PS / TR
+- Cooling capacity
+- Cooling capacity unit · BTU/h / kW / TR
+- Efficiency rating · EER (BTU/Wh) / COP (W/W)
+- Rated efficiency
+- Starting reading · kWh
+- Ending reading · kWh
 - Average load · %
 - Devices
 - Hours per day · h
@@ -92,11 +157,20 @@ $$
 
 
 
-**Daily to yearly estimates**
+
+
+### Daily to yearly estimates
+
+
 
 - Appliance preset
-- Power
+- Estimate from · Electrical input / Cooling capacity
+- Electrical input
 - Power unit · W / kW / BTU/h / PS / TR
+- Cooling capacity
+- Cooling capacity unit · BTU/h / kW / TR
+- Efficiency rating · EER (BTU/Wh) / COP (W/W)
+- Rated efficiency
 - Average load · %
 - Devices
 - Usage
@@ -106,6 +180,10 @@ $$
 
 
 
+
+
+
+**Method references** [LG · LW6014ER electrical specification](<https://images.thdstatic.com/catalog/pdfImages/e3/e3b8396a-44d1-4372-b120-7532036b2488.pdf>) · [Ohio Consumers’ Counsel · Read an electric meter](<https://www.occ.ohio.gov/sites/default/files/2021-07/OCC-How-to-Read-an-Electric-Meter.pdf>) · [U.S. Department of Energy · Room air conditioner ratings](<https://www.energy.gov/sites/prod/files/2015/06/f22/room_ac_rfi.pdf>) · [NIST · International Table Btu](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-footnotes>)
 
 
 

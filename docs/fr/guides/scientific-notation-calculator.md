@@ -1,4 +1,4 @@
-# Calculatrice de notation scientifique
+# Guide pratique · Calculatrice de notation scientifique
 
 
 
@@ -74,7 +74,11 @@ Le mode arithmétique conserve les coefficients décimaux exacts pour l'addition
 
 
 
-**Convertir**
+
+
+### Convertir
+
+
 
 - Numéro
 
@@ -82,7 +86,11 @@ Le mode arithmétique conserve les coefficients décimaux exacts pour l'addition
 
 
 
-**Calculer**
+
+
+### Calculer
+
+
 
 - Premier numéro
 - Deuxième numéro

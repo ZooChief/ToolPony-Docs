@@ -1,4 +1,4 @@
-# Gravel calculator
+# Gravel calculator guide
 
 
 
@@ -79,7 +79,11 @@ $$
 
 
 
-**Known area**
+
+
+### Known area
+
+
 
 - Area
 - Area unit · cm² / m² / in² / ft² / yd² / acre / ha
@@ -98,7 +102,11 @@ $$
 
 
 
-**Rectangle**
+
+
+### Rectangle
+
+
 
 - Length
 - Length unit · mm / cm / m / in / ft / yd
@@ -119,7 +127,11 @@ $$
 
 
 
-**Circle**
+
+
+### Circle
+
+
 
 - Diameter
 - Diameter unit · mm / cm / m / in / ft / yd

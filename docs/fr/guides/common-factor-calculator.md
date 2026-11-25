@@ -1,4 +1,4 @@
-# Calculatrice de diviseurs communs
+# Guide pratique · Calculatrice de diviseurs communs
 
 
 

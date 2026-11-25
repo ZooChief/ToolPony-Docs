@@ -1,4 +1,4 @@
-# Calculatrice de pente
+# Guide pratique · Calculatrice de pente
 
 
 
@@ -74,7 +74,11 @@ Une ligne et une distance déterminent un point de chaque côté du point de dé
 
 
 
-**Deux points**
+
+
+### Deux points
+
+
 
 - X1
 - Y1
@@ -85,7 +89,11 @@ Une ligne et une distance déterminent un point de chaque côté du point de dé
 
 
 
-**Point et direction**
+
+
+### Point et direction
+
+
 
 - X1
 - Y1

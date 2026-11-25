@@ -1,4 +1,4 @@
-# Calculateur de toiture
+# Guide pratique · Calculateur de toiture
 
 
 
@@ -47,6 +47,54 @@ Environ 2 461 ft², 28 squares avec une marge de 10 %.
 
 
 
+<a id="case-study"></a>
+
+
+
+## Commander les bardeaux
+
+
+
+1. Un toit plat de 25 × 40 ft couvre 1 000 ft². Avec 10 % de marge et 3 paquets par 100 ft², achetez 33 paquets. À 75 chacun, le total est de 2 475.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/roofing-calculator/#example-roof-order>)
+
+
+
+
+
+## Lire la couverture du paquet
+
+
+
+Pour 1 100 ft² à couvrir, 33 paquets de 33,3 ft² couvrent 1 098,9 ft². Il en faut 34, soit 1 132,2 ft².
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/roofing-calculator/#example-package-label>)
+
+
+
+
+
+
+
+## Deux débords différents
+
+
+
+Pour 8 × 5 m, avec 25 cm en égout et 40 cm en pignon, la projection mesure 8,8 × 5,5 m. Avec une pente de 5/12, 10 % de marge et 3 m² par paquet, commandez 20 paquets.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/roofing-calculator/#example-roof-overhang>)
+
+
+
+
+
 
 
 ## Essayer
@@ -85,7 +133,11 @@ $$
 
 
 
-**Emprise et pente**
+
+
+### Emprise et pente
+
+
 
 - Emprise au sol
 - Unité de surface · cm² / m² / in² / ft² / yd² / acre / h
@@ -95,12 +147,20 @@ $$
 - Prix unitaire
 - Unité de prix · cm² / m² / in² / ft² / yd² / acre / h
 - Marge de pertes · %
+- Couverture par paquet · Paquets par carré de toiture / Surface par paquet
+- Paquets pour 100 ft²
+- Surface utile d’un paquet
+- Prix par paquet (facultatif)
 
 
 
 
 
-**Emprise et angle**
+
+
+### Emprise et angle
+
+
 
 - Emprise au sol
 - Unité de surface · cm² / m² / in² / ft² / yd² / acre / h
@@ -110,24 +170,40 @@ $$
 - Prix unitaire
 - Unité de prix · cm² / m² / in² / ft² / yd² / acre / h
 - Marge de pertes · %
+- Couverture par paquet · Paquets par carré de toiture / Surface par paquet
+- Paquets pour 100 ft²
+- Surface utile d’un paquet
+- Prix par paquet (facultatif)
 
 
 
 
 
-**Surface de toit connue**
+
+
+### Surface de toit connue
+
+
 
 - Surface de toit
 - Unité de surface · cm² / m² / in² / ft² / yd² / acre / h
 - Prix unitaire
 - Unité de prix · cm² / m² / in² / ft² / yd² / acre / h
 - Marge de pertes · %
+- Couverture par paquet · Paquets par carré de toiture / Surface par paquet
+- Paquets pour 100 ft²
+- Surface utile d’un paquet
+- Prix par paquet (facultatif)
 
 
 
 
 
-**Longueur et largeur mesurées**
+
+
+### Longueur et largeur mesurées
+
+
 
 - Longueur
 - Unité de longueur · mm / cm / m / en / ft / yd
@@ -136,13 +212,23 @@ $$
 - Élévation pour 12 à l’horizontale
 - Débord horizontal
 - Unité du débord · mm / cm / m / en / ft / yd
+- Débord en pignon si différent
 - Prix unitaire
 - Unité de prix · cm² / m² / in² / ft² / yd² / acre / h
 - Marge de pertes · %
+- Couverture par paquet · Paquets par carré de toiture / Surface par paquet
+- Paquets pour 100 ft²
+- Surface utile d’un paquet
+- Unité de surface · cm² / m² / in² / ft² / yd² / acre / h
+- Prix par paquet (facultatif)
 
 
 
 
+
+
+
+**Références de la méthode** [GAF · Bundle coverage per roofing square](<https://www.gaf.com/en-us/blog/your-home/how-many-bundles-of-shingles-are-in-a-square---63a47862-f7e1-4e73-abcf-8d09917a8b8d>)
 
 
 

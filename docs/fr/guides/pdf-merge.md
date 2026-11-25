@@ -1,4 +1,4 @@
-# Fusionner des PDF
+# Guide pratique · Fusionner des PDF
 
 
 

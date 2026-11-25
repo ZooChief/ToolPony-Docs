@@ -1,4 +1,4 @@
-# Calculadora de escore Z
+# Guia de uso · Calculadora de escore Z
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Padronizar um valor**
+
+
+### Padronizar um valor
+
+
 
 - Valor observado
 - Média
@@ -76,7 +80,11 @@ $$
 
 
 
-**Pontuação Z para probabilidades**
+
+
+### Pontuação Z para probabilidades
+
+
 
 - Z- score
 
@@ -84,7 +92,11 @@ $$
 
 
 
-**De probabilidade para escore Z**
+
+
+### De probabilidade para escore Z
+
+
 
 - Região de probabilidade · Probabilidade de cauda esquerda / Probabilidade de cauda direita / Do centro para o zz / Entre o zhz e o zhz / Probabilidade de duas caudas
 - Probabilidade
@@ -93,7 +105,11 @@ $$
 
 
 
-**Probabilidade entre escores Z**
+
+
+### Probabilidade entre escores Z
+
+
 
 - Pontuação Z mais baixa
 - Pontuação Z superior

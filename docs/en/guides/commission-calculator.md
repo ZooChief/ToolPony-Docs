@@ -1,4 +1,4 @@
-# Commission calculator
+# Commission calculator guide
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Find commission**
+
+
+### Find commission
+
+
 
 - Sales amount
 - Commission rate · %
@@ -75,7 +79,11 @@ $$
 
 
 
-**Find rate**
+
+
+### Find rate
+
+
 
 - Sales amount
 - Commission amount
@@ -84,7 +92,11 @@ $$
 
 
 
-**Find sales amount**
+
+
+### Find sales amount
+
+
 
 - Commission rate · %
 - Commission amount
@@ -93,7 +105,11 @@ $$
 
 
 
-**Base and tiers**
+
+
+### Base and tiers
+
+
 
 - Sales amount
 - Base commission

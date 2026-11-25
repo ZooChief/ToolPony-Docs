@@ -1,4 +1,4 @@
-# Convertisseur d’images
+# Guide pratique · Convertisseur d’images
 
 
 
@@ -56,7 +56,7 @@ JPEG · 64 × 32 px (coins blancs)
 
 
 1. Dans le convertisseur vide, choisissez « Essayer les fichiers exemples ». Un PNG transparent et un JPEG opaque de 64 × 32 px sont chargés. Les sorties sont réglées respectivement sur JPEG et PNG.
-2. Après conversion, cliquez sur chaque miniature pour voir la sortie. Le JPEG a des coins blancs. Le PNG issu du JPEG conserve aussi des coins opaques car les pixels blancs figuraient dans la source. Pour garder la transparence du premier fichier, exportez-le en PNG avec un fond transparent.
+2. Comparez l’original et le résultat côte à côte. Cliquez sur une image pour la voir à sa taille réelle. Le JPEG a des coins blancs. Le PNG issu du JPEG conserve aussi des coins opaques car les pixels blancs figuraient dans la source. Pour garder la transparence du premier fichier, exportez-le en PNG avec un fond transparent.
 3. Pour une bannière, vérifiez les dimensions de sortie sur la ligne du fichier. Une image de 10 000 × 100 px passe proportionnellement à 8 192 × 82 px. Le réglage de qualité agit uniquement sur l’encodage.
 4. Pour vérifier le pixel, ouvrez le JPEG d’exemple dans la pipette à la position (0, 0). Dans Chromium, la valeur décodée était RGBA (255, 255, 243, 255). Le PNG issu du même JPEG conserve ces valeurs, dont l’alpha de 255 pour une opacité totale.
 
@@ -70,7 +70,7 @@ JPEG · 64 × 32 px (coins blancs)
 
 ## Essayer
 
-[Ouvrir l’outil complet · Convertisseur d’images](<https://toolpony.com/fr/tools/image-converter/>)
+[Ouvrir l’outil complet · Convertisseur d’images](<https://toolpony.com/fr/tools/image-converter/#example-mixed-images>)
 
 
 

@@ -1,4 +1,4 @@
-# Calculadora do tamanho da amostra
+# Guia de uso · Calculadora do tamanho da amostra
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Procurar tamanho da amostra**
+
+
+### Procurar tamanho da amostra
+
+
 
 - Nível de confiança · %
 - Margem de erro · %
@@ -77,7 +81,11 @@ $$
 
 
 
-**Procurar a margem de erro**
+
+
+### Procurar a margem de erro
+
+
 
 - Nível de confiança · %
 - Tamanho da amostra

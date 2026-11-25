@@ -1,4 +1,4 @@
-# Wort- und Zeichenzähler
+# Anleitung: Wort- und Zeichenzähler
 
 
 

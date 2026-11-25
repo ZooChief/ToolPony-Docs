@@ -1,4 +1,4 @@
-# Calculadora de redondeo
+# Guía de uso · Calculadora de redondeo
 
 
 

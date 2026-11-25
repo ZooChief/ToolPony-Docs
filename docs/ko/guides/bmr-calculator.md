@@ -1,4 +1,4 @@
-# 기초대사량·칼로리 계산기
+# 기초대사량·칼로리 계산기 사용 가이드
 
 
 
@@ -34,6 +34,23 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## 제지방량으로 추정
+
+
+
+1. 몸무게 70 kg, 가정한 체지방률 20%의 제지방량은 56 kg입니다. Katch–McArdle 식의 휴식 에너지 추정치는 370 + 21.6 × 56 = 1,579.6 kcal/일입니다.
+2. 활동 계수 1.20은 하루 1,895.52 kcal, 1.55는 2,448.38 kcal로 추정합니다. 두 경우 모두 같은 휴식 에너지 추정치를 사용합니다.
+
+
+
+[예제 실행](<https://toolpony.com/ko/tools/bmr-calculator/#example-lean-mass>)
+
+
+
 
 
 ## 직접 사용해 보기
@@ -60,30 +77,18 @@
 
 
 
-**미터법**
 
-- 나이
-- 방정식 그룹 · 남성 / 여성
-- 무게 · kg
-- 높이 · cm
+
+### 미터법
+
+
+
 - 방정식 · Mifflin-St Jeor는 / 해리스-베네딕트 개정 / Katch-McArdle의
-- Katch-McArdle의 경우 체지방 · %
-- 활동 계수
-- 에너지 단위 · kcal/day / kJ/day
-
-
-
-
-
-**미국 관용 단위**
-
 - 나이
-- 방정식 그룹 · 남성 / 여성
-- 무게 · lb
-- 발에 있는 고도 · ft
-- 추가 인치 · in
-- 방정식 · Mifflin-St Jeor는 / 해리스-베네딕트 개정 / Katch-McArdle의
-- Katch-McArdle의 경우 체지방 · %
+- 공식의 성별 항 · 남성 / 여성
+- 체중 · kg
+- 키 · cm
+- 체지방률 · %
 - 활동 계수
 - 에너지 단위 · kcal/day / kJ/day
 
@@ -93,7 +98,27 @@
 
 
 
-**계산 및 처리 방식의 출처** [Mifflin et al. (1990)](<https://pubmed.ncbi.nlm.nih.gov/2305711/>) · [Roza &amp; Shizgal (1984)](<https://pubmed.ncbi.nlm.nih.gov/6741850/>)
+### 미국 관용 단위
+
+
+
+- 방정식 · Mifflin-St Jeor는 / 해리스-베네딕트 개정 / Katch-McArdle의
+- 나이
+- 공식의 성별 항 · 남성 / 여성
+- 체중 · lb
+- 키(피트 부분) · ft
+- 나머지 인치 · in
+- 체지방률 · %
+- 활동 계수
+- 에너지 단위 · kcal/day / kJ/day
+
+
+
+
+
+
+
+**계산 및 처리 방식의 출처** [Mifflin et al. (1990)](<https://pubmed.ncbi.nlm.nih.gov/2305711/>) · [Roza &amp; Shizgal (1984)](<https://pubmed.ncbi.nlm.nih.gov/6741850/>) · [Cunningham (1991) · Fat-free mass and resting energy](<https://pubmed.ncbi.nlm.nih.gov/1957828/>) · [NIST · Thermochemical calorie](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>)
 
 
 

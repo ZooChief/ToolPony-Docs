@@ -1,4 +1,4 @@
-# Calculadora de IMC para adultos
+# Guia de uso · Calculadora de IMC para adultos
 
 
 
@@ -34,6 +34,22 @@ IMC 22,86 kg/m2
 
 
 
+<a id="case-study"></a>
+
+
+
+## Interpretar o limite do IMC 25
+
+
+
+1. Com 180 cm e 80,99 kg, o IMC é cerca de 24,997. Com 81 kg é exatamente 25, início da próxima categoria adulta do CDC. Perto do limite, a tela mantém mais casas decimais.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/bmi-calculator/#example-bmi-boundary>)
+
+
+
 
 
 ## Experimente
@@ -66,7 +82,11 @@ $$
 
 
 
-**Sistema métrico**
+
+
+### Sistema métrico
+
+
 
 - Idade
 - Peso · kg
@@ -76,12 +96,16 @@ $$
 
 
 
-**Unidades usuais dos EUA**
+
+
+### Unidades usuais dos EUA
+
+
 
 - Idade
 - Peso · lb
 - Altura em pés · ft
-- Inferimentos adicionais · in
+- Polegadas adicionais · in
 
 
 

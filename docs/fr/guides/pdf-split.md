@@ -1,4 +1,4 @@
-# Diviser un PDF
+# Guide pratique · Diviser un PDF
 
 
 
@@ -54,6 +54,18 @@ Un PDF avec les pages 5, 1, 2 et 3 dans cet ordre
 ## Essayer
 
 [Ouvrir l’outil complet · Diviser un PDF](<https://toolpony.com/fr/tools/pdf-split/>)
+
+
+
+
+
+## Notes
+
+
+
+30 Mo et 300 pages maximum. Chaque page ne peut apparaître qu’une fois. Les PDF du ZIP sont limités à 64 Mo. Les formulaires, signets et signatures peuvent être perdus. Jusqu’à huit pages, effacez la sélection puis touchez les numéros dans l’ordre voulu. Pour un document plus long, sélectionnez toutes les pages paires ou impaires en une fois.
+
+
 
 
 

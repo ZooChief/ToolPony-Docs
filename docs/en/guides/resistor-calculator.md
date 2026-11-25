@@ -1,4 +1,4 @@
-# Resistor calculator
+# Resistor calculator guide
 
 
 
@@ -85,7 +85,11 @@ $$
 
 
 
-**4 bands**
+
+
+### 4 bands
+
+
 
 - First digit
 - Second digit
@@ -96,7 +100,11 @@ $$
 
 
 
-**3 bands**
+
+
+### 3 bands
+
+
 
 - First digit
 - Second digit
@@ -106,7 +114,11 @@ $$
 
 
 
-**5 bands**
+
+
+### 5 bands
+
+
 
 - First digit
 - Second digit
@@ -118,7 +130,11 @@ $$
 
 
 
-**6 bands**
+
+
+### 6 bands
+
+
 
 - First digit
 - Second digit
@@ -131,7 +147,11 @@ $$
 
 
 
-**Parallel**
+
+
+### Parallel
+
+
 
 - Resistances in Ω
 
@@ -139,7 +159,11 @@ $$
 
 
 
-**Series**
+
+
+### Series
+
+
 
 - Resistances in Ω
 
@@ -147,7 +171,11 @@ $$
 
 
 
-**Round conductor**
+
+
+### Round conductor
+
+
 
 - Length
 - Length unit · mm / cm / m / km / in / ft / yd / mi

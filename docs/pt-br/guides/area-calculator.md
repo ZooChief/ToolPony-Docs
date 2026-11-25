@@ -1,4 +1,4 @@
-# Calculadora de áreas
+# Guia de uso · Calculadora de áreas
 
 
 
@@ -31,6 +31,23 @@ Um retângulo de 4 m por 3 m
 ```
 
 
+
+
+
+<a id="case-study"></a>
+
+
+
+## Recortar um anel
+
+
+
+1. Para uma junta plana de diâmetro externo 60 mm e furo de 40 mm, informe raios de 30 e 20 mm. Escolha mm² como unidade de área.
+2. A área é 500π mm², cerca de 1.570,80 mm². Os dois cortes somam 100π mm, cerca de 314,16 mm. O arquivo inclui cada circunferência e as medidas originais.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/area-calculator/#example-gasket>)
 
 
 
@@ -72,7 +89,11 @@ $$
 
 
 
-**Rectângulo**
+
+
+### Rectângulo
+
+
 
 - Comprimento
 - Unidade de comprimento
@@ -84,17 +105,25 @@ $$
 
 
 
-**Quadrado**
 
-- Comprimento da borda
-- Unidade de comprimento da borda
+
+### Quadrado
+
+
+
+- Comprimento do lado
+- Unidade do lado
 - Unidade de área
 
 
 
 
 
-**Triângulo · três lados**
+
+
+### Triângulo · três lados
+
+
 
 - Primeiro lado
 - Unidade do primeiro lado
@@ -108,10 +137,14 @@ $$
 
 
 
-**Triângulo · base e altura**
 
-- Primeiro lado paralelo
-- Primeira unidade lateral paralela
+
+### Triângulo · base e altura
+
+
+
+- Comprimento da base
+- Unidade da base
 - Altura perpendicular
 - Unidade de altura perpendicular
 - Unidade de área
@@ -120,7 +153,11 @@ $$
 
 
 
-**Trapézio**
+
+
+### Trapézio
+
+
 
 - Primeiro lado paralelo
 - Primeira unidade lateral paralela
@@ -134,7 +171,11 @@ $$
 
 
 
-**Círculo**
+
+
+### Círculo
+
+
 
 - Raio
 - Unidade de raios
@@ -144,19 +185,27 @@ $$
 
 
 
-**Sector circular**
+
+
+### Sector circular
+
+
 
 - Raio
 - Unidade de raios
 - Ângulo central
-- Unidade de ângulo · Graus / Radianos
+- Unidade angular · Graus / Radianos
 - Unidade de área
 
 
 
 
 
-**Elipse**
+
+
+### Elipse
+
+
 
 - Primeiro semieixo
 - Primeira unidade de semieixo
@@ -168,10 +217,14 @@ $$
 
 
 
-**Paralelograma**
 
-- Primeiro lado paralelo
-- Primeira unidade lateral paralela
+
+### Paralelograma
+
+
+
+- Comprimento da base
+- Unidade da base
 - Altura perpendicular
 - Unidade de altura perpendicular
 - Unidade de área
@@ -180,7 +233,11 @@ $$
 
 
 
-**Coroa circular**
+
+
+### Coroa circular
+
+
 
 - Raio exterior
 - Unidade de raio exterior
@@ -192,10 +249,14 @@ $$
 
 
 
-**Polígono regular**
 
-- Comprimento da borda
-- Unidade de comprimento da borda
+
+### Polígono regular
+
+
+
+- Comprimento do lado
+- Unidade do lado
 - Número de lados
 - Unidade de área
 
@@ -205,7 +266,7 @@ $$
 
 
 
-**Referências do método** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+**Referências do método** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST DLMF · Lengths of plane curves](<https://dlmf.nist.gov/19.30>)
 
 
 

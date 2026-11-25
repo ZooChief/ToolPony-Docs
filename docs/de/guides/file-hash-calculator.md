@@ -1,4 +1,4 @@
-# Hash-Rechner für Dateien und Text
+# Anleitung: Hash-Rechner für Dateien und Text
 
 
 

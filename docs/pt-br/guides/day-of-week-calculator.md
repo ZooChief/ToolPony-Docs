@@ -1,4 +1,4 @@
-# Calculadora do dia da semana
+# Guia de uso · Calculadora do dia da semana
 
 
 

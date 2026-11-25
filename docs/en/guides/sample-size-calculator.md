@@ -1,4 +1,4 @@
-# Sample size calculator
+# Sample size calculator guide
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Find sample size**
+
+
+### Find sample size
+
+
 
 - Confidence level · %
 - Margin of error · %
@@ -77,7 +81,11 @@ $$
 
 
 
-**Find margin of error**
+
+
+### Find margin of error
+
+
 
 - Confidence level · %
 - Sample size

@@ -1,8 +1,8 @@
-# Convertisseur d’horodatage Unix
+# Guide pratique · Convertisseur d’horodatage Unix
 
 
 
-Convertir les secondes et les millisecondes en UTC, et convertir un temps ISO avec un décalage explicite en temps Unix.
+Convertissez des secondes, millisecondes, microsecondes ou nanosecondes Unix en UTC et inversement, sans perte de chiffres.
 
 
 
@@ -34,6 +34,23 @@ Convertir les secondes et les millisecondes en UTC, et convertir un temps ISO av
 
 
 
+<a id="case-study"></a>
+
+
+
+## Une nanoseconde avant l’époque
+
+
+
+1. Sélectionnez ns et entrez -1. L’heure UTC est 1969-12-31T23:59:59.999999999Z. Inversez le sens pour retrouver le même entier.
+2. 1970-01-01T05:44:59.999999999+05:45 désigne le même instant. Copiez une unité ou exportez les quatre sur une seule ligne CSV.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/unix-timestamp-converter/#example-before-epoch>)
+
+
+
 
 
 ## Essayer
@@ -48,7 +65,7 @@ Convertir les secondes et les millisecondes en UTC, et convertir un temps ISO av
 
 
 
-Le temps Unix est écoulé depuis 1970-01-01T00:00:00Z. Le support des conversions date de 1900 à 9999 à milliseconde de précision.
+Le temps Unix part de 1970-01-01T00:00:00Z et ignore les secondes intercalaires. Les dates UTC de 1900 à 9999 acceptent neuf décimales avec un décalage explicite.
 
 
 
@@ -60,22 +77,35 @@ Le temps Unix est écoulé depuis 1970-01-01T00:00:00Z. Le support des conversio
 
 
 
-**Chronomètre à ce jour**
+
+
+### Horodatage → Date
+
+
 
 - Horodatage Unix
-- Unité · Secondes / Millisecondes
+- Unité · Secondes / Millisecondes / Microsecondes / Nanosecondes
 
 
 
 
 
-**Date de l'horodatage**
-
-- ISO 8601 avec compensation
 
 
+### Date → Horodatage
 
 
+
+- Date ISO 8601 avec décalage UTC
+- Unité · Secondes / Millisecondes / Microsecondes / Nanosecondes
+
+
+
+
+
+
+
+**Références de la méthode** [GNU · Seconds since the Epoch](<https://www.gnu.org/software/coreutils/manual/html_node/Seconds-since-the-Epoch.html>) · [IETF · RFC 3339](<https://www.rfc-editor.org/rfc/rfc3339>)
 
 
 

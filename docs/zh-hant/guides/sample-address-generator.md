@@ -1,4 +1,4 @@
-# 虛擬地址生成器
+# 虛擬地址生成器使用指南
 
 
 
@@ -51,6 +51,23 @@ Deutschland
 
 
 
+<a id="case-study"></a>
+
+
+
+## 覈對加拿大帶單元號的地址
+
+
+
+1. 選擇加拿大安大略省，種子填 label-review，生成兩條帶單元號的測試地址，關閉聯繫信息。相同設置會得到同一組樣例。
+2. 在下載的文本里，單元號位於門牌號前，中間是連字符。城市行的 ON 與郵編之間有兩個空格。JSON 還會把各個地址部分分別保存在獨立字段中。
+
+
+
+[運行示例](<https://toolpony.com/zh-hant/tools/sample-address-generator/#example-canadian-label>)
+
+
+
 
 
 ## 試一試
@@ -68,6 +85,10 @@ Deutschland
 每批最多 100 條。城市與郵編用於展示格式，街道與收件人由工具合成。電話使用保留示例號或佔位符。適用於表單及軟件測試。
 
 
+
+
+
+**方法來源** [USPS · Publication 28, §213](<https://pe.usps.com/text/pub28/28c2_003.htm>) · [Canada Post · Civic address](<https://www.canadapost-postescanada.ca/cpc/en/support/articles/addressing-guidelines/civic-address.page>)
 
 
 

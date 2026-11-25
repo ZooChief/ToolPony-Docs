@@ -1,4 +1,4 @@
-# Bildformat konvertieren
+# Anleitung: Bildformat konvertieren
 
 
 
@@ -56,7 +56,7 @@ JPEG · 64 × 32 px (weiße Ecken)
 
 
 1. Wählen Sie im leeren Konverter „Beispieldateien ausprobieren“. Er lädt ein transparentes PNG und ein deckendes JPEG mit je 64 × 32 px. Die Ausgabeformate sind JPEG für das PNG und PNG für das JPEG.
-2. Klicken Sie nach der Konvertierung auf die Vorschaubilder. Das erste JPEG hat weiße Ecken. Auch das PNG aus dem JPEG hat deckende Ecken, weil die weißen Pixel bereits in der Quelle lagen. Wählen Sie für das erste Bild PNG und einen transparenten Hintergrund, um seine Transparenz zu erhalten.
+2. Vergleichen Sie Original und Ausgabe nebeneinander. Per Klick auf ein Bild sehen Sie die tatsächliche Pixelgröße. Das erste JPEG hat weiße Ecken. Auch das PNG aus dem JPEG hat deckende Ecken, weil die weißen Pixel bereits in der Quelle lagen. Wählen Sie für das erste Bild PNG und einen transparenten Hintergrund, um seine Transparenz zu erhalten.
 3. Bei langen Bannern stehen die Ausgabemaße in der Dateizeile. Aus 10.000 × 100 px werden proportional 8.192 × 82 px. Die Qualitätseinstellung beeinflusst nur die Kodierung.
 4. Öffnen Sie das Beispiel-JPEG zur Kontrolle in der Farbpipette und prüfen Sie (0, 0). Chromium dekodierte dort RGBA (255, 255, 243, 255). Das daraus exportierte PNG behielt diese Werte. Der Alphawert 255 steht für volle Deckkraft.
 
@@ -70,7 +70,7 @@ JPEG · 64 × 32 px (weiße Ecken)
 
 ## Ausprobieren
 
-[Vollständiges Werkzeug öffnen · Bildformat konvertieren](<https://toolpony.com/de/tools/image-converter/>)
+[Vollständiges Werkzeug öffnen · Bildformat konvertieren](<https://toolpony.com/de/tools/image-converter/#example-mixed-images>)
 
 
 

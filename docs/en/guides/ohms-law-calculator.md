@@ -1,4 +1,4 @@
-# Ohm’s law calculator
+# Ohm’s law calculator guide
 
 
 

@@ -1,4 +1,4 @@
-# Calculadora de préstamo de auto
+# Guía de uso · Calculadora de préstamo de auto
 
 
 
@@ -83,7 +83,11 @@ V es el precio, D la entrada, T el valor de entrega, O la deuda pendiente, R el 
 
 
 
-**Calcular la cuota mensual**
+
+
+### Calcular la cuota mensual
+
+
 
 - Precio del vehículo
 - Meses
@@ -103,7 +107,11 @@ V es el precio, D la entrada, T el valor de entrega, O la deuda pendiente, R el 
 
 
 
-**Calcular precio del vehículo**
+
+
+### Calcular precio del vehículo
+
+
 
 - Cuota mensual
 - Meses

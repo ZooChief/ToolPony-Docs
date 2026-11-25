@@ -1,8 +1,8 @@
-# Calculadora de porcentajes
+# Guía de uso · Calculadora de porcentajes
 
 
 
-Resolver porcentaje, parte, entero, aumento, disminución, cambio inverso, diferencia y error.
+Calcula porcentajes, compara tasas en puntos o aplica e invierte dos descuentos.
 
 
 
@@ -48,6 +48,38 @@ Resolver porcentaje, parte, entero, aumento, disminución, cambio inverso, difer
 
 
 
+<a id="case-study"></a>
+
+
+
+## Dos descuentos consecutivos
+
+
+
+1. Un precio de 250 baja a 200 tras un descuento del 20 %. El segundo descuento del 10 % se aplica a 200 y deja un precio de 180. La rebaja total es del 28 %. El cálculo inverso recupera el precio inicial.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/percentage-calculator/#example-two-discounts>)
+
+
+
+
+
+## Pasar del 4 % al 5 %
+
+
+
+La tasa de registro pasa del 4 % al 5 %. Sube un punto porcentual. Respecto al 4 % inicial, el aumento relativo es 1 ÷ 4 = 25 %.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/percentage-calculator/#example-percentage-points>)
+
+
+
+
+
 
 
 ## Pruébalo
@@ -62,7 +94,7 @@ Resolver porcentaje, parte, entero, aumento, disminución, cambio inverso, difer
 
 
 
-Porcentaje = parte ÷ entera × 100. El cambio utiliza el valor original absoluto como su denominador. La diferencia simétrica utiliza la media de los valores absolutos.
+El cambio relativo usa el valor absoluto inicial como base. Restar dos tasas da puntos porcentuales. Los factores sucesivos se multiplican. La diferencia simétrica usa la media de las magnitudes.
 
 
 
@@ -98,7 +130,11 @@ Para un valor medido de 90 y referencia de 96, el error absoluto por ciento es d
 
 
 
-**Porcentaje de un valor**
+
+
+### Porcentaje de un valor
+
+
 
 - Porcentaje · %
 - Valor
@@ -107,7 +143,11 @@ Para un valor medido de 90 y referencia de 96, el error absoluto por ciento es d
 
 
 
-**Encontrar el porcentaje**
+
+
+### Encontrar el porcentaje
+
+
 
 - Parte
 - Plenario
@@ -116,7 +156,11 @@ Para un valor medido de 90 y referencia de 96, el error absoluto por ciento es d
 
 
 
-**Encuentra todo el**
+
+
+### Encuentra todo el
+
+
 
 - Parte
 - Porcentaje · %
@@ -125,8 +169,13 @@ Para un valor medido de 90 y referencia de 96, el error absoluto por ciento es d
 
 
 
-**Cambio porcentual**
 
+
+### Cambio porcentual
+
+
+
+- Tipo de valores · Cantidades / Tasas (%)
 - Valor inicial
 - Nuevo valor
 
@@ -134,7 +183,11 @@ Para un valor medido de 90 y referencia de 96, el error absoluto por ciento es d
 
 
 
-**Diferencia porcentual**
+
+
+### Diferencia porcentual
+
+
 
 - Valor inicial
 - Segundo valor
@@ -143,7 +196,11 @@ Para un valor medido de 90 y referencia de 96, el error absoluto por ciento es d
 
 
 
-**Diferencia con valores firmados**
+
+
+### Diferencia con valores firmados
+
+
 
 - Valor inicial
 - Segundo valor
@@ -152,25 +209,39 @@ Para un valor medido de 90 y referencia de 96, el error absoluto por ciento es d
 
 
 
-**Aplicar un cambio**
+
+
+### Aplicar un cambio
+
+
 
 - Valor inicial
 - Cambio firmado · %
+- Segundo cambio · %
 
 
 
 
 
-**Invierta un cambio**
+
+
+### Invierta un cambio
+
+
 
 - Nuevo valor
 - Cambio firmado · %
+- Segundo cambio · %
 
 
 
 
 
-**Error porcentual**
+
+
+### Error porcentual
+
+
 
 - Valor medido
 - Valor de referencia
@@ -179,6 +250,10 @@ Para un valor medido de 90 y referencia de 96, el error absoluto por ciento es d
 
 
 
+
+
+
+**Fuentes del método** [Eurostat · Percentage point](<https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Percentage_point>)
 
 
 

@@ -1,4 +1,4 @@
-# Mulch calculator
+# Mulch calculator guide
 
 
 
@@ -79,7 +79,11 @@ $$
 
 
 
-**Known area**
+
+
+### Known area
+
+
 
 - Area
 - Area unit · cm² / m² / in² / ft² / yd² / acre / ha
@@ -95,7 +99,11 @@ $$
 
 
 
-**Multiple rectangles**
+
+
+### Multiple rectangles
+
+
 
 - Length, width, unit per line
 - Depth

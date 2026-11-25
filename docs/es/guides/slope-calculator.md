@@ -1,4 +1,4 @@
-# Calculadora de pendiente
+# Guía de uso · Calculadora de pendiente
 
 
 
@@ -74,7 +74,11 @@ Una línea y una distancia determinan un punto en cada lado del punto de partida
 
 
 
-**Dos puntos**
+
+
+### Dos puntos
+
+
 
 - X1
 - Y1
@@ -85,7 +89,11 @@ Una línea y una distancia determinan un punto en cada lado del punto de partida
 
 
 
-**Punto y dirección**
+
+
+### Punto y dirección
+
+
 
 - X1
 - Y1

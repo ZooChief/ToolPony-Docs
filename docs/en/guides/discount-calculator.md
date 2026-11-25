@@ -1,4 +1,4 @@
-# Discount calculator
+# Discount calculator guide
 
 
 
@@ -68,7 +68,11 @@ Use an inverse mode when you know the sale price or the amount saved. Inverse mo
 
 
 
-**Apply discounts**
+
+
+### Apply discounts
+
+
 
 - Original price
 - Discount percentages
@@ -79,7 +83,11 @@ Use an inverse mode when you know the sale price or the amount saved. Inverse mo
 
 
 
-**Find original price**
+
+
+### Find original price
+
+
 
 - Price after discount
 - Discount type · Percentage / Fixed amount
@@ -89,7 +97,11 @@ Use an inverse mode when you know the sale price or the amount saved. Inverse mo
 
 
 
-**Find rate and savings**
+
+
+### Find rate and savings
+
+
 
 - Original price
 - Known amount · Discounted price / Savings
@@ -99,7 +111,11 @@ Use an inverse mode when you know the sale price or the amount saved. Inverse mo
 
 
 
-**Find prices from savings**
+
+
+### Find prices from savings
+
+
 
 - Amount saved
 - Discount rate · %

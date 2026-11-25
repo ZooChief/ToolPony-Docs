@@ -1,4 +1,4 @@
-# Conversor de números romanos
+# Guia de uso · Conversor de números romanos
 
 
 
@@ -60,7 +60,11 @@ O conversor usa pares subtrativos padrão, como IV e CM. Uma linha overline mult
 
 
 
-**Valor único**
+
+
+### Valor único
+
+
 
 - Inteiro ou numeral romano
 
@@ -68,7 +72,11 @@ O conversor usa pares subtrativos padrão, como IV e CM. Uma linha overline mult
 
 
 
-**Data ou lista**
+
+
+### Data ou lista
+
+
 
 - Valores ou data
 

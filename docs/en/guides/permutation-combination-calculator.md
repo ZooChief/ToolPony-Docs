@@ -1,4 +1,4 @@
-# Permutation and combination calculator
+# Permutation and combination calculator guide
 
 
 

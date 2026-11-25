@@ -1,4 +1,4 @@
-# Generator für Beispieladressen
+# Anleitung: Generator für Beispieladressen
 
 
 
@@ -51,6 +51,23 @@ Deutschland
 
 
 
+<a id="case-study"></a>
+
+
+
+## Eine kanadische Adresse mit Einheit prüfen
+
+
+
+1. Erzeuge mit dem Startwert label-review zwei Testadressen in Ontario mit Einheitsnummer, ohne Kontaktdaten. Gleiche Einstellungen ergeben dasselbe Paar.
+2. In der Textdatei steht die Einheit mit Bindestrich vor der Hausnummer. In der Ortszeile folgen auf ON zwei Leerzeichen und die Postleitzahl. JSON enthält die Elemente auch als einzelne Felder.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/sample-address-generator/#example-canadian-label>)
+
+
+
 
 
 ## Ausprobieren
@@ -68,6 +85,10 @@ Deutschland
 Bis zu 100 Beispiele pro Lauf. Ort und Postleitzahl dienen als Formatbeispiele, Straße und Empfänger sind synthetisch. Telefonbeispiele verwenden reservierte Nummern oder Platzhalter. Geeignet für Formular- und Softwaretests.
 
 
+
+
+
+**Quellen zur Methode** [USPS · Publication 28, §213](<https://pe.usps.com/text/pub28/28c2_003.htm>) · [Canada Post · Civic address](<https://www.canadapost-postescanada.ca/cpc/en/support/articles/addressing-guidelines/civic-address.page>)
 
 
 

@@ -1,4 +1,4 @@
-# Calculadora de círculos
+# Guía de uso · Calculadora de círculos
 
 
 

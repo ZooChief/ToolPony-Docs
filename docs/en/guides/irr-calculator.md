@@ -1,4 +1,4 @@
-# Internal rate of return calculator
+# Internal rate of return calculator guide
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Irregular annual flows**
+
+
+### Irregular annual flows
+
+
 
 - Initial investment
 - Subsequent annual cash flows
@@ -75,7 +79,11 @@ $$
 
 
 
-**Fixed flows and ending balance**
+
+
+### Fixed flows and ending balance
+
+
 
 - Initial investment
 - Whole years

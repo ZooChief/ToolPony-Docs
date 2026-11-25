@@ -1,8 +1,8 @@
-# Diagramme erstellen
+# Anleitung: Diagramme erstellen
 
 
 
-Fügen Sie CSV mit einer Kopfzeile, einer Etikettenspalte und numerischen Reihen ein. Wählen Sie Balken oder Linien, aktualisieren Sie das Diagramm und laden Sie SVG herunter.
+Füge CSV mit Kopfzeile, Beschriftungen in der ersten Spalte und Zahlen in den übrigen Spalten ein. Wähle Balken oder Linien und lade das Diagramm als SVG herunter.
 
 
 
@@ -13,7 +13,7 @@ Fügen Sie CSV mit einer Kopfzeile, einer Etikettenspalte und numerischen Reihen
 
 
 1. Geben Sie einen CSV-Header ein, setzen Sie Kategorie-Etiketten in die erste Spalte und numerische Reihen in die restlichen Spalten.
-2. Wählen Sie Balken oder Linien und aktualisieren Sie die Vorschau.
+2. Wähle Balken oder Linien. Das Diagramm aktualisiert sich beim Bearbeiten.
 3. Laden Sie das Diagramm als SVG herunter.
 
 

@@ -1,4 +1,4 @@
-# Calculadora de sucesiones
+# Guía de uso · Calculadora de sucesiones
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Aritmética**
+
+
+### Aritmética
+
+
 
 - Primer mandato
 - Diferencia común
@@ -76,7 +80,11 @@ $$
 
 
 
-**Geométrica**
+
+
+### Geométrica
+
+
 
 - Primer mandato
 - ratio común
@@ -86,7 +94,11 @@ $$
 
 
 
-**Fibonacci**
+
+
+### Fibonacci
+
+
 
 - Índice
 

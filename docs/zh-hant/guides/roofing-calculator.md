@@ -1,4 +1,4 @@
-# 屋頂用料計算器
+# 屋頂用料計算器使用指南
 
 
 
@@ -47,6 +47,54 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## 瓦片訂貨
+
+
+
+1. 25 × 40 ft 的平屋面淨面積爲 1,000 ft²。預留 10%，每 100 ft² 用 3 包，應買 33 包。每包 75，整單爲 2,475。
+
+
+
+[運行示例](<https://toolpony.com/zh-hant/tools/roofing-calculator/#example-roof-order>)
+
+
+
+
+
+## 按包裝標註採購
+
+
+
+含預留需鋪 1,100 ft²。標籤若寫每包 33.3 ft²，33 包只能鋪 1,098.9 ft²，應買 34 包，可鋪 1,132.2 ft²。
+
+
+
+[運行示例](<https://toolpony.com/zh-hant/tools/roofing-calculator/#example-package-label>)
+
+
+
+
+
+
+
+## 分別計入檐口與山牆挑出
+
+
+
+8 × 5 m 的建築，檐口每側挑出 25 cm，山牆兩端各挑出 40 cm，水平投影爲 8.8 × 5.5 m。坡比 5∶12、預留 10%、每包鋪 3 m²，應買 20 包。
+
+
+
+[運行示例](<https://toolpony.com/zh-hant/tools/roofing-calculator/#example-roof-overhang>)
+
+
+
+
+
 
 
 ## 試一試
@@ -85,7 +133,11 @@ $$
 
 
 
-**底面積與坡比**
+
+
+### 底面積與坡比
+
+
 
 - 底面積
 - 面積單位 · cm² / m² / in² / ft² / yd² / acre / ha
@@ -95,12 +147,20 @@ $$
 - 單價
 - 計價單位 · cm² / m² / in² / ft² / yd² / acre / ha
 - 損耗預留 · %
+- 包裝覆蓋量 · 每屋面方包數 / 每包覆蓋面積
+- 每 100 ft² 的包數
+- 每包有效覆蓋面積
+- 整包單價（選填）
 
 
 
 
 
-**底面積與坡角**
+
+
+### 底面積與坡角
+
+
 
 - 底面積
 - 面積單位 · cm² / m² / in² / ft² / yd² / acre / ha
@@ -110,24 +170,40 @@ $$
 - 單價
 - 計價單位 · cm² / m² / in² / ft² / yd² / acre / ha
 - 損耗預留 · %
+- 包裝覆蓋量 · 每屋面方包數 / 每包覆蓋面積
+- 每 100 ft² 的包數
+- 每包有效覆蓋面積
+- 整包單價（選填）
 
 
 
 
 
-**已知屋面面積**
+
+
+### 已知屋面面積
+
+
 
 - 屋面面積
 - 面積單位 · cm² / m² / in² / ft² / yd² / acre / ha
 - 單價
 - 計價單位 · cm² / m² / in² / ft² / yd² / acre / ha
 - 損耗預留 · %
+- 包裝覆蓋量 · 每屋面方包數 / 每包覆蓋面積
+- 每 100 ft² 的包數
+- 每包有效覆蓋面積
+- 整包單價（選填）
 
 
 
 
 
-**實測長寬**
+
+
+### 實測長寬
+
+
 
 - 長度
 - 長度單位 · mm / cm / m / in / ft / yd
@@ -136,13 +212,23 @@ $$
 - 每水平 12 單位的升高
 - 水平挑檐寬度
 - 挑檐單位 · mm / cm / m / in / ft / yd
+- 山牆端伸出（與檐口不同時填寫）
 - 單價
 - 計價單位 · cm² / m² / in² / ft² / yd² / acre / ha
 - 損耗預留 · %
+- 包裝覆蓋量 · 每屋面方包數 / 每包覆蓋面積
+- 每 100 ft² 的包數
+- 每包有效覆蓋面積
+- 面積單位 · cm² / m² / in² / ft² / yd² / acre / ha
+- 整包單價（選填）
 
 
 
 
+
+
+
+**方法來源** [GAF · Bundle coverage per roofing square](<https://www.gaf.com/en-us/blog/your-home/how-many-bundles-of-shingles-are-in-a-square---63a47862-f7e1-4e73-abcf-8d09917a8b8d>)
 
 
 

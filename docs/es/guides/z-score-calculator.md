@@ -1,4 +1,4 @@
-# Calculadora de puntuación Z
+# Guía de uso · Calculadora de puntuación Z
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Estándarizar un valor**
+
+
+### Estándarizar un valor
+
+
 
 - Valor observado
 - Media
@@ -76,7 +80,11 @@ $$
 
 
 
-**Z-score a probabilidades**
+
+
+### Z-score a probabilidades
+
+
 
 - Z-score
 
@@ -84,7 +92,11 @@ $$
 
 
 
-**De probabilidad a puntuación Z**
+
+
+### De probabilidad a puntuación Z
+
+
 
 - Región de probabilidad · Probabilidad de cola izquierda / Probabilidad de cola derecha / Desde el centro hasta la muerte / Entre − vidas eternas y Silenciosos / Probabilidad de dos colas
 - Probabilidad
@@ -93,7 +105,11 @@ $$
 
 
 
-**Probabilidad entre puntuaciones Z**
+
+
+### Probabilidad entre puntuaciones Z
+
+
 
 - Baja Z-score
 - Alto Z-score

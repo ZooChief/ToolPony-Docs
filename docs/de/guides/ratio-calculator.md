@@ -1,8 +1,8 @@
-# Verhältnisrechner
+# Anleitung: Verhältnisrechner
 
 
 
-Lösen Sie einen fehlenden Begriff in einer Proportion, vereinfachen Sie ein Verhältnis oder skalieren Sie beide Begriffe.
+Verhältnisse lösen, Brüche skalieren und ein Bild mit festem Seitenverhältnis einpassen oder zuschneiden.
 
 
 
@@ -34,6 +34,38 @@ x=15
 
 
 
+<a id="case-study"></a>
+
+
+
+## Ein Querformat in ein Plakat einpassen
+
+
+
+1. Ein Bild mit 1920 × 1080 passt im Maßstab 5/8 in einen Rahmen von 1200 × 900. Es misst danach 1200 × 675. In der Höhe bleiben 225 Pixel frei, zentriert 112,5 auf jeder Seite.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/ratio-calculator/#example-fit-poster>)
+
+
+
+
+
+## Denselben Rahmen vollständig füllen
+
+
+
+Zum vollständigen Füllen richtet sich die Skalierung nach der Höhe. Mit 5/6 entstehen 1600 × 900 Pixel. Zentriert entfallen links und rechts jeweils 200 Pixel.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/ratio-calculator/#example-fill-poster>)
+
+
+
+
+
 
 
 ## Ausprobieren
@@ -48,7 +80,7 @@ x=15
 
 
 
-A:B = C:D impliziert A × D = B × C, mit ungleichen Nennern.
+Für A:B = C:D gilt bei Nennern ungleich null A × D = B × C. Einpassen nutzt den kleineren, Füllen den größeren der beiden Achsenfaktoren. Rand und Beschnitt werden je Achse insgesamt angegeben.
 
 
 
@@ -60,7 +92,11 @@ A:B = C:D impliziert A × D = B × C, mit ungleichen Nennern.
 
 
 
-**Einen Anteil lösen**
+
+
+### Einen Anteil lösen
+
+
 
 - A
 - B
@@ -71,7 +107,11 @@ A:B = C:D impliziert A × D = B × C, mit ungleichen Nennern.
 
 
 
-**Vereinfachen oder Skalieren**
+
+
+### Vereinfachen oder Skalieren
+
+
 
 - Erstes Glied
 - Zweite Amtszeit
@@ -81,16 +121,27 @@ A:B = C:D impliziert A × D = B × C, mit ungleichen Nennern.
 
 
 
-**Vergrößern oder Verkleinern eines Verhältnisses**
+
+
+### Vergrößern oder Verkleinern eines Verhältnisses
+
+
 
 - Erstes Glied
 - Zweite Amtszeit
+- Skalierung · Faktor / Einpassen / Füllen und zuschneiden
 - Richtung · Reduzieren / Erweiterung
 - Faktor
+- Rahmenbreite
+- Rahmenhöhe
 
 
 
 
+
+
+
+**Quellen zur Methode** [W3C · Object fitting](<https://www.w3.org/TR/css-images-3/#the-object-fit>)
 
 
 

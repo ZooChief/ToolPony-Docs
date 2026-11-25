@@ -1,4 +1,4 @@
-# Calculateur de prêt auto
+# Guide pratique · Calculateur de prêt auto
 
 
 
@@ -83,7 +83,11 @@ V est le prix, D l’apport, T la valeur de reprise, O le solde dû, R la remise
 
 
 
-**Calculer la mensualité**
+
+
+### Calculer la mensualité
+
+
 
 - Prix du véhicule
 - Mois
@@ -103,7 +107,11 @@ V est le prix, D l’apport, T la valeur de reprise, O le solde dû, R la remise
 
 
 
-**Trouver le prix du véhicule**
+
+
+### Trouver le prix du véhicule
+
+
 
 - Versement mensuel
 - Mois

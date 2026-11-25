@@ -1,4 +1,4 @@
-# Image converter
+# Image converter guide
 
 
 
@@ -57,7 +57,7 @@ JPEG · 64 × 32 px (white corners)
 
 
 1. Choose “Try sample files” in the empty converter. It loads a transparent PNG and an opaque JPEG, both 64 × 32 px. The PNG is set to export as JPEG and the JPEG as PNG.
-2. Convert and toggle each thumbnail to inspect the output. The JPEG has white corners. The PNG made from the JPEG also has opaque corners because that source already contained near-white pixels. To keep the original transparency, export the first file as PNG with a transparent background.
+2. After converting, compare the original and output side by side. Select either image to inspect it at its actual pixel size. The JPEG has white corners. The PNG made from the JPEG also has opaque corners because that source already contained near-white pixels. To keep the original transparency, export the first file as PNG with a transparent background.
 3. For a long banner, check the output dimensions shown in the row. A 10,000 × 100 px image exports at 8,192 × 82 px after proportional scaling. Changing the quality only affects encoding.
 4. For a pixel check, open the sample JPEG in the color picker at (0, 0). Chromium decoded that corner as RGBA (255, 255, 243, 255). The PNG exported from the same JPEG kept those values, including the opaque alpha of 255.
 
@@ -71,7 +71,7 @@ JPEG · 64 × 32 px (white corners)
 
 ## Try it
 
-[Open full tool · Image converter](<https://toolpony.com/en/tools/image-converter/>)
+[Open full tool · Image converter](<https://toolpony.com/en/tools/image-converter/#example-mixed-images>)
 
 
 

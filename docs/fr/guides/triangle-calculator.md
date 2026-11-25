@@ -1,4 +1,4 @@
-# Calculateur de triangle
+# Guide pratique · Calculateur de triangle
 
 
 
@@ -48,6 +48,23 @@ Deux solutions, avec c ≈ 13,55923 et 3,76127.
 
 
 
+<a id="case-study"></a>
+
+
+
+## Quand deux triangles sont possibles
+
+
+
+1. Prenez a = 7, b = 10 et A = 30°. Le côté a est opposé à A. Deux positions du sommet donnent c d’environ 13,56 ou 3,76. Comparez les deux tracés et leurs dimensions.
+2. Avec a = 5, a vaut b × sin A. Un seul triangle rectangle est possible. En dessous de 5, aucun triangle ne se ferme. Le tableau donne aussi les radians et les degrés, minutes, secondes.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/triangle-calculator/#example-two-triangles>)
+
+
+
 
 
 ## Essayer
@@ -92,7 +109,11 @@ $$
 
 
 
-**Valeurs connues**
+
+
+### Valeurs connues
+
+
 
 - Côté a
 - Côté b
@@ -106,7 +127,11 @@ $$
 
 
 
-**Trois côtés (CCC)**
+
+
+### Trois côtés (CCC)
+
+
 
 - Côté a
 - Côté b
@@ -116,7 +141,11 @@ $$
 
 
 
-**Deux côtés et angle compris (CAC)**
+
+
+### Deux côtés et angle compris (CAC)
+
+
 
 - Côté b
 - Côté c
@@ -126,7 +155,11 @@ $$
 
 
 
-**Deux angles et un côté**
+
+
+### Deux angles et un côté
+
+
 
 - Angle A · °
 - Angle B · °
@@ -137,7 +170,11 @@ $$
 
 
 
-**Deux côtés et un angle opposé (CCA)**
+
+
+### Deux côtés et un angle opposé (CCA)
+
+
 
 - Côté a
 - Côté b
@@ -147,7 +184,11 @@ $$
 
 
 
-**Côtés de l’angle droit**
+
+
+### Côtés de l’angle droit
+
+
 
 - Côté a
 - Côté b
@@ -155,6 +196,10 @@ $$
 
 
 
+
+
+
+**Références de la méthode** [MathWorld · Law of sines](<https://mathworld.wolfram.com/LawofSines.html>)
 
 
 

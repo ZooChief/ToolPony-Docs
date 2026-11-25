@@ -1,4 +1,4 @@
-# Calculadora de divisores
+# Guía de uso · Calculadora de divisores
 
 
 

@@ -1,4 +1,4 @@
-# Redimensionar imágenes
+# Guía de uso · Redimensionar imágenes
 
 
 

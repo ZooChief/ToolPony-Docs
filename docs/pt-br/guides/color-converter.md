@@ -1,8 +1,8 @@
-# Conversor de cores
+# Guia de uso · Conversor de cores
 
 
 
-Converta HEX, RGB e HSL, preserve a transparência e visualize a cor.
+Converta cores CSS em HEX, RGB, HSL e OKLCH com opacidade e alternativa sRGB.
 
 
 
@@ -34,6 +34,23 @@ rgb(102, 51, 153)
 
 
 
+<a id="case-study"></a>
+
+
+
+## Preparar uma alternativa sRGB para um recurso
+
+
+
+1. Cole color(display-p3 0 1 0 / 70%). Esse verde está fora de sRGB. As amostras mostram o original e a alternativa; o mapeamento resulta em \#00FB29B3.
+2. A linha RGB mantém a opacidade exata de 0,7. No HEX de oito dígitos, B3 equivale a 179/255.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/color-converter/#example-wide-gamut>)
+
+
+
 
 
 ## Experimente
@@ -48,7 +65,7 @@ rgb(102, 51, 153)
 
 
 
-HEX usa canais de 8 bits. RGB aceita números ou porcentagens. HSL usa graus no matiz e porcentagens na saturação e na luminosidade. A saída HEX arredonda cada canal ao byte mais próximo.
+HEX arredonda canais sRGB para bytes. Cores fora da gama são mapeadas pela croma OKLCH. A prévia original mantém seu espaço de cor.
 
 
 

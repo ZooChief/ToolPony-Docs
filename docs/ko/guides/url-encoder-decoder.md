@@ -1,8 +1,8 @@
-# URL 인코딩 및 디코딩
+# URL 인코딩 및 디코딩 사용 가이드
 
 
 
-전체 URL, URI 구성 요소 및 양식 값을 인코딩하거나 디코딩합니다.
+URL과 폼 값을 변환하고 이름 중복과 빈 값을 유지하며 쿼리 매개변수를 순서대로 편집하세요.
 
 
 
@@ -34,6 +34,23 @@ a%2Bb%20%26%20c
 
 
 
+<a id="case-study"></a>
+
+
+
+## 검색어의 더하기 기호 보존
+
+
+
+1. C++ &amp; tea를 폼 값으로 인코딩하면 C%2B%2B+%26+tea입니다. 실제 +는 %2B, 공백은 +, &amp;는 %26이 됩니다. 역변환하면 원문이 복원됩니다. URI 구성 요소에서는 공백이 %20입니다.
+2. 쿼리 매개변수에서 tag 두 개가 있는 예제를 열고 두 번째 값을 UI &amp; UX로 바꾸세요. 첫 tag, 빈 값, \#filters가 유지되고 새 값은 UI+%26+UX가 됩니다.
+
+
+
+[예제 실행](<https://toolpony.com/ko/tools/url-encoder-decoder/#example-query-plus>)
+
+
+
 
 
 ## 직접 사용해 보기
@@ -48,9 +65,13 @@ a%2Bb%20%26%20c
 
 
 
-구성 요소 인코딩은 예약된 구분 기호를 탈출합니다. 전체 URL 인코딩은 구분 기호를 보존합니다. 양식 인코딩 사용 및 공백에 대한.
+URI 구성 요소는 구분자를 이스케이프하며 전체 URL은 구분자를 유지합니다. 폼 공백은 +입니다. 쿼리 편집은 이름과 값을 각각 폼 인코딩하며 경로와 프래그먼트를 유지합니다.
 
 
+
+
+
+**계산 및 처리 방식의 출처** [IETF · RFC 3986](<https://www.rfc-editor.org/rfc/rfc3986>) · [WHATWG · Form encoding](<https://url.spec.whatwg.org/#application/x-www-form-urlencoded>)
 
 
 

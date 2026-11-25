@@ -1,4 +1,4 @@
-# File and text hash calculator
+# File and text hash calculator guide
 
 
 

@@ -1,4 +1,4 @@
-# Calculatrice de taille d’échantillon
+# Guide pratique · Calculatrice de taille d’échantillon
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Trouver la taille de l'échantillon**
+
+
+### Trouver la taille de l'échantillon
+
+
 
 - Niveau de confiance · %
 - Marge d’erreur · %
@@ -77,7 +81,11 @@ $$
 
 
 
-**Trouver la marge d'erreur**
+
+
+### Trouver la marge d'erreur
+
+
 
 - Niveau de confiance · %
 - Taille de l'échantillon

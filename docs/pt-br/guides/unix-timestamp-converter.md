@@ -1,8 +1,8 @@
-# Conversor de timestamp Unix
+# Guia de uso · Conversor de timestamp Unix
 
 
 
-Converta segundos e milissegundos para UTC, e converta um tempo ISO com um offset explícito para o tempo Unix.
+Converta segundos, milissegundos, microssegundos ou nanossegundos Unix em UTC e vice-versa sem perder dígitos.
 
 
 
@@ -34,6 +34,23 @@ Converta segundos e milissegundos para UTC, e converta um tempo ISO com um offse
 
 
 
+<a id="case-study"></a>
+
+
+
+## Um nanossegundo antes da época
+
+
+
+1. Selecione ns e digite -1. O horário UTC é 1969-12-31T23:59:59.999999999Z. Inverta a conversão para recuperar o mesmo inteiro.
+2. 1970-01-01T05:44:59.999999999+05:45 representa o mesmo instante. Copie uma unidade ou exporte as quatro na mesma linha CSV.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/unix-timestamp-converter/#example-before-epoch>)
+
+
+
 
 
 ## Experimente
@@ -48,7 +65,7 @@ Converta segundos e milissegundos para UTC, e converta um tempo ISO com um offse
 
 
 
-O tempo de Unix é decorrido desde 1970-01-01T00:00:00Z. Datas de suporte de conversões de 1900 a 9999 com precisão de milissegundos.
+O tempo Unix conta desde 1970-01-01T00:00:00Z e exclui segundos intercalares. Aceita datas UTC de 1900 a 9999 com deslocamento explícito e até nove casas decimais.
 
 
 
@@ -60,22 +77,35 @@ O tempo de Unix é decorrido desde 1970-01-01T00:00:00Z. Datas de suporte de con
 
 
 
-**Data da data**
+
+
+### Timestamp → Data
+
+
 
 - Timestamp Unix
-- Unidade · Segundos / Millisegundos
+- Unidade · Segundos / Milissegundos / Microssegundos / Nanossegundos
 
 
 
 
 
-**Data a hora**
-
-- ISO 8601 com deslocamento
 
 
+### Data → Timestamp
 
 
+
+- Data ISO 8601 com deslocamento UTC
+- Unidade · Segundos / Milissegundos / Microssegundos / Nanossegundos
+
+
+
+
+
+
+
+**Referências do método** [GNU · Seconds since the Epoch](<https://www.gnu.org/software/coreutils/manual/html_node/Seconds-since-the-Epoch.html>) · [IETF · RFC 3339](<https://www.rfc-editor.org/rfc/rfc3339>)
 
 
 

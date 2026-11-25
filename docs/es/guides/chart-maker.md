@@ -1,8 +1,8 @@
-# Creador de gráficos
+# Guía de uso · Creador de gráficos
 
 
 
-Paste CSV con un encabezado, una columna de etiquetas y serie numérica. Escoge barras o líneas, actualiza el gráfico y descarga SVG.
+Pega un CSV con encabezado, etiquetas en la primera columna y series numéricas. Elige barras o líneas y descarga el gráfico en SVG.
 
 
 
@@ -13,7 +13,7 @@ Paste CSV con un encabezado, una columna de etiquetas y serie numérica. Escoge 
 
 
 1. Introduzca un encabezado CSV. Ponga etiquetas de categoría en la primera columna y serie numérica en las columnas restantes.
-2. Elija barras o líneas y actualice la vista previa.
+2. Elige barras o líneas. El gráfico se actualiza al editar los datos.
 3. Descargue el gráfico como SVG.
 
 

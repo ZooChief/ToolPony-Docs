@@ -1,4 +1,4 @@
-# Common factor calculator
+# Common factor calculator guide
 
 
 

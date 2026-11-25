@@ -1,4 +1,4 @@
-# Calculadora de inclinação
+# Guia de uso · Calculadora de inclinação
 
 
 
@@ -74,7 +74,11 @@ Uma linha e uma distância determinam um ponto em cada lado do ponto de partida.
 
 
 
-**Dois pontos**
+
+
+### Dois pontos
+
+
 
 - X1
 - Y1
@@ -85,7 +89,11 @@ Uma linha e uma distância determinam um ponto em cada lado do ponto de partida.
 
 
 
-**Ponto e direcção**
+
+
+### Ponto e direcção
+
+
 
 - X1
 - Y1

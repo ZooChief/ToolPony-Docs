@@ -1,8 +1,8 @@
-# Gerador de números aleatórios
+# Guia de uso · Gerador de números aleatórios
 
 
 
-Gerar inteiros aleatórios em uma faixa inclusiva, com unicidade opcional e ordenação.
+Sorteie inteiros com os dois limites incluídos, com opções de evitar repetições e ordenar o resultado.
 
 
 
@@ -34,6 +34,22 @@ Cinco inteiros aleatórios de 1 a 10
 
 
 
+<a id="case-study"></a>
+
+
+
+## Sortear quatro bilhetes
+
+
+
+1. Numere 12 bilhetes de 101 a 112 e sorteie quatro sem repetição. Ordene os números para anunciá-los e desative a ordenação para voltar à ordem do sorteio. O CSV conserva a posição original.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/random-number-generator/#example-ticket-draw>)
+
+
+
 
 
 ## Experimente
@@ -51,6 +67,10 @@ Cinco inteiros aleatórios de 1 a 10
 Valores aleatórios vêm da Web Crypto. Amostragem de rejeição evita viés modulo. Gerar até 1.000 valores na faixa -1.000.000.000 a 1.000.000.000.
 
 
+
+
+
+**Referências do método** [W3C · Web Cryptography](<https://www.w3.org/TR/WebCryptoAPI/#Crypto-method-getRandomValues>)
 
 
 

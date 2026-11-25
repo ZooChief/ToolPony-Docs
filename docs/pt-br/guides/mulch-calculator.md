@@ -1,4 +1,4 @@
-# Calculadora de cobertura vegetal
+# Guia de uso · Calculadora de cobertura vegetal
 
 
 
@@ -79,7 +79,11 @@ $$
 
 
 
-**Área conhecida**
+
+
+### Área conhecida
+
+
 
 - Área
 - Unidade de área · cm² / m² / in² / ft² / yd² / acre / ha
@@ -95,7 +99,11 @@ $$
 
 
 
-**Vários retângulos**
+
+
+### Vários retângulos
+
+
 
 - Comprimento, largura, unidade por linha
 - Espessura

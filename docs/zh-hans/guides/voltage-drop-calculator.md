@@ -1,4 +1,4 @@
-# 电压降计算器
+# 电压降计算器使用指南
 
 
 
@@ -47,6 +47,54 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## 按电缆表计算
+
+
+
+1. 回路系数 1 mV/(A·m)、单程 50 m、电流 100 A，这段电缆压降 5 V。施耐德的算例再加上游的 10 V，整条路径合计 15 V。
+
+
+
+[运行示例](<https://toolpony.com/zh-hans/tools/voltage-drop-calculator/#example-cable-table>)
+
+
+
+
+
+## 三相并联回路
+
+
+
+每相两条相同线路均分 20 A。400 V 系统单程 100 m，R 为 1 Ω/km、X 为 0.5 Ω/km、滞后功率因数 0.8，压降为 1.91 V，负载端为 398.09 V。
+
+
+
+[运行示例](<https://toolpony.com/zh-hans/tools/voltage-drop-calculator/#example-parallel-cable>)
+
+
+
+
+
+
+
+## 压降超过电源电压
+
+
+
+24 V 直流、10 A、单程 1 km、每根线 5 Ω/km，往返压降为 100 V。按这个电流，模型无法给出负载端电压。
+
+
+
+[运行示例](<https://toolpony.com/zh-hans/tools/voltage-drop-calculator/#example-cable-limit>)
+
+
+
+
+
 
 
 ## 试一试
@@ -85,10 +133,16 @@ $$
 
 
 
-**已知电阻或阻抗**
 
+
+### 已知电阻或阻抗
+
+
+
+- 资料给出的量 · 导体阻抗 / 回路压降系数
 - 每单位长度的电阻或阻抗
 - 每长度单位 · Ω/km / Ω/m / mΩ/m / Ω/1000 ft / Ω/ft / mΩ/ft
+- 表列回路压降系数 · mV/(A·m)
 - 电压 · V
 - 电路类型 · DC / 单相交流 / 三相交流
 - 每相并联导体数
@@ -101,7 +155,11 @@ $$
 
 
 
-**按线规估算**
+
+
+### 按线规估算
+
+
 
 - 材料 · 铜 / 铝 / 银 / 金
 - 线规
@@ -117,7 +175,11 @@ $$
 
 
 
-**按截面积估算**
+
+
+### 按截面积估算
+
+
 
 - 材料 · 铜 / 铝 / 银 / 金
 - 截面积 · mm²
@@ -133,7 +195,11 @@ $$
 
 
 
-**电阻和电抗**
+
+
+### 电阻和电抗
+
+
 
 - 电阻
 - 每单位长度的电抗
@@ -150,6 +216,10 @@ $$
 
 
 
+
+
+
+**方法来源** [Schneider Electric · Voltage drop in steady load conditions](<https://www.electrical-installation.org/enwiki/Calculation_of_voltage_drop_in_steady_load_conditions>)
 
 
 

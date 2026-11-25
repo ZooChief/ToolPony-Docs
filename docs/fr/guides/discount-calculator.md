@@ -1,4 +1,4 @@
-# Calculatrice de remises
+# Guide pratique · Calculatrice de remises
 
 
 
@@ -68,7 +68,11 @@ Utilisez un mode inverse lorsque vous connaissez le prix de vente ou le montant 
 
 
 
-**Appliquer des rabais**
+
+
+### Appliquer des rabais
+
+
 
 - Prix d'origine
 - Pourcentages d'actualisation
@@ -79,7 +83,11 @@ Utilisez un mode inverse lorsque vous connaissez le prix de vente ou le montant 
 
 
 
-**Trouver le prix original**
+
+
+### Trouver le prix original
+
+
 
 - Prix après rabais
 - Type de rabais · Pourcentage / Montant fixe
@@ -89,7 +97,11 @@ Utilisez un mode inverse lorsque vous connaissez le prix de vente ou le montant 
 
 
 
-**Trouver le taux et l'épargne**
+
+
+### Trouver le taux et l'épargne
+
+
 
 - Prix d'origine
 - Montant connu · Prix réduit / Économies
@@ -99,7 +111,11 @@ Utilisez un mode inverse lorsque vous connaissez le prix de vente ou le montant 
 
 
 
-**Trouver les prix de l'épargne**
+
+
+### Trouver les prix de l'épargne
+
+
 
 - Montant économisé
 - Taux d’actualisation · %

@@ -1,4 +1,4 @@
-# Kiesrechner
+# Anleitung: Kiesrechner
 
 
 
@@ -79,7 +79,11 @@ $$
 
 
 
-**Bekannte Fläche**
+
+
+### Bekannte Fläche
+
+
 
 - Fläche
 - Flächeneinheit · cm² / m² / in² / ft² / yd² / acre / ha
@@ -98,7 +102,11 @@ $$
 
 
 
-**Rechteck**
+
+
+### Rechteck
+
+
 
 - Länge
 - Längeneinheit · mm / cm / m / in / ft / yd
@@ -119,7 +127,11 @@ $$
 
 
 
-**Kreis**
+
+
+### Kreis
+
+
 
 - Durchmesser
 - Durchmessereinheit · mm / cm / m / in / ft / yd

@@ -1,4 +1,4 @@
-# Calculadora de cascalho
+# Guia de uso · Calculadora de cascalho
 
 
 
@@ -79,7 +79,11 @@ $$
 
 
 
-**Área conhecida**
+
+
+### Área conhecida
+
+
 
 - Área
 - Unidade de área · cm² / m² / in² / ft² / yd² / acre / ha
@@ -98,7 +102,11 @@ $$
 
 
 
-**Retângulo**
+
+
+### Retângulo
+
+
 
 - Comprimento
 - Unidade de comprimento · mm / cm / m / em / ft / yd
@@ -119,7 +127,11 @@ $$
 
 
 
-**Círculo**
+
+
+### Círculo
+
+
 
 - Diâmetro
 - Unidade de diâmetro · mm / cm / m / em / ft / yd

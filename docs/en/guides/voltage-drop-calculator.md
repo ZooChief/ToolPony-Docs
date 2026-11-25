@@ -1,4 +1,4 @@
-# Voltage drop calculator
+# Voltage drop calculator guide
 
 
 
@@ -47,6 +47,54 @@ Estimate voltage drop in DC, single-phase or balanced three-phase wiring from ca
 
 
 
+<a id="case-study"></a>
+
+
+
+## Use a cable table
+
+
+
+1. At 1 mV/(A·m), a 50 m cable carrying 100 A drops 5 V. Schneider’s example adds a separate upstream drop of 10 V to obtain 15 V for the complete path.
+
+
+
+[Run example](<https://toolpony.com/en/tools/voltage-drop-calculator/#example-cable-table>)
+
+
+
+
+
+## Parallel three-phase run
+
+
+
+Two identical runs per phase share 20 A. Over 100 m at 400 V, R = 1 Ω/km, X = 0.5 Ω/km and a lagging power factor of 0.8 give a 1.91 V drop and 398.09 V at the load.
+
+
+
+[Run example](<https://toolpony.com/en/tools/voltage-drop-calculator/#example-parallel-cable>)
+
+
+
+
+
+
+
+## Drop exceeds supply
+
+
+
+A 24 V DC source, 10 A and a 1 km one-way run at 5 Ω/km imply a 100 V drop. At the assumed current this model cannot estimate the load voltage.
+
+
+
+[Run example](<https://toolpony.com/en/tools/voltage-drop-calculator/#example-cable-limit>)
+
+
+
+
+
 
 
 ## Try it
@@ -85,10 +133,16 @@ $$
 
 
 
-**Known resistance or impedance**
 
+
+### Known resistance or impedance
+
+
+
+- Published value · Conductor impedance / Circuit drop coefficient
 - Resistance or impedance per length
 - Unit per length · Ω/km / Ω/m / mΩ/m / Ω/1000 ft / Ω/ft / mΩ/ft
+- Tabulated circuit coefficient · mV/(A·m)
 - Voltage · V
 - Circuit · DC / Single-phase AC / Three-phase AC
 - Conductors per phase
@@ -101,7 +155,11 @@ $$
 
 
 
-**Estimate from wire gauge**
+
+
+### Estimate from wire gauge
+
+
 
 - Material · Copper / Aluminum / Silver / Gold
 - Wire size
@@ -117,7 +175,11 @@ $$
 
 
 
-**Estimate from area**
+
+
+### Estimate from area
+
+
 
 - Material · Copper / Aluminum / Silver / Gold
 - Cross-sectional area · mm²
@@ -133,7 +195,11 @@ $$
 
 
 
-**Resistance and reactance**
+
+
+### Resistance and reactance
+
+
 
 - Resistance
 - Reactance per length
@@ -150,6 +216,10 @@ $$
 
 
 
+
+
+
+**Method references** [Schneider Electric · Voltage drop in steady load conditions](<https://www.electrical-installation.org/enwiki/Calculation_of_voltage_drop_in_steady_load_conditions>)
 
 
 

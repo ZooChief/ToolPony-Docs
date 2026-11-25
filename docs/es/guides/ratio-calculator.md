@@ -1,8 +1,8 @@
-# Calculadora de razones
+# Guía de uso · Calculadora de razones
 
 
 
-Resolver un término perdido en una proporción, simplificar una relación o escalar ambos términos.
+Resuelve una proporción, escala fracciones y calcula márgenes o recortes manteniendo la relación de aspecto.
 
 
 
@@ -34,6 +34,38 @@ x=15
 
 
 
+<a id="case-study"></a>
+
+
+
+## Encajar una foto en un cartel
+
+
+
+1. En un marco de 1200 × 900, el ancho limita una foto de 1920 × 1080 a un factor de 5/8. La imagen queda en 1200 × 675. Sobran 225 píxeles en vertical, 112,5 a cada lado si se centra.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/ratio-calculator/#example-fit-poster>)
+
+
+
+
+
+## Cubrir el mismo marco
+
+
+
+Para llenar el cartel se usa la altura. Un factor de 5/6 da 1600 × 900. Al centrar la imagen se recortan 200 píxeles a cada lado.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/ratio-calculator/#example-fill-poster>)
+
+
+
+
+
 
 
 ## Pruébalo
@@ -48,7 +80,7 @@ x=15
 
 
 
-A:B = C:D implica A×D = B×C, con denominadores no cero. La simplificación acepta cantidades decimales y fraccionadas.
+En A:B = C:D, con denominadores distintos de cero, A × D = B × C. Encajar usa el menor factor entre ancho y alto. Cubrir usa el mayor. El margen o recorte es el total por eje.
 
 
 
@@ -60,7 +92,11 @@ A:B = C:D implica A×D = B×C, con denominadores no cero. La simplificación ace
 
 
 
-**Resolver una proporción**
+
+
+### Resolver una proporción
+
+
 
 - A
 - B
@@ -71,7 +107,11 @@ A:B = C:D implica A×D = B×C, con denominadores no cero. La simplificación ace
 
 
 
-**Simplificación o escala**
+
+
+### Simplificación o escala
+
+
 
 - Primer mandato
 - Segundo mandato
@@ -81,16 +121,27 @@ A:B = C:D implica A×D = B×C, con denominadores no cero. La simplificación ace
 
 
 
-**Agrandar o reducir una relación**
+
+
+### Agrandar o reducir una relación
+
+
 
 - Primer mandato
 - Segundo mandato
+- Redimensionar por · Factor / Encajar / Cubrir y recortar
 - Dirección · Reducir / Agrandar
 - Factor
+- Ancho del marco
+- Alto del marco
 
 
 
 
+
+
+
+**Fuentes del método** [W3C · Object fitting](<https://www.w3.org/TR/css-images-3/#the-object-fit>)
 
 
 

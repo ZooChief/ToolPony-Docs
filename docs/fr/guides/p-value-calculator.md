@@ -1,4 +1,4 @@
-# Calculateur de p-valeur de la loi normale
+# Guide pratique · Calculateur de p-valeur de la loi normale
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Du score Z aux probabilités**
+
+
+### Du score Z aux probabilités
+
+
 
 - Score Z
 
@@ -74,7 +78,11 @@ $$
 
 
 
-**De la probabilité au score Z**
+
+
+### De la probabilité au score Z
+
+
 
 - Région de probabilité · Probabilité à gauche / Probabilité à droite / Du centre à |z| / Entre −|z| et |z| / Probabilité bilatérale
 - Probabilité

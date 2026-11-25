@@ -1,4 +1,4 @@
-# Halbwertszeit-Rechner
+# Anleitung: Halbwertszeit-Rechner
 
 
 
@@ -70,7 +70,11 @@ Wähle zuerst die gesuchte Größe und verwende in den anderen drei Feldern dies
 
 
 
-**Halbwertszeit finden**
+
+
+### Halbwertszeit finden
+
+
 
 - Verbleibende Menge
 - Ursprüngliche Menge
@@ -80,7 +84,11 @@ Wähle zuerst die gesuchte Größe und verwende in den anderen drei Feldern dies
 
 
 
-**Restmenge finden**
+
+
+### Restmenge finden
+
+
 
 - Ursprüngliche Menge
 - Verstrichene Zeit
@@ -90,7 +98,11 @@ Wähle zuerst die gesuchte Größe und verwende in den anderen drei Feldern dies
 
 
 
-**Anfangsmenge finden**
+
+
+### Anfangsmenge finden
+
+
 
 - Verbleibende Menge
 - Verstrichene Zeit
@@ -100,7 +112,11 @@ Wähle zuerst die gesuchte Größe und verwende in den anderen drei Feldern dies
 
 
 
-**Fällige Zeit finden**
+
+
+### Benötigte Zeit berechnen
+
+
 
 - Verbleibende Menge
 - Ursprüngliche Menge
@@ -110,7 +126,11 @@ Wähle zuerst die gesuchte Größe und verwende in den anderen drei Feldern dies
 
 
 
-**Umrechnungs-Zerfallsmaßnahmen**
+
+
+### Umrechnungs-Zerfallsmaßnahmen
+
+
 
 - Bekannte Messungen · Halbwertszeit / Mittlere Lebensdauer / Abnahmekonstante
 - Wert

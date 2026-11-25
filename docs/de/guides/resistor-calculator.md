@@ -1,4 +1,4 @@
-# Widerstands- und Farbcode-Rechner
+# Anleitung: Widerstands- und Farbcode-Rechner
 
 
 
@@ -85,7 +85,11 @@ $$
 
 
 
-**4 Ringe**
+
+
+### 4 Ringe
+
+
 
 - Erste Ziffer
 - Zweite Ziffer
@@ -96,7 +100,11 @@ $$
 
 
 
-**3 Ringe**
+
+
+### 3 Ringe
+
+
 
 - Erste Ziffer
 - Zweite Ziffer
@@ -106,7 +114,11 @@ $$
 
 
 
-**5 Ringe**
+
+
+### 5 Ringe
+
+
 
 - Erste Ziffer
 - Zweite Ziffer
@@ -118,7 +130,11 @@ $$
 
 
 
-**6 Ringe**
+
+
+### 6 Ringe
+
+
 
 - Erste Ziffer
 - Zweite Ziffer
@@ -131,7 +147,11 @@ $$
 
 
 
-**Parallelschaltung**
+
+
+### Parallelschaltung
+
+
 
 - Widerstände in Ω
 
@@ -139,7 +159,11 @@ $$
 
 
 
-**Reihenschaltung**
+
+
+### Reihenschaltung
+
+
 
 - Widerstände in Ω
 
@@ -147,7 +171,11 @@ $$
 
 
 
-**Runder Leiter**
+
+
+### Runder Leiter
+
+
 
 - Länge
 - Längeneinheit · mm / cm / m / km / in / ft / yd / mi

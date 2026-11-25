@@ -1,4 +1,4 @@
-# Compound interest calculator
+# Compound interest calculator guide
 
 
 
@@ -34,11 +34,23 @@ Project a balance with recurring contributions and inflation, or convert between
 
 
 
+<a id="case-study"></a>
+
+
+
+## Compare deposits over 30 months
+
+
+
+1. Start with 10,000 and add 100 each month for two years and six months. At 6% nominal interest compounded monthly, end-of-month contributions give 14,842.00, including 13,000 contributed. Moving each deposit to the start of the month gives 14,858.14. At 3% annual inflation, the first balance has purchasing power of 13,784.77 today.
+
+
+
 
 
 ## Try it
 
-[Open full tool · Compound interest calculator](<https://toolpony.com/en/tools/compound-interest-calculator/>)
+[Open full tool · Compound interest calculator](<https://toolpony.com/en/tools/compound-interest-calculator/#example-30-months>)
 
 
 
@@ -66,11 +78,16 @@ $$
 
 
 
-**Future balance**
+
+
+### Future balance
+
+
 
 - Principal
 - Annual rate · %
 - Years
+- Months
 - Compounding
 - Periodic contribution
 - Contribution frequency · Yearly / Semiannual / Quarterly / Monthly / Twice a month / Biweekly / Weekly / Daily
@@ -81,7 +98,11 @@ $$
 
 
 
-**Equivalent interest rate**
+
+
+### Equivalent interest rate
+
+
 
 - Annual rate · %
 - Original compounding

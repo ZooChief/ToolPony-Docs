@@ -1,4 +1,4 @@
-# 가상 주소 생성기
+# 가상 주소 생성기 사용 가이드
 
 
 
@@ -51,6 +51,23 @@ Deutschland
 
 
 
+<a id="case-study"></a>
+
+
+
+## 캐나다 호수 포함 주소 확인
+
+
+
+1. 온타리오와 시드 label-review를 선택해 호수는 포함하고 연락처는 뺀 테스트 주소 두 개를 만듭니다. 같은 설정이면 같은 결과가 나옵니다.
+2. 텍스트에서는 호수가 번지 앞에 오고 둘을 하이픈으로 연결합니다. 도시 줄에서 ON과 우편번호 사이는 공백 두 칸입니다. JSON에는 각 요소가 별도 필드로도 저장됩니다.
+
+
+
+[예제 실행](<https://toolpony.com/ko/tools/sample-address-generator/#example-canadian-label>)
+
+
+
 
 
 ## 직접 사용해 보기
@@ -68,6 +85,10 @@ Deutschland
 한 번에 최대 100개를 생성합니다. 도시와 우편번호는 형식 예제이며 도로명과 수취인은 합성 데이터입니다. 전화번호는 예약된 예시 번호나 마스크를 사용합니다. 양식과 소프트웨어 테스트용입니다.
 
 
+
+
+
+**계산 및 처리 방식의 출처** [USPS · Publication 28, §213](<https://pe.usps.com/text/pub28/28c2_003.htm>) · [Canada Post · Civic address](<https://www.canadapost-postescanada.ca/cpc/en/support/articles/addressing-guidelines/civic-address.page>)
 
 
 

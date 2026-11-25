@@ -1,4 +1,4 @@
-# Calculadora de liquidación hipotecaria
+# Guía de uso · Calculadora de liquidación hipotecaria
 
 
 
@@ -93,7 +93,11 @@ $$
 
 
 
-**Préstamo original y plazo restante**
+
+
+### Préstamo original y plazo restante
+
+
 
 - Importe original
 - Años del plazo original
@@ -113,7 +117,11 @@ $$
 
 
 
-**Saldo actual y cuota**
+
+
+### Saldo actual y cuota
+
+
 
 - Principal pendiente
 - Cuota mensual
@@ -129,6 +137,10 @@ $$
 
 
 
+
+
+
+**Fuentes del método** [CFPB · Mortgage amortization](<https://www.consumerfinance.gov/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/>)
 
 
 

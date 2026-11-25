@@ -1,4 +1,4 @@
-# Tile calculator
+# Tile calculator guide
 
 
 
@@ -88,7 +88,11 @@ The coverage model uses an effective length and width for each tile. Allowance c
 
 
 
-**Known area**
+
+
+### Known area
+
+
 
 - Tile length
 - Tile length unit
@@ -107,7 +111,11 @@ The coverage model uses an effective length and width for each tile. Allowance c
 
 
 
-**Rectangular room**
+
+
+### Rectangular room
+
+
 
 - Tile length
 - Tile length unit

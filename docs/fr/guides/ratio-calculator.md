@@ -1,8 +1,8 @@
-# Calculatrice de rapports
+# Guide pratique · Calculatrice de rapports
 
 
 
-Résolvez un terme manquant dans une proportion, simplifiez un ratio, ou échellez les deux termes.
+Résolvez une proportion, ajustez des fractions et calculez les marges ou le rognage d’une image à proportions fixes.
 
 
 
@@ -34,6 +34,38 @@ x=15
 
 
 
+<a id="case-study"></a>
+
+
+
+## Insérer une image dans une affiche
+
+
+
+1. Dans un cadre de 1200 × 900, la largeur impose un facteur de 5/8 à une image de 1920 × 1080. Elle mesure 1200 × 675. Il reste 225 pixels verticalement, soit 112,5 en haut et en bas si elle est centrée.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/ratio-calculator/#example-fit-poster>)
+
+
+
+
+
+## Remplir le même cadre
+
+
+
+Pour remplir l’affiche, ajustez la hauteur. Un facteur de 5/6 donne 1600 × 900. Si l’image est centrée, on rogne 200 pixels de chaque côté.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/ratio-calculator/#example-fill-poster>)
+
+
+
+
+
 
 
 ## Essayer
@@ -48,7 +80,7 @@ x=15
 
 
 
-A:B = C:D implique A×D = B×C, avec des dénominateurs non nuls. La simplification accepte les quantités décimales et fractionnelles.
+Pour A:B = C:D à dénominateurs non nuls, A × D = B × C. Contenir utilise le plus petit rapport des dimensions, remplir le plus grand. Les marges et les coupes sont données au total sur chaque axe.
 
 
 
@@ -60,7 +92,11 @@ A:B = C:D implique A×D = B×C, avec des dénominateurs non nuls. La simplificat
 
 
 
-**Résoudre une proportion**
+
+
+### Résoudre une proportion
+
+
 
 - A
 - B
@@ -71,7 +107,11 @@ A:B = C:D implique A×D = B×C, avec des dénominateurs non nuls. La simplificat
 
 
 
-**Simplification ou échelle**
+
+
+### Simplification ou échelle
+
+
 
 - Premier terme
 - Deuxième mandat
@@ -81,16 +121,27 @@ A:B = C:D implique A×D = B×C, avec des dénominateurs non nuls. La simplificat
 
 
 
-**Élargir ou réduire un rapport**
+
+
+### Élargir ou réduire un rapport
+
+
 
 - Premier terme
 - Deuxième mandat
+- Redimensionner selon · Facteur / Contenir / Remplir et rogner
 - Direction · Réduire / agrandir
 - Facteur
+- Largeur du cadre
+- Hauteur du cadre
 
 
 
 
+
+
+
+**Références de la méthode** [W3C · Object fitting](<https://www.w3.org/TR/css-images-3/#the-object-fit>)
 
 
 

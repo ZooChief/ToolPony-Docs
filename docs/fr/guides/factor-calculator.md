@@ -1,4 +1,4 @@
-# Calculatrice de diviseurs
+# Guide pratique · Calculatrice de diviseurs
 
 
 

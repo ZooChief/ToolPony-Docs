@@ -1,4 +1,4 @@
-# Auto loan calculator
+# Auto loan calculator guide
 
 
 
@@ -83,7 +83,11 @@ V is vehicle price, D down payment, T trade-in value, O outstanding trade-in deb
 
 
 
-**Find the monthly payment**
+
+
+### Find the monthly payment
+
+
 
 - Vehicle price
 - Months
@@ -103,7 +107,11 @@ V is vehicle price, D down payment, T trade-in value, O outstanding trade-in deb
 
 
 
-**Find the vehicle price**
+
+
+### Find the vehicle price
+
+
 
 - Monthly payment
 - Months

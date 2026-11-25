@@ -1,8 +1,8 @@
-# 颜色对比度检查
+# 颜色对比度检查使用指南
 
 
 
-比较两个不透明颜色，并检查是否达到 WCAG 2.2 对比度阈值。
+检查文字和界面组件在实色或半透明图层上的对比度，并试用达到 WCAG 阈值的文字色。
 
 
 
@@ -45,6 +45,11 @@
 1. 试算白底上的 \#777777，对比度约为 4.48:1。即使保留一位小数看起来是 4.5，按未经舍入的比值判断，普通大小的正文仍未达到 WCAG AA。
 2. 保持白色背景，改试 \#767676，对比度约为 4.54:1，普通正文达到 AA。两组颜色都达到大号文字的 3:1 阈值。
 3. 核对设计稿中实际渲染的文字色和背景色。如果文字叠在图片或半透明层上，请取背景中对比最弱处的最终颜色进行检查。工具给出的是这一组实色的结果。
+4. 试用白底上的 \#00000080，合成后文字色是 \#7F7F7F，对比度约为 4.00∶1。应用建议的 \#767676，普通文字对比度升至 4.54∶1。
+
+
+
+[运行示例](<https://toolpony.com/zh-hans/tools/contrast-checker/#example-translucent-text>)
 
 
 
@@ -68,7 +73,7 @@
 
 
 
-**方法来源** [W3C · WCAG 2.2 (1.4.3, AA)](<https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html>) · [W3C · WCAG 2.2 (1.4.6, AAA)](<https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced.html>)
+**方法来源** [W3C · WCAG 2.2 (1.4.3, AA)](<https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html>) · [W3C · WCAG 2.2 (1.4.6, AAA)](<https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced.html>) · [W3C · Non-text contrast](<https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html>) · [W3C · Source-over compositing](<https://www.w3.org/TR/compositing-1/#simplealphacompositing>)
 
 
 

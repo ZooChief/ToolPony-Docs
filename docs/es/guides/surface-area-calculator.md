@@ -1,8 +1,8 @@
-# Calculadora de área superficial
+# Guía de uso · Calculadora de área superficial
 
 
 
-Calcula el área total de un sólido, incluidas sus bases. En figuras como el cilindro puedes consultar por separado el área lateral y el área de las bases.
+Calcula la superficie de un sólido. En depósitos, tubos y otros sólidos con bases planas, elige qué caras cubrir y compara sus áreas.
 
 
 
@@ -34,6 +34,23 @@ Esfera con radio 2 m
 
 
 
+<a id="case-study"></a>
+
+
+
+## Revestir un depósito abierto
+
+
+
+1. Introduce las medidas interiores de 120 cm por 0,8 m y una profundidad de 450 mm. Elige la superficie lateral y una base para cubrir las cuatro paredes y el fondo.
+2. Las paredes suman 1,80 m² y el fondo 0,96 m², para un total de 2,76 m² sin juntas ni desperdicio. Todas las caras incluyen la tapa y suman 3,72 m².
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/surface-area-calculator/#example-open-tank>)
+
+
+
 
 
 ## Pruébalo
@@ -48,7 +65,7 @@ Esfera con radio 2 m
 
 
 
-El área total de superficie incluye las caras finales. Cuando sea aplicable, las áreas laterales y de la cara final se enumeran por separado.
+Una superficie cerrada incluye todas sus bases. El área de cada base se calcula a partir de sus dimensiones. La superficie del elipsoide se evalúa con una integral elíptica simétrica.
 
 
 
@@ -66,7 +83,11 @@ $$
 
 
 
-**Esfera**
+
+
+### Esfera
+
+
 
 - Radio
 - Unidad radiactiva
@@ -76,41 +97,60 @@ $$
 
 
 
-**Cono**
+
+
+### Cono
+
+
 
 - Radio
 - Unidad radiactiva
 - Altura perpendicular
 - Unidad de altura perpendicular
+- Caras que se cubren · Todas las caras / Solo superficie lateral
 - Unidad de área
 
 
 
 
 
-**Cubo**
+
+
+### Cubo
+
+
 
 - Longitud del borde
 - Unidad de longitud de borde
+- Caras que se cubren · Todas las caras / Solo superficie lateral / Lateral y una base
 - Unidad de área
 
 
 
 
 
-**Cilindro**
+
+
+### Cilindro
+
+
 
 - Radio
 - Unidad radiactiva
 - Altura perpendicular
 - Unidad de altura perpendicular
+- Caras que se cubren · Todas las caras / Solo superficie lateral / Lateral y una base
 - Unidad de área
 
 
 
 
 
-**Tanque rectangular**
+
+
+### Tanque rectangular
+
+
 
 - Longitud
 - Unidad de longitud
@@ -118,13 +158,18 @@ $$
 - Unidad de ancho
 - Altura perpendicular
 - Unidad de altura perpendicular
+- Caras que se cubren · Todas las caras / Solo superficie lateral / Lateral y una base
 - Unidad de área
 
 
 
 
 
-**Cápsula**
+
+
+### Cápsula
+
+
 
 - Radio
 - Unidad radiactiva
@@ -136,7 +181,11 @@ $$
 
 
 
-**Capa esférica**
+
+
+### Capa esférica
+
+
 
 - Radio de la esfera
 - Unidad del radio de la esfera
@@ -145,13 +194,18 @@ $$
 - Altura de la tapa
 - Unidad de altura de capa
 - Cap con ambos radios conocidos · Capa más pequeña / Gorro más grande
+- Caras que se cubren · Todas las caras / Solo superficie lateral
 - Unidad de área
 
 
 
 
 
-**frusto cónico**
+
+
+### frusto cónico
+
+
 
 - Radio de primer extremo
 - Unidad de radio de primer extremo
@@ -159,13 +213,18 @@ $$
 - Segunda unidad de radio de extremo
 - Altura perpendicular
 - Unidad de altura perpendicular
+- Caras que se cubren · Todas las caras / Solo superficie lateral / Lateral y primera base / Lateral y segunda base
 - Unidad de área
 
 
 
 
 
-**Elipsoide**
+
+
+### Elipsoide
+
+
 
 - Primer semi-eje
 - Primera unidad semi-eje
@@ -179,19 +238,28 @@ $$
 
 
 
-**pirámide cuadrada**
+
+
+### pirámide cuadrada
+
+
 
 - Longitud del borde
 - Unidad de longitud de borde
 - Altura perpendicular
 - Unidad de altura perpendicular
+- Caras que se cubren · Todas las caras / Solo superficie lateral
 - Unidad de área
 
 
 
 
 
-**Tubo hueco**
+
+
+### Tubo hueco
+
+
 
 - Diámetro exterior
 - Unidad de diámetro exterior
@@ -199,23 +267,33 @@ $$
 - Unidad de diámetro interior
 - Longitud
 - Unidad de longitud
+- Caras que se cubren · Todas las caras / Solo superficie lateral / Lateral y una base
 - Unidad de área
 
 
 
 
 
-**Hemisferio**
+
+
+### Hemisferio
+
+
 
 - Radio
 - Unidad radiactiva
+- Caras que se cubren · Todas las caras / Solo superficie lateral
 - Unidad de área
 
 
 
 
 
-**Toro anular**
+
+
+### Toro anular
+
+
 
 - Radius de Centerline
 - Unidad de radio central
@@ -226,6 +304,10 @@ $$
 
 
 
+
+
+
+**Fuentes del método** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST DLMF · Triaxial ellipsoids](<https://dlmf.nist.gov/19.33>)
 
 
 

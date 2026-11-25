@@ -1,8 +1,8 @@
-# Probability calculator
+# Probability calculator guide
 
 
 
-Calculate event probabilities, recover independent probabilities from two known values, or use a normal interval.
+Work with event probabilities or a two-way table of counts. Compare conditional probabilities, recover independent events, and calculate repeated trials or normal ranges.
 
 
 
@@ -34,6 +34,22 @@ At least one: 0.6964
 
 
 
+<a id="case-study"></a>
+
+
+
+## Attendance at two workshop sessions
+
+
+
+1. Of 50 people, 18 attended both sessions, 12 only the morning (AM), 6 only the afternoon (PM), and 14 neither. Among the 24 afternoon participants, 18 also attended the morning: 75%. Among the 30 morning participants, 18 returned: 60%.
+
+
+
+[Run example](<https://toolpony.com/en/tools/probability-calculator/#example-workshop-attendance>)
+
+
+
 
 
 ## Try it
@@ -48,7 +64,7 @@ At least one: 0.6964
 
 
 
-Independent events satisfy P(A∩B)=P(A)P(B). For dependent events, enter the intersection directly. Repeated trials multiply their probabilities, and the probability of at least one success uses the complement.
+P(A ∪ B) = P(A) + P(B) − P(A ∩ B). Among the observations in B, the share also in A is P(A ∩ B) / P(B). For independent events the intersection is the product of the marginals.
 
 
 
@@ -72,7 +88,11 @@ $$
 
 
 
-**Two independent events**
+
+
+### Two independent events
+
+
 
 - Probability of A
 - Probability of B
@@ -81,17 +101,32 @@ $$
 
 
 
-**Known intersection**
 
+
+### Known intersection
+
+
+
+- Enter · Probabilities / Observed counts
 - Probability of A
 - Probability of B
 - Both events
+- Event A name
+- Event B name
+- A ∩ B
+- A ∩ ¬B
+- ¬A ∩ B
+- ¬A ∩ ¬B
 
 
 
 
 
-**Recover independent events**
+
+
+### Recover independent events
+
+
 
 - First known quantity · Probability of A / Probability of B / Not A / Not B / Both events / At least one event / Exactly one event / Neither event
 - First probability
@@ -102,7 +137,11 @@ $$
 
 
 
-**Repeated independent trials**
+
+
+### Repeated independent trials
+
+
 
 - Probability of A
 - Trials of A
@@ -113,7 +152,11 @@ $$
 
 
 
-**Normal distribution interval**
+
+
+### Normal distribution interval
+
+
 
 - Mean
 - Standard deviation
@@ -123,6 +166,10 @@ $$
 
 
 
+
+
+
+**Method references** [OpenStax · Contingency Tables](<https://openstax.org/books/introductory-statistics-2e/pages/3-4-contingency-tables>)
 
 
 

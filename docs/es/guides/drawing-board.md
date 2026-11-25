@@ -1,4 +1,4 @@
-# Pizarra de dibujo
+# Guía de uso · Pizarra de dibujo
 
 
 

@@ -1,4 +1,4 @@
-# Calculadora de juros simples
+# Guia de uso · Calculadora de juros simples
 
 
 
@@ -74,7 +74,11 @@ Use os modos inversos quando o saldo final for conhecido. Uma taxa zero ou termo
 
 
 
-**Saldo de juros e saldos**
+
+
+### Saldo de juros e saldos
+
+
 
 - Principal
 - Taxa de juro · %
@@ -86,7 +90,11 @@ Use os modos inversos quando o saldo final for conhecido. Uma taxa zero ou termo
 
 
 
-**Procurar o Principal**
+
+
+### Procurar o Principal
+
+
 
 - Saldo final
 - Taxa de juro · %
@@ -98,7 +106,11 @@ Use os modos inversos quando o saldo final for conhecido. Uma taxa zero ou termo
 
 
 
-**Procurar taxa de juro**
+
+
+### Procurar taxa de juro
+
+
 
 - Principal
 - Saldo final
@@ -110,7 +122,11 @@ Use os modos inversos quando o saldo final for conhecido. Uma taxa zero ou termo
 
 
 
-**Procurar o termo**
+
+
+### Procurar o termo
+
+
 
 - Principal
 - Saldo final

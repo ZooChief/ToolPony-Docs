@@ -1,4 +1,4 @@
-# Steigungsrechner
+# Anleitung: Steigungsrechner
 
 
 
@@ -74,7 +74,11 @@ Eine Linie und eine Entfernung bestimmen einen Punkt auf jeder Seite des Startpu
 
 
 
-**Zwei Punkte**
+
+
+### Zwei Punkte
+
+
 
 - X1
 - Y1
@@ -85,7 +89,11 @@ Eine Linie und eine Entfernung bestimmen einen Punkt auf jeder Seite des Startpu
 
 
 
-**Punkt und Richtung**
+
+
+### Punkt und Richtung
+
+
 
 - X1
 - Y1

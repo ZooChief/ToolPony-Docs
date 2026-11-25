@@ -1,4 +1,4 @@
-# Calculatrice statistique
+# Guide pratique · Calculatrice statistique
 
 
 
@@ -76,7 +76,11 @@ Utiliser l'écart-type d'échantillon pour un sous-ensemble de population et l'�
 
 
 
-**Résumé des données**
+
+
+### Résumé des données
+
+
 
 - Valeurs
 
@@ -84,7 +88,11 @@ Utiliser l'écart-type d'échantillon pour un sous-ensemble de population et l'�
 
 
 
-**Écart type de l'échantillon**
+
+
+### Écart type de l'échantillon
+
+
 
 - Valeurs
 
@@ -92,7 +100,11 @@ Utiliser l'écart-type d'échantillon pour un sous-ensemble de population et l'�
 
 
 
-**Écart-type de population**
+
+
+### Écart-type de population
+
+
 
 - Valeurs
 

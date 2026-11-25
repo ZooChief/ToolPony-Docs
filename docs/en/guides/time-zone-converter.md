@@ -1,4 +1,4 @@
-# Time zone converter
+# Time zone converter guide
 
 
 
@@ -34,6 +34,54 @@ Convert a date and time between IANA zones or fixed UTC offsets.
 
 
 
+<a id="case-study"></a>
+
+
+
+## A meeting in the repeated hour
+
+
+
+1. New York has two 01:30s on November 1, 2026. Shanghai sees the first at 13:30 and the second at 14:30. Choose the occurrence on the invitation, then copy its UTC instant. Swapping the cities keeps that meeting time.
+
+
+
+[Run example](<https://toolpony.com/en/tools/time-zone-converter/#example-repeated-meeting>)
+
+
+
+
+
+## A November call in Havana
+
+
+
+Cuba kept UTC−04:00 in November 2026. A call at 09:00 in Havana on November 23 is at 13:00 UTC. Use America/Havana for a local appointment so the rules for that date are applied.
+
+
+
+[Run example](<https://toolpony.com/en/tools/time-zone-converter/#example-havana-clock>)
+
+
+
+
+
+
+
+## When the clock skips 30 minutes
+
+
+
+On October 4, 2026, Lord Howe Island jumps from 01:59:59 to 02:30:00. Try entering 02:15. To keep the same position within the half-hour gap, choose 01:45 before the jump or 02:45 after it. The latter is 15:45 UTC on October 3.
+
+
+
+[Run example](<https://toolpony.com/en/tools/time-zone-converter/#example-half-hour-change>)
+
+
+
+
+
 
 
 ## Try it
@@ -48,7 +96,7 @@ Convert a date and time between IANA zones or fixed UTC offsets.
 
 
 
-IANA zones use the browser’s time zone rules. A repeated hour has two possible instants; a skipped hour has none. A fixed UTC offset stays constant throughout the year.
+Local times use IANA rules for the selected date. A repeated time has two UTC instants. A skipped time falls in the gap between clock settings. A fixed offset is constant.
 
 
 
@@ -66,7 +114,11 @@ $$
 
 
 
-**IANA**
+
+
+### IANA
+
+
 
 - Date
 - Local time
@@ -78,7 +130,11 @@ $$
 
 
 
-**Fixed UTC offsets**
+
+
+### Fixed UTC offsets
+
+
 
 - Date
 - Local time

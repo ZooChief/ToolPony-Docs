@@ -1,8 +1,8 @@
-# Calculadora de área superficial
+# Guia de uso · Calculadora de área superficial
 
 
 
-Calcule a área total da superfície de um sólido, incluindo as bases. Em formas como o cilindro, consulte separadamente a área lateral e a área das bases.
+Calcule a área superficial de um sólido. Para tanques, tubos e outros sólidos com bases planas, escolha as faces a cobrir e compare as áreas.
 
 
 
@@ -34,6 +34,23 @@ Esfera com raio de 2 m
 
 
 
+<a id="case-study"></a>
+
+
+
+## Revestir um tanque aberto
+
+
+
+1. Informe as medidas internas de 120 cm por 0,8 m e profundidade de 450 mm. Escolha a lateral e uma base para cobrir as quatro paredes e o fundo.
+2. As paredes somam 1,80 m² e o fundo 0,96 m². São 2,76 m² antes de emendas e perdas. Todas as faces incluem a tampa e somam 3,72 m².
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/surface-area-calculator/#example-open-tank>)
+
+
+
 
 
 ## Experimente
@@ -48,7 +65,7 @@ Esfera com raio de 2 m
 
 
 
-A área total da superfície inclui faces laterais e faces laterais. A área elipsóide é aproximada.
+Uma superfície fechada inclui todas as bases. A área de cada base é calculada pelas suas dimensões. A superfície do elipsoide é avaliada numericamente com uma integral elíptica simétrica.
 
 
 
@@ -66,7 +83,11 @@ $$
 
 
 
-**Esfera**
+
+
+### Esfera
+
+
 
 - Raio
 - Unidade de raios
@@ -76,41 +97,60 @@ $$
 
 
 
-**Cone**
+
+
+### Cone
+
+
 
 - Raio
 - Unidade de raios
 - Altura perpendicular
 - Unidade de altura perpendicular
+- Faces a cobrir · Todas as faces / Só a superfície lateral
 - Unidade de área
 
 
 
 
 
-**Cubo**
+
+
+### Cubo
+
+
 
 - Comprimento da borda
 - Unidade de comprimento da borda
+- Faces a cobrir · Todas as faces / Só a superfície lateral / Lateral e uma base
 - Unidade de área
 
 
 
 
 
-**Cilindro**
+
+
+### Cilindro
+
+
 
 - Raio
 - Unidade de raios
 - Altura perpendicular
 - Unidade de altura perpendicular
+- Faces a cobrir · Todas as faces / Só a superfície lateral / Lateral e uma base
 - Unidade de área
 
 
 
 
 
-**Tanque retangular**
+
+
+### Tanque retangular
+
+
 
 - Comprimento
 - Unidade de comprimento
@@ -118,13 +158,18 @@ $$
 - Unidade da largura
 - Altura perpendicular
 - Unidade de altura perpendicular
+- Faces a cobrir · Todas as faces / Só a superfície lateral / Lateral e uma base
 - Unidade de área
 
 
 
 
 
-**Cápsula**
+
+
+### Cápsula
+
+
 
 - Raio
 - Unidade de raios
@@ -136,7 +181,11 @@ $$
 
 
 
-**Tampa esférica**
+
+
+### Tampa esférica
+
+
 
 - Raio da esfera
 - Unidade do raio da esfera
@@ -145,13 +194,18 @@ $$
 - Altura da tampa
 - Unidade de altura da tampa
 - Tampa com ambos os raios conhecidos · Tampa mais pequena / Tampa maior
+- Faces a cobrir · Todas as faces / Só a superfície lateral
 - Unidade de área
 
 
 
 
 
-**Frusto cónico**
+
+
+### Frusto cónico
+
+
 
 - Raio da primeira extremidade
 - Unidade de raio de primeira extremidade
@@ -159,13 +213,18 @@ $$
 - Unidade de raio de segunda extremidade
 - Altura perpendicular
 - Unidade de altura perpendicular
+- Faces a cobrir · Todas as faces / Só a superfície lateral / Lateral e primeira base / Lateral e segunda base
 - Unidade de área
 
 
 
 
 
-**Elipsoide**
+
+
+### Elipsoide
+
+
 
 - Primeiro semieixo
 - Primeira unidade de semieixo
@@ -179,19 +238,28 @@ $$
 
 
 
-**Pirâmide quadrada**
+
+
+### Pirâmide quadrada
+
+
 
 - Comprimento da borda
 - Unidade de comprimento da borda
 - Altura perpendicular
 - Unidade de altura perpendicular
+- Faces a cobrir · Todas as faces / Só a superfície lateral
 - Unidade de área
 
 
 
 
 
-**Tubo oco**
+
+
+### Tubo oco
+
+
 
 - Diâmetro exterior
 - Unidade de diâmetro exterior
@@ -199,23 +267,33 @@ $$
 - Unidade de diâmetro interior
 - Comprimento
 - Unidade de comprimento
+- Faces a cobrir · Todas as faces / Só a superfície lateral / Lateral e uma base
 - Unidade de área
 
 
 
 
 
-**Hemisfério**
+
+
+### Hemisfério
+
+
 
 - Raio
 - Unidade de raios
+- Faces a cobrir · Todas as faces / Só a superfície lateral
 - Unidade de área
 
 
 
 
 
-**Toro anular**
+
+
+### Toro anular
+
+
 
 - Raio da linha central
 - Unidade de raio central
@@ -226,6 +304,10 @@ $$
 
 
 
+
+
+
+**Referências do método** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST DLMF · Triaxial ellipsoids](<https://dlmf.nist.gov/19.33>)
 
 
 

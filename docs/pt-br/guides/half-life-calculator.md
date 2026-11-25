@@ -1,4 +1,4 @@
-# Calculadora de meia-vida
+# Guia de uso · Calculadora de meia-vida
 
 
 
@@ -70,7 +70,11 @@ Escolha o desconhecido primeiro. Use unidades de tempo consistentes em todos os 
 
 
 
-**Procurar meia- vida**
+
+
+### Procurar meia- vida
+
+
 
 - Quantidade restante
 - Quantidade inicial
@@ -80,7 +84,11 @@ Escolha o desconhecido primeiro. Use unidades de tempo consistentes em todos os 
 
 
 
-**Procurar a quantidade restante**
+
+
+### Procurar a quantidade restante
+
+
 
 - Quantidade inicial
 - Tempo decorrido
@@ -90,7 +98,11 @@ Escolha o desconhecido primeiro. Use unidades de tempo consistentes em todos os 
 
 
 
-**Procurar a quantidade inicial**
+
+
+### Procurar a quantidade inicial
+
+
 
 - Quantidade restante
 - Tempo decorrido
@@ -100,7 +112,11 @@ Escolha o desconhecido primeiro. Use unidades de tempo consistentes em todos os 
 
 
 
-**Procurar o tempo decorrido**
+
+
+### Calcular o tempo
+
+
 
 - Quantidade restante
 - Quantidade inicial
@@ -110,7 +126,11 @@ Escolha o desconhecido primeiro. Use unidades de tempo consistentes em todos os 
 
 
 
-**Converter medidas de decaimento**
+
+
+### Converter medidas de decaimento
+
+
 
 - Medição conhecida · Meia- vida / Duração média de vida / Constante de decaimento
 - Valor

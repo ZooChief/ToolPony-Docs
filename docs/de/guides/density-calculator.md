@@ -1,4 +1,4 @@
-# Dichterechner
+# Anleitung: Dichterechner
 
 
 
@@ -48,7 +48,7 @@ Lösen Sie Masse, Volumen oder Dichte, indem Sie zwei beliebige Werte eingeben.
 
 
 
-Dichte = Masse ÷ Volumen. Die Schnittstelle verwendet kg, m3 und kg/m3.
+Dichte ist Masse geteilt durch Volumen. Für die Rechnung werden Kilogramm und Kubikmeter verwendet. Das Ergebnis erscheint in der gewählten Einheit.
 
 
 
@@ -57,6 +57,10 @@ $$
 $$
 
 
+
+
+
+**Quellen zur Methode** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST · Unit conversion factors](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>)
 
 
 

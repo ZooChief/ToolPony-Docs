@@ -1,8 +1,8 @@
-# Gerador de QR Code
+# Guia de uso · Gerador de QR Code
 
 
 
-Escolha o tipo e informe o link, o texto ou os campos necessários. Gere o código, confira o conteúdo e baixe PNG para compartilhar ou SVG para impressão. Se quiser, escolha uma cor HEX escura de seis dígitos. Os dois formatos mantêm a margem branca.
+Escolha o tipo e informe o link, o texto ou os campos necessários. O código muda conforme você digita. Em redes Wi-Fi e contatos, confira os dados codificados antes de baixar PNG ou SVG. Escolha uma cor escura ou informe um HEX de seis dígitos. As duas exportações mantêm a margem branca.
 
 
 
@@ -13,8 +13,8 @@ Escolha o tipo e informe o link, o texto ou os campos necessários. Gere o códi
 
 
 1. Escolha o tipo e informe o link, o texto ou os campos necessários.
-2. Gere o código, confira o conteúdo e baixe PNG para compartilhar ou SVG para impressão.
-3. Se quiser, escolha uma cor HEX escura de seis dígitos. Os dois formatos mantêm a margem branca.
+2. O código muda conforme você digita. Em redes Wi-Fi e contatos, confira os dados codificados antes de baixar PNG ou SVG.
+3. Escolha uma cor escura ou informe um HEX de seis dígitos. As duas exportações mantêm a margem branca.
 
 
 
@@ -31,7 +31,7 @@ Escolha o tipo e informe o link, o texto ou os campos necessários. Gere o códi
 
 
 ```
-https://example.com/
+https://example.com/ · M · 512 px
 ```
 
 
@@ -41,7 +41,7 @@ https://example.com/
 
 
 ```
-https://example.com/
+PNG · 512 × 512 px → https://example.com/
 ```
 
 
@@ -65,6 +65,10 @@ https://example.com/
 Códigos estáticos contêm os dados informados. Até 2.048 bytes UTF-8, menos com correção maior. A borda branca reserva quatro módulos. O QR de Wi-Fi contém a senha informada.
 
 
+
+
+
+**Referências do método** [DENSO WAVE · QR error correction](<https://www.qrcode.com/en/about/error_correction.html>)
 
 
 

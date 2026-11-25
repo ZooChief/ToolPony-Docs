@@ -1,8 +1,8 @@
-# Calculadora de matrices
+# Guía de uso · Calculadora de matrices
 
 
 
-Añadir, multiplicar, transponer, invertir, resolver o encontrar el rango y determinante. Copiar el resultado como TSV o descargar CSV.
+Resuelve sistemas lineales y calcula determinantes, inversas, rangos y productos con fracciones y decimales exactos. Pega celdas de una hoja de cálculo y exporta el resultado.
 
 
 
@@ -34,6 +34,54 @@ A + B = [3, 2; 5, 8]
 
 
 
+<a id="case-study"></a>
+
+
+
+## Contar dos tipos de paquetes
+
+
+
+1. Un paquete pequeño contiene 2 pinzas negras y 1 blanca, y uno grande 3 negras y 2 blancas. En total hay 17 negras y 10 blancas. Las columnas de A describen los paquetes y B contiene los totales. La solución es 4 paquetes pequeños y 3 grandes. Compruébala con A × X.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/matrix-calculator/#example-packing-matrix>)
+
+
+
+
+
+## Un determinante igual a uno
+
+
+
+El producto de la diagonal principal es mil millones al cuadrado. El otro es (mil millones − 1) × (mil millones + 1). La diferencia es exactamente 1 y las filas son independientes.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/matrix-calculator/#example-determinant-one>)
+
+
+
+
+
+
+
+## Dos variables libres
+
+
+
+La segunda ecuación duplica la primera. En x + y + z = 4 puedes elegir y y z, y tomar x = 4 − y − z. A la solución particular (4, 0, 0) se suman las dos direcciones del núcleo. Cambia el segundo total de 8 a 9 para ver la contradicción.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/matrix-calculator/#example-free-variables>)
+
+
+
+
+
 
 
 ## Pruébalo
@@ -48,7 +96,7 @@ A + B = [3, 2; 5, 8]
 
 
 
-Separar cada fila con una nueva línea o semicolon. Los valores pueden ser separados por espacios o comas. Se acepta un array JSON anidado. Los métodos de cuadrícula utilizan la eliminación gaisiana con pivote escalado.
+La reducción por filas usa aritmética racional exacta. El número de columnas pivote es el rango. En A × X = B, una fila de ceros a la izquierda con término independiente distinto de cero indica una contradicción. Las columnas libres determinan las direcciones que se suman a una solución particular.
 
 
 
@@ -72,7 +120,11 @@ $$
 
 
 
-**A + B**
+
+
+### A + B
+
+
 
 - Matriz A
 - Matriz B
@@ -81,7 +133,11 @@ $$
 
 
 
-**Subtract A - B**
+
+
+### Subtract A - B
+
+
 
 - Matriz A
 - Matriz B
@@ -90,7 +146,11 @@ $$
 
 
 
-**Multiplicar A × B**
+
+
+### Multiplicar A × B
+
+
 
 - Matriz A
 - Matriz B
@@ -99,7 +159,11 @@ $$
 
 
 
-**Resolver A × X = B**
+
+
+### Resolver A × X = B
+
+
 
 - Matriz A
 - Matriz B
@@ -108,7 +172,11 @@ $$
 
 
 
-**Determinante**
+
+
+### Determinante
+
+
 
 - Matriz A
 
@@ -116,7 +184,11 @@ $$
 
 
 
-**Inverso**
+
+
+### Inverso
+
+
 
 - Matriz A
 
@@ -124,7 +196,11 @@ $$
 
 
 
-**Transponer**
+
+
+### Transponer
+
+
 
 - Matriz A
 
@@ -132,7 +208,11 @@ $$
 
 
 
-**Poder entero**
+
+
+### Poder entero
+
+
 
 - Matriz A
 - Exponente
@@ -141,7 +221,11 @@ $$
 
 
 
-**Multiplicación de escalar**
+
+
+### Multiplicación de escalar
+
+
 
 - Matriz A
 - Escalar
@@ -150,13 +234,21 @@ $$
 
 
 
-**Rank y forma de echelon de fila reducida**
+
+
+### Rank y forma de echelon de fila reducida
+
+
 
 - Matriz A
 
 
 
 
+
+
+
+**Fuentes del método** [MIT OpenCourseWare · Solving Ax = b](<https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/solving-ax-b-row-reduced-form-r/>)
 
 
 

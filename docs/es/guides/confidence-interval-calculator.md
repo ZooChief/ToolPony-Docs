@@ -1,8 +1,8 @@
-# Calculadora de intervalos de confianza
+# Guía de uso · Calculadora de intervalos de confianza
 
 
 
-Estimar un intervalo promedio normal o un intervalo de Wilson para una proporción.
+Estima una media con datos o estadísticas resumidas usando z o t de Student, o una proporción con Wilson.
 
 
 
@@ -34,6 +34,38 @@ n = 36, media 56, desviación estándar 8, 99%
 
 
 
+<a id="case-study"></a>
+
+
+
+## Un intervalo con cinco mediciones
+
+
+
+1. Las mediciones 48, 49, 50, 51 y 52 tienen media 50. Con la desviación muestral y cuatro grados de libertad, el intervalo t del 95 % para la media es aproximadamente 48,04–51,96. Se suponen observaciones independientes y una población aproximadamente normal.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/confidence-interval-calculator/#example-five-measurements>)
+
+
+
+
+
+## Cero fallos en 30 controles
+
+
+
+En 30 controles independientes no hubo fallos. El intervalo de Wilson del 95 % para la proporción de fallos va de 0 % a aproximadamente el 11,35 %. Más controles sin fallos estrechan el intervalo.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/confidence-interval-calculator/#example-no-failures>)
+
+
+
+
+
 
 
 ## Pruébalo
@@ -48,7 +80,7 @@ n = 36, media 56, desviación estándar 8, 99%
 
 
 
-El margen normal es z veces el error estándar s/√n. Los intervalos de puntuación de Wilson ajustan el centro y la anchura para las proporciones y permanecen dentro \[0,1\].
+El margen es el valor crítico × desviación / √n. Usa z si se conoce σ y t con n − 1 grados de libertad para una desviación muestral. Wilson estima una proporción binomial desde los éxitos y ensayos.
 
 
 
@@ -72,18 +104,28 @@ $$
 
 
 
-**Intervalo medio normal**
 
+
+### Intervalo de la media
+
+
+
+- Origen de los datos · σ conocida / s muestral / Observaciones
 - Tamaño de la muestra
 - Media
 - Desviación estándar
+- Observaciones
 - Nivel de confianza · %
 
 
 
 
 
-**Intervalo de proporción de Wilson**
+
+
+### Intervalo de proporción de Wilson
+
+
 
 - Tamaño de la muestra
 - Éxitos
@@ -92,6 +134,10 @@ $$
 
 
 
+
+
+
+**Fuentes del método** [NIST · Confidence limits for the mean](<https://www.itl.nist.gov/div898/handbook/eda/section3/eda352.htm>) · [NIST · Confidence limits for a proportion](<https://www.itl.nist.gov/div898/handbook/prc/section2/prc241.htm>)
 
 
 

@@ -1,4 +1,4 @@
-# Calculateur de chute de tension
+# Guide pratique · Calculateur de chute de tension
 
 
 
@@ -47,6 +47,54 @@ Chute de 0,37 V, soit 0,30 %
 
 
 
+<a id="case-study"></a>
+
+
+
+## Utiliser une table de câbles
+
+
+
+1. À 1 mV/(A·m), 50 m aller et 100 A donnent 5 V sur ce câble. L’exemple Schneider ajoute 10 V en amont, soit 15 V sur tout le trajet.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/voltage-drop-calculator/#example-cable-table>)
+
+
+
+
+
+## Circuit triphasé parallèle
+
+
+
+Deux conducteurs par phase se partagent 20 A. À 400 V sur 100 m, avec R = 1 Ω/km, X = 0,5 Ω/km et un facteur inductif de 0,8, la chute atteint 1,91 V et la charge reçoit 398,09 V.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/voltage-drop-calculator/#example-parallel-cable>)
+
+
+
+
+
+
+
+## Chute supérieure à la source
+
+
+
+Sous 24 V continu, 10 A et 1 km aller à 5 Ω/km impliquent une chute de 100 V. Le modèle ne donne pas de tension de charge à ce courant.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/voltage-drop-calculator/#example-cable-limit>)
+
+
+
+
+
 
 
 ## Essayer
@@ -85,15 +133,21 @@ $$
 
 
 
-**Résistance ou impédance connue**
 
+
+### Résistance ou impédance connue
+
+
+
+- Valeur de la fiche · Impédance du conducteur / Coefficient de chute du circuit
 - Résistance ou impédance par longueur
 - Unité par longueur · Ω/km / Ω/m / mΩ/m / 1 000 ft / Ω/ft / mΩ/ft
+- Coefficient du circuit dans la table · mV/(A·m)
 - Tension · V
 - Circuit · DC / CA monophasé / CA triphasé
 - Conducteurs en parallèle par phase
 - Distance aller
-- Unité de longueur · ft / m / - Oui. / km
+- Unité de longueur · ft / m / mi / km
 - Courant · A
 - Limite de chute pour estimer la distance · %
 
@@ -101,7 +155,11 @@ $$
 
 
 
-**Estimer selon le calibre**
+
+
+### Estimer selon le calibre
+
+
 
 - Matériau · Cuivre / Aluminium / Argent / Or
 - Calibre du fil
@@ -109,7 +167,7 @@ $$
 - Circuit · DC / CA monophasé / CA triphasé
 - Conducteurs en parallèle par phase
 - Distance aller
-- Unité de longueur · ft / m / - Oui. / km
+- Unité de longueur · ft / m / mi / km
 - Courant · A
 - Limite de chute pour estimer la distance · %
 
@@ -117,7 +175,11 @@ $$
 
 
 
-**Estimer selon la section**
+
+
+### Estimer selon la section
+
+
 
 - Matériau · Cuivre / Aluminium / Argent / Or
 - Section transversale · mm²
@@ -125,7 +187,7 @@ $$
 - Circuit · DC / CA monophasé / CA triphasé
 - Conducteurs en parallèle par phase
 - Distance aller
-- Unité de longueur · ft / m / - Oui. / km
+- Unité de longueur · ft / m / mi / km
 - Courant · A
 - Limite de chute pour estimer la distance · %
 
@@ -133,7 +195,11 @@ $$
 
 
 
-**Résistance et réactance**
+
+
+### Résistance et réactance
+
+
 
 - Résistance
 - Réactance par longueur
@@ -143,13 +209,17 @@ $$
 - Circuit · DC / CA monophasé / CA triphasé
 - Conducteurs en parallèle par phase
 - Distance aller
-- Unité de longueur · ft / m / - Oui. / km
+- Unité de longueur · ft / m / mi / km
 - Courant · A
 - Limite de chute pour estimer la distance · %
 
 
 
 
+
+
+
+**Références de la méthode** [Schneider Electric · Voltage drop in steady load conditions](<https://www.electrical-installation.org/enwiki/Calculation_of_voltage_drop_in_steady_load_conditions>)
 
 
 

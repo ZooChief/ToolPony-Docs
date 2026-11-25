@@ -1,8 +1,8 @@
-# Prozentrechner
+# Anleitung: Prozentrechner
 
 
 
-Löse Prozentsatz, Teil, Ganzes, vermehre, verringere, verändere Veränderung, Differenz und Fehler.
+Prozente und Prozentpunkte vergleichen, zwei Rabatte anwenden oder zurückrechnen.
 
 
 
@@ -48,6 +48,38 @@ Löse Prozentsatz, Teil, Ganzes, vermehre, verringere, verändere Veränderung, 
 
 
 
+<a id="case-study"></a>
+
+
+
+## Zwei Rabatte auf einen Preis
+
+
+
+1. Von 250 gehen zuerst 20 % ab. Auf die verbleibenden 200 gelten weitere 10 %. Der Endpreis beträgt 180, insgesamt 28 % weniger. Die Rückrechnung ergibt den Ausgangspreis.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/percentage-calculator/#example-two-discounts>)
+
+
+
+
+
+## Von 4 % auf 5 %
+
+
+
+Eine Anmeldequote steigt von 4 % auf 5 %. Die Differenz beträgt einen Prozentpunkt. Bezogen auf die ursprünglichen 4 % ergibt 1 ÷ 4 einen Anstieg um 25 %.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/percentage-calculator/#example-percentage-points>)
+
+
+
+
+
 
 
 ## Ausprobieren
@@ -62,7 +94,7 @@ Löse Prozentsatz, Teil, Ganzes, vermehre, verringere, verändere Veränderung, 
 
 
 
-Prozentsatz = Teil ÷ Ganze × 100. Veränderung verwendet den absoluten ursprünglichen Wert als Nenner, symmetrische Differenz den Mittelwert der absoluten Werte.
+Relative Änderungen beziehen sich auf den Betrag des Ausgangswerts. Die Differenz zweier Quoten ergibt Prozentpunkte. Aufeinanderfolgende Faktoren werden multipliziert. Die symmetrische Differenz nutzt den Mittelwert der Beträge.
 
 
 
@@ -98,7 +130,11 @@ Bei einem Messwert von 90 und einem Referenzwert von 96 beträgt der absolute Fe
 
 
 
-**Prozentsatz eines Wertes**
+
+
+### Prozentsatz eines Wertes
+
+
 
 - Prozentsatz · %
 - Wert
@@ -107,7 +143,11 @@ Bei einem Messwert von 90 und einem Referenzwert von 96 beträgt der absolute Fe
 
 
 
-**Finden Sie den Prozentsatz**
+
+
+### Finden Sie den Prozentsatz
+
+
 
 - Teil
 - ganz
@@ -116,7 +156,11 @@ Bei einem Messwert von 90 und einem Referenzwert von 96 beträgt der absolute Fe
 
 
 
-**Finde das Ganze**
+
+
+### Finde das Ganze
+
+
 
 - Teil
 - Prozentsatz · %
@@ -125,8 +169,13 @@ Bei einem Messwert von 90 und einem Referenzwert von 96 beträgt der absolute Fe
 
 
 
-**prozentuale Veränderung**
 
+
+### prozentuale Veränderung
+
+
+
+- Art der Werte · Beträge / Quoten (%)
 - Ausgangswert
 - Neuwert
 
@@ -134,7 +183,11 @@ Bei einem Messwert von 90 und einem Referenzwert von 96 beträgt der absolute Fe
 
 
 
-**Prozentuale Differenz**
+
+
+### Prozentuale Differenz
+
+
 
 - Erster Wert
 - zweiter Wert
@@ -143,7 +196,11 @@ Bei einem Messwert von 90 und einem Referenzwert von 96 beträgt der absolute Fe
 
 
 
-**Differenz zu signierten Werten**
+
+
+### Differenz zu signierten Werten
+
+
 
 - Erster Wert
 - zweiter Wert
@@ -152,25 +209,39 @@ Bei einem Messwert von 90 und einem Referenzwert von 96 beträgt der absolute Fe
 
 
 
-**Anwenden einer Änderung**
+
+
+### Anwenden einer Änderung
+
+
 
 - Ausgangswert
 - Unterzeichnete Änderung · %
+- Zweite Änderung · %
 
 
 
 
 
-**Eine Änderung rückgängig machen**
+
+
+### Eine Änderung rückgängig machen
+
+
 
 - Neuwert
 - Unterzeichnete Änderung · %
+- Zweite Änderung · %
 
 
 
 
 
-**Fehler in Prozent**
+
+
+### Fehler in Prozent
+
+
 
 - Messwert
 - Bezugswert
@@ -179,6 +250,10 @@ Bei einem Messwert von 90 und einem Referenzwert von 96 beträgt der absolute Fe
 
 
 
+
+
+
+**Quellen zur Methode** [Eurostat · Percentage point](<https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Percentage_point>)
 
 
 

@@ -1,4 +1,4 @@
-# Half-life calculator
+# Half-life calculator guide
 
 
 
@@ -70,7 +70,11 @@ Pick the unknown first. Use consistent time units across the other three fields.
 
 
 
-**Find half-life**
+
+
+### Find half-life
+
+
 
 - Remaining quantity
 - Initial quantity
@@ -80,7 +84,11 @@ Pick the unknown first. Use consistent time units across the other three fields.
 
 
 
-**Find remaining quantity**
+
+
+### Find remaining quantity
+
+
 
 - Initial quantity
 - Elapsed time
@@ -90,7 +98,11 @@ Pick the unknown first. Use consistent time units across the other three fields.
 
 
 
-**Find initial quantity**
+
+
+### Find initial quantity
+
+
 
 - Remaining quantity
 - Elapsed time
@@ -100,7 +112,11 @@ Pick the unknown first. Use consistent time units across the other three fields.
 
 
 
-**Find elapsed time**
+
+
+### Find elapsed time
+
+
 
 - Remaining quantity
 - Initial quantity
@@ -110,7 +126,11 @@ Pick the unknown first. Use consistent time units across the other three fields.
 
 
 
-**Convert decay measures**
+
+
+### Convert decay measures
+
+
 
 - Known measurement · Half-life / Mean lifetime / Decay constant
 - Value

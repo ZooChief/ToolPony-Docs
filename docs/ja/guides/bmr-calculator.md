@@ -1,4 +1,4 @@
-# 基礎代謝量・消費カロリー計算機
+# 基礎代謝量・消費カロリー計算機の使い方
 
 
 
@@ -34,6 +34,23 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## 除脂肪体重から推定
+
+
+
+1. 体重70 kg、体脂肪率を20%と仮定すると除脂肪体重は56 kgです。Katch–McArdle 式では安静時 370 + 21.6 × 56 = 1,579.6 kcal/日になります。
+2. 活動係数1.20では1日1,895.52 kcal、1.55では2,448.38 kcalの推定です。安静時の推定値はどちらも同じです。
+
+
+
+[入力例を実行](<https://toolpony.com/ja/tools/bmr-calculator/#example-lean-mass>)
+
+
+
 
 
 ## 試してみる
@@ -60,32 +77,20 @@
 
 
 
-**メートル法**
 
-- 年齢
-- 方程式群 · 男性 / 女性
-- 重さ · kg
-- 高さ · cm
+
+### メートル法
+
+
+
 - 方程式 · ミフリン=シュト・ジェオル / 改訂版ハリス・ベネディクト / カッチ・マカードル
-- カッチ・マカードルの体脂肪 · %
-- 活動係数
-- エネルギーユニット · kcal/day / kJ/day
-
-
-
-
-
-**米国慣用単位**
-
 - 年齢
-- 方程式群 · 男性 / 女性
-- 重さ · lb
-- 足の高さ · ft
-- 追加インチ · in
-- 方程式 · ミフリン=シュト・ジェオル / 改訂版ハリス・ベネディクト / カッチ・マカードル
-- カッチ・マカードルの体脂肪 · %
+- 計算式の性別項 · 男性 / 女性
+- 体重 · kg
+- 身長 · cm
+- 体脂肪率 · %
 - 活動係数
-- エネルギーユニット · kcal/day / kJ/day
+- エネルギーの単位 · kcal/day / kJ/day
 
 
 
@@ -93,7 +98,27 @@
 
 
 
-**計算・処理の参考資料** [Mifflin et al. (1990)](<https://pubmed.ncbi.nlm.nih.gov/2305711/>) · [Roza &amp; Shizgal (1984)](<https://pubmed.ncbi.nlm.nih.gov/6741850/>)
+### 米国慣用単位
+
+
+
+- 方程式 · ミフリン=シュト・ジェオル / 改訂版ハリス・ベネディクト / カッチ・マカードル
+- 年齢
+- 計算式の性別項 · 男性 / 女性
+- 体重 · lb
+- 身長（フィート） · ft
+- 追加のインチ · in
+- 体脂肪率 · %
+- 活動係数
+- エネルギーの単位 · kcal/day / kJ/day
+
+
+
+
+
+
+
+**計算・処理の参考資料** [Mifflin et al. (1990)](<https://pubmed.ncbi.nlm.nih.gov/2305711/>) · [Roza &amp; Shizgal (1984)](<https://pubmed.ncbi.nlm.nih.gov/6741850/>) · [Cunningham (1991) · Fat-free mass and resting energy](<https://pubmed.ncbi.nlm.nih.gov/1957828/>) · [NIST · Thermochemical calorie](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>)
 
 
 

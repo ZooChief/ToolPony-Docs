@@ -1,8 +1,8 @@
-# Calculadora de probabilidade
+# Guia de uso · Calculadora de probabilidade
 
 
 
-Calcular probabilidades de eventos, recuperar probabilidades independentes de dois valores conhecidos, ou usar um intervalo normal.
+Compare probabilidades condicionais com uma tabela de contagens ou probabilidades e calcule eventos independentes e tentativas repetidas.
 
 
 
@@ -34,6 +34,22 @@ Ao menos um evento 0,6964
 
 
 
+<a id="case-study"></a>
+
+
+
+## Participação em duas oficinas
+
+
+
+1. De 50 pessoas, 18 participaram das duas sessões, 12 só de manhã (AM), 6 só à tarde (PM) e 14 de nenhuma. Das 24 da tarde, 18 também estavam de manhã (75%). Das 30 da manhã, 18 voltaram à tarde (60%).
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/probability-calculator/#example-workshop-attendance>)
+
+
+
 
 
 ## Experimente
@@ -48,7 +64,7 @@ Ao menos um evento 0,6964
 
 
 
-Os eventos independentes satisfazem P(A) = P(A) P(B). Para eventos dependentes, entre na interseção diretamente. As tentativas repetidas multiplicam suas probabilidades, e a probabilidade de pelo menos um sucesso usa o complemento.
+A união soma as probabilidades marginais e subtrai a interseção. Entre B, a proporção de A é P(A ∩ B) / P(B). Se forem independentes, a interseção é o produto das marginais.
 
 
 
@@ -72,7 +88,11 @@ $$
 
 
 
-**Dois eventos independentes**
+
+
+### Dois eventos independentes
+
+
 
 - Probabilidade de A
 - Probabilidade de B
@@ -81,17 +101,32 @@ $$
 
 
 
-**Intersecção conhecida**
 
+
+### Intersecção conhecida
+
+
+
+- Entrada · Probabilidades / Contagens
 - Probabilidade de A
 - Probabilidade de B
 - Ambos os eventos
+- Nome do evento A
+- Nome do evento B
+- A ∩ B
+- A ∩ ¬B
+- ¬A ∩ B
+- ¬A ∩ ¬B
 
 
 
 
 
-**Recuperar eventos independentes**
+
+
+### Recuperar eventos independentes
+
+
 
 - Quantidades conhecidas pela primeira vez · Probabilidade de A / Probabilidade de B / Não A / Não B / Ambos os eventos / Pelo menos um evento / Exatamente um evento / Nenhum evento
 - Primeira probabilidade
@@ -102,7 +137,11 @@ $$
 
 
 
-**Ensaios independentes repetidos**
+
+
+### Ensaios independentes repetidos
+
+
 
 - Probabilidade de A
 - Testes de A
@@ -113,7 +152,11 @@ $$
 
 
 
-**Intervalo de distribuição normal**
+
+
+### Intervalo de distribuição normal
+
+
 
 - Média
 - Desvio padrão
@@ -123,6 +166,10 @@ $$
 
 
 
+
+
+
+**Referências do método** [OpenStax · Contingency Tables](<https://openstax.org/books/introductory-statistics-2e/pages/3-4-contingency-tables>)
 
 
 

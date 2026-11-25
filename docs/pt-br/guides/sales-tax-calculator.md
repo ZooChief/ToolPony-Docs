@@ -1,4 +1,4 @@
-# Calculadora de imposto sobre vendas e IVA
+# Guia de uso · Calculadora de imposto sobre vendas e IVA
 
 
 
@@ -34,11 +34,23 @@ Total 120, imposto 20
 
 
 
+<a id="case-study"></a>
+
+
+
+## Descobrir a alíquota de um recibo
+
+
+
+1. O recibo mostra 200,00 sem imposto e 217,00 pagos. Divida a diferença de 17,00 pelo preço sem imposto para obter 8,5%. Aplique a alíquota a 200 para conferir o total.
+
+
+
 
 
 ## Experimente
 
-[Abrir ferramenta completa · Calculadora de imposto sobre vendas e IVA](<https://toolpony.com/pt-br/tools/sales-tax-calculator/>)
+[Abrir ferramenta completa · Calculadora de imposto sobre vendas e IVA](<https://toolpony.com/pt-br/tools/sales-tax-calculator/#example-receipt-rate>)
 
 
 

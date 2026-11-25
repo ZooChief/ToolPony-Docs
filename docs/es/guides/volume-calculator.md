@@ -1,8 +1,8 @@
-# Calculadora de volúmenes
+# Guía de uso · Calculadora de volúmenes
 
 
 
-Calcula la capacidad de un depósito o el volumen de un sólido. En un tubo hueco, introduce ambos radios para obtener el volumen del material. Elige litros o unidades cúbicas.
+Calcula la capacidad de un depósito o un volumen en litros o unidades cúbicas. Introduce los diámetros exterior e interior y la longitud del tubo para obtener el volumen de su pared.
 
 
 
@@ -48,6 +48,26 @@ Esfera con radio 2 m
 
 
 
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/volume-calculator/#example-tank-fill-line>)
+
+
+
+
+
+## Pared y capacidad
+
+
+
+En un tubo de un metro, con diámetros exterior de 60 mm e interior de 48 mm, la pared ocupa unos 1,018 L y la capacidad interior es de unos 1,810 L. El CSV incluye ambos resultados y los diámetros originales.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/volume-calculator/#example-pipe-wall>)
+
+
+
+
+
 
 
 ## Pruébalo
@@ -80,7 +100,11 @@ $$
 
 
 
-**Esfera**
+
+
+### Esfera
+
+
 
 - Radio
 - Unidad radiactiva
@@ -90,7 +114,11 @@ $$
 
 
 
-**Cono**
+
+
+### Cono
+
+
 
 - Radio
 - Unidad radiactiva
@@ -102,7 +130,11 @@ $$
 
 
 
-**Cubo**
+
+
+### Cubo
+
+
 
 - Longitud del borde
 - Unidad de longitud de borde
@@ -112,7 +144,11 @@ $$
 
 
 
-**Cilindro**
+
+
+### Cilindro
+
+
 
 - Radio
 - Unidad radiactiva
@@ -124,7 +160,11 @@ $$
 
 
 
-**Tanque rectangular**
+
+
+### Tanque rectangular
+
+
 
 - Longitud
 - Unidad de longitud
@@ -138,7 +178,11 @@ $$
 
 
 
-**Cápsula**
+
+
+### Cápsula
+
+
 
 - Radio
 - Unidad radiactiva
@@ -150,7 +194,11 @@ $$
 
 
 
-**Capa esférica**
+
+
+### Capa esférica
+
+
 
 - Radio de la esfera
 - Unidad del radio de la esfera
@@ -165,7 +213,11 @@ $$
 
 
 
-**frusto cónico**
+
+
+### frusto cónico
+
+
 
 - Radio de primer extremo
 - Unidad de radio de primer extremo
@@ -179,7 +231,11 @@ $$
 
 
 
-**Elipsoide**
+
+
+### Elipsoide
+
+
 
 - Primer semi-eje
 - Primera unidad semi-eje
@@ -193,7 +249,11 @@ $$
 
 
 
-**pirámide cuadrada**
+
+
+### pirámide cuadrada
+
+
 
 - Longitud del borde
 - Unidad de longitud de borde
@@ -205,7 +265,11 @@ $$
 
 
 
-**Tubo hueco**
+
+
+### Tubo hueco
+
+
 
 - Diámetro exterior
 - Unidad de diámetro exterior
@@ -219,7 +283,11 @@ $$
 
 
 
-**Hemisferio**
+
+
+### Hemisferio
+
+
 
 - Radio
 - Unidad radiactiva
@@ -229,7 +297,11 @@ $$
 
 
 
-**Toro anular**
+
+
+### Toro anular
+
+
 
 - Radius de Centerline
 - Unidad de radio central
@@ -243,7 +315,7 @@ $$
 
 
 
-**Fuentes del método** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+**Fuentes del método** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST DLMF · Triaxial ellipsoids](<https://dlmf.nist.gov/19.33>)
 
 
 

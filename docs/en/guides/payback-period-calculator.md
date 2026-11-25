@@ -1,4 +1,4 @@
-# Payback period calculator
+# Payback period calculator guide
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Regular or growing cash flows**
+
+
+### Regular or growing cash flows
+
+
 
 - Initial investment
 - First-year cash flow
@@ -78,7 +82,11 @@ $$
 
 
 
-**Irregular annual cash flows**
+
+
+### Irregular annual cash flows
+
+
 
 - Initial investment
 - Subsequent annual cash flows

@@ -1,4 +1,4 @@
-# Mortgage payoff calculator
+# Mortgage payoff calculator guide
 
 
 
@@ -93,7 +93,11 @@ $$
 
 
 
-**Original loan and remaining term**
+
+
+### Original loan and remaining term
+
+
 
 - Original loan amount
 - Original term years
@@ -113,7 +117,11 @@ $$
 
 
 
-**Current balance and payment**
+
+
+### Current balance and payment
+
+
 
 - Remaining principal
 - Monthly payment
@@ -129,6 +137,10 @@ $$
 
 
 
+
+
+
+**Method references** [CFPB · Mortgage amortization](<https://www.consumerfinance.gov/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/>)
 
 
 

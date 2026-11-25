@@ -1,4 +1,4 @@
-# Calculateur de la loi d’Ohm
+# Guide pratique · Calculateur de la loi d’Ohm
 
 
 

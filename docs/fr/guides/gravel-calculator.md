@@ -1,4 +1,4 @@
-# Calculateur de gravier
+# Guide pratique · Calculateur de gravier
 
 
 
@@ -79,7 +79,11 @@ $$
 
 
 
-**Surface connue**
+
+
+### Surface connue
+
+
 
 - Surface
 - Unité de surface · cm² / m² / in² / ft² / yd² / acre / h
@@ -98,7 +102,11 @@ $$
 
 
 
-**Rectangle**
+
+
+### Rectangle
+
+
 
 - Longueur
 - Unité de longueur · mm / cm / m / en / ft / yd
@@ -119,7 +127,11 @@ $$
 
 
 
-**Cercle**
+
+
+### Cercle
+
+
 
 - Diamètre
 - Unité de diamètre · mm / cm / m / en / ft / yd

@@ -1,4 +1,4 @@
-# Convertir un PDF en texte
+# Guide pratique · Convertir un PDF en texte
 
 
 
@@ -30,17 +30,17 @@ Extrayez le texte sélectionnable des pages PDF en TXT ou JSON sur votre apparei
 
 
 ```
-PDF avec « One » et « Two » sur les deux premières pages, sélection 2, 1
+PDF mixte, sortie JSON, pages 3, 2, 1. La page 2 contient uniquement un échantillon bleu en image.
 ```
 
-[Exemple · PDF](<https://toolpony.com/samples/toolpony-pages.pdf>)
+[Exemple · PDF](<https://toolpony.com/samples/toolpony-mixed-pages.pdf>)
 
 ### Résultat attendu
 
 
 
 ```
-JSON avec la page 2 « Two », puis la page 1 « One »
+[{"page":3,"text":"Total 42"},{"page":2,"text":""},{"page":1,"text":"Order 417"}]
 ```
 
 
@@ -73,7 +73,19 @@ JSON avec la page 2 « Two », puis la page 1 « One »
 
 ## Essayer
 
-[Ouvrir l’outil complet · Convertir un PDF en texte](<https://toolpony.com/fr/tools/pdf-to-text/>)
+[Ouvrir l’outil complet · Convertir un PDF en texte](<https://toolpony.com/fr/tools/pdf-to-text/#example-mixed-pdf>)
+
+
+
+
+
+## Notes
+
+
+
+Limite de 30 Mo, 300 pages, deux millions de caractères et 200 000 segments. L’ordre interne du PDF est conservé. Les pages numérisées nécessitent une reconnaissance de caractères (OCR). Les PDF chiffrés sont refusés. Jusqu’à huit pages, effacez la sélection puis touchez les numéros dans l’ordre voulu. Pour un document plus long, sélectionnez toutes les pages paires ou impaires en une fois.
+
+
 
 
 

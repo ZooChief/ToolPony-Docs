@@ -1,4 +1,4 @@
-# Statistikrechner
+# Anleitung: Statistikrechner
 
 
 
@@ -76,7 +76,11 @@ Die Standardabweichung der Stichprobe für eine Teilmenge einer Population und d
 
 
 
-**Zusammenfassung des Datensatzes**
+
+
+### Zusammenfassung des Datensatzes
+
+
 
 - Werte
 
@@ -84,7 +88,11 @@ Die Standardabweichung der Stichprobe für eine Teilmenge einer Population und d
 
 
 
-**Standardabweichung der Stichprobe**
+
+
+### Standardabweichung der Stichprobe
+
+
 
 - Werte
 
@@ -92,7 +100,11 @@ Die Standardabweichung der Stichprobe für eine Teilmenge einer Population und d
 
 
 
-**Standardabweichung der Population**
+
+
+### Standardabweichung der Population
+
+
 
 - Werte
 

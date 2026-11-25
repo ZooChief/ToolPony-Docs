@@ -1,4 +1,4 @@
-# Calculatrice de racines
+# Guide pratique · Calculatrice de racines
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Racine carrée**
+
+
+### Racine carrée
+
+
 
 - Radicande
 
@@ -74,7 +78,11 @@ $$
 
 
 
-**Racine cubique**
+
+
+### Racine cubique
+
+
 
 - Radicande
 
@@ -82,7 +90,11 @@ $$
 
 
 
-**Racine n-ième**
+
+
+### Racine n-ième
+
+
 
 - Radicande
 - Degré

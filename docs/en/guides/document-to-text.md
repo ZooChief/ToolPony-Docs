@@ -1,4 +1,4 @@
-# Document to text
+# Document to text guide
 
 
 

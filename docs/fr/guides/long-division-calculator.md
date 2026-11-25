@@ -1,4 +1,4 @@
-# Calculatrice de division posée
+# Guide pratique · Calculatrice de division posée
 
 
 

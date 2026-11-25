@@ -1,8 +1,8 @@
-# Unicode 変換
+# Unicode 変換の使い方
 
 
 
-テキストをUnicodeコードポイント、UTF-8 六十元バイト、またはUTF-16エスケープに変換し、テキストに復号します。
+Unicode のコードポイント、UTF-8 バイト、JavaScript エスケープを変換し、文字と正規化形式を比較します。
 
 
 
@@ -34,6 +34,22 @@ U+1F434またはF0 9F 90 B4
 
 
 
+<a id="case-study"></a>
+
+
+
+## 同じ見た目の é を比較
+
+
+
+1. e、結合アクセント U+0301、空白、🐴 を調べます。元は書記素クラスタ 3、コードポイント 4、UTF-16 単位 5、UTF-8 は 8 バイト。NFC では U+00E9 に合成され 7 バイトになります。🐴 は 1 コードポイントで UTF-16 は 2 単位です。
+
+
+
+[入力例を実行](<https://toolpony.com/ja/tools/unicode-converter/#example-combining-accent>)
+
+
+
 
 
 ## 試してみる
@@ -60,23 +76,48 @@ U+1F434またはF0 9F 90 B4
 
 
 
-**テキストをエンコードする**
+
+
+### テキストをエンコードする
+
+
 
 - 入力
-- エンコーディング · Unicodeコードポイント / UTF-8 の16進バイト列 / JavaScript の UTF-16 エスケープ
+- エンコーディング · Unicodeコードポイント / UTF-8 の16進バイト列 / JavaScript の UTF-16 エスケープ / JavaScript コードポイントエスケープ
 
 
 
 
 
-**テキストをデコードする**
+
+
+### テキストをデコードする
+
+
 
 - 入力
-- エンコーディング · Unicodeコードポイント / UTF-8 の16進バイト列 / JavaScript の UTF-16 エスケープ
+- エンコーディング · Unicodeコードポイント / UTF-8 の16進バイト列 / JavaScript の UTF-16 エスケープ / JavaScript コードポイントエスケープ
 
 
 
 
+
+
+
+### 文字を調べる
+
+
+
+- 入力
+- 正規化 · 原文 / NFC / NFD / NFKC / NFKD
+
+
+
+
+
+
+
+**計算・処理の参考資料** [IETF · RFC 3629](<https://www.rfc-editor.org/rfc/rfc3629>) · [Unicode · UAX \#15](<https://www.unicode.org/reports/tr15/>)
 
 
 

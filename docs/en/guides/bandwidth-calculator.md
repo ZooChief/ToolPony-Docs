@@ -1,4 +1,4 @@
-# Bandwidth calculator
+# Bandwidth calculator guide
 
 
 
@@ -48,9 +48,13 @@ Estimate transfer time from file size, link speed and protocol efficiency.
 
 
 
-Time in seconds = file bytes × 8 ÷ effective bits per second. Network prefixes are decimal. File size supports decimal and binary prefixes.
+Transfer time = file size in bytes × 8 ÷ effective bits per second. MB/s uses 1,000,000 bytes per second and MiB/s uses 1,048,576. Efficiency reduces the available rate.
 
 
+
+
+
+**Method references** [NIST · Binary prefixes](<https://physics.nist.gov/cuu/Units/binary.html>)
 
 
 

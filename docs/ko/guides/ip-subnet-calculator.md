@@ -1,4 +1,4 @@
-# IP 서브넷 계산기
+# IP 서브넷 계산기 사용 가이드
 
 
 
@@ -29,6 +29,38 @@ IPv4 및 IPv6 네트워크, 마스크, 범위 및 주소 수를 검사하거나 
 ```
 네트워크 192.0.2.128/27, 30 사용 가능한 호스트
 ```
+
+
+
+
+
+<a id="case-study"></a>
+
+
+
+## 서브넷 경계 확인
+
+
+
+1. 192.0.2.128/27의 마지막 .159는 IPv4 브로드캐스트입니다. .160은 범위 밖이며 IPv6는 주소 체계가 다릅니다.
+
+
+
+[예제 실행](<https://toolpony.com/ko/tools/ip-subnet-calculator/#example-subnet-boundary>)
+
+
+
+
+
+## 두 IPv6 종단
+
+
+
+2001:db8::8/127에는 ::8과 ::9가 포함됩니다. 순서는 1과 2이며 IPv6에는 브로드캐스트가 없습니다.
+
+
+
+[예제 실행](<https://toolpony.com/ko/tools/ip-subnet-calculator/#example-ipv6-endpoints>)
 
 
 
@@ -74,7 +106,11 @@ IPv4는 접두사 길이나 연속된 비트로 이루어진 점 표기 마스�
 
 
 
-**IPv4는**
+
+
+### IPv4는
+
+
 
 - IPv4 주소 또는 CIDR
 - 접두사 또는 서브넷 마스크
@@ -84,7 +120,11 @@ IPv4는 접두사 길이나 연속된 비트로 이루어진 점 표기 마스�
 
 
 
-**IPv6는**
+
+
+### IPv6는
+
+
 
 - IPv6 주소 또는 CIDR
 - 접두사
@@ -93,7 +133,11 @@ IPv4는 접두사 길이나 연속된 비트로 이루어진 점 표기 마스�
 
 
 
-**주소 회원 확인**
+
+
+### 주소 회원 확인
+
+
 
 - CIDR 네트워크
 - 확인해야 할 주소
@@ -101,6 +145,10 @@ IPv4는 접두사 길이나 연속된 비트로 이루어진 점 표기 마스�
 
 
 
+
+
+
+**계산 및 처리 방식의 출처** [IETF · RFC 4632 (CIDR)](<https://www.rfc-editor.org/rfc/rfc4632>) · [IETF · RFC 3021 (/31 links)](<https://www.rfc-editor.org/rfc/rfc3021>) · [IETF · RFC 5952 (IPv6 text)](<https://www.rfc-editor.org/rfc/rfc5952>)
 
 
 

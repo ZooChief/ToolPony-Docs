@@ -1,4 +1,4 @@
-# 売上税・付加価値税計算機
+# 売上税・付加価値税計算機の使い方
 
 
 
@@ -34,11 +34,23 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## レシートから税率を逆算
+
+
+
+1. 税抜 200.00、支払い 217.00 の差は 17.00 です。税抜価格で割ると 8.5% になります。税率を適用して支払額を確かめます。
+
+
+
 
 
 ## 試してみる
 
-[ツール全体を開く · 売上税・付加価値税計算機](<https://toolpony.com/ja/tools/sales-tax-calculator/>)
+[ツール全体を開く · 売上税・付加価値税計算機](<https://toolpony.com/ja/tools/sales-tax-calculator/#example-receipt-rate>)
 
 
 

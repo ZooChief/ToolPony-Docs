@@ -1,4 +1,4 @@
-# Number sequence calculator
+# Number sequence calculator guide
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Arithmetic**
+
+
+### Arithmetic
+
+
 
 - First term
 - Common difference
@@ -76,7 +80,11 @@ $$
 
 
 
-**Geometric**
+
+
+### Geometric
+
+
 
 - First term
 - Common ratio
@@ -86,7 +94,11 @@ $$
 
 
 
-**Fibonacci**
+
+
+### Fibonacci
+
+
 
 - Index
 

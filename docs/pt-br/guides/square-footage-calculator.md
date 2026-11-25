@@ -1,4 +1,4 @@
-# Calculadora de área em pés quadrados
+# Guia de uso · Calculadora de área em pés quadrados
 
 
 
@@ -94,7 +94,11 @@ Para um setor, r é o raio e Δ é o ângulo em radianos após qualquer convers�
 
 
 
-**Rectângulo**
+
+
+### Rectângulo
+
+
 
 - Comprimento
 - Unidade de comprimento
@@ -109,7 +113,11 @@ Para um setor, r é o raio e Δ é o ângulo em radianos após qualquer convers�
 
 
 
-**Contorno retângulo**
+
+
+### Contorno retângulo
+
+
 
 - Comprimento
 - Unidade de comprimento
@@ -126,7 +134,11 @@ Para um setor, r é o raio e Δ é o ângulo em radianos após qualquer convers�
 
 
 
-**Círculo**
+
+
+### Círculo
+
+
 
 - Diâmetro
 - Unidade de diâmetro
@@ -139,7 +151,11 @@ Para um setor, r é o raio e Δ é o ângulo em radianos após qualquer convers�
 
 
 
-**Anel**
+
+
+### Anel
+
+
 
 - Diâmetro exterior
 - Unidade de diâmetro exterior
@@ -154,7 +170,11 @@ Para um setor, r é o raio e Δ é o ângulo em radianos após qualquer convers�
 
 
 
-**Triângulo · três lados**
+
+
+### Triângulo · três lados
+
+
 
 - Primeiro lado
 - Unidade do primeiro lado
@@ -171,7 +191,11 @@ Para um setor, r é o raio e Δ é o ângulo em radianos após qualquer convers�
 
 
 
-**Triângulo · base e altura**
+
+
+### Triângulo · base e altura
+
+
 
 - Base
 - Unidade de base
@@ -186,7 +210,11 @@ Para um setor, r é o raio e Δ é o ângulo em radianos após qualquer convers�
 
 
 
-**Trapézio**
+
+
+### Trapézio
+
+
 
 - Primeiro lado paralelo
 - Primeira unidade lateral paralela
@@ -203,12 +231,16 @@ Para um setor, r é o raio e Δ é o ângulo em radianos após qualquer convers�
 
 
 
-**Sector circular**
+
+
+### Sector circular
+
+
 
 - Raio
 - Unidade de raios
 - Ângulo central
-- Unidade de ângulo · Graus / Radianos
+- Unidade angular · Graus / Radianos
 - Quantidade
 - Preço unitário
 - Preço por superfície
@@ -218,7 +250,11 @@ Para um setor, r é o raio e Δ é o ângulo em radianos após qualquer convers�
 
 
 
-**Paralelograma**
+
+
+### Paralelograma
+
+
 
 - Base
 - Unidade de base

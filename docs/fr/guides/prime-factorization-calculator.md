@@ -1,4 +1,4 @@
-# Décomposition en facteurs premiers
+# Guide pratique · Décomposition en facteurs premiers
 
 
 

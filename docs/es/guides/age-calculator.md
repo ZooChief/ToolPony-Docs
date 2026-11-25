@@ -1,4 +1,4 @@
-# Calculadora de edad
+# Guía de uso · Calculadora de edad
 
 
 

@@ -1,4 +1,4 @@
-# Calculadora de préstamos
+# Guía de uso · Calculadora de préstamos
 
 
 
@@ -48,11 +48,25 @@ Calcula cuotas, deduce el plazo a partir del pago mensual o programa pagos extra
 
 
 
+<a id="case-study"></a>
+
+
+
+## ¿Cuánto se ahorra al pagar 100 más al mes?
+
+
+
+1. Elige el ejemplo con 100 extra al mes. Parte de un capital de 100.000 a diez años con una tasa anual fija del 6 %, capitalización y pagos mensuales.
+2. La cuota prevista es de 1.110,21. Al amortizar 100 más de capital al mes, se pasa de 120 a 107 cuotas. Los intereses bajan de 33.224,60 a 29.328,37.
+3. Compara los saldos y comprueba la última cuota de 1.046,63 en el calendario. El modelo utiliza cuotas sin redondear y aplica el pago adicional al capital.
+
+
+
 
 
 ## Pruébalo
 
-[Abrir herramienta completa · Calculadora de préstamos](<https://toolpony.com/es/tools/loan-calculator/>)
+[Abrir herramienta completa · Calculadora de préstamos](<https://toolpony.com/es/tools/loan-calculator/#example-extra-payment>)
 
 
 
@@ -100,7 +114,11 @@ Con 45.000 al 6,3 % y una cuota de 785, el plazo estimado es de 68,38 meses. En 
 
 
 
-**Cuotas**
+
+
+### Cuotas
+
+
 
 - Principal
 - Años
@@ -114,7 +132,11 @@ Con 45.000 al 6,3 % y una cuota de 785, el plazo estimado es de 68,38 meses. En 
 
 
 
-**Plazo a partir de la cuota**
+
+
+### Plazo a partir de la cuota
+
+
 
 - Principal
 - Cuota mensual
@@ -124,7 +146,11 @@ Con 45.000 al 6,3 % y una cuota de 785, el plazo estimado es de 68,38 meses. En 
 
 
 
-**Pagos extra con fechas**
+
+
+### Pagos extra con fechas
+
+
 
 - Principal
 - Años
@@ -135,13 +161,17 @@ Con 45.000 al 6,3 % y una cuota de 785, el plazo estimado es de 68,38 meses. En 
 - Inicio de los extras mensuales
 - Pago extra anual
 - Inicio de los extras anuales
-- Pagos únicos (AAAA-MM, importe)
+- Pagos únicos
 
 
 
 
 
-**Pago único al vencimiento**
+
+
+### Pago único al vencimiento
+
+
 
 - Principal
 - Años
@@ -153,7 +183,11 @@ Con 45.000 al 6,3 % y una cuota de 785, el plazo estimado es de 68,38 meses. En 
 
 
 
-**Valor actual de un pago único**
+
+
+### Valor actual de un pago único
+
+
 
 - Importe al vencimiento
 - Años
@@ -164,6 +198,10 @@ Con 45.000 al 6,3 % y una cuota de 785, el plazo estimado es de 68,38 meses. En 
 
 
 
+
+
+
+**Fuentes del método** [CFPB · Mortgage amortization](<https://www.consumerfinance.gov/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/>)
 
 
 

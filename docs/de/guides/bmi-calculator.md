@@ -1,4 +1,4 @@
-# BMI-Rechner für Erwachsene
+# Anleitung: BMI-Rechner für Erwachsene
 
 
 
@@ -34,6 +34,22 @@ BMI ≈ 22,86 kg/m2
 
 
 
+<a id="case-study"></a>
+
+
+
+## Die Grenze bei BMI 25
+
+
+
+1. Bei 180 cm und 80,99 kg liegt der BMI bei etwa 24,997. Bei 81 kg beträgt er genau 25 und erreicht die nächste CDC-Kategorie für Erwachsene. An einer Grenze erscheinen zusätzliche Nachkommastellen.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/bmi-calculator/#example-bmi-boundary>)
+
+
+
 
 
 ## Ausprobieren
@@ -66,21 +82,29 @@ $$
 
 
 
-**Metrisch**
+
+
+### Metrisch
+
+
 
 - Alter
-- Gewicht · kg
-- Höhe · cm
+- Körpergewicht · kg
+- Körpergröße · cm
 
 
 
 
 
-**US-Einheiten**
+
+
+### US-Einheiten
+
+
 
 - Alter
-- Gewicht · lb
-- Höhe in Fuß · ft
+- Körpergewicht · lb
+- Körpergröße in Fuß · ft
 - Zusätzliche Zoll · in
 
 

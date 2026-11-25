@@ -1,8 +1,8 @@
-# Matrizenrechner
+# Anleitung: Matrizenrechner
 
 
 
-Addieren, multiplizieren, transponieren, invertieren, lösen oder finden Sie den Rang und die Determinante. Kopieren Sie das Ergebnis als TSV oder laden Sie CSV herunter.
+Löse lineare Gleichungssysteme und berechne Determinante, Inverse, Rang oder Matrixprodukte mit exakten Brüchen und Dezimalzahlen. Füge Tabellenzellen ein und exportiere das Ergebnis.
 
 
 
@@ -34,6 +34,54 @@ A + B = [3, 2; 5, 8]
 
 
 
+<a id="case-study"></a>
+
+
+
+## Zwei Packungsgrößen
+
+
+
+1. Eine kleine Packung enthält 2 schwarze und 1 weiße Klammer, eine große 3 schwarze und 2 weiße. Zusammen sind es 17 schwarze und 10 weiße. Die Spalten von A beschreiben die Packungen, B die Gesamtzahlen. Die Lösung ist 4 kleine und 3 große Packungen. Mit A × X lassen sich beide Summen prüfen.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/matrix-calculator/#example-packing-matrix>)
+
+
+
+
+
+## Determinante genau eins
+
+
+
+Auf der Hauptdiagonale ergibt sich eine Milliarde zum Quadrat. Das andere Produkt ist (eine Milliarde − 1) mal (eine Milliarde + 1). Die Differenz beträgt genau 1. Die beiden Zeilen sind linear unabhängig.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/matrix-calculator/#example-determinant-one>)
+
+
+
+
+
+
+
+## Zwei freie Variablen
+
+
+
+Die zweite Gleichung ist das Doppelte der ersten. Bei x + y + z = 4 können y und z frei gewählt werden. Dann ist x = 4 − y − z. Zur partikulären Lösung (4, 0, 0) kommen zwei Richtungen des Kerns hinzu. Ändere die zweite Summe von 8 auf 9, um den Widerspruch zu sehen.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/matrix-calculator/#example-free-variables>)
+
+
+
+
+
 
 
 ## Ausprobieren
@@ -48,7 +96,7 @@ A + B = [3, 2; 5, 8]
 
 
 
-Jede Zeile mit einer neuen Zeile oder einem Semikolon trennen. Werte können durch Leerzeichen oder Kommas getrennt werden. Ein verschachteltes JSON-Array wird akzeptiert. Quadrat-Matrix-Methoden verwenden Gauß-Eliminierung mit skalierter Schwenkung.
+Die Zeilenreduktion rechnet mit exakten rationalen Zahlen. Die Anzahl der Pivotspalten ist der Rang. Bei A × X = B zeigt eine Nullzeile links mit einem von null verschiedenen Wert rechts einen Widerspruch. Freie Spalten bestimmen die Richtungen, die zur partikulären Lösung addiert werden können.
 
 
 
@@ -72,7 +120,11 @@ $$
 
 
 
-**Hinzufügen A + B**
+
+
+### Hinzufügen A + B
+
+
 
 - Matrix A
 - Matrix B
@@ -81,7 +133,11 @@ $$
 
 
 
-**Subtrahieren A - B**
+
+
+### Subtrahieren A - B
+
+
 
 - Matrix A
 - Matrix B
@@ -90,7 +146,11 @@ $$
 
 
 
-**A × B multiplizieren**
+
+
+### A × B multiplizieren
+
+
 
 - Matrix A
 - Matrix B
@@ -99,7 +159,11 @@ $$
 
 
 
-**Lösung A × X = B**
+
+
+### Lösung A × X = B
+
+
 
 - Matrix A
 - Matrix B
@@ -108,7 +172,11 @@ $$
 
 
 
-**Determinant**
+
+
+### Determinant
+
+
 
 - Matrix A
 
@@ -116,7 +184,11 @@ $$
 
 
 
-**Invers**
+
+
+### Invers
+
+
 
 - Matrix A
 
@@ -124,7 +196,11 @@ $$
 
 
 
-**Transponieren**
+
+
+### Transponieren
+
+
 
 - Matrix A
 
@@ -132,7 +208,11 @@ $$
 
 
 
-**Integrierte Leistung**
+
+
+### Integrierte Leistung
+
+
 
 - Matrix A
 - Exponent
@@ -141,7 +221,11 @@ $$
 
 
 
-**Skalare Multiplikation**
+
+
+### Skalare Multiplikation
+
+
 
 - Matrix A
 - Skalar
@@ -150,13 +234,21 @@ $$
 
 
 
-**Rank- und Reduzierte Reihen-Echelon-Form**
+
+
+### Rank- und Reduzierte Reihen-Echelon-Form
+
+
 
 - Matrix A
 
 
 
 
+
+
+
+**Quellen zur Methode** [MIT OpenCourseWare · Solving Ax = b](<https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/solving-ax-b-row-reduced-form-r/>)
 
 
 

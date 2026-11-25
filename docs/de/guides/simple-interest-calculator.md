@@ -1,4 +1,4 @@
-# Rechner für einfache Zinsen
+# Anleitung: Rechner für einfache Zinsen
 
 
 
@@ -74,7 +74,11 @@ Wenn der Endsaldo bekannt ist, kann eine Nullrate oder ein Nullterm dazu führen
 
 
 
-**Zins- und Endsaldo**
+
+
+### Zins- und Endsaldo
+
+
 
 - Darlehensbetrag
 - Zinssatz · %
@@ -86,7 +90,11 @@ Wenn der Endsaldo bekannt ist, kann eine Nullrate oder ein Nullterm dazu führen
 
 
 
-**Hauptprinzipal finden**
+
+
+### Hauptprinzipal finden
+
+
 
 - Endbilanz
 - Zinssatz · %
@@ -98,7 +106,11 @@ Wenn der Endsaldo bekannt ist, kann eine Nullrate oder ein Nullterm dazu führen
 
 
 
-**Zinsfestsetzung**
+
+
+### Zinsfestsetzung
+
+
 
 - Darlehensbetrag
 - Endbilanz
@@ -110,7 +122,11 @@ Wenn der Endsaldo bekannt ist, kann eine Nullrate oder ein Nullterm dazu führen
 
 
 
-**Suchbegriff**
+
+
+### Suchbegriff
+
+
 
 - Darlehensbetrag
 - Endbilanz

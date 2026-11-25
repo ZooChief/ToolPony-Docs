@@ -1,4 +1,4 @@
-# Calculatrice d’intérêts composés
+# Guide pratique · Calculatrice d’intérêts composés
 
 
 
@@ -34,11 +34,23 @@ Projetez un solde avec des contributions récurrentes et de l'inflation, ou conv
 
 
 
+<a id="case-study"></a>
+
+
+
+## Comparer des versements sur 30 mois
+
+
+
+1. Avec 10 000 au départ puis 100 par mois pendant 2 ans et 6 mois, un taux nominal de 6 % capitalisé chaque mois donne 14 842,00 avec des versements en fin de mois, dont 13 000 versés. En début de mois, le solde atteint 14 858,14. À 3 % d’inflation annuelle, le premier solde équivaut à 13 784,77 aujourd’hui.
+
+
+
 
 
 ## Essayer
 
-[Ouvrir l’outil complet · Calculatrice d’intérêts composés](<https://toolpony.com/fr/tools/compound-interest-calculator/>)
+[Ouvrir l’outil complet · Calculatrice d’intérêts composés](<https://toolpony.com/fr/tools/compound-interest-calculator/#example-30-months>)
 
 
 
@@ -66,11 +78,16 @@ $$
 
 
 
-**Solde futur**
+
+
+### Solde futur
+
+
 
 - Capital emprunté
 - Taux annuel · %
 - Années
+- Mois
 - Capitalisation
 - Contribution périodique
 - Fréquence des contributions · Annuelle / Semestrielle / Trimestrielle / Mensuelle / Deux fois par mois / Toutes les deux semaines / Hebdomadaire / Quotidienne
@@ -81,7 +98,11 @@ $$
 
 
 
-**Taux d'intérêt équivalent**
+
+
+### Taux d'intérêt équivalent
+
+
 
 - Taux annuel · %
 - Composition originale

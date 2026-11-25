@@ -1,4 +1,4 @@
-# Concrete calculator
+# Concrete calculator guide
 
 
 
@@ -94,7 +94,11 @@ For two 7 ft × 3 ft × 5 in slabs, 133 lb/ft³ gives 2327.50 lb, or 38.79 equiv
 
 
 
-**Slab or rectangular footing**
+
+
+### Slab or rectangular footing
+
+
 
 - Length
 - Length unit
@@ -110,7 +114,11 @@ For two 7 ft × 3 ft × 5 in slabs, 133 lb/ft³ gives 2327.50 lb, or 38.79 equiv
 
 
 
-**Column or round footing**
+
+
+### Column or round footing
+
+
 
 - Diameter
 - Diameter unit
@@ -124,7 +132,11 @@ For two 7 ft × 3 ft × 5 in slabs, 133 lb/ft³ gives 2327.50 lb, or 38.79 equiv
 
 
 
-**Circular slab or tube**
+
+
+### Circular slab or tube
+
+
 
 - Outer diameter
 - Outer diameter unit
@@ -140,7 +152,11 @@ For two 7 ft × 3 ft × 5 in slabs, 133 lb/ft³ gives 2327.50 lb, or 38.79 equiv
 
 
 
-**Curb and gutter**
+
+
+### Curb and gutter
+
+
 
 - Curb depth
 - Curb depth unit
@@ -160,7 +176,11 @@ For two 7 ft × 3 ft × 5 in slabs, 133 lb/ft³ gives 2327.50 lb, or 38.79 equiv
 
 
 
-**Solid stairs and platform**
+
+
+### Solid stairs and platform
+
+
 
 - Run per step
 - Run per step unit

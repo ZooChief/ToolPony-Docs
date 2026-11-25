@@ -1,4 +1,4 @@
-# Calculatrice de logarithmes
+# Guide pratique · Calculatrice de logarithmes
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Logarithme**
+
+
+### Logarithme
+
+
 
 - Base (nombre ou e)
 - Argument
@@ -75,7 +79,11 @@ $$
 
 
 
-**Base**
+
+
+### Base
+
+
 
 - Argument
 - Logarithme
@@ -84,7 +92,11 @@ $$
 
 
 
-**Argument**
+
+
+### Argument
+
+
 
 - Base (nombre ou e)
 - Logarithme

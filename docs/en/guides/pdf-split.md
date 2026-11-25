@@ -1,4 +1,4 @@
-# Split PDF
+# Split PDF guide
 
 
 
@@ -62,7 +62,7 @@ One PDF containing pages 5, 1, 2, 3 in that order.
 
 
 
-A fixed count of 2 splits the example into \[5, 1\] and \[2, 3\]. The size cap measures each generated PDF in decimal kB or MB. Pages are copied without recompression; increase the cap if one page exceeds it.
+A fixed count of 2 splits the example into \[5, 1\] and \[2, 3\]. The size cap measures each generated PDF in decimal kB or MB. Pages are copied without recompression; increase the cap if one page exceeds it. For up to eight pages, clear the selection and tap the page numbers in the order you want. Longer documents also have odd and even page shortcuts.
 
 
 

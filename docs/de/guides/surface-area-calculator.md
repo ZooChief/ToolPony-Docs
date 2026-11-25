@@ -1,8 +1,8 @@
-# Oberflächenrechner
+# Anleitung: Oberflächenrechner
 
 
 
-Berechnen Sie die gesamte Oberfläche eines Körpers einschließlich der Stirnflächen. Bei Zylindern können Sie Mantel- und Stirnflächen getrennt ablesen.
+Berechne die Oberfläche eines Körpers. Wähle bei Behältern, Rohren und anderen Körpern mit ebenen Endflächen die zu bedeckenden Flächen aus.
 
 
 
@@ -34,6 +34,23 @@ Kugel mit Radius von 2 m
 
 
 
+<a id="case-study"></a>
+
+
+
+## Einen offenen Tank auskleiden
+
+
+
+1. Die Innenmaße sind 120 cm mal 0,8 m, die Tiefe beträgt 450 mm. Wähle Mantel und ein Ende für die vier Wände und den Boden.
+2. Die Wände haben 1,80 m², der Boden 0,96 m². Ohne Nahtzugabe und Verschnitt sind das 2,76 m². Mit allen Flächen kommt der Deckel hinzu, insgesamt 3,72 m².
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/surface-area-calculator/#example-open-tank>)
+
+
+
 
 
 ## Ausprobieren
@@ -48,7 +65,7 @@ Kugel mit Radius von 2 m
 
 
 
-Die Gesamtfläche umfasst die Endflächen; gegebenenfalls werden die Seitenflächen und die Endflächen getrennt aufgeführt; die Ellipsenfläche ist ungefähr.
+Eine geschlossene Oberfläche enthält alle Endflächen. Sie werden aus ihren Abmessungen berechnet. Die Ellipsoidoberfläche wird numerisch mit einem symmetrischen elliptischen Integral bestimmt.
 
 
 
@@ -66,7 +83,11 @@ $$
 
 
 
-**Kugel**
+
+
+### Kugel
+
+
 
 - Radius
 - Radiuseinheit
@@ -76,41 +97,60 @@ $$
 
 
 
-**Kegel**
+
+
+### Kegel
+
+
 
 - Radius
 - Radiuseinheit
 - Senkrechte Höhe
 - Senkrechte Höheneinheit
+- Zu bedeckende Flächen · Alle Flächen / Nur Mantel
 - Flächeneinheit
 
 
 
 
 
-**Würfel**
+
+
+### Würfel
+
+
 
 - Kantenlänge
 - Kantenlängeneinheit
+- Zu bedeckende Flächen · Alle Flächen / Nur Mantel / Mantel und ein Ende
 - Flächeneinheit
 
 
 
 
 
-**Zylinder**
+
+
+### Zylinder
+
+
 
 - Radius
 - Radiuseinheit
 - Senkrechte Höhe
 - Senkrechte Höheneinheit
+- Zu bedeckende Flächen · Alle Flächen / Nur Mantel / Mantel und ein Ende
 - Flächeneinheit
 
 
 
 
 
-**Rechteckbehälter**
+
+
+### Rechteckbehälter
+
+
 
 - Länge
 - Längeneinheit
@@ -118,13 +158,18 @@ $$
 - Breiteneinheit
 - Senkrechte Höhe
 - Senkrechte Höheneinheit
+- Zu bedeckende Flächen · Alle Flächen / Nur Mantel / Mantel und ein Ende
 - Flächeneinheit
 
 
 
 
 
-**Kapsel**
+
+
+### Kapsel
+
+
 
 - Radius
 - Radiuseinheit
@@ -136,7 +181,11 @@ $$
 
 
 
-**Kugelkappe**
+
+
+### Kugelkappe
+
+
 
 - Kugelradius
 - Einheit des Kugelradius
@@ -145,13 +194,18 @@ $$
 - Höhe des Deckels
 - Deckelhöheneinheit
 - Kappe mit beiden Radien bekannt · Kleinere Kappe / Größere Kappe
+- Zu bedeckende Flächen · Alle Flächen / Nur Mantel
 - Flächeneinheit
 
 
 
 
 
-**Kegelstumpf**
+
+
+### Kegelstumpf
+
+
 
 - erster Endradius
 - erste Endradiuseinheit
@@ -159,13 +213,18 @@ $$
 - zweite Endradiuseinheit
 - Senkrechte Höhe
 - Senkrechte Höheneinheit
+- Zu bedeckende Flächen · Alle Flächen / Nur Mantel / Mantel und erstes Ende / Mantel und zweites Ende
 - Flächeneinheit
 
 
 
 
 
-**Ellipsoid**
+
+
+### Ellipsoid
+
+
 
 - Erste Halbachse
 - Erste Halbachseneinheit
@@ -179,19 +238,28 @@ $$
 
 
 
-**Quadratpyramide**
+
+
+### Quadratpyramide
+
+
 
 - Kantenlänge
 - Kantenlängeneinheit
 - Senkrechte Höhe
 - Senkrechte Höheneinheit
+- Zu bedeckende Flächen · Alle Flächen / Nur Mantel
 - Flächeneinheit
 
 
 
 
 
-**Hohlrohr**
+
+
+### Hohlrohr
+
+
 
 - Außendurchmesser
 - Außendurchmessereinheit
@@ -199,23 +267,33 @@ $$
 - Innendurchmessereinheit
 - Länge
 - Längeneinheit
+- Zu bedeckende Flächen · Alle Flächen / Nur Mantel / Mantel und ein Ende
 - Flächeneinheit
 
 
 
 
 
-**Hemisphäre**
+
+
+### Hemisphäre
+
+
 
 - Radius
 - Radiuseinheit
+- Zu bedeckende Flächen · Alle Flächen / Nur Mantel
 - Flächeneinheit
 
 
 
 
 
-**Ringtorus**
+
+
+### Ringtorus
+
+
 
 - Mittellinienradius
 - Einheit für den Mittelradius
@@ -226,6 +304,10 @@ $$
 
 
 
+
+
+
+**Quellen zur Methode** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST DLMF · Triaxial ellipsoids](<https://dlmf.nist.gov/19.33>)
 
 
 

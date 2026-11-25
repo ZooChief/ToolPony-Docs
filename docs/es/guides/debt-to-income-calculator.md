@@ -1,4 +1,4 @@
-# Calculadora de relación deuda-ingresos
+# Guía de uso · Calculadora de relación deuda-ingresos
 
 
 

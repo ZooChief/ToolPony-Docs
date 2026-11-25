@@ -1,4 +1,4 @@
-# Image color picker
+# Image color picker guide
 
 
 

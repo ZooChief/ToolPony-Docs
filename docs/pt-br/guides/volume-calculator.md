@@ -1,8 +1,8 @@
-# Calculadora de volumes
+# Guia de uso · Calculadora de volumes
 
 
 
-Calcule a capacidade de um tanque ou o volume de um sólido. Para um tubo oco, informe os raios interno e externo para obter o volume do material. Escolha litros ou unidades cúbicas.
+Calcule a capacidade de um tanque ou o volume de um sólido em litros ou unidades cúbicas. Use o diâmetro externo, o interno e o comprimento do tubo para obter o volume da parede.
 
 
 
@@ -48,6 +48,26 @@ Esfera com raio de 2 m
 
 
 
+[Executar exemplo](<https://toolpony.com/pt-br/tools/volume-calculator/#example-tank-fill-line>)
+
+
+
+
+
+## Parede e capacidade
+
+
+
+Em um tubo de um metro com diâmetro externo de 60 mm e interno de 48 mm, a parede ocupa cerca de 1,018 L e a capacidade interna é de 1,810 L. O CSV inclui os dois resultados e os diâmetros originais.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/volume-calculator/#example-pipe-wall>)
+
+
+
+
+
 
 
 ## Experimente
@@ -80,7 +100,11 @@ $$
 
 
 
-**Esfera**
+
+
+### Esfera
+
+
 
 - Raio
 - Unidade de raios
@@ -90,7 +114,11 @@ $$
 
 
 
-**Cone**
+
+
+### Cone
+
+
 
 - Raio
 - Unidade de raios
@@ -102,7 +130,11 @@ $$
 
 
 
-**Cubo**
+
+
+### Cubo
+
+
 
 - Comprimento da borda
 - Unidade de comprimento da borda
@@ -112,7 +144,11 @@ $$
 
 
 
-**Cilindro**
+
+
+### Cilindro
+
+
 
 - Raio
 - Unidade de raios
@@ -124,7 +160,11 @@ $$
 
 
 
-**Tanque retangular**
+
+
+### Tanque retangular
+
+
 
 - Comprimento
 - Unidade de comprimento
@@ -138,7 +178,11 @@ $$
 
 
 
-**Cápsula**
+
+
+### Cápsula
+
+
 
 - Raio
 - Unidade de raios
@@ -150,7 +194,11 @@ $$
 
 
 
-**Tampa esférica**
+
+
+### Tampa esférica
+
+
 
 - Raio da esfera
 - Unidade do raio da esfera
@@ -165,7 +213,11 @@ $$
 
 
 
-**Frusto cónico**
+
+
+### Frusto cónico
+
+
 
 - Raio da primeira extremidade
 - Unidade de raio de primeira extremidade
@@ -179,7 +231,11 @@ $$
 
 
 
-**Elipsoide**
+
+
+### Elipsoide
+
+
 
 - Primeiro semieixo
 - Primeira unidade de semieixo
@@ -193,7 +249,11 @@ $$
 
 
 
-**Pirâmide quadrada**
+
+
+### Pirâmide quadrada
+
+
 
 - Comprimento da borda
 - Unidade de comprimento da borda
@@ -205,7 +265,11 @@ $$
 
 
 
-**Tubo oco**
+
+
+### Tubo oco
+
+
 
 - Diâmetro exterior
 - Unidade de diâmetro exterior
@@ -219,7 +283,11 @@ $$
 
 
 
-**Hemisfério**
+
+
+### Hemisfério
+
+
 
 - Raio
 - Unidade de raios
@@ -229,7 +297,11 @@ $$
 
 
 
-**Toro anular**
+
+
+### Toro anular
+
+
 
 - Raio da linha central
 - Unidade de raio central
@@ -243,7 +315,7 @@ $$
 
 
 
-**Referências do método** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+**Referências do método** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST DLMF · Triaxial ellipsoids](<https://dlmf.nist.gov/19.33>)
 
 
 

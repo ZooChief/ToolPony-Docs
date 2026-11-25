@@ -1,8 +1,8 @@
-# Encoder et décoder en Base64
+# Guide pratique · Encoder et décoder en Base64
 
 
 
-Encoder le texte UTF-8 comme standard ou URL-safe Base64 et valider le texte décodé.
+Encodez du texte UTF-8 ou des octets hexadécimaux en Base64 ou Base64url et enregistrez les octets décodés.
 
 
 
@@ -34,6 +34,22 @@ aGVsbG8=
 
 
 
+<a id="case-study"></a>
+
+
+
+## Retrouver les octets d’un Base64url
+
+
+
+1. Choisissez décodage, alphabet URL et octets hexadécimaux. \_wCA7w donne FF 00 80 EF, avec un octet nul et une séquence UTF-8 invalide. Le téléchargement binaire conserve les quatre octets.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/base64-encoder-decoder/#example-binary-bytes>)
+
+
+
 
 
 ## Essayer
@@ -48,13 +64,13 @@ aGVsbG8=
 
 
 
-Le texte est converti en UTF-8. Le mode URL-safe utilise "-" et "\_" et omet le rembourrage en sortie. Jusqu'à 500 000 caractères d'entrée.
+Le format standard utilise + et /, le format URL - et \_ sans remplissage en sortie. Le texte UTF-8 est validé et garde le U+FEFF initial. Limites de 500 000 unités UTF-16 ou 500 000 octets.
 
 
 
 
 
-**Références de la méthode** [IETF · RFC 4648 (Base64)](<https://www.rfc-editor.org/rfc/rfc4648>)
+**Références de la méthode** [IETF · RFC 4648 (Base64)](<https://www.rfc-editor.org/rfc/rfc4648>) · [IETF · RFC 3629](<https://www.rfc-editor.org/rfc/rfc3629>)
 
 
 

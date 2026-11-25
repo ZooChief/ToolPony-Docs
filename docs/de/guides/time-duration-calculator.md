@@ -1,4 +1,4 @@
-# Zeitdauerrechner
+# Anleitung: Zeitdauerrechner
 
 
 
@@ -46,6 +46,22 @@ Berechnen Sie Zeitabstände und Dauern oder verschieben Sie Datum und Uhrzeit.
 
 
 
+<a id="case-study"></a>
+
+
+
+## Drei Aufnahmen zusammenzählen
+
+
+
+1. Die Aufnahmen dauern 47 min 35 s, 1 h 12 min 40 s und 8 min 15 s. Auf der gemeinsamen Zeitachse endet die zweite bei 02:00:15. Insgesamt sind es 02:08:30. Die exportierten Zwischenstände markieren die Schnittpunkte.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/time-duration-calculator/#example-recording-sessions>)
+
+
+
 
 
 ## Ausprobieren
@@ -78,7 +94,11 @@ $$
 
 
 
-**Zwischen Uhrzeiten**
+
+
+### Zwischen Uhrzeiten
+
+
 
 - Startzeit
 - Endzeit
@@ -89,7 +109,11 @@ $$
 
 
 
-**Dauern summieren**
+
+
+### Dauern summieren
+
+
 
 - Dauern
 
@@ -97,7 +121,11 @@ $$
 
 
 
-**Zwischen Datum und Uhrzeit**
+
+
+### Zwischen Datum und Uhrzeit
+
+
 
 - Startdatum
 - Startzeit
@@ -108,7 +136,11 @@ $$
 
 
 
-**Dauern addieren oder subtrahieren**
+
+
+### Dauern addieren oder subtrahieren
+
+
 
 - Erste Dauer
 - Rechenart · Addieren / Subtrahieren
@@ -118,7 +150,11 @@ $$
 
 
 
-**Datum und Uhrzeit verschieben**
+
+
+### Datum und Uhrzeit verschieben
+
+
 
 - Startdatum
 - Startzeit
@@ -129,7 +165,11 @@ $$
 
 
 
-**Zeitausdruck**
+
+
+### Zeitausdruck
+
+
 
 - Zeitausdruck
 

@@ -1,4 +1,4 @@
-# 연료비·연비 계산기
+# 연료비·연비 계산기 사용 가이드
 
 
 
@@ -34,6 +34,22 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## 영국식 연비 환산
+
+
+
+1. 영국 리뷰의 35 mpg는 영국 갤런 기준입니다. 입력을 영국식 mpg로 설정하면 약 8.07 L/100 km이며 미국식으로는 약 29.14 mpg입니다. 출력 단위를 바꿔 비교하세요.
+
+
+
+[예제 실행](<https://toolpony.com/ko/tools/fuel-cost-calculator/#example-uk-mileage>)
+
+
+
 
 
 ## 직접 사용해 보기
@@ -60,34 +76,55 @@
 
 
 
-**여행 비용**
 
-- 거리 · km
+
+### 여행 비용
+
+
+
+- 거리
+- 거리 단위 · km / mi
 - 연비
 - 연비 단위 · L/100 km / km/L / mpg (미국) / mpg (제국)
-- 리터당 가격
+- 주유 가격
+- 주유 가격 단위 · L / US gal / UK gal
 
 
 
 
 
-**재생유**
+
+
+### 재생유
+
+
 
 - 연비
 - 입력 단위 · L/100 km / km/L / mpg (미국) / mpg (제국)
+- 출력 단위 · L/100 km / km/L / mpg (미국) / mpg (제국)
 
 
 
 
 
-**측정 마일리지**
 
-- 거리 · km
-- 사용 된 연료 · L
 
+### 측정 마일리지
 
 
 
+- 거리
+- 거리 단위 · km / mi
+- 사용 된 연료
+- 부피 단위 · L / US gal / UK gal
+
+
+
+
+
+
+
+**계산 및 처리 방식의 출처** [NIST · Unit conversion factors](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>)
 
 
 

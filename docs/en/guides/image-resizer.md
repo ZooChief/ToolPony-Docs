@@ -1,4 +1,4 @@
-# Image resizer
+# Image resizer guide
 
 
 

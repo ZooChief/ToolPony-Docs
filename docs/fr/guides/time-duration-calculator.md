@@ -1,4 +1,4 @@
-# Calculateur de durées
+# Guide pratique · Calculateur de durées
 
 
 
@@ -46,6 +46,22 @@ De 22:30 à 06:15 le lendemain
 
 
 
+<a id="case-study"></a>
+
+
+
+## Additionner trois enregistrements
+
+
+
+1. Les prises durent 47 min 35 s, 1 h 12 min 40 s et 8 min 15 s. Une fois assemblées, la deuxième se termine à 02:00:15 et le montage à 02:08:30. Exportez les durées cumulées pour retrouver les points de coupe.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/time-duration-calculator/#example-recording-sessions>)
+
+
+
 
 
 ## Essayer
@@ -78,7 +94,11 @@ $$
 
 
 
-**Entre deux heures**
+
+
+### Entre deux heures
+
+
 
 - Heure de début
 - Heure de fin
@@ -89,7 +109,11 @@ $$
 
 
 
-**Additionner les durées**
+
+
+### Additionner les durées
+
+
 
 - Durées
 
@@ -97,7 +121,11 @@ $$
 
 
 
-**Entre deux dates et heures**
+
+
+### Entre deux dates et heures
+
+
 
 - Date de début
 - Heure de début
@@ -108,7 +136,11 @@ $$
 
 
 
-**Additionner ou soustraire des durées**
+
+
+### Additionner ou soustraire des durées
+
+
 
 - Première durée
 - Opération · Ajouter / Soustraire
@@ -118,7 +150,11 @@ $$
 
 
 
-**Décaler une date et une heure**
+
+
+### Décaler une date et une heure
+
+
 
 - Date de début
 - Heure de début
@@ -129,7 +165,11 @@ $$
 
 
 
-**Expression de durée**
+
+
+### Expression de durée
+
+
 
 - Expression de durée
 

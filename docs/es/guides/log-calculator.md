@@ -1,4 +1,4 @@
-# Calculadora de logaritmos
+# Guía de uso · Calculadora de logaritmos
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Logaritmo**
+
+
+### Logaritmo
+
+
 
 - Base (número o e)
 - Argumento
@@ -75,7 +79,11 @@ $$
 
 
 
-**Base**
+
+
+### Base
+
+
 
 - Argumento
 - Logaritmo
@@ -84,7 +92,11 @@ $$
 
 
 
-**Argumento**
+
+
+### Argumento
+
+
 
 - Base (número o e)
 - Logaritmo

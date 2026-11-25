@@ -1,4 +1,4 @@
-# 판매세·부가가치세 계산기
+# 판매세·부가가치세 계산기 사용 가이드
 
 
 
@@ -34,11 +34,23 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## 영수증에서 세율 구하기
+
+
+
+1. 세전 200.00, 결제액 217.00이면 차이는 17.00입니다. 세전 가격으로 나누면 8.5%입니다. 이 세율을 적용해 결제액을 확인하세요.
+
+
+
 
 
 ## 직접 사용해 보기
 
-[전체 도구 열기 · 판매세·부가가치세 계산기](<https://toolpony.com/ko/tools/sales-tax-calculator/>)
+[전체 도구 열기 · 판매세·부가가치세 계산기](<https://toolpony.com/ko/tools/sales-tax-calculator/#example-receipt-rate>)
 
 
 

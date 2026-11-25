@@ -1,4 +1,4 @@
-# 密度計算機
+# 密度計算機の使い方
 
 
 
@@ -48,7 +48,7 @@
 
 
 
-密度=質量体積。 インターフェースはkg、m3、およびkg/m3を使用します。
+密度は質量を体積で割った値です。計算ではキログラムと立方メートルにそろえ、結果を選択した単位に換算します。
 
 
 
@@ -57,6 +57,10 @@ $$
 $$
 
 
+
+
+
+**計算・処理の参考資料** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST · Unit conversion factors](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>)
 
 
 

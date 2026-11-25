@@ -1,4 +1,4 @@
-# Conversor de subtítulos
+# Guía de uso · Conversor de subtítulos
 
 
 

@@ -1,4 +1,4 @@
-# Logarithm calculator
+# Logarithm calculator guide
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Logarithm**
+
+
+### Logarithm
+
+
 
 - Base (number or e)
 - Argument
@@ -75,7 +79,11 @@ $$
 
 
 
-**Base**
+
+
+### Base
+
+
 
 - Argument
 - Logarithm
@@ -84,7 +92,11 @@ $$
 
 
 
-**Argument**
+
+
+### Argument
+
+
 
 - Base (number or e)
 - Logarithm

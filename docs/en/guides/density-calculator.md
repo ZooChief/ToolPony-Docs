@@ -1,4 +1,4 @@
-# Density calculator
+# Density calculator guide
 
 
 
@@ -48,7 +48,7 @@ Solve for mass, volume or density by entering any two values.
 
 
 
-Density = mass ÷ volume. The interface uses kg, m³ and kg/m³.
+Density is mass divided by volume. The calculation uses kg and cubic meters internally, then converts to your selected output unit.
 
 
 
@@ -57,6 +57,10 @@ $$
 $$
 
 
+
+
+
+**Method references** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST · Unit conversion factors](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>)
 
 
 

@@ -1,4 +1,4 @@
-# Triangle calculator
+# Triangle calculator guide
 
 
 
@@ -48,6 +48,23 @@ Two solutions, with c about 13.55923 and 3.76127.
 
 
 
+<a id="case-study"></a>
+
+
+
+## When two measurements give two triangles
+
+
+
+1. Take a = 7, b = 10 and A = 30°. Side a is opposite A. On the drawing the point can lie in two places, giving c of about 13.56 or 3.76. Compare the two diagrams and their dimensions.
+2. Change a to 5. It now equals b × sin A, so only one right triangle is possible. A side shorter than 5 cannot reach the ray. The angle table also gives radians and degrees, minutes and seconds.
+
+
+
+[Run example](<https://toolpony.com/en/tools/triangle-calculator/#example-two-triangles>)
+
+
+
 
 
 ## Try it
@@ -92,7 +109,11 @@ $$
 
 
 
-**Known measurements**
+
+
+### Known measurements
+
+
 
 - Side a
 - Side b
@@ -106,7 +127,11 @@ $$
 
 
 
-**Three sides (SSS)**
+
+
+### Three sides (SSS)
+
+
 
 - Side a
 - Side b
@@ -116,7 +141,11 @@ $$
 
 
 
-**Two sides and included angle (SAS)**
+
+
+### Two sides and included angle (SAS)
+
+
 
 - Side b
 - Side c
@@ -126,7 +155,11 @@ $$
 
 
 
-**Two angles and one side (ASA / AAS)**
+
+
+### Two angles and one side (ASA / AAS)
+
+
 
 - Angle A · °
 - Angle B · °
@@ -137,7 +170,11 @@ $$
 
 
 
-**Two sides and opposite angle (SSA)**
+
+
+### Two sides and opposite angle (SSA)
+
+
 
 - Side a
 - Side b
@@ -147,7 +184,11 @@ $$
 
 
 
-**Right triangle legs**
+
+
+### Right triangle legs
+
+
 
 - Side a
 - Side b
@@ -155,6 +196,10 @@ $$
 
 
 
+
+
+
+**Method references** [MathWorld · Law of sines](<https://mathworld.wolfram.com/LawofSines.html>)
 
 
 

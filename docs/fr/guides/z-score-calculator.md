@@ -1,4 +1,4 @@
-# Calculateur de score Z
+# Guide pratique · Calculateur de score Z
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Standardiser une valeur**
+
+
+### Standardiser une valeur
+
+
 
 - Valeur observée
 - Moyenne
@@ -76,7 +80,11 @@ $$
 
 
 
-**Du score Z aux probabilités**
+
+
+### Du score Z aux probabilités
+
+
 
 - Score Z
 
@@ -84,7 +92,11 @@ $$
 
 
 
-**De la probabilité au score Z**
+
+
+### De la probabilité au score Z
+
+
 
 - Région de probabilité · Probabilité à gauche / Probabilité à droite / Du centre à |z| / Entre −|z| et |z| / Probabilité bilatérale
 - Probabilité
@@ -93,7 +105,11 @@ $$
 
 
 
-**Probabilité entre deux scores Z**
+
+
+### Probabilité entre deux scores Z
+
+
 
 - Score Z inférieur
 - Score Z supérieur

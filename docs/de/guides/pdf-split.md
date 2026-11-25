@@ -1,4 +1,4 @@
-# PDF aufteilen
+# Anleitung: PDF aufteilen
 
 
 
@@ -54,6 +54,18 @@ Eine PDF mit Seiten 5, 1, 2 und 3 in dieser Reihenfolge
 ## Ausprobieren
 
 [Vollständiges Werkzeug öffnen · PDF aufteilen](<https://toolpony.com/de/tools/pdf-split/>)
+
+
+
+
+
+## Hinweise
+
+
+
+Bis zu 30 MB und 300 Seiten. Jede Seite darf nur einmal vorkommen. Die PDF-Dateien im ZIP dürfen zusammen 64 MB nicht überschreiten. Formulare, Lesezeichen und Signaturen können verloren gehen. Bei bis zu acht Seiten können Sie die Auswahl leeren und die Seitenzahlen in der gewünschten Reihenfolge antippen. Bei längeren Dokumenten lassen sich gerade oder ungerade Seiten auf einmal wählen.
+
+
 
 
 

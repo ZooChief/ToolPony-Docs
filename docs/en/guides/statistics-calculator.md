@@ -1,4 +1,4 @@
-# Statistics calculator
+# Statistics calculator guide
 
 
 
@@ -76,7 +76,11 @@ Use sample standard deviation for a subset of a population and population standa
 
 
 
-**Dataset summary**
+
+
+### Dataset summary
+
+
 
 - Values
 
@@ -84,7 +88,11 @@ Use sample standard deviation for a subset of a population and population standa
 
 
 
-**Sample standard deviation**
+
+
+### Sample standard deviation
+
+
 
 - Values
 
@@ -92,7 +100,11 @@ Use sample standard deviation for a subset of a population and population standa
 
 
 
-**Population standard deviation**
+
+
+### Population standard deviation
+
+
 
 - Values
 

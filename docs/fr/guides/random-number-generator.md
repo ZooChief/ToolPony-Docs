@@ -1,8 +1,8 @@
-# Générateur de nombres aléatoires
+# Guide pratique · Générateur de nombres aléatoires
 
 
 
-Générer des entiers aléatoires dans une gamme inclusive, avec une singularité et un tri optionnels.
+Tirez des entiers au hasard, bornes comprises, avec tri et tirage sans répétition au choix.
 
 
 
@@ -34,6 +34,22 @@ Cinq entiers aléatoires de 1 à 10
 
 
 
+<a id="case-study"></a>
+
+
+
+## Tirer quatre billets
+
+
+
+1. Numérotez 12 billets de 101 à 112 et tirez-en quatre sans remise. Triez pour annoncer les numéros, puis désactivez le tri pour revenir à l’ordre du tirage. Le CSV conserve le rang initial de chaque billet.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/random-number-generator/#example-ticket-draw>)
+
+
+
 
 
 ## Essayer
@@ -51,6 +67,10 @@ Cinq entiers aléatoires de 1 à 10
 Les nombres aléatoires proviennent de Web Crypto. L’échantillonnage par rejet évite le biais modulo. Générez jusqu’à 1 000 entiers entre −1 000 000 000 et 1 000 000 000.
 
 
+
+
+
+**Références de la méthode** [W3C · Web Cryptography](<https://www.w3.org/TR/WebCryptoAPI/#Crypto-method-getRandomValues>)
 
 
 

@@ -1,4 +1,4 @@
-# Calculadora de distancias
+# Guía de uso · Calculadora de distancias
 
 
 
@@ -74,7 +74,11 @@ Para las coordenadas geográficas, norte y este son positivas. Utilice el modo d
 
 
 
-**2D**
+
+
+### 2D
+
+
 
 - X1
 - Y1
@@ -85,7 +89,11 @@ Para las coordenadas geográficas, norte y este son positivas. Utilice el modo d
 
 
 
-**3D**
+
+
+### 3D
+
+
 
 - X1
 - Y1
@@ -98,7 +106,11 @@ Para las coordenadas geográficas, norte y este son positivas. Utilice el modo d
 
 
 
-**Latitud y longitud**
+
+
+### Latitud y longitud
+
+
 
 - Primera latitud · °
 - Primera longitud · °
@@ -109,7 +121,11 @@ Para las coordenadas geográficas, norte y este son positivas. Utilice el modo d
 
 
 
-**Grados, minutos y segundos**
+
+
+### Grados, minutos y segundos
+
+
 
 - Primer grado de latitud
 - Primeros minutos de latitud

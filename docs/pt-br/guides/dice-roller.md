@@ -1,8 +1,8 @@
-# Rolador de dados
+# Guia de uso · Rolador de dados
 
 
 
-Role um ou mais dados com lados personalizados, compare totais e veja cada rolo.
+Escolha o número de dados e de faces e veja cada valor e a soma.
 
 
 
@@ -17,7 +17,7 @@ Role um ou mais dados com lados personalizados, compare totais e veja cada rolo.
 
 
 ```
-3 dados, 6 lados
+3 dados de 6 faces
 ```
 
 
@@ -27,10 +27,26 @@ Role um ou mais dados com lados personalizados, compare totais e veja cada rolo.
 
 
 ```
-Três rostos e sua soma
+Três valores e sua soma
 ```
 
 
+
+
+
+<a id="case-study"></a>
+
+
+
+## Chegar a dez com dois dados
+
+
+
+1. Dois dados de seis faces atingem 10 em 6 dos 36 resultados ordenados (16,67%). Com um modificador de +1, as faces se mantêm e 10 resultados atingem a meta (27,78%).
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/dice-roller/#example-two-dice>)
 
 
 
@@ -48,9 +64,13 @@ Três rostos e sua soma
 
 
 
-Cada dado usa um desenho Web Crypto uniforme independente. Role até 100 dados, com 2 a 1.000 lados cada.
+Cada dado usa um sorteio uniforme e independente com Web Crypto. É possível rolar até 100 dados de 2 a 1.000 faces cada.
 
 
+
+
+
+**Referências do método** [W3C · Web Cryptography](<https://www.w3.org/TR/WebCryptoAPI/#Crypto-method-getRandomValues>)
 
 
 

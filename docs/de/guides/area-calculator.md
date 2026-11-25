@@ -1,4 +1,4 @@
-# Flächenrechner
+# Anleitung: Flächenrechner
 
 
 
@@ -31,6 +31,23 @@ Ein Rechteck 4 m mal 3 m
 ```
 
 
+
+
+
+<a id="case-study"></a>
+
+
+
+## Fläche und Schnittlänge eines Rings
+
+
+
+1. Bei 60 mm Außendurchmesser und einer Öffnung von 40 mm sind die Radien 30 und 20 mm. Wähle mm² als Flächeneinheit.
+2. Die Materialfläche beträgt 500π mm², etwa 1.570,80 mm². Beide Schnitte ergeben 100π mm oder etwa 314,16 mm. Der Export enthält beide Umfänge und die Eingabemaße.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/area-calculator/#example-gasket>)
 
 
 
@@ -72,7 +89,11 @@ $$
 
 
 
-**Rechteck**
+
+
+### Rechteck
+
+
 
 - Länge
 - Längeneinheit
@@ -84,17 +105,25 @@ $$
 
 
 
-**Quadrat**
 
-- Kantenlänge
-- Kantenlängeneinheit
+
+### Quadrat
+
+
+
+- Seitenlänge
+- Einheit der Seitenlänge
 - Flächeneinheit
 
 
 
 
 
-**Dreieck · drei Seiten**
+
+
+### Dreieck · drei Seiten
+
+
 
 - erste Seite
 - erste Seiteneinheit
@@ -108,10 +137,14 @@ $$
 
 
 
-**Dreieck · Basis und Höhe**
 
-- erste Parallelseite
-- erste Parallelseiteneinheit
+
+### Dreieck · Basis und Höhe
+
+
+
+- Grundseite
+- Einheit der Grundseite
 - Senkrechte Höhe
 - Senkrechte Höheneinheit
 - Flächeneinheit
@@ -120,7 +153,11 @@ $$
 
 
 
-**Trapez**
+
+
+### Trapez
+
+
 
 - erste Parallelseite
 - erste Parallelseiteneinheit
@@ -134,7 +171,11 @@ $$
 
 
 
-**Kreis**
+
+
+### Kreis
+
+
 
 - Radius
 - Radiuseinheit
@@ -144,19 +185,27 @@ $$
 
 
 
-**Kreissektor**
+
+
+### Kreissektor
+
+
 
 - Radius
 - Radiuseinheit
 - Mittelwinkel
-- Winkeleinheit · Grad / Radianten
+- Winkeleinheit · Grad / Radiant
 - Flächeneinheit
 
 
 
 
 
-**Ellipse**
+
+
+### Ellipse
+
+
 
 - Erste Halbachse
 - Erste Halbachseneinheit
@@ -168,10 +217,14 @@ $$
 
 
 
-**Parallelogramm**
 
-- erste Parallelseite
-- erste Parallelseiteneinheit
+
+### Parallelogramm
+
+
+
+- Grundseite
+- Einheit der Grundseite
 - Senkrechte Höhe
 - Senkrechte Höheneinheit
 - Flächeneinheit
@@ -180,7 +233,11 @@ $$
 
 
 
-**Kreisring**
+
+
+### Kreisring
+
+
 
 - Außendurchmesser
 - Außendurchmessereinheit
@@ -192,10 +249,14 @@ $$
 
 
 
-**Regelmäßiges Polygon**
 
-- Kantenlänge
-- Kantenlängeneinheit
+
+### Regelmäßiges Polygon
+
+
+
+- Seitenlänge
+- Einheit der Seitenlänge
 - Seitenanzahl
 - Flächeneinheit
 
@@ -205,7 +266,7 @@ $$
 
 
 
-**Quellen zur Methode** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+**Quellen zur Methode** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST DLMF · Lengths of plane curves](<https://dlmf.nist.gov/19.30>)
 
 
 

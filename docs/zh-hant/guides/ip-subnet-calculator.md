@@ -1,4 +1,4 @@
-# IP 子網計算器
+# IP 子網計算器使用指南
 
 
 
@@ -29,6 +29,38 @@
 ```
 網絡 192.0.2.128/27，可用主機 30 個
 ```
+
+
+
+
+
+<a id="case-study"></a>
+
+
+
+## 覈對網段邊界
+
+
+
+1. 192.0.2.128/27 含首末地址，末地址 .159 是 IPv4 廣播地址。下一個地址 .160 已在網段之外。輸入 IPv6 地址會標明版本不同。
+
+
+
+[運行示例](<https://toolpony.com/zh-hant/tools/ip-subnet-calculator/#example-subnet-boundary>)
+
+
+
+
+
+## 兩個 IPv6 端點
+
+
+
+2001:db8::8/127 包含 ::8 和 ::9，分別爲第 1 和第 2 個地址。IPv6 沒有廣播地址。
+
+
+
+[運行示例](<https://toolpony.com/zh-hant/tools/ip-subnet-calculator/#example-ipv6-endpoints>)
 
 
 
@@ -74,7 +106,11 @@ IPv4 可輸入前綴長度或連續位的點分掩碼。192.0.2.129 與 255.255.
 
 
 
-**IPv4**
+
+
+### IPv4
+
+
 
 - IPv4 地址或 CIDR
 - 前綴或子網掩碼
@@ -84,7 +120,11 @@ IPv4 可輸入前綴長度或連續位的點分掩碼。192.0.2.129 與 255.255.
 
 
 
-**IPv6**
+
+
+### IPv6
+
+
 
 - IPv6 地址或 CIDR
 - 前綴
@@ -93,7 +133,11 @@ IPv4 可輸入前綴長度或連續位的點分掩碼。192.0.2.129 與 255.255.
 
 
 
-**檢查地址歸屬**
+
+
+### 檢查地址歸屬
+
+
 
 - CIDR 網段
 - 待檢查地址
@@ -101,6 +145,10 @@ IPv4 可輸入前綴長度或連續位的點分掩碼。192.0.2.129 與 255.255.
 
 
 
+
+
+
+**方法來源** [IETF · RFC 4632 (CIDR)](<https://www.rfc-editor.org/rfc/rfc4632>) · [IETF · RFC 3021 (/31 links)](<https://www.rfc-editor.org/rfc/rfc3021>) · [IETF · RFC 5952 (IPv6 text)](<https://www.rfc-editor.org/rfc/rfc5952>)
 
 
 

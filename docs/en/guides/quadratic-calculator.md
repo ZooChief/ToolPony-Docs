@@ -1,4 +1,4 @@
-# Quadratic formula calculator
+# Quadratic formula calculator guide
 
 
 

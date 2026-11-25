@@ -1,8 +1,8 @@
-# Lanceur de dés
+# Guide pratique · Lanceur de dés
 
 
 
-Rouler un ou plusieurs dés avec les côtés personnalisés, comparer les totaux et voir chaque rouleau.
+Choisissez le nombre de dés et de faces, puis consultez chaque valeur et le total.
 
 
 
@@ -17,7 +17,7 @@ Rouler un ou plusieurs dés avec les côtés personnalisés, comparer les totaux
 
 
 ```
-3 dés, 6 côtés
+3 dés à 6 faces
 ```
 
 
@@ -27,10 +27,26 @@ Rouler un ou plusieurs dés avec les côtés personnalisés, comparer les totaux
 
 
 ```
-Trois visages et leur somme
+Les trois valeurs et leur somme
 ```
 
 
+
+
+
+<a id="case-study"></a>
+
+
+
+## Atteindre dix avec deux dés
+
+
+
+1. Deux dés à six faces atteignent 10 dans 6 des 36 issues ordonnées (16,67 %). Avec un bonus de +1, les faces restent identiques et 10 issues atteignent le seuil (27,78 %).
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/dice-roller/#example-two-dice>)
 
 
 
@@ -48,9 +64,13 @@ Trois visages et leur somme
 
 
 
-Chaque matrice utilise un tirage Web Crypto uniforme indépendant. Rouler jusqu'à 100 dés, avec 2 à 1000 côtés chacun.
+Chaque dé utilise un tirage uniforme indépendant via Web Crypto. Lancez jusqu’à 100 dés de 2 à 1 000 faces chacun.
 
 
+
+
+
+**Références de la méthode** [W3C · Web Cryptography](<https://www.w3.org/TR/WebCryptoAPI/#Crypto-method-getRandomValues>)
 
 
 

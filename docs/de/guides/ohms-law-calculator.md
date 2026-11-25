@@ -1,4 +1,4 @@
-# Ohmsches Gesetz Rechner
+# Anleitung: Ohmsches Gesetz Rechner
 
 
 

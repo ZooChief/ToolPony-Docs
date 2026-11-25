@@ -1,4 +1,4 @@
-# Calculatrice de distance
+# Guide pratique · Calculatrice de distance
 
 
 
@@ -74,7 +74,11 @@ Pour les coordonnées géographiques, le nord et l'est sont positifs. Utilisez l
 
 
 
-**2D**
+
+
+### 2D
+
+
 
 - X1
 - Y1
@@ -85,7 +89,11 @@ Pour les coordonnées géographiques, le nord et l'est sont positifs. Utilisez l
 
 
 
-**3D**
+
+
+### 3D
+
+
 
 - X1
 - Y1
@@ -98,7 +106,11 @@ Pour les coordonnées géographiques, le nord et l'est sont positifs. Utilisez l
 
 
 
-**Latitude et longitude**
+
+
+### Latitude et longitude
+
+
 
 - Première latitude · °
 - Première longitude · °
@@ -109,7 +121,11 @@ Pour les coordonnées géographiques, le nord et l'est sont positifs. Utilisez l
 
 
 
-**Degrés, minutes et secondes**
+
+
+### Degrés, minutes et secondes
+
+
 
 - Première latitude degrés
 - Première minute de latitude

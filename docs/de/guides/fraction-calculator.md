@@ -1,4 +1,4 @@
-# Bruchrechner
+# Anleitung: Bruchrechner
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Arithmetisch**
+
+
+### Arithmetisch
+
+
 
 - Erste Nummer
 - Rechenoperation · Additiv / Subtraktion / Multiplikation / Teilung
@@ -76,7 +80,11 @@ $$
 
 
 
-**Vereinfachen oder Konvertieren**
+
+
+### Vereinfachen oder Konvertieren
+
+
 
 - Nummer
 
@@ -84,7 +92,11 @@ $$
 
 
 
-**Bruch bis Dezimalzahl**
+
+
+### Bruch bis Dezimalzahl
+
+
 
 - Fraktion oder gemischte Zahl
 - Dezimalstellen

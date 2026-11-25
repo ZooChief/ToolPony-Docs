@@ -1,4 +1,4 @@
-# Calculatrice de quantité de carreaux
+# Guide pratique · Calculatrice de quantité de carreaux
 
 
 
@@ -88,7 +88,11 @@ Le modèle de couverture utilise une longueur et une largeur efficaces pour chaq
 
 
 
-**Zone connue**
+
+
+### Zone connue
+
+
 
 - Longueur du carrelage
 - Unité de longueur du carrelage
@@ -107,7 +111,11 @@ Le modèle de couverture utilise une longueur et une largeur efficaces pour chaq
 
 
 
-**Salle rectangulaire**
+
+
+### Salle rectangulaire
+
+
 
 - Longueur du carrelage
 - Unité de longueur du carrelage

@@ -1,4 +1,4 @@
-# Calculadora de prazo de retorno
+# Guia de uso · Calculadora de prazo de retorno
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Fluxos de caixa regulares ou em crescimento**
+
+
+### Fluxos de caixa regulares ou em crescimento
+
+
 
 - Investimento inicial
 - Fluxo de caixa do primeiro ano
@@ -78,7 +82,11 @@ $$
 
 
 
-**Fluxos de caixa anuais irregulares**
+
+
+### Fluxos de caixa anuais irregulares
+
+
 
 - Investimento inicial
 - Fluxos de caixa anuais subsequentes

@@ -1,4 +1,4 @@
-# Calculatrice d’équations du second degré
+# Guide pratique · Calculatrice d’équations du second degré
 
 
 

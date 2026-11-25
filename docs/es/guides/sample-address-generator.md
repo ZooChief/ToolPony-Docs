@@ -1,4 +1,4 @@
-# Generador de direcciones ficticias
+# Guía de uso · Generador de direcciones ficticias
 
 
 
@@ -51,6 +51,23 @@ Deutschland
 
 
 
+<a id="case-study"></a>
+
+
+
+## Comprobar una dirección canadiense con unidad
+
+
+
+1. Con la semilla label-review, genera dos direcciones de prueba de Ontario con unidad y sin datos de contacto. Los mismos ajustes reproducen el mismo par.
+2. En el texto, la unidad precede al número del edificio y se separa con un guion. En la línea de la ciudad, ON va seguido de dos espacios y el código postal. El JSON incluye además los campos por separado.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/sample-address-generator/#example-canadian-label>)
+
+
+
 
 
 ## Pruébalo
@@ -68,6 +85,10 @@ Deutschland
 Hasta 100 ejemplos por lote. La localidad y el código postal ilustran el formato. La calle y el destinatario son sintéticos. El teléfono usa números reservados o máscaras. Para pruebas de formularios y software.
 
 
+
+
+
+**Fuentes del método** [USPS · Publication 28, §213](<https://pe.usps.com/text/pub28/28c2_003.htm>) · [Canada Post · Civic address](<https://www.canadapost-postescanada.ca/cpc/en/support/articles/addressing-guidelines/civic-address.page>)
 
 
 

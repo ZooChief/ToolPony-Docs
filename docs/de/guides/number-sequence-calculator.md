@@ -1,4 +1,4 @@
-# Folgenrechner
+# Anleitung: Folgenrechner
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Arithmetisch**
+
+
+### Arithmetisch
+
+
 
 - Erstes Glied
 - Differenz
@@ -76,7 +80,11 @@ $$
 
 
 
-**Geometrisch**
+
+
+### Geometrisch
+
+
 
 - Erstes Glied
 - Quotient
@@ -86,7 +94,11 @@ $$
 
 
 
-**Fibonacci**
+
+
+### Fibonacci
+
+
 
 - Index
 

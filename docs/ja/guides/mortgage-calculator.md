@@ -1,4 +1,4 @@
-# 住宅ローン計算機
+# 住宅ローン計算機の使い方
 
 
 
@@ -57,6 +57,10 @@ I_k=r B_{k-1},\qquad B_k=B_{k-1}-(M_k-I_k)
 $$
 
 
+
+
+
+**計算・処理の参考資料** [CFPB · Mortgage amortization](<https://www.consumerfinance.gov/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/>)
 
 
 

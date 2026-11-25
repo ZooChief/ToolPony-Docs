@@ -1,4 +1,4 @@
-# Calculatrice d’aire
+# Guide pratique · Calculatrice d’aire
 
 
 
@@ -31,6 +31,23 @@ Un rectangle de 4 m sur 3 m
 ```
 
 
+
+
+
+<a id="case-study"></a>
+
+
+
+## Découper un anneau
+
+
+
+1. Pour un joint plat de diamètre extérieur 60 mm avec un trou de 40 mm, saisissez des rayons de 30 et 20 mm. Choisissez mm² pour l’aire.
+2. L’aire vaut 500π mm², soit environ 1 570,80 mm². Les deux découpes totalisent 100π mm, soit environ 314,16 mm. Le fichier contient chaque circonférence et les mesures saisies.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/area-calculator/#example-gasket>)
 
 
 
@@ -72,7 +89,11 @@ $$
 
 
 
-**Rectangle**
+
+
+### Rectangle
+
+
 
 - Longueur
 - Unité de longueur
@@ -84,17 +105,25 @@ $$
 
 
 
-**Carré**
 
-- Longueur des bords
-- Unité de longueur des bords
+
+### Carré
+
+
+
+- Longueur du côté
+- Unité du côté
 - Unité de surface
 
 
 
 
 
-**Triangle · trois côtés**
+
+
+### Triangle · trois côtés
+
+
 
 - Premier côté
 - Première unité latérale
@@ -108,10 +137,14 @@ $$
 
 
 
-**Triangle · base et hauteur**
 
-- Premier côté parallèle
-- Première unité parallèle latérale
+
+### Triangle · base et hauteur
+
+
+
+- Longueur de la base
+- Unité de la base
 - Hauteur du perpendiculaire
 - Unité de hauteur perpendiculaire
 - Unité de surface
@@ -120,7 +153,11 @@ $$
 
 
 
-**Trapèze**
+
+
+### Trapèze
+
+
 
 - Premier côté parallèle
 - Première unité parallèle latérale
@@ -134,7 +171,11 @@ $$
 
 
 
-**Cercle**
+
+
+### Cercle
+
+
 
 - Rayon
 - Unité de rayonnement
@@ -144,19 +185,27 @@ $$
 
 
 
-**Secteur circulaire**
+
+
+### Secteur circulaire
+
+
 
 - Rayon
 - Unité de rayonnement
 - Angle central
-- Unité d'angle · Diplômes / Radians
+- Unité d’angle · Degrés / Radians
 - Unité de surface
 
 
 
 
 
-**Ellipse**
+
+
+### Ellipse
+
+
 
 - Première semi-axe
 - Première unité semi-axe
@@ -168,10 +217,14 @@ $$
 
 
 
-**Parallélogramme**
 
-- Premier côté parallèle
-- Première unité parallèle latérale
+
+### Parallélogramme
+
+
+
+- Longueur de la base
+- Unité de la base
 - Hauteur du perpendiculaire
 - Unité de hauteur perpendiculaire
 - Unité de surface
@@ -180,7 +233,11 @@ $$
 
 
 
-**Couronne circulaire**
+
+
+### Couronne circulaire
+
+
 
 - Rayon extérieur
 - Unité de rayon extérieur
@@ -192,10 +249,14 @@ $$
 
 
 
-**Polygone régulier**
 
-- Longueur des bords
-- Unité de longueur des bords
+
+### Polygone régulier
+
+
+
+- Longueur du côté
+- Unité du côté
 - Nombre de côtés
 - Unité de surface
 
@@ -205,7 +266,7 @@ $$
 
 
 
-**Références de la méthode** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+**Références de la méthode** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST DLMF · Lengths of plane curves](<https://dlmf.nist.gov/19.30>)
 
 
 

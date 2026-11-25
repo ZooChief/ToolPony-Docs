@@ -1,4 +1,4 @@
-# Lector de códigos QR
+# Guía de uso · Lector de códigos QR
 
 
 

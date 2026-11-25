@@ -1,4 +1,4 @@
-# Primfaktorzerlegung
+# Anleitung: Primfaktorzerlegung
 
 
 

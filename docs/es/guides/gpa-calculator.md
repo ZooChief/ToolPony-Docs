@@ -1,4 +1,4 @@
-# Calculadora de promedio GPA
+# Guía de uso · Calculadora de promedio GPA
 
 
 
@@ -74,7 +74,11 @@ A+ a través de F utilizar el mapeo de 4,3 puntos. P, NP, I, y W se omiten de la
 
 
 
-**Grados del curso**
+
+
+### Grados del curso
+
+
 
 - Curso, créditos, grado, plazo opcional y bonificación
 - Formato de grado · Cartas / Porcentaje / Puntos
@@ -85,7 +89,11 @@ A+ a través de F utilizar el mapeo de 4,3 puntos. P, NP, I, y W se omiten de la
 
 
 
-**Objetivo de Plan GPA**
+
+
+### Objetivo de Plan GPA
+
+
 
 - GPA actual
 - Objetivo GPA

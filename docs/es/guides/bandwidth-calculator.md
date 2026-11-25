@@ -1,4 +1,4 @@
-# Calculadora de ancho de banda
+# Guía de uso · Calculadora de ancho de banda
 
 
 
@@ -48,9 +48,13 @@ Tiempo estimado de transferencia del tamaño del archivo, velocidad de enlace y 
 
 
 
-Tiempo en segundos = bytes de archivo × 8 ÷ bits efectivos por segundo. Los prefijos de la red son decimales. El tamaño de archivo soporta prefijos decimales y binarios.
+Tiempo en segundos = tamaño en bytes × 8 ÷ tasa efectiva en bits por segundo. 1 MB/s equivale a 1.000.000 bytes por segundo y 1 MiB/s a 1.048.576. La eficiencia ajusta la velocidad disponible.
 
 
+
+
+
+**Fuentes del método** [NIST · Binary prefixes](<https://physics.nist.gov/cuu/Units/binary.html>)
 
 
 

@@ -1,4 +1,4 @@
-# Day of the week
+# Day of the week guide
 
 
 

@@ -1,8 +1,8 @@
-# Convertisseur Unicode
+# Guide pratique · Convertisseur Unicode
 
 
 
-Convertir le texte en points de code Unicode, en octets hexadécimaux UTF-8 ou en sorties UTF-16, et les décoder en texte.
+Convertissez points de code, octets UTF-8 et échappements JavaScript. Examinez les caractères et comparez leurs formes normalisées.
 
 
 
@@ -34,6 +34,22 @@ U+1F434 ou F0 9F 90 B4
 
 
 
+<a id="case-study"></a>
+
+
+
+## Comparer deux écritures de é
+
+
+
+1. Un e suivi de U+0301, une espace et 🐴 totalisent 3 graphèmes, 4 points de code, 5 unités UTF-16 et 8 octets UTF-8. En NFC, l’accent forme U+00E9 et le total passe à 7 octets. 🐴 reste un point de code et deux unités UTF-16.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/unicode-converter/#example-combining-accent>)
+
+
+
 
 
 ## Essayer
@@ -60,23 +76,48 @@ Le mode code-point traite un caractère supplémentaire comme un scalaire. UTF-1
 
 
 
-**Encoder le texte**
+
+
+### Encoder le texte
+
+
 
 - Entrée
-- Encodage · Points de code Unicode / Octets UTF-8 hexadécimaux / Séquences d’échappement UTF-16 JavaScript
+- Encodage · Points de code Unicode / Octets UTF-8 hexadécimaux / Séquences d’échappement UTF-16 JavaScript / Échappements JS par point de code
 
 
 
 
 
-**Décoder le texte**
+
+
+### Décoder le texte
+
+
 
 - Entrée
-- Encodage · Points de code Unicode / Octets UTF-8 hexadécimaux / Séquences d’échappement UTF-16 JavaScript
+- Encodage · Points de code Unicode / Octets UTF-8 hexadécimaux / Séquences d’échappement UTF-16 JavaScript / Échappements JS par point de code
 
 
 
 
+
+
+
+### Examiner les caractères
+
+
+
+- Entrée
+- Normalisation · Original / NFC / NFD / NFKC / NFKD
+
+
+
+
+
+
+
+**Références de la méthode** [IETF · RFC 3629](<https://www.rfc-editor.org/rfc/rfc3629>) · [Unicode · UAX \#15](<https://www.unicode.org/reports/tr15/>)
 
 
 

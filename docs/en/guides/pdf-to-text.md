@@ -1,4 +1,4 @@
-# PDF to text
+# PDF to text guide
 
 
 
@@ -31,17 +31,17 @@ Select pages, then copy the text or download TXT or page-numbered JSON.
 
 
 ```
-A PDF whose first two pages read One and Two. Select 2, 1 and JSON.
+Mixed PDF, JSON output, pages 3, 2, 1. Page 2 contains only a blue swatch.
 ```
 
-[Example · PDF](<https://toolpony.com/samples/toolpony-pages.pdf>)
+[Example · PDF](<https://toolpony.com/samples/toolpony-mixed-pages.pdf>)
 
 ### Expected result
 
 
 
 ```
-[{"page":2,"text":"Two"},{"page":1,"text":"One"}]
+[{"page":3,"text":"Total 42"},{"page":2,"text":""},{"page":1,"text":"Order 417"}]
 ```
 
 
@@ -74,7 +74,7 @@ A PDF whose first two pages read One and Two. Select 2, 1 and JSON.
 
 ## Try it
 
-[Open full tool · PDF to text](<https://toolpony.com/en/tools/pdf-to-text/>)
+[Open full tool · PDF to text](<https://toolpony.com/en/tools/pdf-to-text/#example-mixed-pdf>)
 
 
 
@@ -84,7 +84,7 @@ A PDF whose first two pages read One and Two. Select 2, 1 and JSON.
 
 
 
-TXT uses a form feed between pages. Extraction follows the document’s text order; multi-column layouts may read differently. Scanned pages require OCR.
+TXT uses a form feed between pages. Extraction follows the document’s text order; multi-column layouts may read differently. Scanned pages require OCR. For up to eight pages, clear the selection and tap the page numbers in the order you want. Longer documents also have odd and even page shortcuts.
 
 
 

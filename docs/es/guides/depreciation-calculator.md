@@ -1,4 +1,4 @@
-# Calculadora de depreciación
+# Guía de uso · Calculadora de depreciación
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Directo**
+
+
+### Directo
+
+
 
 - Costo del activo
 - Valor de salvación
@@ -77,7 +81,11 @@ $$
 
 
 
-**Saldo de declinación**
+
+
+### Saldo de declinación
+
+
 
 - Costo del activo
 - Valor de salvación
@@ -89,7 +97,11 @@ $$
 
 
 
-**Dígitos de sumo año**
+
+
+### Dígitos de sumo año
+
+
 
 - Costo del activo
 - Valor de salvación

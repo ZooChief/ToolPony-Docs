@@ -1,8 +1,8 @@
-# Unicode converter
+# Unicode converter guide
 
 
 
-Convert text to Unicode code points, UTF-8 hexadecimal bytes or UTF-16 escapes, and decode them back to text.
+Convert code points, UTF-8 bytes and JavaScript escapes. Inspect characters and compare Unicode normalization forms.
 
 
 
@@ -34,6 +34,22 @@ U+1F434 or F0 9F 90 B4
 
 
 
+<a id="case-study"></a>
+
+
+
+## Compare two spellings of é
+
+
+
+1. Inspect e followed by U+0301, a space and 🐴. The original has 3 grapheme clusters, 4 code points, 5 UTF-16 code units and 8 UTF-8 bytes. Select NFC. The accent combines into U+00E9 and the UTF-8 length falls to 7 bytes. The horse stays one code point and two UTF-16 units.
+
+
+
+[Run example](<https://toolpony.com/en/tools/unicode-converter/#example-combining-accent>)
+
+
+
 
 
 ## Try it
@@ -60,23 +76,48 @@ Code-point mode treats a supplementary character as one scalar. UTF-16 uses two 
 
 
 
-**Encode text**
+
+
+### Encode text
+
+
 
 - Input
-- Encoding · Unicode code points / UTF-8 hexadecimal bytes / JavaScript UTF-16 escapes
+- Encoding · Unicode code points / UTF-8 hexadecimal bytes / JavaScript UTF-16 escapes / JavaScript code point escapes
 
 
 
 
 
-**Decode text**
+
+
+### Decode text
+
+
 
 - Input
-- Encoding · Unicode code points / UTF-8 hexadecimal bytes / JavaScript UTF-16 escapes
+- Encoding · Unicode code points / UTF-8 hexadecimal bytes / JavaScript UTF-16 escapes / JavaScript code point escapes
 
 
 
 
+
+
+
+### Inspect characters
+
+
+
+- Input
+- Normalization · Original / NFC / NFD / NFKC / NFKD
+
+
+
+
+
+
+
+**Method references** [IETF · RFC 3629](<https://www.rfc-editor.org/rfc/rfc3629>) · [Unicode · UAX \#15](<https://www.unicode.org/reports/tr15/>)
 
 
 

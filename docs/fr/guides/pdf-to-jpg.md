@@ -1,4 +1,4 @@
-# Convertir un PDF en JPG ou PNG
+# Guide pratique · Convertir un PDF en JPG ou PNG
 
 
 
@@ -52,6 +52,18 @@ Un PNG de 1224 × 1584 pixels
 ## Essayer
 
 [Ouvrir l’outil complet · Convertir un PDF en JPG ou PNG](<https://toolpony.com/fr/tools/pdf-to-jpg/>)
+
+
+
+
+
+## Notes
+
+
+
+Entrée limitée à 30 Mo et 300 pages. Chaque export est limité à 40 pages et 60 mégapixels, chaque page à 24 mégapixels et 8192 pixels par côté. Les images du ZIP sont limitées à 64 Mo. Le fond est blanc. Les PDF chiffrés sont refusés. Jusqu’à huit pages, effacez la sélection puis touchez les numéros dans l’ordre voulu. Pour un document plus long, sélectionnez toutes les pages paires ou impaires en une fois.
+
+
 
 
 

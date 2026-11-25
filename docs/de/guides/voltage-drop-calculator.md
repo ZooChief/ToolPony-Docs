@@ -1,4 +1,4 @@
-# Spannungsfallrechner
+# Anleitung: Spannungsfallrechner
 
 
 
@@ -47,6 +47,54 @@ Schätzen Sie den Spannungsfall für Gleichstrom, Einphasenstrom und symmetrisch
 
 
 
+<a id="case-study"></a>
+
+
+
+## Kabeltabelle anwenden
+
+
+
+1. Bei 1 mV/(A·m), 50 m einfacher Länge und 100 A fallen 5 V ab. Im Schneider-Beispiel kommen davor 10 V hinzu, insgesamt 15 V.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/voltage-drop-calculator/#example-cable-table>)
+
+
+
+
+
+## Parallele Drehstromleitung
+
+
+
+Je Phase teilen sich zwei Leitungen 20 A. Bei 400 V, 100 m, R = 1 Ω/km, X = 0,5 Ω/km und induktivem Leistungsfaktor 0,8 ergeben sich 1,91 V Spannungsfall und 398,09 V an der Last.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/voltage-drop-calculator/#example-parallel-cable>)
+
+
+
+
+
+
+
+## Spannungsfall über Versorgung
+
+
+
+24 V DC, 10 A, 1 km einfache Länge und 5 Ω/km ergeben 100 V Spannungsfall. Für diesen Strom liefert das Modell keine Lastspannung.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/voltage-drop-calculator/#example-cable-limit>)
+
+
+
+
+
 
 
 ## Ausprobieren
@@ -85,10 +133,16 @@ $$
 
 
 
-**Bekannter Widerstand oder Impedanz**
 
+
+### Bekannter Widerstand oder Impedanz
+
+
+
+- Angabe im Datenblatt · Leiterimpedanz / Spannungsfallkoeffizient
 - Widerstand oder Impedanz je Länge
 - Einheit je Länge · Ω/km / Ω/m / mΩ/m / Ω/1000 ft / Ω/ft / mΩ/ft
+- Tabellenwert des Stromkreises · mV/(A·m)
 - Spannung · V
 - Schaltung · DC / Einphasen-Wechselstrom / Drehstrom
 - Parallele Leiter je Phase
@@ -101,7 +155,11 @@ $$
 
 
 
-**Nach Drahtstärke schätzen**
+
+
+### Nach Drahtstärke schätzen
+
+
 
 - Material · Kupfer / Aluminium / Silber / Gold
 - Drahtgröße
@@ -117,7 +175,11 @@ $$
 
 
 
-**Nach Querschnitt schätzen**
+
+
+### Nach Querschnitt schätzen
+
+
 
 - Material · Kupfer / Aluminium / Silber / Gold
 - Querschnittsfläche · mm²
@@ -133,7 +195,11 @@ $$
 
 
 
-**Widerstand und Reaktanz**
+
+
+### Widerstand und Reaktanz
+
+
 
 - Widerstand
 - Reaktanz je Länge
@@ -150,6 +216,10 @@ $$
 
 
 
+
+
+
+**Quellen zur Methode** [Schneider Electric · Voltage drop in steady load conditions](<https://www.electrical-installation.org/enwiki/Calculation_of_voltage_drop_in_steady_load_conditions>)
 
 
 

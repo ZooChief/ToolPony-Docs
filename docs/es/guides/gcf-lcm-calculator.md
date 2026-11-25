@@ -1,4 +1,4 @@
-# Calculadora de MCD y mcm
+# Guía de uso · Calculadora de MCD y mcm
 
 
 

@@ -1,8 +1,8 @@
-# Générateur de code QR
+# Guide pratique · Générateur de code QR
 
 
 
-Choisissez le type puis saisissez le lien, le texte ou les champs demandés. Générez le code, vérifiez son contenu puis téléchargez un PNG pour le partage ou un SVG pour l’impression. Choisissez au besoin une couleur HEX sombre à six chiffres. La bordure blanche est conservée dans les deux formats.
+Choisissez le type puis saisissez le lien, le texte ou les champs demandés. Le code se met à jour pendant la saisie. Pour un réseau Wi-Fi ou un contact, vérifiez les données encodées avant l’export PNG ou SVG. Choisissez une couleur sombre ou saisissez six chiffres HEX. Les deux formats gardent la marge blanche.
 
 
 
@@ -13,8 +13,8 @@ Choisissez le type puis saisissez le lien, le texte ou les champs demandés. Gé
 
 
 1. Choisissez le type puis saisissez le lien, le texte ou les champs demandés.
-2. Générez le code, vérifiez son contenu puis téléchargez un PNG pour le partage ou un SVG pour l’impression.
-3. Choisissez au besoin une couleur HEX sombre à six chiffres. La bordure blanche est conservée dans les deux formats.
+2. Le code se met à jour pendant la saisie. Pour un réseau Wi-Fi ou un contact, vérifiez les données encodées avant l’export PNG ou SVG.
+3. Choisissez une couleur sombre ou saisissez six chiffres HEX. Les deux formats gardent la marge blanche.
 
 
 
@@ -31,7 +31,7 @@ Choisissez le type puis saisissez le lien, le texte ou les champs demandés. Gé
 
 
 ```
-https://example.com/
+https://example.com/ · M · 512 px
 ```
 
 
@@ -41,7 +41,7 @@ https://example.com/
 
 
 ```
-https://example.com/
+PNG · 512 × 512 px → https://example.com/
 ```
 
 
@@ -65,6 +65,10 @@ https://example.com/
 Les codes statiques contiennent les données saisies. Jusqu’à 2 048 octets UTF-8, moins avec une correction élevée. La bordure blanche préserve quatre modules. Un code Wi-Fi contient le mot de passe saisi.
 
 
+
+
+
+**Références de la méthode** [DENSO WAVE · QR error correction](<https://www.qrcode.com/en/about/error_correction.html>)
 
 
 

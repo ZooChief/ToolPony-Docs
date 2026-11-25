@@ -1,4 +1,4 @@
-# Long division calculator
+# Long division calculator guide
 
 
 

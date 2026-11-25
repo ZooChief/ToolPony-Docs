@@ -1,4 +1,4 @@
-# Calculadora de ecuaciones cuadráticas
+# Guía de uso · Calculadora de ecuaciones cuadráticas
 
 
 

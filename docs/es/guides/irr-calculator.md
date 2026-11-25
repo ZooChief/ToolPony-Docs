@@ -1,4 +1,4 @@
-# Calculadora de tasa interna de retorno
+# Guía de uso · Calculadora de tasa interna de retorno
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Corrientes anuales irregulares**
+
+
+### Corrientes anuales irregulares
+
+
 
 - Inversión inicial
 - Corrientes de efectivo anuales posteriores
@@ -75,7 +79,11 @@ $$
 
 
 
-**Corrientes fijas y equilibrio final**
+
+
+### Corrientes fijas y equilibrio final
+
+
 
 - Inversión inicial
 - Años completos

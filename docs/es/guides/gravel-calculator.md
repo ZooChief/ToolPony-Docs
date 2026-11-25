@@ -1,4 +1,4 @@
-# Calculadora de grava
+# Guía de uso · Calculadora de grava
 
 
 
@@ -79,7 +79,11 @@ $$
 
 
 
-**Área conocida**
+
+
+### Área conocida
+
+
 
 - Área
 - Unidad de superficie · cm² / m² / in² / ft² / yd² / acre / ¡Ja!
@@ -98,7 +102,11 @@ $$
 
 
 
-**Rectángulo**
+
+
+### Rectángulo
+
+
 
 - Largo
 - Unidad de largo · mm / cm / m / dentro / ft / Yd
@@ -119,7 +127,11 @@ $$
 
 
 
-**Círculo**
+
+
+### Círculo
+
+
 
 - Diámetro
 - Unidad de diámetro · mm / cm / m / dentro / ft / Yd

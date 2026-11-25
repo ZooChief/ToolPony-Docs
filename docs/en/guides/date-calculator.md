@@ -1,4 +1,4 @@
-# Date calculator
+# Date calculator guide
 
 
 
@@ -73,7 +73,11 @@ Business days are Monday through Friday excluding your dates. Use YYYY-MM-DD onc
 
 
 
-**Between dates**
+
+
+### Between dates
+
+
 
 - Start date
 - End date
@@ -84,7 +88,11 @@ Business days are Monday through Friday excluding your dates. Use YYYY-MM-DD onc
 
 
 
-**Add or subtract dates**
+
+
+### Add or subtract dates
+
+
 
 - Start date
 - Years
@@ -96,7 +104,11 @@ Business days are Monday through Friday excluding your dates. Use YYYY-MM-DD onc
 
 
 
-**Shift by business days**
+
+
+### Shift by business days
+
+
 
 - Start date
 - Business days

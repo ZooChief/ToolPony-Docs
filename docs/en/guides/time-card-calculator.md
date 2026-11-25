@@ -1,4 +1,4 @@
-# Time card calculator
+# Time card calculator guide
 
 
 

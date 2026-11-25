@@ -1,4 +1,4 @@
-# Descomposición en factores primos
+# Guía de uso · Descomposición en factores primos
 
 
 

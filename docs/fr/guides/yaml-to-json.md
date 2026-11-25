@@ -1,4 +1,4 @@
-# YAML en JSON
+# Guide pratique · YAML en JSON
 
 
 

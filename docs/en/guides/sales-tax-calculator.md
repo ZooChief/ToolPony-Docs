@@ -1,4 +1,4 @@
-# Sales tax and VAT calculator
+# Sales tax and VAT calculator guide
 
 
 
@@ -34,11 +34,23 @@ Gross 120, tax 20
 
 
 
+<a id="case-study"></a>
+
+
+
+## Recover the rate on a receipt
+
+
+
+1. A receipt shows 200.00 before tax and 217.00 paid. The difference is 17.00. Dividing by the before-tax price gives 8.5%. Apply the rate to 200 to check the receipt total.
+
+
+
 
 
 ## Try it
 
-[Open full tool · Sales tax and VAT calculator](<https://toolpony.com/en/tools/sales-tax-calculator/>)
+[Open full tool · Sales tax and VAT calculator](<https://toolpony.com/en/tools/sales-tax-calculator/#example-receipt-rate>)
 
 
 

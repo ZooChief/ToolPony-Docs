@@ -1,4 +1,4 @@
-# Calculadora da relação dívida-renda
+# Guia de uso · Calculadora da relação dívida-renda
 
 
 

@@ -1,4 +1,4 @@
-# Wurzelrechner
+# Anleitung: Wurzelrechner
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Quadratwurzel**
+
+
+### Quadratwurzel
+
+
 
 - Radikand
 
@@ -74,7 +78,11 @@ $$
 
 
 
-**Kubikwurzel**
+
+
+### Kubikwurzel
+
+
 
 - Radikand
 
@@ -82,7 +90,11 @@ $$
 
 
 
-**n-te Wurzel**
+
+
+### n-te Wurzel
+
+
 
 - Radikand
 - Höhe

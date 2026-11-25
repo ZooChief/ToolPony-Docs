@@ -1,4 +1,4 @@
-# CSV 비교
+# CSV 비교 사용 가이드
 
 
 
@@ -73,7 +73,7 @@ Qty,ID,Name
 
 ## 직접 사용해 보기
 
-[전체 도구 열기 · CSV 비교](<https://toolpony.com/ko/tools/csv-compare/>)
+[전체 도구 열기 · CSV 비교](<https://toolpony.com/ko/tools/csv-compare/#example-inventory>)
 
 
 

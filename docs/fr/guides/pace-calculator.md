@@ -1,4 +1,4 @@
-# Calculatrice d’allure de course
+# Guide pratique · Calculatrice d’allure de course
 
 
 
@@ -34,6 +34,23 @@ Résolvez le rythme, le temps écoulé et la distance. Comparez les rythmes frac
 
 
 
+<a id="case-study"></a>
+
+
+
+## Lire deux temps de passage
+
+
+
+1. La montre indique 3:25 au km 1 et 6:55 au km 2. En temps cumulés, le deuxième kilomètre dure 3:30 et l’allure moyenne est de 3:27,5/km.
+2. Pour un marathon en 4:00:00 avec un passage par kilomètre, le dernier segment mesure 195 m. Le dernier passage affiche exactement 4:00:00.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/pace-calculator/#example-watch-checkpoints>)
+
+
+
 
 
 ## Essayer
@@ -48,7 +65,7 @@ Résolvez le rythme, le temps écoulé et la distance. Comparez les rythmes frac
 
 
 
-Le temps écoulé est divisé par la distance. Le temps de fin extrapole le rythme constant. Les lignes fractionnées utilisent l'unité de distance sélectionnée et acceptent jusqu'à 100 lignes.
+L’allure moyenne est le temps total divisé par la distance totale. Deux champs indiquent les minutes et secondes, trois ajoutent les heures. Saisissez jusqu’à 100 segments mesurés ou planifiez 500 passages à allure constante.
 
 
 
@@ -66,59 +83,99 @@ $$
 
 
 
-**Trouvez le rythme et le temps de finition**
+
+
+### Allure et temps final
+
+
 
 - Distance
-- Unité de distance · km / - Oui. / m / yd
-- Temps écoulé (hh:mm:ss)
-- Allure par · km / - Oui. / 100 m / 100 ans
-- Distance cible · 5 km / 10 km / Demi-marathon / Marathon / km sur mesure
+- Unité de distance · km / mi / m / yd
+- Temps écoulé
+- Allure par · km / mi / 100 m / 100 ans
+- Distance visée · 5 km / 10 km / Demi-marathon / Marathon / Autre distance (km)
 - Distance de course personnalisée · km
 
 
 
 
 
-**Trouver le temps écoulé**
+
+
+### Calculer le temps
+
+
 
 - Distance
-- Unité de distance · km / - Oui. / m / yd
+- Unité de distance · km / mi / m / yd
 - Allure (min:s)
-- Allure par · km / - Oui. / 100 m / 100 ans
+- Allure par · km / mi / 100 m / 100 ans
 
 
 
 
 
-**Trouver la distance**
 
-- Temps écoulé (hh:mm:ss)
+
+### Calculer la distance
+
+
+
+- Temps écoulé
 - Allure (min:s)
-- Allure par · km / - Oui. / 100 m / 100 ans
+- Allure par · km / mi / 100 m / 100 ans
 
 
 
 
 
-**Convertir les unités de rythme**
+
+
+### Convertir l’allure
+
+
 
 - Allure (min:s)
-- Allure par · km / - Oui. / 100 m / 100 ans
+- Allure par · km / mi / 100 m / 100 ans
 
 
 
 
 
-**Comparer les scissions**
 
-- Distance, temps écoulé par ligne
-- Unité de distance · km / - Oui. / m / yd
-- Allure par · km / - Oui. / 100 m / 100 ans
-- Les lignes sont des points de contrôle cumulatifs
+
+### Comparer les temps partiels
 
 
 
+- Segments
+- Unité de distance · km / mi / m / yd
+- Allure par · km / mi / 100 m / 100 ans
+- Distance et temps cumulés par ligne
 
+
+
+
+
+
+
+### Plan de passages
+
+
+
+- Distance visée · 5 km / 10 km / Demi-marathon / Marathon / Autre distance (km)
+- Distance de course personnalisée · km
+- Temps final visé
+- Intervalle entre passages · 1 km / 1 mi / 400 m / 100 m / 5 km / 10 km
+- Allure par · km / mi / 100 m / 100 ans
+
+
+
+
+
+
+
+**Références de la méthode** [World Athletics · Marathon](<https://worldathletics.org/disciplines/road-running-event/marathon>) · [NIST · Unit conversion factors](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>)
 
 
 

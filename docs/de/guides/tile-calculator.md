@@ -1,4 +1,4 @@
-# Fliesenrechner
+# Anleitung: Fliesenrechner
 
 
 
@@ -88,7 +88,11 @@ Das Abdeckungsmodell verwendet eine effektive Länge und Breite für jede Kachel
 
 
 
-**Bekanntes Gebiet**
+
+
+### Bekanntes Gebiet
+
+
 
 - Länge der Fliesen
 - Längeneinheit für Fliesen
@@ -107,7 +111,11 @@ Das Abdeckungsmodell verwendet eine effektive Länge und Breite für jede Kachel
 
 
 
-**Rechteckiger Raum**
+
+
+### Rechteckiger Raum
+
+
 
 - Länge der Fliesen
 - Längeneinheit für Fliesen

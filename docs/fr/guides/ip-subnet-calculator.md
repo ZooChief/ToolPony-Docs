@@ -1,4 +1,4 @@
-# Calculateur de sous-réseau IP
+# Guide pratique · Calculateur de sous-réseau IP
 
 
 
@@ -29,6 +29,38 @@ Inspectez les réseaux IPv4 et IPv6, les masques, les gammes et le nombre d'adre
 ```
 Réseau 192.0.2.128/27, 30 hôtes utilisables
 ```
+
+
+
+
+
+<a id="case-study"></a>
+
+
+
+## Vérifier une limite de préfixe
+
+
+
+1. 192.0.2.128/27 se termine à .159 inclus, adresse de diffusion IPv4. .160 est hors préfixe et une adresse IPv6 appartient à une autre famille.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/ip-subnet-calculator/#example-subnet-boundary>)
+
+
+
+
+
+## Deux extrémités IPv6
+
+
+
+2001:db8::8/127 contient ::8 et ::9 aux positions 1 et 2. IPv6 ne définit pas d’adresse de diffusion.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/ip-subnet-calculator/#example-ipv6-endpoints>)
 
 
 
@@ -74,7 +106,11 @@ La catégorie de taille du préfixe suit la convention A/B/C de l’outil de ré
 
 
 
-**IPv4**
+
+
+### IPv4
+
+
 
 - Adresse IPv4 ou CIDR
 - Masque préfixe ou sous-net
@@ -84,7 +120,11 @@ La catégorie de taille du préfixe suit la convention A/B/C de l’outil de ré
 
 
 
-**IPv6**
+
+
+### IPv6
+
+
 
 - Adresse IPv6 ou CIDR
 - Préfixe
@@ -93,7 +133,11 @@ La catégorie de taille du préfixe suit la convention A/B/C de l’outil de ré
 
 
 
-**Vérifier l'adresse de l'adhésion**
+
+
+### Vérifier l'adresse de l'adhésion
+
+
 
 - Réseau CIDR
 - Adresse à vérifier
@@ -101,6 +145,10 @@ La catégorie de taille du préfixe suit la convention A/B/C de l’outil de ré
 
 
 
+
+
+
+**Références de la méthode** [IETF · RFC 4632 (CIDR)](<https://www.rfc-editor.org/rfc/rfc4632>) · [IETF · RFC 3021 (/31 links)](<https://www.rfc-editor.org/rfc/rfc3021>) · [IETF · RFC 5952 (IPv6 text)](<https://www.rfc-editor.org/rfc/rfc5952>)
 
 
 

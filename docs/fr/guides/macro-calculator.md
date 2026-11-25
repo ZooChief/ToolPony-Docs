@@ -1,4 +1,4 @@
-# Calculatrice de macronutriments
+# Guide pratique · Calculatrice de macronutriments
 
 
 
@@ -34,6 +34,23 @@ Conversion d'une cible calorifique et des rapports nutriments en grammes, ou cal
 
 
 
+<a id="case-study"></a>
+
+
+
+## Répartir une recette en trois portions
+
+
+
+1. La recette contient 30 g de protéines, 60 g de glucides et 10 g de lipides. Les facteurs généraux 4/4/9 donnent 450 kcal. Chaque tiers apporte 150 kcal, 10 g de protéines, 20 g de glucides et environ 3,33 g de lipides.
+2. Sur un produit emballé, les fibres ou polyols peuvent avoir leurs propres facteurs. Une même quantité en grammes peut alors donner une énergie différente.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/macro-calculator/#example-three-servings>)
+
+
+
 
 
 ## Essayer
@@ -48,7 +65,7 @@ Conversion d'une cible calorifique et des rapports nutriments en grammes, ou cal
 
 
 
-Le calcul utilise 4 kcal/g pour les protéines et glucides et 9 kcal/g pour les lipides. En mode objectif, la somme des pourcentages doit être de 100 %.
+Les facteurs énergétiques généraux sont de 4 kcal/g pour les protéines et glucides et de 9 kcal/g pour les lipides. Un pourcentage vide complète le total à 100 %. Des portions égales divisent chaque nutriment et l’énergie par le même nombre.
 
 
 
@@ -60,26 +77,41 @@ Le calcul utilise 4 kcal/g pour les protéines et glucides et 9 kcal/g pour les 
 
 
 
-**Cible en grammes**
+
+
+### Énergie vers grammes
+
+
 
 - Énergie totale · kcal
 - Protéines · %
 - Glucides · %
 - Lipides · %
+- Attribuer le reste · Déduire du champ vide / Manuel / Protéines / Glucides / Lipides
+- Portions
 
 
 
 
 
-**Grams à l'énergie**
+
+
+### Grammes vers énergie
+
+
 
 - Protéines · g
 - Glucides · g
 - Lipides · g
+- Portions
 
 
 
 
+
+
+
+**Références de la méthode** [21 CFR 101.9(c)(1) · General energy factors](<https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-101/subpart-A/section-101.9>)
 
 
 

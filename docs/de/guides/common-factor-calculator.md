@@ -1,4 +1,4 @@
-# Rechner für gemeinsame Teiler
+# Anleitung: Rechner für gemeinsame Teiler
 
 
 

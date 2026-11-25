@@ -1,4 +1,4 @@
-# Z-Wert-Rechner
+# Anleitung: Z-Wert-Rechner
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Wert standardisieren**
+
+
+### Wert standardisieren
+
+
 
 - Beobachteter Wert
 - Mittelwert
@@ -76,7 +80,11 @@ $$
 
 
 
-**Z-Wert in Wahrscheinlichkeiten**
+
+
+### Z-Wert in Wahrscheinlichkeiten
+
+
 
 - Z-Wert
 
@@ -84,7 +92,11 @@ $$
 
 
 
-**Wahrscheinlichkeit in Z-Wert**
+
+
+### Wahrscheinlichkeit in Z-Wert
+
+
 
 - Wahrscheinlichkeitsbereich · Linke Randwahrscheinlichkeit / Rechte Randwahrscheinlichkeit / Von der Mitte bis |z| / Zwischen −|z| und |z| / Zweiseitige Wahrscheinlichkeit
 - Wahrscheinlichkeit
@@ -93,7 +105,11 @@ $$
 
 
 
-**Wahrscheinlichkeit zwischen Z-Werten**
+
+
+### Wahrscheinlichkeit zwischen Z-Werten
+
+
 
 - Unterer Z-Wert
 - Oberer Z-Wert

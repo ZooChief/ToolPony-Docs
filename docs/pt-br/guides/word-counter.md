@@ -1,4 +1,4 @@
-# Contador de palavras e caracteres
+# Guia de uso · Contador de palavras e caracteres
 
 
 

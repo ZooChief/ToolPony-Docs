@@ -1,4 +1,4 @@
-# Dreiecksrechner
+# Anleitung: Dreiecksrechner
 
 
 
@@ -48,6 +48,23 @@ Zwei Lösungen mit c ≈ 13,55923 und 3,76127.
 
 
 
+<a id="case-study"></a>
+
+
+
+## Wann zwei Dreiecke möglich sind
+
+
+
+1. Setze a = 7, b = 10 und A = 30°. Seite a liegt gegenüber von A. Zwei mögliche Eckpunkte ergeben für c etwa 13,56 oder 3,76. Vergleiche beide Skizzen und Maße.
+2. Bei a = 5 gilt a = b × sin A. Es gibt genau ein rechtwinkliges Dreieck. Bei a unter 5 entsteht kein Dreieck. Die Winkeltabelle enthält auch Bogenmaß und Grad, Minuten, Sekunden.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/triangle-calculator/#example-two-triangles>)
+
+
+
 
 
 ## Ausprobieren
@@ -92,7 +109,11 @@ $$
 
 
 
-**Bekannte Werte**
+
+
+### Bekannte Werte
+
+
 
 - Seite a
 - Seite b
@@ -106,7 +127,11 @@ $$
 
 
 
-**Drei Seiten (SSS)**
+
+
+### Drei Seiten (SSS)
+
+
 
 - Seite a
 - Seite b
@@ -116,7 +141,11 @@ $$
 
 
 
-**Zwei Seiten und Zwischenwinkel (SWS)**
+
+
+### Zwei Seiten und Zwischenwinkel (SWS)
+
+
 
 - Seite b
 - Seite c
@@ -126,7 +155,11 @@ $$
 
 
 
-**Zwei Winkel und eine Seite (WSW / SWW)**
+
+
+### Zwei Winkel und eine Seite (WSW / SWW)
+
+
 
 - Winkel A · °
 - Winkel B · °
@@ -137,7 +170,11 @@ $$
 
 
 
-**Zwei Seiten und Gegenwinkel (SSW)**
+
+
+### Zwei Seiten und Gegenwinkel (SSW)
+
+
 
 - Seite a
 - Seite b
@@ -147,7 +184,11 @@ $$
 
 
 
-**Katheten eines rechtwinkligen Dreiecks**
+
+
+### Katheten eines rechtwinkligen Dreiecks
+
+
 
 - Seite a
 - Seite b
@@ -155,6 +196,10 @@ $$
 
 
 
+
+
+
+**Quellen zur Methode** [MathWorld · Law of sines](<https://mathworld.wolfram.com/LawofSines.html>)
 
 
 

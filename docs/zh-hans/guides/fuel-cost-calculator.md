@@ -1,4 +1,4 @@
-# 油耗与油费计算器
+# 油耗与油费计算器使用指南
 
 
 
@@ -34,6 +34,22 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## 换算英国车评的油耗
+
+
+
+1. 一篇英国车评写着 35 mpg。选择英制 mpg 作为输入，得到约 8.07 L/100 km，相当于美制约 29.14 mpg。切换输出单位可以直接比较同一次行程。
+
+
+
+[运行示例](<https://toolpony.com/zh-hans/tools/fuel-cost-calculator/#example-uk-mileage>)
+
+
+
 
 
 ## 试一试
@@ -60,34 +76,55 @@
 
 
 
-**行程油费**
 
-- 距离 · km
+
+### 行程油费
+
+
+
+- 距离
+- 距离单位 · km / mi
 - 油耗
 - 油耗单位 · L/100 km / km/L / mpg (US) / mpg（英制）
-- 每升价格
+- 油价
+- 油价单位 · L / US gal / UK gal
 
 
 
 
 
-**换算油耗**
+
+
+### 换算油耗
+
+
 
 - 油耗
 - 输入单位 · L/100 km / km/L / mpg (US) / mpg（英制）
+- 输出单位 · L/100 km / km/L / mpg (US) / mpg（英制）
 
 
 
 
 
-**实测油耗**
 
-- 距离 · km
-- 用油量 · L
 
+### 实测油耗
 
 
 
+- 距离
+- 距离单位 · km / mi
+- 用油量
+- 体积单位 · L / US gal / UK gal
+
+
+
+
+
+
+
+**方法来源** [NIST · Unit conversion factors](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>)
 
 
 

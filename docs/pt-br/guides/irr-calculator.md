@@ -1,4 +1,4 @@
-# Calculadora de taxa interna de retorno
+# Guia de uso · Calculadora de taxa interna de retorno
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Fluxos anuais irregulares**
+
+
+### Fluxos anuais irregulares
+
+
 
 - Investimento inicial
 - Fluxos de caixa anuais subsequentes
@@ -75,7 +79,11 @@ $$
 
 
 
-**Fluxos fixos e saldo final**
+
+
+### Fluxos fixos e saldo final
+
+
 
 - Investimento inicial
 - Anos inteiros

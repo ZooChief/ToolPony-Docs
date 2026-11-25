@@ -1,4 +1,4 @@
-# Root calculator
+# Root calculator guide
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Square root**
+
+
+### Square root
+
+
 
 - Radicand
 
@@ -74,7 +78,11 @@ $$
 
 
 
-**Cube root**
+
+
+### Cube root
+
+
 
 - Radicand
 
@@ -82,7 +90,11 @@ $$
 
 
 
-**Nth root**
+
+
+### Nth root
+
+
 
 - Radicand
 - Degree

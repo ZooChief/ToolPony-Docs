@@ -1,4 +1,4 @@
-# Calculadora de sub-redes IP
+# Guia de uso · Calculadora de sub-redes IP
 
 
 
@@ -29,6 +29,38 @@ Inspecione redes IPv4 e IPv6, máscaras, intervalos e contagens de endereços, o
 ```
 Rede 192.0.2.128/27, 30 hosts utilizáveis
 ```
+
+
+
+
+
+<a id="case-study"></a>
+
+
+
+## Verificar um limite de sub-rede
+
+
+
+1. 192.0.2.128/27 inclui .159, seu endereço de broadcast IPv4. .160 fica fora e IPv6 pertence a outra família.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/ip-subnet-calculator/#example-subnet-boundary>)
+
+
+
+
+
+## Dois terminais IPv6
+
+
+
+2001:db8::8/127 contém ::8 e ::9, nas posições 1 e 2. IPv6 não usa endereço de broadcast.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/ip-subnet-calculator/#example-ipv6-endpoints>)
 
 
 
@@ -74,7 +106,11 @@ A categoria de tamanho de prefixo segue a convenção A/B/C da ferramenta de com
 
 
 
-**IPv4**
+
+
+### IPv4
+
+
 
 - Endereço IPv4 ou CIDR
 - Máscara de pré-fixação ou sub-rede
@@ -84,7 +120,11 @@ A categoria de tamanho de prefixo segue a convenção A/B/C da ferramenta de com
 
 
 
-**IPv6**
+
+
+### IPv6
+
+
 
 - Endereço IPv6 ou CIDR
 - Prefixo
@@ -93,7 +133,11 @@ A categoria de tamanho de prefixo segue a convenção A/B/C da ferramenta de com
 
 
 
-**Verificar a associação do endereço**
+
+
+### Verificar a associação do endereço
+
+
 
 - Rede CIDR
 - Endereço a verificar
@@ -101,6 +145,10 @@ A categoria de tamanho de prefixo segue a convenção A/B/C da ferramenta de com
 
 
 
+
+
+
+**Referências do método** [IETF · RFC 4632 (CIDR)](<https://www.rfc-editor.org/rfc/rfc4632>) · [IETF · RFC 3021 (/31 links)](<https://www.rfc-editor.org/rfc/rfc3021>) · [IETF · RFC 5952 (IPv6 text)](<https://www.rfc-editor.org/rfc/rfc5952>)
 
 
 

@@ -1,8 +1,8 @@
-# Verificador de contraste
+# Guia de uso · Verificador de contraste
 
 
 
-Compare duas cores opacas com os limites de contraste da WCAG 2.2.
+Verifique o contraste de texto e componentes sobre camadas opacas ou translúcidas e teste uma cor que atinja os limites WCAG.
 
 
 
@@ -45,6 +45,11 @@ Compare duas cores opacas com os limites de contraste da WCAG 2.2.
 1. Teste \#777777 sobre branco. A razão é de aproximadamente 4,48:1. O valor com uma casa decimal parece 4,5, mas a avaliação usa o valor sem arredondar e o texto normal fica abaixo do nível AA das WCAG.
 2. Teste \#767676 no mesmo fundo. A razão sobe para cerca de 4,54:1 e o texto normal atinge AA. Ambos atingem o limite de 3:1 para texto grande.
 3. Confira as cores realmente exibidas. Para texto sobre uma imagem ou camada translúcida, colete as cores finais no ponto de menor contraste do fundo. O resultado vale para o par de cores sólidas informado.
+4. Sobre branco, \#00000080 resulta em \#7F7F7F e cerca de 4,00:1. A sugestão \#767676 atinge 4,54:1 para texto normal.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/contrast-checker/#example-translucent-text>)
 
 
 
@@ -68,7 +73,7 @@ A razão divide (luminância clara + 0,05) por (luminância escura + 0,05). A av
 
 
 
-**Referências do método** [W3C · WCAG 2.2 (1.4.3, AA)](<https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html>) · [W3C · WCAG 2.2 (1.4.6, AAA)](<https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced.html>)
+**Referências do método** [W3C · WCAG 2.2 (1.4.3, AA)](<https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html>) · [W3C · WCAG 2.2 (1.4.6, AAA)](<https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced.html>) · [W3C · Non-text contrast](<https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html>) · [W3C · Source-over compositing](<https://www.w3.org/TR/compositing-1/#simplealphacompositing>)
 
 
 

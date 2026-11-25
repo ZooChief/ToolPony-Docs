@@ -1,8 +1,8 @@
-# Calculatrice d’intervalle de confiance
+# Guide pratique · Calculatrice d’intervalle de confiance
 
 
 
-Estimer un intervalle moyen normal ou un intervalle Wilson pour une proportion.
+Estimez une moyenne à partir de données ou de statistiques résumées avec z ou Student, et une proportion avec Wilson.
 
 
 
@@ -34,6 +34,38 @@ n = 36, moyenne 56, écart type 8, 99%
 
 
 
+<a id="case-study"></a>
+
+
+
+## Un intervalle avec cinq mesures
+
+
+
+1. Les mesures 48, 49, 50, 51 et 52 ont une moyenne de 50. Avec l’écart-type de l’échantillon et quatre degrés de liberté, l’intervalle de Student à 95 % va de 48,04 à 51,96 environ. Le calcul suppose des observations indépendantes et une population approximativement normale.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/confidence-interval-calculator/#example-five-measurements>)
+
+
+
+
+
+## Aucun défaut sur 30 contrôles
+
+
+
+Trente contrôles indépendants donnent zéro défaut. L’intervalle de Wilson à 95 % pour la proportion de défauts s’étend de 0 % à environ 11,35 %. Davantage de contrôles sans défaut le resserrent.
+
+
+
+[Essayer l’exemple](<https://toolpony.com/fr/tools/confidence-interval-calculator/#example-no-failures>)
+
+
+
+
+
 
 
 ## Essayer
@@ -48,7 +80,7 @@ n = 36, moyenne 56, écart type 8, 99%
 
 
 
-La marge normale est de z fois l'erreur standard s/ √n. Les intervalles de score de Wilson ajustent le centre et la largeur pour les proportions et restent à l'intérieur \[0,1\].
+La marge vaut valeur critique × écart-type / √n. Utilisez z si σ est connu et Student à n − 1 degrés de liberté avec un écart-type d’échantillon. Wilson estime une proportion binomiale à partir des succès et essais.
 
 
 
@@ -72,18 +104,28 @@ $$
 
 
 
-**Intervalle moyen normal**
 
+
+### Intervalle de la moyenne
+
+
+
+- Source des données · σ connu / s observé / Observations
 - Taille de l'échantillon
 - Moyenne
 - Écart-type
+- Valeurs observées
 - Niveau de confiance · %
 
 
 
 
 
-**Intervalle de proportion de Wilson**
+
+
+### Intervalle de proportion de Wilson
+
+
 
 - Taille de l'échantillon
 - Succès
@@ -92,6 +134,10 @@ $$
 
 
 
+
+
+
+**Références de la méthode** [NIST · Confidence limits for the mean](<https://www.itl.nist.gov/div898/handbook/eda/section3/eda352.htm>) · [NIST · Confidence limits for a proportion](<https://www.itl.nist.gov/div898/handbook/prc/section2/prc241.htm>)
 
 
 

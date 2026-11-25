@@ -1,4 +1,4 @@
-# Rechner für den internen Zinsfuß
+# Anleitung: Rechner für den internen Zinsfuß
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Unregelmäßige jährliche Stromgrößen**
+
+
+### Unregelmäßige jährliche Stromgrößen
+
+
 
 - Anfangsinvestition
 - Spätere jährliche Cashflows
@@ -75,7 +79,11 @@ $$
 
 
 
-**Fixed-Flows- und Endbilanz**
+
+
+### Fixed-Flows- und Endbilanz
+
+
 
 - Anfangsinvestition
 - Ganze Jahre

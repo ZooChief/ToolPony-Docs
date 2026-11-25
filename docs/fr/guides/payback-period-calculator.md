@@ -1,4 +1,4 @@
-# Calculatrice de délai de récupération
+# Guide pratique · Calculatrice de délai de récupération
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Flux de trésorerie réguliers ou croissants**
+
+
+### Flux de trésorerie réguliers ou croissants
+
+
 
 - Investissement initial
 - Flux de trésorerie de la première année
@@ -78,7 +82,11 @@ $$
 
 
 
-**Flux de trésorerie annuels irréguliers**
+
+
+### Flux de trésorerie annuels irréguliers
+
+
 
 - Investissement initial
 - Flux de trésorerie annuels ultérieurs

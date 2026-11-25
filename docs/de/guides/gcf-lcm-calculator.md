@@ -1,4 +1,4 @@
-# ggT- und kgV-Rechner
+# Anleitung: ggT- und kgV-Rechner
 
 
 

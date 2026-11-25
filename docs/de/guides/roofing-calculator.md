@@ -1,4 +1,4 @@
-# Dachflächenrechner
+# Anleitung: Dachflächenrechner
 
 
 
@@ -47,6 +47,54 @@ Rund 2.461 ft², 28 Squares mit 10 % Zugabe.
 
 
 
+<a id="case-study"></a>
+
+
+
+## Schindeln bestellen
+
+
+
+1. 25 × 40 ft Flachdach ergeben 1.000 ft². Mit 10 % Zuschlag und 3 Bündeln je 100 ft² braucht man 33 Bündel. Zu je 75 kosten sie 2.475.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/roofing-calculator/#example-roof-order>)
+
+
+
+
+
+## Gebindeetikett lesen
+
+
+
+Bei 1.100 ft² Bedarf decken 33 Gebinde zu 33,3 ft² nur 1.098,9 ft². 34 Gebinde decken 1.132,2 ft².
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/roofing-calculator/#example-package-label>)
+
+
+
+
+
+
+
+## Zwei Dachüberstände
+
+
+
+Bei 8 × 5 m Grundmaß, 25 cm Trauf- und 40 cm Giebelüberstand beträgt die Dachprojektion 8,8 × 5,5 m. Mit Neigung 5/12, 10 % Reserve und 3 m² je Gebinde sind es 20 Gebinde.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/roofing-calculator/#example-roof-overhang>)
+
+
+
+
+
 
 
 ## Ausprobieren
@@ -85,7 +133,11 @@ $$
 
 
 
-**Grundfläche und Steigung**
+
+
+### Grundfläche und Steigung
+
+
 
 - Grundfläche
 - Flächeneinheit · cm² / m² / in² / ft² / yd² / acre / ha
@@ -95,12 +147,20 @@ $$
 - Einzelpreis
 - Preiseinheit · cm² / m² / in² / ft² / yd² / acre / ha
 - Verschnittzugabe · %
+- Gebindedeckung · Bündel je Roofing Square / Fläche je Gebinde
+- Bündel für 100 ft²
+- Wirksame Fläche je Gebinde
+- Preis je Gebinde (optional)
 
 
 
 
 
-**Grundfläche und Winkel**
+
+
+### Grundfläche und Winkel
+
+
 
 - Grundfläche
 - Flächeneinheit · cm² / m² / in² / ft² / yd² / acre / ha
@@ -110,24 +170,40 @@ $$
 - Einzelpreis
 - Preiseinheit · cm² / m² / in² / ft² / yd² / acre / ha
 - Verschnittzugabe · %
+- Gebindedeckung · Bündel je Roofing Square / Fläche je Gebinde
+- Bündel für 100 ft²
+- Wirksame Fläche je Gebinde
+- Preis je Gebinde (optional)
 
 
 
 
 
-**Bekannte Dachfläche**
+
+
+### Bekannte Dachfläche
+
+
 
 - Dachfläche
 - Flächeneinheit · cm² / m² / in² / ft² / yd² / acre / ha
 - Einzelpreis
 - Preiseinheit · cm² / m² / in² / ft² / yd² / acre / ha
 - Verschnittzugabe · %
+- Gebindedeckung · Bündel je Roofing Square / Fläche je Gebinde
+- Bündel für 100 ft²
+- Wirksame Fläche je Gebinde
+- Preis je Gebinde (optional)
 
 
 
 
 
-**Gemessene Länge und Breite**
+
+
+### Gemessene Länge und Breite
+
+
 
 - Länge
 - Längeneinheit · mm / cm / m / in / ft / yd
@@ -136,13 +212,23 @@ $$
 - Anstieg pro 12 horizontal
 - Horizontaler Überstand
 - Einheit des Überstands · mm / cm / m / in / ft / yd
+- Giebelüberstand, falls abweichend
 - Einzelpreis
 - Preiseinheit · cm² / m² / in² / ft² / yd² / acre / ha
 - Verschnittzugabe · %
+- Gebindedeckung · Bündel je Roofing Square / Fläche je Gebinde
+- Bündel für 100 ft²
+- Wirksame Fläche je Gebinde
+- Flächeneinheit · cm² / m² / in² / ft² / yd² / acre / ha
+- Preis je Gebinde (optional)
 
 
 
 
+
+
+
+**Quellen zur Methode** [GAF · Bundle coverage per roofing square](<https://www.gaf.com/en-us/blog/your-home/how-many-bundles-of-shingles-are-in-a-square---63a47862-f7e1-4e73-abcf-8d09917a8b8d>)
 
 
 

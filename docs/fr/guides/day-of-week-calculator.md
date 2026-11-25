@@ -1,4 +1,4 @@
-# Calculateur du jour de la semaine
+# Guide pratique · Calculateur du jour de la semaine
 
 
 

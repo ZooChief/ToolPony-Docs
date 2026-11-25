@@ -1,4 +1,4 @@
-# CSV 比較
+# CSV 比較の使い方
 
 
 
@@ -73,7 +73,7 @@ Qty,ID,Name
 
 ## 試してみる
 
-[ツール全体を開く · CSV 比較](<https://toolpony.com/ja/tools/csv-compare/>)
+[ツール全体を開く · CSV 比較](<https://toolpony.com/ja/tools/csv-compare/#example-inventory>)
 
 
 

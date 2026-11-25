@@ -1,4 +1,4 @@
-# PDF からテキストへ
+# PDF からテキストへの使い方
 
 
 
@@ -30,17 +30,17 @@
 
 
 ```
-最初の 2 ページが「One」「Two」の PDF、選択 2, 1
+文字と画像が混在する PDF から 3、2、1 の順で JSON に抽出します。2 ページ目は青い見本画像だけです。
 ```
 
-[例 · PDF](<https://toolpony.com/samples/toolpony-pages.pdf>)
+[例 · PDF](<https://toolpony.com/samples/toolpony-mixed-pages.pdf>)
 
 ### 期待される結果
 
 
 
 ```
-JSON：2 ページ目が Two、次に 1 ページ目が One
+[{"page":3,"text":"Total 42"},{"page":2,"text":""},{"page":1,"text":"Order 417"}]
 ```
 
 
@@ -73,7 +73,19 @@ JSON：2 ページ目が Two、次に 1 ページ目が One
 
 ## 試してみる
 
-[ツール全体を開く · PDF からテキストへ](<https://toolpony.com/ja/tools/pdf-to-text/>)
+[ツール全体を開く · PDF からテキストへ](<https://toolpony.com/ja/tools/pdf-to-text/#example-mixed-pdf>)
+
+
+
+
+
+## 注意点
+
+
+
+最大 30 MB、300 ページ、200 万文字、20 万テキスト要素。PDF 内部のテキスト順を使用します。スキャン文書には OCR が必要です。暗号化 PDF は対象外です。 8 ページ以内では、選択を解除して出力したい順にページ番号を押します。9 ページ以上なら奇数ページまたは偶数ページをまとめて選べます。
+
+
 
 
 

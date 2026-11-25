@@ -1,8 +1,8 @@
-# Confidence interval calculator
+# Confidence interval calculator guide
 
 
 
-Estimate a normal mean interval or a Wilson interval for a proportion.
+Estimate a mean from observations or summary statistics using a z or Student t interval, or use Wilson for a proportion.
 
 
 
@@ -34,6 +34,38 @@ n = 36, mean 56, standard deviation 8, 99%
 
 
 
+<a id="case-study"></a>
+
+
+
+## An interval from five measurements
+
+
+
+1. Five measurements are 48, 49, 50, 51 and 52. Their mean is 50. With a sample standard deviation and four degrees of freedom, the 95% Student t interval for the mean is about 48.04 to 51.96. This calculation assumes independent observations from an approximately normal population.
+
+
+
+[Run example](<https://toolpony.com/en/tools/confidence-interval-calculator/#example-five-measurements>)
+
+
+
+
+
+## Zero failures in 30 checks
+
+
+
+In 30 independent checks, the observed failure count is zero. The 95% Wilson interval for the underlying failure proportion runs from 0% to about 11.35%. A larger sample with the same outcome narrows the interval.
+
+
+
+[Run example](<https://toolpony.com/en/tools/confidence-interval-calculator/#example-no-failures>)
+
+
+
+
+
 
 
 ## Try it
@@ -48,7 +80,7 @@ n = 36, mean 56, standard deviation 8, 99%
 
 
 
-The normal margin is z times the standard error s/√n. Wilson score intervals adjust the center and width for proportions and remain within \[0,1\].
+For a mean, the margin is the critical value × standard deviation / √n. Use z with a known population deviation and Student t with n − 1 degrees of freedom for a sample deviation. A Wilson score interval estimates a binomial proportion from successes and trials.
 
 
 
@@ -72,18 +104,28 @@ $$
 
 
 
-**Normal mean interval**
 
+
+### Mean interval
+
+
+
+- Data source · Known σ / Sample s / Observations
 - Sample size
 - Mean
 - Standard deviation
+- Sample values
 - Confidence level · %
 
 
 
 
 
-**Wilson proportion interval**
+
+
+### Wilson proportion interval
+
+
 
 - Sample size
 - Successes
@@ -92,6 +134,10 @@ $$
 
 
 
+
+
+
+**Method references** [NIST · Confidence limits for the mean](<https://www.itl.nist.gov/div898/handbook/eda/section3/eda352.htm>) · [NIST · Confidence limits for a proportion](<https://www.itl.nist.gov/div898/handbook/prc/section2/prc241.htm>)
 
 
 

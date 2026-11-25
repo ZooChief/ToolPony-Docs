@@ -1,4 +1,4 @@
-# Calculateur de suites
+# Guide pratique · Calculateur de suites
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Arithmétique**
+
+
+### Arithmétique
+
+
 
 - Premier terme
 - Raison additive
@@ -76,7 +80,11 @@ $$
 
 
 
-**Géométrique**
+
+
+### Géométrique
+
+
 
 - Premier terme
 - Raison multiplicative
@@ -86,7 +94,11 @@ $$
 
 
 
-**Fibonacci**
+
+
+### Fibonacci
+
+
 
 - Indice
 

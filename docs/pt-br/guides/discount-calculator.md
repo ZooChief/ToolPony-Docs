@@ -1,4 +1,4 @@
-# Calculadora de descontos
+# Guia de uso · Calculadora de descontos
 
 
 
@@ -68,7 +68,11 @@ Use um modo inverso quando você souber o preço de venda ou o valor salvo. Modo
 
 
 
-**Aplicar descontos**
+
+
+### Aplicar descontos
+
+
 
 - Preço inicial
 - Percentagens de desconto
@@ -79,7 +83,11 @@ Use um modo inverso quando você souber o preço de venda ou o valor salvo. Modo
 
 
 
-**Encontrar o preço original**
+
+
+### Encontrar o preço original
+
+
 
 - Preço após desconto
 - Tipo de desconto · Percentagem / Montante fixo
@@ -89,7 +97,11 @@ Use um modo inverso quando você souber o preço de venda ou o valor salvo. Modo
 
 
 
-**Procurar taxa e economia**
+
+
+### Procurar taxa e economia
+
+
 
 - Preço inicial
 - Quantidade conhecida · Preço com desconto / Poupança
@@ -99,7 +111,11 @@ Use um modo inverso quando você souber o preço de venda ou o valor salvo. Modo
 
 
 
-**Encontrar preços da poupança**
+
+
+### Encontrar preços da poupança
+
+
 
 - Quantidade salva
 - Taxa de desconto · %

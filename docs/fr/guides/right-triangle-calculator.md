@@ -1,4 +1,4 @@
-# Calculateur de triangle rectangle
+# Guide pratique · Calculateur de triangle rectangle
 
 
 

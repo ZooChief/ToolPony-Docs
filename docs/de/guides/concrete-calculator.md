@@ -1,4 +1,4 @@
-# Betonmengenrechner
+# Anleitung: Betonmengenrechner
 
 
 
@@ -94,7 +94,11 @@ Zwei Platten von 7 ft × 3 ft × 5 in wiegen bei 133 lb/ft³ zusammen 2.327,50 l
 
 
 
-**Platten- oder Rechteckfüße**
+
+
+### Platten- oder Rechteckfüße
+
+
 
 - Länge
 - Längeneinheit
@@ -110,7 +114,11 @@ Zwei Platten von 7 ft × 3 ft × 5 in wiegen bei 133 lb/ft³ zusammen 2.327,50 l
 
 
 
-**Säule oder runder Fuß**
+
+
+### Säule oder runder Fuß
+
+
 
 - Durchmesser
 - Durchmessereinheit
@@ -124,7 +132,11 @@ Zwei Platten von 7 ft × 3 ft × 5 in wiegen bei 133 lb/ft³ zusammen 2.327,50 l
 
 
 
-**Kreisförmige Platte oder Rohr**
+
+
+### Kreisförmige Platte oder Rohr
+
+
 
 - Außendurchmesser
 - Außendurchmessereinheit
@@ -140,7 +152,11 @@ Zwei Platten von 7 ft × 3 ft × 5 in wiegen bei 133 lb/ft³ zusammen 2.327,50 l
 
 
 
-**Bordstein und Rinne**
+
+
+### Bordstein und Rinne
+
+
 
 - Bordsteintiefe
 - Bordsteintiefeneinheit
@@ -160,7 +176,11 @@ Zwei Platten von 7 ft × 3 ft × 5 in wiegen bei 133 lb/ft³ zusammen 2.327,50 l
 
 
 
-**Feste Treppen und Plattform**
+
+
+### Feste Treppen und Plattform
+
+
 
 - Lauf pro Schritt
 - Lauf pro Schritteinheit

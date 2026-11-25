@@ -1,4 +1,4 @@
-# YAML을 JSON으로
+# YAML을 JSON으로 사용 가이드
 
 
 

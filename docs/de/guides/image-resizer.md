@@ -1,4 +1,4 @@
-# Bildgröße ändern
+# Anleitung: Bildgröße ändern
 
 
 

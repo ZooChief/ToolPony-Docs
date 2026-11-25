@@ -1,4 +1,4 @@
-# Calculadora de azulejos
+# Guía de uso · Calculadora de azulejos
 
 
 
@@ -88,7 +88,11 @@ El modelo de cobertura utiliza una longitud y anchura efectivas para cada baldos
 
 
 
-**Espacio conocido**
+
+
+### Espacio conocido
+
+
 
 - Longitud del azul
 - Unidad de longitud
@@ -107,7 +111,11 @@ El modelo de cobertura utiliza una longitud y anchura efectivas para cada baldos
 
 
 
-**Habitación rectangular**
+
+
+### Habitación rectangular
+
+
 
 - Longitud del azul
 - Unidad de longitud

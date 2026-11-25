@@ -1,4 +1,4 @@
-# Calculadora del tamaño de muestra
+# Guía de uso · Calculadora del tamaño de muestra
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Busque el tamaño de la muestra**
+
+
+### Busque el tamaño de la muestra
+
+
 
 - Nivel de confianza · %
 - Margen de error · %
@@ -77,7 +81,11 @@ $$
 
 
 
-**Encontrar margen de error**
+
+
+### Encontrar margen de error
+
+
 
 - Nivel de confianza · %
 - Tamaño de la muestra

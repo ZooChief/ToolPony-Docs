@@ -1,4 +1,4 @@
-# Calculateur de paillis
+# Guide pratique · Calculateur de paillis
 
 
 
@@ -79,7 +79,11 @@ $$
 
 
 
-**Surface connue**
+
+
+### Surface connue
+
+
 
 - Surface
 - Unité de surface · cm² / m² / in² / ft² / yd² / acre / h
@@ -95,7 +99,11 @@ $$
 
 
 
-**Plusieurs rectangles**
+
+
+### Plusieurs rectangles
+
+
 
 - Longueur, largeur, unité par ligne
 - Épaisseur

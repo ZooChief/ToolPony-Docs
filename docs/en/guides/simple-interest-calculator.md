@@ -1,4 +1,4 @@
-# Simple interest calculator
+# Simple interest calculator guide
 
 
 
@@ -74,7 +74,11 @@ Use the inverse modes when the end balance is known. A zero rate or zero term ca
 
 
 
-**Interest and end balance**
+
+
+### Interest and end balance
+
+
 
 - Principal
 - Interest rate · %
@@ -86,7 +90,11 @@ Use the inverse modes when the end balance is known. A zero rate or zero term ca
 
 
 
-**Find principal**
+
+
+### Find principal
+
+
 
 - End balance
 - Interest rate · %
@@ -98,7 +106,11 @@ Use the inverse modes when the end balance is known. A zero rate or zero term ca
 
 
 
-**Find interest rate**
+
+
+### Find interest rate
+
+
 
 - Principal
 - End balance
@@ -110,7 +122,11 @@ Use the inverse modes when the end balance is known. A zero rate or zero term ca
 
 
 
-**Find term**
+
+
+### Find term
+
+
 
 - Principal
 - End balance

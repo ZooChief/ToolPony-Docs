@@ -1,4 +1,4 @@
-# PDF 轉文字
+# PDF 轉文字使用指南
 
 
 
@@ -31,17 +31,17 @@
 
 
 ```
-PDF 的前兩頁分別寫着 One 和 Two。選頁 2, 1，格式爲 JSON。
+圖文混合 PDF，輸出選 JSON，按 3、2、1 提取。第 2 頁只有藍色色樣圖。
 ```
 
-[示例 · PDF](<https://toolpony.com/samples/toolpony-pages.pdf>)
+[示例 · PDF](<https://toolpony.com/samples/toolpony-mixed-pages.pdf>)
 
 ### 預期結果
 
 
 
 ```
-[{"page":2,"text":"Two"},{"page":1,"text":"One"}]
+[{"page":3,"text":"Total 42"},{"page":2,"text":""},{"page":1,"text":"Order 417"}]
 ```
 
 
@@ -74,7 +74,7 @@ PDF 的前兩頁分別寫着 One 和 Two。選頁 2, 1，格式爲 JSON。
 
 ## 試一試
 
-[打開完整工具 · PDF 轉文字](<https://toolpony.com/zh-hant/tools/pdf-to-text/>)
+[打開完整工具 · PDF 轉文字](<https://toolpony.com/zh-hant/tools/pdf-to-text/#example-mixed-pdf>)
 
 
 
@@ -84,7 +84,7 @@ PDF 的前兩頁分別寫着 One 和 Two。選頁 2, 1，格式爲 JSON。
 
 
 
-TXT 用換頁符分隔頁面。提取按 PDF 內部文字順序進行，多欄佈局的輸出順序可能與視覺閱讀順序不同。掃描件需要 OCR。
+TXT 用換頁符分隔頁面。提取按 PDF 內部文字順序進行，多欄佈局的輸出順序可能與視覺閱讀順序不同。掃描件需要 OCR。 文檔不超過八頁時，可以先清空，再按導出順序點頁號。更長的文檔可以一鍵選擇奇數頁或偶數頁。
 
 
 

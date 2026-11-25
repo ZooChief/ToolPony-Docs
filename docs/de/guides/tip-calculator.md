@@ -1,4 +1,4 @@
-# Trinkgeldrechner
+# Anleitung: Trinkgeldrechner
 
 
 

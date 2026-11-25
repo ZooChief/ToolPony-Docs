@@ -1,4 +1,4 @@
-# GCF and LCM calculator
+# GCF and LCM calculator guide
 
 
 

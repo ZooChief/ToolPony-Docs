@@ -1,4 +1,4 @@
-# Calculadora de valor-p da normal
+# Guia de uso · Calculadora de valor-p da normal
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Pontuação Z para probabilidades**
+
+
+### Pontuação Z para probabilidades
+
+
 
 - Z- score
 
@@ -74,7 +78,11 @@ $$
 
 
 
-**De probabilidade para escore Z**
+
+
+### De probabilidade para escore Z
+
+
 
 - Região de probabilidade · Probabilidade de cauda esquerda / Probabilidade de cauda direita / Do centro para o zz / Entre o zhz e o zhz / Probabilidade de duas caudas
 - Probabilidade

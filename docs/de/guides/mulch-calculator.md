@@ -1,4 +1,4 @@
-# Mulchrechner
+# Anleitung: Mulchrechner
 
 
 
@@ -79,7 +79,11 @@ $$
 
 
 
-**Bekannte Fläche**
+
+
+### Bekannte Fläche
+
+
 
 - Fläche
 - Flächeneinheit · cm² / m² / in² / ft² / yd² / acre / ha
@@ -95,7 +99,11 @@ $$
 
 
 
-**Mehrere Rechtecke**
+
+
+### Mehrere Rechtecke
+
+
 
 - Länge, Breite, Einheit je Zeile
 - Schichtdicke

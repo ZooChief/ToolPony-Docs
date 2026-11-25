@@ -1,4 +1,4 @@
-# CSV compare
+# CSV compare guide
 
 
 
@@ -73,7 +73,7 @@ Added 1 · Removed 1 · Changed 1
 
 ## Try it
 
-[Open full tool · CSV compare](<https://toolpony.com/en/tools/csv-compare/>)
+[Open full tool · CSV compare](<https://toolpony.com/en/tools/csv-compare/#example-inventory>)
 
 
 

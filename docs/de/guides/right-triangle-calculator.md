@@ -1,4 +1,4 @@
-# Rechner für rechtwinklige Dreiecke
+# Anleitung: Rechner für rechtwinklige Dreiecke
 
 
 

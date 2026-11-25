@@ -1,4 +1,4 @@
-# Adult BMI calculator
+# Adult BMI calculator guide
 
 
 
@@ -34,6 +34,22 @@ BMI ≈22.86 kg/m²
 
 
 
+<a id="case-study"></a>
+
+
+
+## Read the boundary at BMI 25
+
+
+
+1. At 180 cm and 80.99 kg the BMI is about 24.997. At 81 kg it is exactly 25, the start of the next CDC adult screening category. The display keeps extra digits near a boundary.
+
+
+
+[Run example](<https://toolpony.com/en/tools/bmi-calculator/#example-bmi-boundary>)
+
+
+
 
 
 ## Try it
@@ -66,7 +82,11 @@ $$
 
 
 
-**Metric**
+
+
+### Metric
+
+
 
 - Age
 - Weight · kg
@@ -76,7 +96,11 @@ $$
 
 
 
-**US customary**
+
+
+### US customary
+
+
 
 - Age
 - Weight · lb

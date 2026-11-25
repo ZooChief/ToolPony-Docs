@@ -1,4 +1,4 @@
-# UUID 生成器
+# UUID 生成器使用指南
 
 
 
@@ -31,6 +31,23 @@
 ```
 
 
+
+
+
+<a id="case-study"></a>
+
+
+
+## 爲導入文件準備 27 個 ID
+
+
+
+1. 生成 27 個大寫 UUID。每個標識符的第三段以 4 開頭，第四段以 8、9、A 或 B 開頭。
+2. 最後一頁是第 25 至 27 行。可以複製第 27 行覈對單條記錄，也可以下載文本文件，一次導入原順序的全部 27 行。
+
+
+
+[運行示例](<https://toolpony.com/zh-hant/tools/uuid-generator/#example-import-ids>)
 
 
 

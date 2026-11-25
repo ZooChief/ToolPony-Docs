@@ -1,8 +1,8 @@
-# Calculadora de razões
+# Guia de uso · Calculadora de razões
 
 
 
-Resolver um termo em falta em uma proporção, simplificar uma proporção, ou escalar ambos os termos.
+Resolva proporções, redimensione frações e calcule margens ou cortes preservando a proporção da imagem.
 
 
 
@@ -34,6 +34,38 @@ x=15
 
 
 
+<a id="case-study"></a>
+
+
+
+## Encaixar uma foto em um cartaz
+
+
+
+1. Em um quadro de 1200 × 900, a largura limita a foto de 1920 × 1080 a uma escala de 5/8. Ela fica com 1200 × 675. Sobram 225 pixels na vertical, ou 112,5 de cada lado quando centralizada.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/ratio-calculator/#example-fit-poster>)
+
+
+
+
+
+## Preencher o mesmo quadro
+
+
+
+Para preencher o cartaz, use a altura. O fator 5/6 resulta em 1600 × 900. Centralizar a foto corta 200 pixels de cada lado.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/ratio-calculator/#example-fill-poster>)
+
+
+
+
+
 
 
 ## Experimente
@@ -48,7 +80,7 @@ x=15
 
 
 
-A:B = C:D implica A×D = B×C, com denominadores não nulos. Simplificação aceita quantidades decimais e fracionárias.
+Para A:B = C:D com denominadores diferentes de zero, A × D = B × C. Conter usa o menor fator entre largura e altura. Cobrir usa o maior. A margem ou corte é o total em cada eixo.
 
 
 
@@ -60,7 +92,11 @@ A:B = C:D implica A×D = B×C, com denominadores não nulos. Simplificação ace
 
 
 
-**Resolva uma proporção**
+
+
+### Resolva uma proporção
+
+
 
 - A
 - B
@@ -71,7 +107,11 @@ A:B = C:D implica A×D = B×C, com denominadores não nulos. Simplificação ace
 
 
 
-**Simplificar ou escalar**
+
+
+### Simplificar ou escalar
+
+
 
 - Primeiro período
 - Segundo período
@@ -81,16 +121,27 @@ A:B = C:D implica A×D = B×C, com denominadores não nulos. Simplificação ace
 
 
 
-**Aumentar ou reduzir uma relação**
+
+
+### Aumentar ou reduzir uma relação
+
+
 
 - Primeiro período
 - Segundo período
+- Redimensionar por · Fator / Conter / Cobrir e recortar
 - Direção · Reduzir / Aumentar
 - Fator
+- Largura do quadro
+- Altura do quadro
 
 
 
 
+
+
+
+**Referências do método** [W3C · Object fitting](<https://www.w3.org/TR/css-images-3/#the-object-fit>)
 
 
 

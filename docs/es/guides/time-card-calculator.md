@@ -1,4 +1,4 @@
-# Calculadora de hoja de horas
+# Guía de uso · Calculadora de hoja de horas
 
 
 

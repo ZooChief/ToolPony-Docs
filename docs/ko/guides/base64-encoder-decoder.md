@@ -1,8 +1,8 @@
-# Base64 인코딩 및 디코딩
+# Base64 인코딩 및 디코딩 사용 가이드
 
 
 
-UTF-8 텍스트를 표준 또는 URL-safe Base64로 인코딩하고 디코딩된 텍스트를 확인합니다.
+UTF-8 텍스트나 16진수 바이트를 Base64 또는 Base64url로 변환하고 복원한 바이너리를 저장하세요.
 
 
 
@@ -34,6 +34,22 @@ aGVsbG8=
 
 
 
+<a id="case-study"></a>
+
+
+
+## Base64url에서 바이트 복원
+
+
+
+1. 디코드, URL 안전, 16진수 바이트를 선택하고 \_wCA7w를 붙여 넣으세요. FF 00 80 EF에는 0바이트와 UTF-8 텍스트가 될 수 없는 값이 있습니다. 바이트 다운로드로 네 바이트를 저장하세요.
+
+
+
+[예제 실행](<https://toolpony.com/ko/tools/base64-encoder-decoder/#example-binary-bytes>)
+
+
+
 
 
 ## 직접 사용해 보기
@@ -48,13 +64,13 @@ aGVsbG8=
 
 
 
-텍스트는 UTF-8로 변환됩니다. URL-safe 모드는 "-" 및 "\_"을 사용하고 출력에서 패딩을 생략합니다. 최대 500,000개의 입력 문자.
+표준은 +와 /, URL용은 -와 \_를 쓰며 URL용 출력은 패딩을 생략합니다. UTF-8을 검증하고 첫 U+FEFF를 보존합니다. 한도는 UTF-16 단위 500,000개 또는 500,000바이트입니다.
 
 
 
 
 
-**계산 및 처리 방식의 출처** [IETF · RFC 4648 (Base64)](<https://www.rfc-editor.org/rfc/rfc4648>)
+**계산 및 처리 방식의 출처** [IETF · RFC 4648 (Base64)](<https://www.rfc-editor.org/rfc/rfc4648>) · [IETF · RFC 3629](<https://www.rfc-editor.org/rfc/rfc3629>)
 
 
 

@@ -1,4 +1,4 @@
-# Calculadora del valor p normal
+# Guía de uso · Calculadora del valor p normal
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Z-score a probabilidades**
+
+
+### Z-score a probabilidades
+
+
 
 - Z-score
 
@@ -74,7 +78,11 @@ $$
 
 
 
-**De probabilidad a puntuación Z**
+
+
+### De probabilidad a puntuación Z
+
+
 
 - Región de probabilidad · Probabilidad de cola izquierda / Probabilidad de cola derecha / Desde el centro hasta la muerte / Entre − vidas eternas y Silenciosos / Probabilidad de dos colas
 - Probabilidad

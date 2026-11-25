@@ -1,4 +1,4 @@
-# PDF in Text umwandeln
+# Anleitung: PDF in Text umwandeln
 
 
 
@@ -30,17 +30,17 @@ Extrahieren Sie auswählbaren Text lokal aus PDFs und speichern Sie ihn als TXT 
 
 
 ```
-PDF mit „One“ und „Two“ auf den ersten zwei Seiten, Auswahl 2, 1
+Gemischtes PDF, Ausgabe als JSON, Seitenfolge 3, 2, 1. Seite 2 enthält nur ein blaues Farbmuster.
 ```
 
-[Beispiel · PDF](<https://toolpony.com/samples/toolpony-pages.pdf>)
+[Beispiel · PDF](<https://toolpony.com/samples/toolpony-mixed-pages.pdf>)
 
 ### Erwartetes Ergebnis
 
 
 
 ```
-JSON mit Seite 2 „Two“, gefolgt von Seite 1 „One“
+[{"page":3,"text":"Total 42"},{"page":2,"text":""},{"page":1,"text":"Order 417"}]
 ```
 
 
@@ -73,7 +73,19 @@ JSON mit Seite 2 „Two“, gefolgt von Seite 1 „One“
 
 ## Ausprobieren
 
-[Vollständiges Werkzeug öffnen · PDF in Text umwandeln](<https://toolpony.com/de/tools/pdf-to-text/>)
+[Vollständiges Werkzeug öffnen · PDF in Text umwandeln](<https://toolpony.com/de/tools/pdf-to-text/#example-mixed-pdf>)
+
+
+
+
+
+## Hinweise
+
+
+
+Maximal 30 MB, 300 Seiten, zwei Millionen Zeichen und 200.000 Textabschnitte. Die Textreihenfolge folgt der PDF-Datei. Gescannte Seiten erfordern OCR. Verschlüsselte PDFs werden abgelehnt. Bei bis zu acht Seiten können Sie die Auswahl leeren und die Seitenzahlen in der gewünschten Reihenfolge antippen. Bei längeren Dokumenten lassen sich gerade oder ungerade Seiten auf einmal wählen.
+
+
 
 
 

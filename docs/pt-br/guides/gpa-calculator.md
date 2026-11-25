@@ -1,4 +1,4 @@
-# Calculadora de média GPA
+# Guia de uso · Calculadora de média GPA
 
 
 
@@ -74,7 +74,11 @@ A+ a F utilizam o mapeamento de 4,3 pontos. P, NP, I e W são omitidos da soma p
 
 
 
-**Classes de curso**
+
+
+### Classes de curso
+
+
 
 - Curso, créditos, grau, termo opcional e bônus
 - Formato de grau · Letras / Percentagem / Pontos
@@ -85,7 +89,11 @@ A+ a F utilizam o mapeamento de 4,3 pontos. P, NP, I e W são omitidos da soma p
 
 
 
-**Objectivo do plano GPA**
+
+
+### Objectivo do plano GPA
+
+
 
 - GPA atual
 - GPA-alvo

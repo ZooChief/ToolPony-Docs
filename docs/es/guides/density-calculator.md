@@ -1,4 +1,4 @@
-# Calculadora de densidad
+# Guía de uso · Calculadora de densidad
 
 
 
@@ -48,7 +48,7 @@ Resolver para la masa, el volumen o la densidad al entrar en cualquier dos valor
 
 
 
-Densidad = volumen de masa. La interfaz utiliza kg, m3 y kg/m3.
+La densidad es la masa dividida por el volumen. El cálculo usa kilogramos y metros cúbicos y convierte el resultado a la unidad elegida.
 
 
 
@@ -57,6 +57,10 @@ $$
 $$
 
 
+
+
+
+**Fuentes del método** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST · Unit conversion factors](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>)
 
 
 

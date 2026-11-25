@@ -1,4 +1,4 @@
-# Calculadora de propinas
+# Guía de uso · Calculadora de propinas
 
 
 

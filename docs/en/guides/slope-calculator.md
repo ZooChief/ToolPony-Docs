@@ -1,4 +1,4 @@
-# Slope calculator
+# Slope calculator guide
 
 
 
@@ -74,7 +74,11 @@ A line and a distance determine a point on each side of the starting point. Use 
 
 
 
-**Two points**
+
+
+### Two points
+
+
 
 - X1
 - Y1
@@ -85,7 +89,11 @@ A line and a distance determine a point on each side of the starting point. Use 
 
 
 
-**Point and direction**
+
+
+### Point and direction
+
+
 
 - X1
 - Y1

@@ -1,4 +1,4 @@
-# Rechner für Permutationen und Kombinationen
+# Anleitung: Rechner für Permutationen und Kombinationen
 
 
 

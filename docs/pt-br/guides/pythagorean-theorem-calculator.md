@@ -1,4 +1,4 @@
-# Calculadora do teorema de Pitágoras
+# Guia de uso · Calculadora do teorema de Pitágoras
 
 
 

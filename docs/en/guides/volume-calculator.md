@@ -1,8 +1,8 @@
-# Volume calculator
+# Volume calculator guide
 
 
 
-Calculate tank capacity and solid volume from dimensions. For a hollow tube, enter both radii to find the material volume. Choose liters or cubic units.
+Calculate tank capacity or solid volume in liters or cubic units. For a hollow tube, enter its outer diameter, inner diameter and length to find the volume of its wall.
 
 
 
@@ -48,6 +48,26 @@ Sphere with radius 2 m
 
 
 
+[Run example](<https://toolpony.com/en/tools/volume-calculator/#example-tank-fill-line>)
+
+
+
+
+
+## Pipe wall and bore
+
+
+
+For one metre of tubing with outer diameter 60 mm and inner diameter 48 mm, the wall occupies about 1.018 L. The bore can hold about 1.810 L. Both results and the two diameters are included in the CSV.
+
+
+
+[Run example](<https://toolpony.com/en/tools/volume-calculator/#example-pipe-wall>)
+
+
+
+
+
 
 
 ## Try it
@@ -80,7 +100,11 @@ $$
 
 
 
-**Sphere**
+
+
+### Sphere
+
+
 
 - Radius
 - Radius unit
@@ -90,7 +114,11 @@ $$
 
 
 
-**Cone**
+
+
+### Cone
+
+
 
 - Radius
 - Radius unit
@@ -102,7 +130,11 @@ $$
 
 
 
-**Cube**
+
+
+### Cube
+
+
 
 - Edge length
 - Edge length unit
@@ -112,7 +144,11 @@ $$
 
 
 
-**Cylinder**
+
+
+### Cylinder
+
+
 
 - Radius
 - Radius unit
@@ -124,7 +160,11 @@ $$
 
 
 
-**Rectangular tank**
+
+
+### Rectangular tank
+
+
 
 - Length
 - Length unit
@@ -138,7 +178,11 @@ $$
 
 
 
-**Capsule**
+
+
+### Capsule
+
+
 
 - Radius
 - Radius unit
@@ -150,7 +194,11 @@ $$
 
 
 
-**Spherical cap**
+
+
+### Spherical cap
+
+
 
 - Sphere radius
 - Sphere radius unit
@@ -165,7 +213,11 @@ $$
 
 
 
-**Conical frustum**
+
+
+### Conical frustum
+
+
 
 - First end radius
 - First end radius unit
@@ -179,7 +231,11 @@ $$
 
 
 
-**Ellipsoid**
+
+
+### Ellipsoid
+
+
 
 - First semi-axis
 - First semi-axis unit
@@ -193,7 +249,11 @@ $$
 
 
 
-**Square pyramid**
+
+
+### Square pyramid
+
+
 
 - Edge length
 - Edge length unit
@@ -205,7 +265,11 @@ $$
 
 
 
-**Hollow tube**
+
+
+### Hollow tube
+
+
 
 - Outer diameter
 - Outer diameter unit
@@ -219,7 +283,11 @@ $$
 
 
 
-**Hemisphere**
+
+
+### Hemisphere
+
+
 
 - Radius
 - Radius unit
@@ -229,7 +297,11 @@ $$
 
 
 
-**Ring torus**
+
+
+### Ring torus
+
+
 
 - Centerline radius
 - Centerline radius unit
@@ -243,7 +315,7 @@ $$
 
 
 
-**Method references** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>)
+**Method references** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST DLMF · Triaxial ellipsoids](<https://dlmf.nist.gov/19.33>)
 
 
 

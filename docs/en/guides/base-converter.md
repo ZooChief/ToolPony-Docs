@@ -1,4 +1,4 @@
-# Base converter and calculator
+# Base converter and calculator guide
 
 
 
@@ -34,6 +34,22 @@ FF, base 16 to base 10
 
 
 
+<a id="case-study"></a>
+
+
+
+## Read a large hexadecimal ID
+
+
+
+1. Convert 0x20\_0000\_0000\_0001 to decimal. The final 1 survives in 9007199254740993. Switch back to hexadecimal or copy the grouped binary row as unbroken digits.
+
+
+
+[Run example](<https://toolpony.com/en/tools/base-converter/#example-large-hex-id>)
+
+
+
 
 
 ## Try it
@@ -48,7 +64,7 @@ FF, base 16 to base 10
 
 
 
-BigInt preserves integer precision. Division truncates toward zero. Bitwise operations use signed BigInt semantics. Each operand is limited to 256 digits.
+BigInt preserves every digit. Base conversion accepts integers up to 4,096 bits. Arithmetic accepts 256 digits per operand and division truncates toward zero. Spaces or underscores may separate digits.
 
 
 
@@ -60,7 +76,11 @@ BigInt preserves integer precision. Division truncates toward zero. Bitwise oper
 
 
 
-**Convert base**
+
+
+### Convert base
+
+
 
 - Integer
 - Input base
@@ -71,7 +91,11 @@ BigInt preserves integer precision. Division truncates toward zero. Bitwise oper
 
 
 
-**Integer arithmetic**
+
+
+### Integer arithmetic
+
+
 
 - First integer
 - Second integer

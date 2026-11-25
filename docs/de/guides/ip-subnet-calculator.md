@@ -1,4 +1,4 @@
-# IP-Subnetzrechner
+# Anleitung: IP-Subnetzrechner
 
 
 
@@ -29,6 +29,38 @@
 ```
 Netzwerk 192.0.2.128/27, 30 nutzbare Hosts
 ```
+
+
+
+
+
+<a id="case-study"></a>
+
+
+
+## Subnetzgrenze prüfen
+
+
+
+1. 192.0.2.128/27 endet einschließlich .159, der IPv4-Broadcast-Adresse. .160 liegt außerhalb, IPv6 gehört zu einer anderen Adressfamilie.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/ip-subnet-calculator/#example-subnet-boundary>)
+
+
+
+
+
+## Zwei IPv6-Endpunkte
+
+
+
+2001:db8::8/127 umfasst ::8 und ::9. Sie haben die Positionen 1 und 2. IPv6 verwendet keine Broadcast-Adresse.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/ip-subnet-calculator/#example-ipv6-endpoints>)
 
 
 
@@ -74,7 +106,11 @@ Die Präfix-Größenkategorie folgt der A/B/C-Konvention des Vergleichstools. Di
 
 
 
-**IPv4**
+
+
+### IPv4
+
+
 
 - IPv4-Adresse oder CIDR
 - Präfix- oder Subnetzmaske
@@ -84,7 +120,11 @@ Die Präfix-Größenkategorie folgt der A/B/C-Konvention des Vergleichstools. Di
 
 
 
-**IPv6**
+
+
+### IPv6
+
+
 
 - IPv6-Adresse oder CIDR
 - Präfix
@@ -93,7 +133,11 @@ Die Präfix-Größenkategorie folgt der A/B/C-Konvention des Vergleichstools. Di
 
 
 
-**Adress-Mitgliedschaft überprüfen**
+
+
+### Adress-Mitgliedschaft überprüfen
+
+
 
 - CIDR-Netz
 - Anschrift zur Überprüfung
@@ -101,6 +145,10 @@ Die Präfix-Größenkategorie folgt der A/B/C-Konvention des Vergleichstools. Di
 
 
 
+
+
+
+**Quellen zur Methode** [IETF · RFC 4632 (CIDR)](<https://www.rfc-editor.org/rfc/rfc4632>) · [IETF · RFC 3021 (/31 links)](<https://www.rfc-editor.org/rfc/rfc3021>) · [IETF · RFC 5952 (IPv6 text)](<https://www.rfc-editor.org/rfc/rfc5952>)
 
 
 

@@ -1,8 +1,8 @@
-# Unix timestamp converter
+# Unix timestamp converter guide
 
 
 
-Convert seconds and milliseconds to UTC, and convert an ISO time with an explicit offset back to Unix time.
+Convert Unix seconds, milliseconds, microseconds or nanoseconds to UTC and back, preserving each digit.
 
 
 
@@ -34,6 +34,23 @@ Convert seconds and milliseconds to UTC, and convert an ISO time with an explici
 
 
 
+<a id="case-study"></a>
+
+
+
+## One nanosecond before the epoch
+
+
+
+1. Select ns and enter -1. The UTC result is 1969-12-31T23:59:59.999999999Z. Change direction to recover the same integer.
+2. Reading logs across offsets? 1970-01-01T05:44:59.999999999+05:45 represents that same instant. Copy a single unit or export all four in one CSV row.
+
+
+
+[Run example](<https://toolpony.com/en/tools/unix-timestamp-converter/#example-before-epoch>)
+
+
+
 
 
 ## Try it
@@ -48,7 +65,7 @@ Convert seconds and milliseconds to UTC, and convert an ISO time with an explici
 
 
 
-Unix time is elapsed time since 1970-01-01T00:00:00Z. Conversions support dates from 1900 to 9999 at millisecond precision.
+Unix time counts from 1970-01-01T00:00:00Z and excludes leap seconds. Dates from 1900 to 9999 UTC accept up to nine fractional digits and an explicit offset.
 
 
 
@@ -60,22 +77,35 @@ Unix time is elapsed time since 1970-01-01T00:00:00Z. Conversions support dates 
 
 
 
-**Timestamp to date**
+
+
+### Timestamp to date
+
+
 
 - Unix timestamp
-- Unit · Seconds / Milliseconds
+- Unit · Seconds / Milliseconds / Microseconds / Nanoseconds
 
 
 
 
 
-**Date to timestamp**
+
+
+### Date to timestamp
+
+
 
 - ISO 8601 with offset
+- Unit · Seconds / Milliseconds / Microseconds / Nanoseconds
 
 
 
 
+
+
+
+**Method references** [GNU · Seconds since the Epoch](<https://www.gnu.org/software/coreutils/manual/html_node/Seconds-since-the-Epoch.html>) · [IETF · RFC 3339](<https://www.rfc-editor.org/rfc/rfc3339>)
 
 
 

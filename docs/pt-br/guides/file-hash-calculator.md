@@ -1,4 +1,4 @@
-# Calculadora de hash de arquivos e texto
+# Guia de uso · Calculadora de hash de arquivos e texto
 
 
 

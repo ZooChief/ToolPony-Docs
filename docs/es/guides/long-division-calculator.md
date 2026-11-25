@@ -1,4 +1,4 @@
-# Calculadora de división larga
+# Guía de uso · Calculadora de división larga
 
 
 

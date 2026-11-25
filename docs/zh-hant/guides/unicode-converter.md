@@ -1,8 +1,8 @@
-# Unicode 編碼轉換
+# Unicode 編碼轉換使用指南
 
 
 
-在文本、Unicode 碼點、UTF-8 十六進制字節與 UTF-16 轉義間雙向轉換。
+轉換 Unicode 碼點、UTF-8 字節與 JavaScript 轉義，逐字符檢查並比較規範化形式。
 
 
 
@@ -34,6 +34,22 @@ U+1F434 或 F0 9F 90 B4
 
 
 
+<a id="case-study"></a>
+
+
+
+## 檢查兩種看起來相同的 é
+
+
+
+1. 檢查由 e、組合重音 U+0301、空格和 🐴 組成的文本。原文有 3 個字素簇、4 個碼點、5 個 UTF-16 碼元和 8 個 UTF-8 字節。選擇 NFC 後，重音合成爲 U+00E9，UTF-8 長度減爲 7 字節。🐴 始終是 1 個碼點、2 個 UTF-16 碼元。
+
+
+
+[運行示例](<https://toolpony.com/zh-hant/tools/unicode-converter/#example-combining-accent>)
+
+
+
 
 
 ## 試一試
@@ -60,23 +76,48 @@ U+1F434 或 F0 9F 90 B4
 
 
 
-**編碼文本**
+
+
+### 編碼文本
+
+
 
 - 輸入
-- 編碼 · Unicode 碼點 / UTF-8 十六進制字節 / JavaScript UTF-16 轉義
+- 編碼 · Unicode 碼點 / UTF-8 十六進制字節 / JavaScript UTF-16 轉義 / JavaScript 碼點轉義
 
 
 
 
 
-**解碼文本**
+
+
+### 解碼文本
+
+
 
 - 輸入
-- 編碼 · Unicode 碼點 / UTF-8 十六進制字節 / JavaScript UTF-16 轉義
+- 編碼 · Unicode 碼點 / UTF-8 十六進制字節 / JavaScript UTF-16 轉義 / JavaScript 碼點轉義
 
 
 
 
+
+
+
+### 檢查字符
+
+
+
+- 輸入
+- 規範化形式 · 原文 / NFC / NFD / NFKC / NFKD
+
+
+
+
+
+
+
+**方法來源** [IETF · RFC 3629](<https://www.rfc-editor.org/rfc/rfc3629>) · [Unicode · UAX \#15](<https://www.unicode.org/reports/tr15/>)
 
 
 

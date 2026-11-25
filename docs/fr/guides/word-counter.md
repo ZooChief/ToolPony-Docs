@@ -1,4 +1,4 @@
-# Compteur de mots et de caractères
+# Guide pratique · Compteur de mots et de caractères
 
 
 

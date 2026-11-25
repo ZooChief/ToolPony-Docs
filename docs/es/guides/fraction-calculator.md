@@ -1,4 +1,4 @@
-# Calculadora de fracciones
+# Guía de uso · Calculadora de fracciones
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Aritmética**
+
+
+### Aritmética
+
+
 
 - Primer número
 - Operación · Añadir / Subtract / Multiply / Divide
@@ -76,7 +80,11 @@ $$
 
 
 
-**Simplificar o convertir**
+
+
+### Simplificar o convertir
+
+
 
 - Número
 
@@ -84,7 +92,11 @@ $$
 
 
 
-**Fracción a decimal**
+
+
+### Fracción a decimal
+
+
 
 - Fracción o número mixto
 - Lugares decimales

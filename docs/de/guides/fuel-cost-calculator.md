@@ -1,4 +1,4 @@
-# Rechner für Kraftstoffkosten und Verbrauch
+# Anleitung: Rechner für Kraftstoffkosten und Verbrauch
 
 
 
@@ -34,6 +34,22 @@ Konvertieren Sie Kraftstoffverbrauchseinheiten, schätzen Sie die Kraftstoffkost
 
 
 
+<a id="case-study"></a>
+
+
+
+## Britischen Kraftstoffverbrauch umrechnen
+
+
+
+1. 35 mpg in einem britischen Fahrbericht beziehen sich auf die britische Gallone. Das entspricht etwa 8,07 L/100 km oder 29,14 US-mpg. Wechsle zum Vergleich die Ausgabeeinheit.
+
+
+
+[Beispiel ausführen](<https://toolpony.com/de/tools/fuel-cost-calculator/#example-uk-mileage>)
+
+
+
 
 
 ## Ausprobieren
@@ -60,34 +76,55 @@ Verwendeter Kraftstoff = Entfernung × L/100 km ÷ 100. US-amerikanische und imp
 
 
 
-**Reisekosten**
 
-- Entfernung · km
+
+### Reisekosten
+
+
+
+- Entfernung
+- Entfernungseinheit · km / mi
 - Kraftstoffverbrauch
 - Kraftstoffverbrauchseinheit · L/100 km / km/L / mpg (US) / mpg (imperial)
-- Preis pro Liter
+- Tankstellenpreis
+- Preiseinheit an der Zapfsäule · L / US gal / UK gal
 
 
 
 
 
-**Konvertierungskraftstoffverbrauch**
+
+
+### Konvertierungskraftstoffverbrauch
+
+
 
 - Kraftstoffverbrauch
 - Eingabeeinheit · L/100 km / km/L / mpg (US) / mpg (imperial)
+- Zieleinheit · L/100 km / km/L / mpg (US) / mpg (imperial)
 
 
 
 
 
-**Gemessene Kilometerleistung**
 
-- Entfernung · km
-- Kraftstoffverbrauch · L
 
+### Gemessene Kilometerleistung
 
 
 
+- Entfernung
+- Entfernungseinheit · km / mi
+- Kraftstoffverbrauch
+- Volumeneinheit · L / US gal / UK gal
+
+
+
+
+
+
+
+**Quellen zur Methode** [NIST · Unit conversion factors](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>)
 
 
 

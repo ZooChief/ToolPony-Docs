@@ -1,8 +1,8 @@
-# Codificar e decodificar Base64
+# Guia de uso · Codificar e decodificar Base64
 
 
 
-Codifique o texto UTF-8 como base64 padrão ou seguro para URL e valide o texto decodificado.
+Codifique texto UTF-8 ou bytes hexadecimais em Base64 ou Base64url e salve os bytes decodificados.
 
 
 
@@ -34,6 +34,22 @@ aGVsbG8=
 
 
 
+<a id="case-study"></a>
+
+
+
+## Recuperar bytes de Base64url
+
+
+
+1. Escolha decodificar, alfabeto URL e bytes hexadecimais. \_wCA7w resulta em FF 00 80 EF, com um byte nulo e valores inválidos para UTF-8. O download binário conserva os quatro bytes.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/base64-encoder-decoder/#example-binary-bytes>)
+
+
+
 
 
 ## Experimente
@@ -48,13 +64,13 @@ aGVsbG8=
 
 
 
-O texto é convertido como UTF-8. O modo seguro de URL usa "-" e "\_" e omite o preenchimento na saída. Até 500.000 caracteres de entrada.
+O padrão usa + e /, e a versão URL usa - e \_ sem preenchimento na saída. O texto UTF-8 é validado e mantém o U+FEFF inicial. Limite de 500.000 unidades UTF-16 ou 500.000 bytes.
 
 
 
 
 
-**Referências do método** [IETF · RFC 4648 (Base64)](<https://www.rfc-editor.org/rfc/rfc4648>)
+**Referências do método** [IETF · RFC 4648 (Base64)](<https://www.rfc-editor.org/rfc/rfc4648>) · [IETF · RFC 3629](<https://www.rfc-editor.org/rfc/rfc3629>)
 
 
 

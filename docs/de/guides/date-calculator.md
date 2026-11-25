@@ -1,4 +1,4 @@
-# Datumsrechner
+# Anleitung: Datumsrechner
 
 
 
@@ -73,7 +73,11 @@ Arbeitstage sind Montag bis Freitag ohne Ihre Feiertage. YYYY-MM-DD gilt einmal,
 
 
 
-**Zwischen Daten**
+
+
+### Zwischen Daten
+
+
 
 - Startdatum
 - Enddatum
@@ -84,7 +88,11 @@ Arbeitstage sind Montag bis Freitag ohne Ihre Feiertage. YYYY-MM-DD gilt einmal,
 
 
 
-**Datum verschieben**
+
+
+### Datum verschieben
+
+
 
 - Startdatum
 - Jahre
@@ -96,7 +104,11 @@ Arbeitstage sind Montag bis Freitag ohne Ihre Feiertage. YYYY-MM-DD gilt einmal,
 
 
 
-**Um Arbeitstage verschieben**
+
+
+### Um Arbeitstage verschieben
+
+
 
 - Startdatum
 - Arbeitstage

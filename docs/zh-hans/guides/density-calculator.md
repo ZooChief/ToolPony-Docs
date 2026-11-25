@@ -1,4 +1,4 @@
-# 密度计算器
+# 密度计算器使用指南
 
 
 
@@ -48,7 +48,7 @@
 
 
 
-密度 = 质量 ÷ 体积，采用 kg、m³ 和 kg/m³。
+密度 = 质量 ÷ 体积。计算先统一为千克和立方米，然后换算为所选单位。
 
 
 
@@ -57,6 +57,10 @@ $$
 $$
 
 
+
+
+
+**方法来源** [BIPM · SI](<https://www.bipm.org/en/publications/si-brochure>) · [NIST · Unit conversion factors](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>)
 
 
 

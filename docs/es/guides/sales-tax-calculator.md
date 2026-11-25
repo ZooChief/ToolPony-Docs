@@ -1,4 +1,4 @@
-# Calculadora de impuesto sobre ventas e IVA
+# Guía de uso · Calculadora de impuesto sobre ventas e IVA
 
 
 
@@ -34,11 +34,23 @@ Bruto 120, impuesto 20
 
 
 
+<a id="case-study"></a>
+
+
+
+## Obtener la tasa de un recibo
+
+
+
+1. El recibo indica 200,00 antes de impuestos y 217,00 pagados. Divide la diferencia de 17,00 por el precio antes de impuestos para obtener el 8,5 %. Aplica la tasa a 200 para comprobar el total.
+
+
+
 
 
 ## Pruébalo
 
-[Abrir herramienta completa · Calculadora de impuesto sobre ventas e IVA](<https://toolpony.com/es/tools/sales-tax-calculator/>)
+[Abrir herramienta completa · Calculadora de impuesto sobre ventas e IVA](<https://toolpony.com/es/tools/sales-tax-calculator/#example-receipt-rate>)
 
 
 

@@ -1,8 +1,8 @@
-# 유니코드 변환기
+# 유니코드 변환기 사용 가이드
 
 
 
-텍스트를 유니코드 코드 포인트, UTF-8 16진수 바이트 또는 UTF-16 이스케이프로 변환하고 다시 텍스트로 디코딩합니다.
+유니코드 코드 포인트, UTF-8 바이트, JavaScript 이스케이프를 변환하고 문자와 정규화 형식을 비교하세요.
 
 
 
@@ -34,6 +34,22 @@ U+1F434 또는 F0 9F 90 B4
 
 
 
+<a id="case-study"></a>
+
+
+
+## 같아 보이는 두 é 비교
+
+
+
+1. e, 결합 악센트 U+0301, 공백, 🐴를 검사하세요. 원문은 문자소 군집 3개, 코드 포인트 4개, UTF-16 단위 5개, UTF-8 8바이트입니다. NFC에서는 U+00E9로 합쳐져 7바이트가 됩니다. 🐴는 여전히 1코드 포인트, 2개의 UTF-16 단위입니다.
+
+
+
+[예제 실행](<https://toolpony.com/ko/tools/unicode-converter/#example-combining-accent>)
+
+
+
 
 
 ## 직접 사용해 보기
@@ -60,23 +76,48 @@ U+1F434 또는 F0 9F 90 B4
 
 
 
-**텍스트 인코딩**
+
+
+### 텍스트 인코딩
+
+
 
 - 입력
-- 인코딩 · 유니코드 코드 포인트 / UTF-8 16진수 바이트 / JavaScript UTF-16 이스케이프
+- 인코딩 · 유니코드 코드 포인트 / UTF-8 16진수 바이트 / JavaScript UTF-16 이스케이프 / JavaScript 코드 포인트 이스케이프
 
 
 
 
 
-**텍스트 해독**
+
+
+### 텍스트 해독
+
+
 
 - 입력
-- 인코딩 · 유니코드 코드 포인트 / UTF-8 16진수 바이트 / JavaScript UTF-16 이스케이프
+- 인코딩 · 유니코드 코드 포인트 / UTF-8 16진수 바이트 / JavaScript UTF-16 이스케이프 / JavaScript 코드 포인트 이스케이프
 
 
 
 
+
+
+
+### 문자 검사
+
+
+
+- 입력
+- 정규화 · 원문 / NFC / NFD / NFKC / NFKD
+
+
+
+
+
+
+
+**계산 및 처리 방식의 출처** [IETF · RFC 3629](<https://www.rfc-editor.org/rfc/rfc3629>) · [Unicode · UAX \#15](<https://www.unicode.org/reports/tr15/>)
 
 
 

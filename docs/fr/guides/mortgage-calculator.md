@@ -1,4 +1,4 @@
-# Calculatrice de prêt immobilier
+# Guide pratique · Calculatrice de prêt immobilier
 
 
 
@@ -57,6 +57,10 @@ I_k=r B_{k-1},\qquad B_k=B_{k-1}-(M_k-I_k)
 $$
 
 
+
+
+
+**Références de la méthode** [CFPB · Mortgage amortization](<https://www.consumerfinance.gov/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/>)
 
 
 

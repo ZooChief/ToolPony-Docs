@@ -1,4 +1,4 @@
-# Comprimir imagens
+# Guia de uso · Comprimir imagens
 
 
 

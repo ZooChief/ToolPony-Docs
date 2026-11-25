@@ -1,4 +1,4 @@
-# Calcul de hachage de fichiers et de texte
+# Guide pratique · Calcul de hachage de fichiers et de texte
 
 
 

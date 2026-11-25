@@ -1,4 +1,4 @@
-# Calculadora de semivida
+# Guía de uso · Calculadora de semivida
 
 
 
@@ -70,7 +70,11 @@ Elija primero lo desconocido. Utilice unidades de tiempo consistentes en los otr
 
 
 
-**Encuentra la mitad de vida**
+
+
+### Encuentra la mitad de vida
+
+
 
 - Cantidad restante
 - Cantidad inicial
@@ -80,7 +84,11 @@ Elija primero lo desconocido. Utilice unidades de tiempo consistentes en los otr
 
 
 
-**Encontrar la cantidad restante**
+
+
+### Encontrar la cantidad restante
+
+
 
 - Cantidad inicial
 - Tiempo transcurrido
@@ -90,7 +98,11 @@ Elija primero lo desconocido. Utilice unidades de tiempo consistentes en los otr
 
 
 
-**Encontrar la cantidad inicial**
+
+
+### Encontrar la cantidad inicial
+
+
 
 - Cantidad restante
 - Tiempo transcurrido
@@ -100,7 +112,11 @@ Elija primero lo desconocido. Utilice unidades de tiempo consistentes en los otr
 
 
 
-**Encontrar el tiempo transcurrido**
+
+
+### Calcular el tiempo
+
+
 
 - Cantidad restante
 - Cantidad inicial
@@ -110,7 +126,11 @@ Elija primero lo desconocido. Utilice unidades de tiempo consistentes en los otr
 
 
 
-**Convertir medidas de decaimiento**
+
+
+### Convertir medidas de decaimiento
+
+
 
 - Medición conocida · La vida media / Vida media / Constante de declive
 - Valor

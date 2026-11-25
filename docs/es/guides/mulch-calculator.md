@@ -1,4 +1,4 @@
-# Calculadora de mantillo
+# Guía de uso · Calculadora de mantillo
 
 
 
@@ -79,7 +79,11 @@ $$
 
 
 
-**Área conocida**
+
+
+### Área conocida
+
+
 
 - Área
 - Unidad de superficie · cm² / m² / in² / ft² / yd² / acre / ¡Ja!
@@ -95,7 +99,11 @@ $$
 
 
 
-**Varios rectángulos**
+
+
+### Varios rectángulos
+
+
 
 - Largo, ancho, unidad por línea
 - Espesor

@@ -1,4 +1,4 @@
-# Calculatrice de puissances
+# Guide pratique · Calculatrice de puissances
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Puissance**
+
+
+### Puissance
+
+
 
 - Base
 - Exposant
@@ -75,7 +79,11 @@ $$
 
 
 
-**Base**
+
+
+### Base
+
+
 
 - Exposant
 - Valeur de puissance
@@ -84,7 +92,11 @@ $$
 
 
 
-**Exposant**
+
+
+### Exposant
+
+
 
 - Base
 - Valeur de puissance

@@ -1,4 +1,4 @@
-# p-Wert-Rechner für die Normalverteilung
+# Anleitung: p-Wert-Rechner für die Normalverteilung
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Z-Wert in Wahrscheinlichkeiten**
+
+
+### Z-Wert in Wahrscheinlichkeiten
+
+
 
 - Z-Wert
 
@@ -74,7 +78,11 @@ $$
 
 
 
-**Wahrscheinlichkeit in Z-Wert**
+
+
+### Wahrscheinlichkeit in Z-Wert
+
+
 
 - Wahrscheinlichkeitsbereich · Linke Randwahrscheinlichkeit / Rechte Randwahrscheinlichkeit / Von der Mitte bis |z| / Zwischen −|z| und |z| / Zweiseitige Wahrscheinlichkeit
 - Wahrscheinlichkeit

@@ -1,4 +1,4 @@
-# Calculadora de telhado
+# Guia de uso · Calculadora de telhado
 
 
 
@@ -47,6 +47,54 @@ Cerca de 2.461 ft², 28 squares com margem de 10%.
 
 
 
+<a id="case-study"></a>
+
+
+
+## Comprar telhas
+
+
+
+1. Um telhado plano de 25 × 40 ft cobre 1.000 ft². Com 10% de reserva e 3 pacotes por 100 ft², compre 33 pacotes. A 75 cada, o total é 2.475.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/roofing-calculator/#example-roof-order>)
+
+
+
+
+
+## Ler a cobertura do pacote
+
+
+
+Para 1.100 ft², 33 pacotes de 33,3 ft² cobrem 1.098,9 ft². São necessários 34, cobrindo 1.132,2 ft².
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/roofing-calculator/#example-package-label>)
+
+
+
+
+
+
+
+## Dois beirais diferentes
+
+
+
+Para 8 × 5 m, com 25 cm nas laterais e 40 cm nas empenas, a projeção é 8,8 × 5,5 m. Com inclinação 5/12, 10% de reserva e 3 m² por pacote, compre 20 pacotes.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/roofing-calculator/#example-roof-overhang>)
+
+
+
+
+
 
 
 ## Experimente
@@ -85,7 +133,11 @@ $$
 
 
 
-**Área em planta e inclinação**
+
+
+### Área em planta e inclinação
+
+
 
 - Área em planta
 - Unidade de área · cm² / m² / in² / ft² / yd² / acre / ha
@@ -95,12 +147,20 @@ $$
 - Preço unitário
 - Unidade de preço · cm² / m² / in² / ft² / yd² / acre / ha
 - Margem de perda · %
+- Cobertura por pacote · Pacotes por quadrado de telhado / Área por pacote
+- Pacotes por 100 ft²
+- Cobertura útil por pacote
+- Preço por pacote (opcional)
 
 
 
 
 
-**Área em planta e ângulo**
+
+
+### Área em planta e ângulo
+
+
 
 - Área em planta
 - Unidade de área · cm² / m² / in² / ft² / yd² / acre / ha
@@ -110,24 +170,40 @@ $$
 - Preço unitário
 - Unidade de preço · cm² / m² / in² / ft² / yd² / acre / ha
 - Margem de perda · %
+- Cobertura por pacote · Pacotes por quadrado de telhado / Área por pacote
+- Pacotes por 100 ft²
+- Cobertura útil por pacote
+- Preço por pacote (opcional)
 
 
 
 
 
-**Área de telhado conhecida**
+
+
+### Área de telhado conhecida
+
+
 
 - Área de telhado
 - Unidade de área · cm² / m² / in² / ft² / yd² / acre / ha
 - Preço unitário
 - Unidade de preço · cm² / m² / in² / ft² / yd² / acre / ha
 - Margem de perda · %
+- Cobertura por pacote · Pacotes por quadrado de telhado / Área por pacote
+- Pacotes por 100 ft²
+- Cobertura útil por pacote
+- Preço por pacote (opcional)
 
 
 
 
 
-**Comprimento e largura medidos**
+
+
+### Comprimento e largura medidos
+
+
 
 - Comprimento
 - Unidade de comprimento · mm / cm / m / em / ft / yd
@@ -136,13 +212,23 @@ $$
 - Elevação a cada 12 na horizontal
 - Projeção horizontal do beiral
 - Unidade do beiral · mm / cm / m / em / ft / yd
+- Beiral na empena, se diferente
 - Preço unitário
 - Unidade de preço · cm² / m² / in² / ft² / yd² / acre / ha
 - Margem de perda · %
+- Cobertura por pacote · Pacotes por quadrado de telhado / Área por pacote
+- Pacotes por 100 ft²
+- Cobertura útil por pacote
+- Unidade de área · cm² / m² / in² / ft² / yd² / acre / ha
+- Preço por pacote (opcional)
 
 
 
 
+
+
+
+**Referências do método** [GAF · Bundle coverage per roofing square](<https://www.gaf.com/en-us/blog/your-home/how-many-bundles-of-shingles-are-in-a-square---63a47862-f7e1-4e73-abcf-8d09917a8b8d>)
 
 
 

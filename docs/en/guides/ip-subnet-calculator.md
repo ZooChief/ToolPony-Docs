@@ -1,4 +1,4 @@
-# IP subnet calculator
+# IP subnet calculator guide
 
 
 
@@ -29,6 +29,38 @@ Inspect IPv4 and IPv6 networks, masks, ranges and address counts, or test whethe
 ```
 Network 192.0.2.128/27, 30 usable hosts
 ```
+
+
+
+
+
+<a id="case-study"></a>
+
+
+
+## Check a subnet boundary
+
+
+
+1. The /27 from 192.0.2.128 ends at .159 inclusive. The last address is the IPv4 broadcast, .160 is outside, and an IPv6 address has a different family.
+
+
+
+[Run example](<https://toolpony.com/en/tools/ip-subnet-calculator/#example-subnet-boundary>)
+
+
+
+
+
+## Two IPv6 endpoints
+
+
+
+2001:db8::8/127 includes ::8 and ::9. Their positions are 1 and 2. IPv6 has no broadcast address.
+
+
+
+[Run example](<https://toolpony.com/en/tools/ip-subnet-calculator/#example-ipv6-endpoints>)
 
 
 
@@ -74,7 +106,11 @@ The prefix-size category follows the comparison tool’s A/B/C convention. The h
 
 
 
-**IPv4**
+
+
+### IPv4
+
+
 
 - IPv4 address or CIDR
 - Prefix or subnet mask
@@ -84,7 +120,11 @@ The prefix-size category follows the comparison tool’s A/B/C convention. The h
 
 
 
-**IPv6**
+
+
+### IPv6
+
+
 
 - IPv6 address or CIDR
 - Prefix
@@ -93,7 +133,11 @@ The prefix-size category follows the comparison tool’s A/B/C convention. The h
 
 
 
-**Check address membership**
+
+
+### Check address membership
+
+
 
 - CIDR network
 - Address to check
@@ -101,6 +145,10 @@ The prefix-size category follows the comparison tool’s A/B/C convention. The h
 
 
 
+
+
+
+**Method references** [IETF · RFC 4632 (CIDR)](<https://www.rfc-editor.org/rfc/rfc4632>) · [IETF · RFC 3021 (/31 links)](<https://www.rfc-editor.org/rfc/rfc3021>) · [IETF · RFC 5952 (IPv6 text)](<https://www.rfc-editor.org/rfc/rfc5952>)
 
 
 

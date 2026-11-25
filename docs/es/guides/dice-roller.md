@@ -1,8 +1,8 @@
-# Lanzador de dados
+# Guía de uso · Lanzador de dados
 
 
 
-Enrolle uno o más dados con los lados personalizados, compare los totales y vea cada rollo.
+Elige el número de dados y caras y consulta cada tirada y su suma.
 
 
 
@@ -17,7 +17,7 @@ Enrolle uno o más dados con los lados personalizados, compare los totales y vea
 
 
 ```
-3 dados, 6 lados
+3 dados de 6 caras
 ```
 
 
@@ -27,10 +27,26 @@ Enrolle uno o más dados con los lados personalizados, compare los totales y vea
 
 
 ```
-Tres caras y su suma
+Tres valores y su suma
 ```
 
 
+
+
+
+<a id="case-study"></a>
+
+
+
+## Llegar a diez con dos dados
+
+
+
+1. Dos dados de seis caras llegan a 10 en 6 de las 36 combinaciones ordenadas (16,67 %). Con un modificador de +1 se conservan las caras y se cuentan 10 combinaciones favorables (27,78 %).
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/dice-roller/#example-two-dice>)
 
 
 
@@ -48,9 +64,13 @@ Tres caras y su suma
 
 
 
-Cada die utiliza un uniforme independiente Web Crypto. Roll hasta 100 dados, con 2 a 1.000 lados cada uno.
+Cada dado usa un sorteo uniforme e independiente mediante Web Crypto. Puedes lanzar hasta 100 dados de 2 a 1.000 caras cada uno.
 
 
+
+
+
+**Fuentes del método** [W3C · Web Cryptography](<https://www.w3.org/TR/WebCryptoAPI/#Crypto-method-getRandomValues>)
 
 
 

@@ -1,4 +1,4 @@
-# Potenzrechner
+# Anleitung: Potenzrechner
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Stromstärke**
+
+
+### Stromstärke
+
+
 
 - Basis
 - Exponent
@@ -75,7 +79,11 @@ $$
 
 
 
-**Basis**
+
+
+### Basis
+
+
 
 - Exponent
 - Leistungswert
@@ -84,7 +92,11 @@ $$
 
 
 
-**Exponent**
+
+
+### Exponent
+
+
 
 - Basis
 - Leistungswert

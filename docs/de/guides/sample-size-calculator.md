@@ -1,4 +1,4 @@
-# Stichprobenumfang-Rechner
+# Anleitung: Stichprobenumfang-Rechner
 
 
 
@@ -66,7 +66,11 @@ $$
 
 
 
-**Stichprobenumfang**
+
+
+### Stichprobenumfang
+
+
 
 - Konfidenzniveau · %
 - Fehlerspanne · %
@@ -77,7 +81,11 @@ $$
 
 
 
-**Fehlermarge finden**
+
+
+### Fehlermarge finden
+
+
 
 - Konfidenzniveau · %
 - Stichprobenumfang

@@ -1,8 +1,8 @@
-# Conversor Unicode
+# Guía de uso · Conversor Unicode
 
 
 
-Convertir texto en Puntos de código Unicode, UTF-8 bytes hexadecimal o UTF-16 escapa, y decodificarlos de nuevo al texto.
+Convierte puntos de código, bytes UTF-8 y escapes JavaScript. Examina caracteres y compara formas de normalización.
 
 
 
@@ -34,6 +34,22 @@ U+1F434 o F0 9F 90 B4
 
 
 
+<a id="case-study"></a>
+
+
+
+## Comparar dos escrituras de é
+
+
+
+1. Una e seguida de U+0301, un espacio y 🐴 suman 3 grafemas, 4 puntos de código, 5 unidades UTF-16 y 8 bytes UTF-8. NFC forma U+00E9 y reduce UTF-8 a 7 bytes. 🐴 sigue ocupando un punto de código y dos unidades UTF-16.
+
+
+
+[Ejecutar ejemplo](<https://toolpony.com/es/tools/unicode-converter/#example-combining-accent>)
+
+
+
 
 
 ## Pruébalo
@@ -60,23 +76,48 @@ El modo Code-point trata a un personaje suplementario como un escalar. UTF-16 ut
 
 
 
-**codificar texto**
+
+
+### codificar texto
+
+
 
 - Entrada
-- Codificación · Puntos de código Unicode / Bytes hexadecimales UTF-8 / Escapes UTF-16 de JavaScript
+- Codificación · Puntos de código Unicode / Bytes hexadecimales UTF-8 / Escapes UTF-16 de JavaScript / Escapes JS de puntos de código
 
 
 
 
 
-**Decodificar texto**
+
+
+### Decodificar texto
+
+
 
 - Entrada
-- Codificación · Puntos de código Unicode / Bytes hexadecimales UTF-8 / Escapes UTF-16 de JavaScript
+- Codificación · Puntos de código Unicode / Bytes hexadecimales UTF-8 / Escapes UTF-16 de JavaScript / Escapes JS de puntos de código
 
 
 
 
+
+
+
+### Inspeccionar caracteres
+
+
+
+- Entrada
+- Normalización · Original / NFC / NFD / NFKC / NFKD
+
+
+
+
+
+
+
+**Fuentes del método** [IETF · RFC 3629](<https://www.rfc-editor.org/rfc/rfc3629>) · [Unicode · UAX \#15](<https://www.unicode.org/reports/tr15/>)
 
 
 

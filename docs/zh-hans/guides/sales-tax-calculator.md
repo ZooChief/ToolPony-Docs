@@ -1,4 +1,4 @@
-# 销售税与增值税计算器
+# 销售税与增值税计算器使用指南
 
 
 
@@ -34,11 +34,23 @@
 
 
 
+<a id="case-study"></a>
+
+
+
+## 从小票反推税率
+
+
+
+1. 小票上未税价为 200.00，实付 217.00。两者相差 17.00，用未税价作分母可得 8.5%。点「用此税率核算」即可用 200 算回 217。
+
+
+
 
 
 ## 试一试
 
-[打开完整工具 · 销售税与增值税计算器](<https://toolpony.com/zh-hans/tools/sales-tax-calculator/>)
+[打开完整工具 · 销售税与增值税计算器](<https://toolpony.com/zh-hans/tools/sales-tax-calculator/#example-receipt-rate>)
 
 
 

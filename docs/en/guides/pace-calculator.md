@@ -1,4 +1,4 @@
-# Pace calculator
+# Pace calculator guide
 
 
 
@@ -34,6 +34,23 @@ Solve pace, elapsed time and distance. Compare split paces, convert units, and e
 
 
 
+<a id="case-study"></a>
+
+
+
+## Read two kilometre checkpoints
+
+
+
+1. A watch shows 3:25 at 1 km and 6:55 at 2 km. Choose cumulative splits. The second kilometre took 3:30. Average pace over the two kilometres is 3:27.5/km.
+2. For a 4:00:00 marathon, plan 1 km checkpoints. The last segment is 195 m. The final checkpoint is exactly 4:00:00, including the fractional segment.
+
+
+
+[Run example](<https://toolpony.com/en/tools/pace-calculator/#example-watch-checkpoints>)
+
+
+
 
 
 ## Try it
@@ -48,7 +65,7 @@ Solve pace, elapsed time and distance. Compare split paces, convert units, and e
 
 
 
-Pace is elapsed time divided by distance. Finish time extrapolates constant pace. Split rows use the selected distance unit and accept up to 100 rows.
+Pace is total elapsed time divided by total distance. Two clock fields are minutes and seconds. Three are hours, minutes and seconds. Enter up to 100 observed splits or plan up to 500 even-pace checkpoints.
 
 
 
@@ -66,11 +83,15 @@ $$
 
 
 
-**Find pace and finish time**
+
+
+### Find pace and finish time
+
+
 
 - Distance
 - Distance unit · km / mi / m / yd
-- Elapsed time (hh:mm:ss)
+- Elapsed time
 - Pace per · km / mi / 100 m / 100 yd
 - Target distance · 5 km / 10 km / Half marathon / Marathon / Custom km
 - Custom race distance · km
@@ -79,7 +100,11 @@ $$
 
 
 
-**Find elapsed time**
+
+
+### Find elapsed time
+
+
 
 - Distance
 - Distance unit · km / mi / m / yd
@@ -90,9 +115,13 @@ $$
 
 
 
-**Find distance**
 
-- Elapsed time (hh:mm:ss)
+
+### Find distance
+
+
+
+- Elapsed time
 - Pace (min:sec)
 - Pace per · km / mi / 100 m / 100 yd
 
@@ -100,7 +129,11 @@ $$
 
 
 
-**Convert pace units**
+
+
+### Convert pace units
+
+
 
 - Pace (min:sec)
 - Pace per · km / mi / 100 m / 100 yd
@@ -109,9 +142,13 @@ $$
 
 
 
-**Compare splits**
 
-- Distance, elapsed time per row
+
+### Compare splits
+
+
+
+- Splits
 - Distance unit · km / mi / m / yd
 - Pace per · km / mi / 100 m / 100 yd
 - Rows are cumulative checkpoints
@@ -119,6 +156,26 @@ $$
 
 
 
+
+
+
+### Checkpoint plan
+
+
+
+- Target distance · 5 km / 10 km / Half marathon / Marathon / Custom km
+- Custom race distance · km
+- Target finish time
+- Checkpoint interval · 1 km / 1 mi / 400 m / 100 m / 5 km / 10 km
+- Pace per · km / mi / 100 m / 100 yd
+
+
+
+
+
+
+
+**Method references** [World Athletics · Marathon](<https://worldathletics.org/disciplines/road-running-event/marathon>) · [NIST · Unit conversion factors](<https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8>)
 
 
 

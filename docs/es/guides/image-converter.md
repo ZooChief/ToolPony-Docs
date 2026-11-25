@@ -1,4 +1,4 @@
-# Convertir imágenes
+# Guía de uso · Convertir imágenes
 
 
 
@@ -56,7 +56,7 @@ JPEG · 64 × 32 px (esquinas blancas)
 
 
 1. En el conversor vacío, selecciona «Probar archivos de ejemplo». Se cargan un PNG transparente y un JPEG opaco de 64 × 32 px. Sus salidas están configuradas como JPEG y PNG, respectivamente.
-2. Convierte los dos y pulsa cada miniatura para ver la salida. El primer JPEG tiene esquinas blancas. El PNG creado a partir del JPEG también tiene esquinas opacas porque el blanco ya estaba en el original. Para conservar la transparencia del primer archivo, expórtalo como PNG con fondo transparente.
+2. Compara el original y la salida en paralelo. Selecciona una imagen para verla a tamaño real. El primer JPEG tiene esquinas blancas. El PNG creado a partir del JPEG también tiene esquinas opacas porque el blanco ya estaba en el original. Para conservar la transparencia del primer archivo, expórtalo como PNG con fondo transparente.
 3. En un banner largo, comprueba las dimensiones de salida en la fila del archivo. Una imagen de 10 000 × 100 px se escala a 8192 × 82 px. El ajuste de calidad solo modifica la codificación.
 4. Para comprobar el píxel, abre el JPEG de ejemplo en el selector de color y consulta (0, 0). En Chromium se obtuvo RGBA (255, 255, 243, 255). El PNG de ese JPEG conserva los mismos valores, incluido el alfa 255 de opacidad total.
 
@@ -70,7 +70,7 @@ JPEG · 64 × 32 px (esquinas blancas)
 
 ## Pruébalo
 
-[Abrir herramienta completa · Convertir imágenes](<https://toolpony.com/es/tools/image-converter/>)
+[Abrir herramienta completa · Convertir imágenes](<https://toolpony.com/es/tools/image-converter/#example-mixed-images>)
 
 
 

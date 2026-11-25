@@ -1,4 +1,4 @@
-# Rechner für wissenschaftliche Schreibweise
+# Anleitung: Rechner für wissenschaftliche Schreibweise
 
 
 
@@ -74,7 +74,11 @@ Der arithmetische Modus hält exakte Dezimalkoeffizienten für Addition, Subtrak
 
 
 
-**Konvertieren**
+
+
+### Konvertieren
+
+
 
 - Nummer
 
@@ -82,7 +86,11 @@ Der arithmetische Modus hält exakte Dezimalkoeffizienten für Addition, Subtrak
 
 
 
-**Berechnen**
+
+
+### Berechnen
+
+
 
 - Erste Nummer
 - Zweite Nummer

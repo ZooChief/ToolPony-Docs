@@ -1,4 +1,4 @@
-# Farbpipette für Bilder
+# Anleitung: Farbpipette für Bilder
 
 
 

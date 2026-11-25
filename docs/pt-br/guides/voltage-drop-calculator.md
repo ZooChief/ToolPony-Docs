@@ -1,4 +1,4 @@
-# Calculadora de queda de tensão
+# Guia de uso · Calculadora de queda de tensão
 
 
 
@@ -47,6 +47,54 @@ Queda de 0,37 V, 0,30%
 
 
 
+<a id="case-study"></a>
+
+
+
+## Usar uma tabela de cabos
+
+
+
+1. Com 1 mV/(A·m), 50 m de ida e 100 A, a queda no cabo é 5 V. O exemplo da Schneider soma 10 V a montante, totalizando 15 V.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/voltage-drop-calculator/#example-cable-table>)
+
+
+
+
+
+## Circuito trifásico paralelo
+
+
+
+Dois condutores por fase dividem 20 A. Com 400 V, 100 m, R = 1 Ω/km, X = 0,5 Ω/km e fator indutivo 0,8, a queda é 1,91 V e a carga recebe 398,09 V.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/voltage-drop-calculator/#example-parallel-cable>)
+
+
+
+
+
+
+
+## Queda superior à fonte
+
+
+
+Com 24 V CC, 10 A e 1 km de ida a 5 Ω/km, a queda seria 100 V. Para essa corrente o modelo não fornece uma tensão de carga.
+
+
+
+[Executar exemplo](<https://toolpony.com/pt-br/tools/voltage-drop-calculator/#example-cable-limit>)
+
+
+
+
+
 
 
 ## Experimente
@@ -85,10 +133,16 @@ $$
 
 
 
-**Resistência ou impedância conhecida**
 
+
+### Resistência ou impedância conhecida
+
+
+
+- Valor da ficha · Impedância do condutor / Coeficiente de queda do circuito
 - Resistência ou impedância por comprimento
 - Unidade por comprimento · Ω/km / Ω/m / mΩ/m / ?/1000 ft / Ω/ft / mΩ/ft
+- Coeficiente tabelado do circuito · mV/(A·m)
 - Tensão · V
 - Circuito · DC / CA monofásica / CA trifásica
 - Condutores em paralelo por fase
@@ -101,7 +155,11 @@ $$
 
 
 
-**Estimar pelo calibre**
+
+
+### Estimar pelo calibre
+
+
 
 - Material · Cobre / Alumínio / Prata / Ouro
 - Bitola do fio
@@ -117,7 +175,11 @@ $$
 
 
 
-**Estimar pela área**
+
+
+### Estimar pela área
+
+
 
 - Material · Cobre / Alumínio / Prata / Ouro
 - Área transversal · mm²
@@ -133,7 +195,11 @@ $$
 
 
 
-**Resistência e reatância**
+
+
+### Resistência e reatância
+
+
 
 - Resistência
 - Reatância por comprimento
@@ -150,6 +216,10 @@ $$
 
 
 
+
+
+
+**Referências do método** [Schneider Electric · Voltage drop in steady load conditions](<https://www.electrical-installation.org/enwiki/Calculation_of_voltage_drop_in_steady_load_conditions>)
 
 
 

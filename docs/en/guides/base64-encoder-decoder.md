@@ -1,8 +1,8 @@
-# Base64 encode and decode
+# Base64 encode and decode guide
 
 
 
-Encode UTF-8 text as standard or URL-safe Base64 and validate decoded text.
+Encode UTF-8 text or hex bytes as Base64 or Base64url, inspect decoded bytes and save a binary file.
 
 
 
@@ -34,6 +34,22 @@ aGVsbG8=
 
 
 
+<a id="case-study"></a>
+
+
+
+## Recover bytes from Base64url
+
+
+
+1. Choose Decode, URL-safe and Hex bytes. Paste \_wCA7w. It contains FF 00 80 EF, including a zero byte and values that cannot form UTF-8 text. Download bytes to keep exactly those four bytes.
+
+
+
+[Run example](<https://toolpony.com/en/tools/base64-encoder-decoder/#example-binary-bytes>)
+
+
+
 
 
 ## Try it
@@ -48,13 +64,13 @@ aGVsbG8=
 
 
 
-Text is converted as UTF-8. URL-safe mode uses "-" and "\_" and omits padding in output. Up to 500,000 input characters.
+Standard Base64 uses + and /. Base64url uses - and \_ and omits output padding. Text mode preserves a leading U+FEFF and validates UTF-8. Text input accepts 500,000 UTF-16 code units and binary input accepts 500,000 bytes.
 
 
 
 
 
-**Method references** [IETF · RFC 4648 (Base64)](<https://www.rfc-editor.org/rfc/rfc4648>)
+**Method references** [IETF · RFC 4648 (Base64)](<https://www.rfc-editor.org/rfc/rfc4648>) · [IETF · RFC 3629](<https://www.rfc-editor.org/rfc/rfc3629>)
 
 
 

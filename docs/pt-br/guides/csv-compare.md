@@ -1,4 +1,4 @@
-# Comparador de CSV
+# Guia de uso · Comparador de CSV
 
 
 
@@ -73,7 +73,7 @@ Adicionadas 1 · Removidas 1 · Alteradas 1
 
 ## Experimente
 
-[Abrir ferramenta completa · Comparador de CSV](<https://toolpony.com/pt-br/tools/csv-compare/>)
+[Abrir ferramenta completa · Comparador de CSV](<https://toolpony.com/pt-br/tools/csv-compare/#example-inventory>)
 
 
 

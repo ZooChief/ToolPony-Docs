@@ -1,8 +1,8 @@
-# QR code generator
+# QR code generator guide
 
 
 
-Choose what a scan should open. Enter the link, text or the requested fields. Generate, inspect the payload, and download a PNG for sharing or an SVG for print. Optionally set a dark six-digit HEX color under Appearance. The white margin is retained in both exports.
+Choose what a scan should open. Enter the link, text or the requested fields. The code updates as you type. For Wi-Fi or a contact, you can inspect the encoded fields before downloading PNG or SVG. Choose a dark color or enter a six-digit HEX value. Both exports keep the white margin.
 
 
 
@@ -13,8 +13,8 @@ Choose what a scan should open. Enter the link, text or the requested fields. Ge
 
 
 1. Choose what a scan should open. Enter the link, text or the requested fields.
-2. Generate, inspect the payload, and download a PNG for sharing or an SVG for print.
-3. Optionally set a dark six-digit HEX color under Appearance. The white margin is retained in both exports.
+2. The code updates as you type. For Wi-Fi or a contact, you can inspect the encoded fields before downloading PNG or SVG.
+3. Choose a dark color or enter a six-digit HEX value. Both exports keep the white margin.
 
 
 
@@ -31,7 +31,7 @@ Choose what a scan should open. Enter the link, text or the requested fields. Ge
 
 
 ```
-https://example.com/
+https://example.com/ · M · 512 px
 ```
 
 
@@ -41,7 +41,7 @@ https://example.com/
 
 
 ```
-https://example.com/
+PNG · 512 × 512 px → https://example.com/
 ```
 
 
@@ -65,6 +65,10 @@ https://example.com/
 Static codes encode the supplied data. Up to 2,048 UTF-8 bytes, with a lower capacity at higher correction levels. The white border keeps a four-module scan margin. A Wi-Fi QR contains the entered password.
 
 
+
+
+
+**Method references** [DENSO WAVE · QR error correction](<https://www.qrcode.com/en/about/error_correction.html>)
 
 
 

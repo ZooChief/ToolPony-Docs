@@ -1,4 +1,4 @@
-# YAML から JSON へ
+# YAML から JSON への使い方
 
 
 

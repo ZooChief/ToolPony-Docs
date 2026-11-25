@@ -1,4 +1,4 @@
-# Calculateur de remboursement anticipé
+# Guide pratique · Calculateur de remboursement anticipé
 
 
 
@@ -93,7 +93,11 @@ $$
 
 
 
-**Prêt initial et durée restante**
+
+
+### Prêt initial et durée restante
+
+
 
 - Montant initial
 - Années du prêt initial
@@ -113,7 +117,11 @@ $$
 
 
 
-**Solde actuel et mensualité**
+
+
+### Solde actuel et mensualité
+
+
 
 - Capital restant dû
 - Versement mensuel
@@ -129,6 +137,10 @@ $$
 
 
 
+
+
+
+**Références de la méthode** [CFPB · Mortgage amortization](<https://www.consumerfinance.gov/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/>)
 
 
 
